@@ -1,0 +1,5 @@
+[http]
+	proxy = 127.0.0.1:7890
+[user]
+	name = hezhongxian 
+	email = jhonhe7night@outlook.com
