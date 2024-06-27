@@ -11,15 +11,15 @@ proxy () {
 	export all_proxy="http://127.0.0.1:7890"
 	export http_proxy="http://127.0.0.1:7890"
 	# export https_proxy="http://127.0.0.1:7890"
-	echo "HTTP Proxy on"
+	echo "Proxy on"
 }
 
 # unproxy
-unproxy () {
+uproxy () {
 	unset all_proxy
 	unset http_proxy
 	unset https_proxy
-	echo "HTTP Proxy off"
+	echo "Proxy off"
 }
 
 export ZSH="$HOME/.oh-my-zsh"
@@ -103,6 +103,10 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
+# go
 export GOPATH="${HOME}/Public/Tools/go"
+
+# mysql
 export PATH=$PATH:/usr/local/mysql/bin
+
 ___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
