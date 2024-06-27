@@ -1,22 +1,15 @@
-PERCENTAGE=$(pmset -g batt | grep -Eo "\d+%" | cut -d% -f1)
+BATTERY_CLICK_SCRIPT="open 'x-apple.systempreferences:com.apple.preference.battery'"
 
-# if percentage is not empty
-if [ -n "$PERCENTAGE" ]
-then
-
-
-sketchybar --add item battery right \
-           --set battery update_freq=3 \
-                         icon.drawing=off \
-                         script="$PLUGIN_DIR/power.sh" \
-                         background.color=0xff3C3E4F \
-                         background.padding_left=0
-
-sketchybar --add item power_logo right \
-           --set power_logo icon= \
-                 icon.color=0xff121219 \
-                 label.drawing=off \
-                 background.color=0xffB3E1A7 \
-                 update_freq=90
-
-fi
+sketchybar --add item battery right                                       \
+               --set battery update_freq=10                                   \
+                       icon.padding_left=4                                   \
+                       icon.padding_right=4                                   \
+                       icon.color=0xff9ac868                                  \
+                       icon.y_offset=-1                                       \
+                       label.padding_right=16                                 \
+                       background.color=$BACKGROUND_COLOR                     \
+                       background.height=$BACKGROUND_HEIGHT                   \
+                       background.corner_radius=$BACKGROUND_CORNER_RADIUS     \
+                       background.padding_right=2                             \
+                       script="$PLUGIN_DIR/battery.sh"                        \
+                       click_script="$BATTERY_CLICK_SCRIPT"                   \

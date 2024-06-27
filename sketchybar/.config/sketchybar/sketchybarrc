@@ -8,6 +8,8 @@ PLUGIN_DIR="$HOME/.config/sketchybar/plugins"
 
 FONT="Hack Nerd Font:Bold:12.0"
 PADDINGS=2
+BACKGROUND_HEIGHT=20
+BACKGROUND_CORNER_RADIUS=20
 
 # BAR
 bar=(
@@ -53,6 +55,7 @@ sketchybar --default "${defaults[@]}"
 
 # Left
 source $ITEM_DIR/left/apple.sh
+source $ITEM_DIR/left/system.sh
 source $ITEM_DIR/left/spaces.sh
 
 # Center
@@ -60,8 +63,8 @@ source $ITEM_DIR/center/spotify.sh
 
 # Right
 source $ITEM_DIR/right/date_time.sh
-source $ITEM_DIR/right/cpu.sh
-source $ITEM_DIR/right/power.sh
+source $ITEM_DIR/right/battery.sh
+#source $ITEM_DIR/right/cpu.sh
 
 
 # FINALIZING THE SETUP

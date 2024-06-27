@@ -1,15 +1,13 @@
 sketchybar -m --add item date_time right \
-  --set date_time icon= \
-             icon.padding_left=8 \
-             icon.padding_right=0 \
-             label.padding_right=9 \
-             label.padding_left=6 \
-             label.color=0xffeceff4 \
-             update_freq=20 \
-             background.color=0xff57627A \
-             background.height=21 \
-             background.padding_right=12 \
-             script="~/.config/sketchybar/plugins/date_time.sh" \
+  --set date_time label.padding_right=PADDINGS \
+                  label.padding_left=$PADDINGS \
+                  label.color=$ICON_COLOR \
+                  update_freq=20 \
+                  background.color=$BACKGROUND_COLOR \
+                  background.height=$BACKGROUND_HEIGHT \
+                  background.padding_right=$PADDINGS \
+                  background.padding_left=$PADDINGS \
+                  script="~/.config/sketchybar/plugins/date_time.sh" \
 
 #sketchybar --add item time right \
 #           --set time update_freq=1 \
