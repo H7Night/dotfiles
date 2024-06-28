@@ -22,6 +22,4 @@ esac
 sketchybar -m --set battery             \
   icon="$ICON"                          \
   label="${BATT_PERCENT}%" \
-  label.padding_right=$PADDINGS          \
-  background.padding_right=$BACKGROUND_PADDINGS      \
-  label.color="$COLOR"                    \
+#  label.color="$COLOR"                    \

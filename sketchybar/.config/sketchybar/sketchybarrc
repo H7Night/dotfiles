@@ -8,6 +8,12 @@ PLUGIN_DIR="$HOME/.config/sketchybar/plugins"
 
 FONT="Hack Nerd Font:Bold:12.0"
 
+# Icon setting
+ICON_PADDING=8
+
+# Label setting
+LABEL_PADDING=16
+
 # Background setting
 BACKGROUND_PADDINGS=3
 BACKGROUND_HEIGHT=20
@@ -61,7 +67,7 @@ source $ITEM_DIR/left/apple.sh
 source $ITEM_DIR/left/spaces.sh
 
 # Center
-source $ITEM_DIR/center/spotify.sh
+#source $ITEM_DIR/center/spotify.sh
 
 # Right
 source $ITEM_DIR/right/date_time.sh
