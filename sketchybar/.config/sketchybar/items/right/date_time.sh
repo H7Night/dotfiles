@@ -1,12 +1,12 @@
 sketchybar -m --add item date_time right \
-  --set date_time label.padding_right=PADDINGS \
+  --set date_time label.padding_right=$PADDINGS \
                   label.padding_left=$PADDINGS \
                   label.color=$ICON_COLOR \
                   update_freq=20 \
                   background.color=$BACKGROUND_COLOR \
                   background.height=$BACKGROUND_HEIGHT \
-                  background.padding_right=$PADDINGS \
-                  background.padding_left=$PADDINGS \
+                  background.padding_right=$BACKGROUND_PADDINGS \
+                  background.padding_left=$BACKGROUND_PADDINGS \
                   script="~/.config/sketchybar/plugins/date_time.sh" \
 
 #sketchybar --add item time right \
