@@ -8,15 +8,15 @@ do
   sketchybar --add space space.$sid left \
              --set space.$sid associated_space=$sid \
                               icon=${SPACE_ICONS[i]} \
-                              icon.padding_left=20 \
-                              icon.padding_right=20 \
+                              icon.padding_left=10 \
+                              icon.padding_right=10 \
                               icon.highlight_color=0xffE48FA8 \
                               background.padding_left=-4 \
                               background.padding_right=-4 \
-                              background.color=0xff3C3E4F \
-                              background.drawing=on \
+                              background.color=$BACKGROUND_COLOR \
+                              background.drawing=off \
                               label.drawing=off \
-                              click_script="yabai -m space --focus $sid"
+#                              click_script="yabai -m space --focus $sid"
 done
 
 sketchybar --add item space_separator left \
