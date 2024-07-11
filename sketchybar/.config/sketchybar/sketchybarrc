@@ -3,6 +3,7 @@
 source "$HOME/.config/sketchybar/colors.sh"
 source "$HOME/.config/sketchybar/icons.sh"
 
+CONFIG_DIR="$HOME/.config/sketchybar"
 ITEM_DIR="$HOME/.config/sketchybar/items"
 PLUGIN_DIR="$HOME/.config/sketchybar/plugins"
 
@@ -63,7 +64,7 @@ sketchybar --default "${defaults[@]}"
 
 # Left
 source $ITEM_DIR/left/apple.sh
-
+# source $ITEM_DIR/left/yabai.sh
 source $ITEM_DIR/left/spaces.sh
 
 # Center

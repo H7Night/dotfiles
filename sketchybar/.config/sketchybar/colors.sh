@@ -23,5 +23,12 @@ POPUP_BORDER_COLOR=$GREEN
 
 SHADOW_COLOR=$BLACK
 
+export BAR_BORDER_COLOR=0xff494d64
+export BACKGROUND_1=0x603c3e4f
+export BACKGROUND_2=0x60494d64
 # Item specific special colors
 SPOTIFY_GREEN=0xff1db954
+
+
+
+
