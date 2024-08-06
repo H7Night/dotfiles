@@ -40,6 +40,9 @@ yabai -m rule --add label="Select file to save to" app="^Inkscape$" title="Selec
 yabai -m rule --add app="QQ" manage=off
 # Telegram 图片预览浮动
 yabai -m rule --add app="Telegram" manage=off
+# Finder 复制和移动文件的弹窗浮动并关闭窗口管理
+# yabai -m rule --add app="Finder" title="Copying" --float --manage=off
+# yabai -m rule --add app="Finder" title="Moving" --float --manage=off
 
 yabai -m config layout bsp
 
