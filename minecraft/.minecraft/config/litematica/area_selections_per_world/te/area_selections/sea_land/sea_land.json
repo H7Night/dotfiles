@@ -1,0 +1,19 @@
+{
+  "name": "sea_land",
+  "current": "sea_land",
+  "boxes": [
+    {
+      "pos1": [
+        24507,
+        97,
+        1237
+      ],
+      "pos2": [
+        24510,
+        104,
+        1241
+      ],
+      "name": "sea_land"
+    }
+  ]
+}

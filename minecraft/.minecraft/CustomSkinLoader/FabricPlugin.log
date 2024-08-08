@@ -1,11 +1,11 @@
-[2024-08-06 21:48:55] [main INFO] "version.json": jar:file:/Users/jhonhe/Public/dotfiles/minecraft/.minecraft/.fabric/remappedJars/minecraft-1.16.4-0.16.0/client-intermediary.jar!/version.json
-[2024-08-06 21:48:55] [main INFO] MinecraftVersion: {name='1.16.4', world_version='2584', protocol_version='754'}
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_355, mixin: customskinloader.mixin.MixinGuiPlayerTabOverlay, result: true
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_972, mixin: customskinloader.mixin.MixinLayerCape, result: true
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_310, mixin: customskinloader.mixin.MixinMinecraft, result: true
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_1007, mixin: customskinloader.mixin.MixinRenderPlayer, result: true
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager, result: true
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_1060, mixin: customskinloader.mixin.MixinTextureManager, result: true
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageDataV2, result: true
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageDataV3, result: false
-[2024-08-06 21:48:56] [main INFO] target: net.minecraft.class_2631, mixin: customskinloader.mixin.MixinTileEntitySkull, result: true
+[2024-08-07 23:51:05] [main INFO] "version.json": jar:file:/Users/jhonhe/Public/dotfiles/minecraft/.minecraft/.fabric/remappedJars/minecraft-1.16.4-0.16.0/client-intermediary.jar!/version.json
+[2024-08-07 23:51:05] [main INFO] MinecraftVersion: {name='1.16.4', world_version='2584', protocol_version='754'}
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_355, mixin: customskinloader.mixin.MixinGuiPlayerTabOverlay, result: true
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_972, mixin: customskinloader.mixin.MixinLayerCape, result: true
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_310, mixin: customskinloader.mixin.MixinMinecraft, result: true
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_1007, mixin: customskinloader.mixin.MixinRenderPlayer, result: true
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager, result: true
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_1060, mixin: customskinloader.mixin.MixinTextureManager, result: true
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageDataV2, result: true
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageDataV3, result: false
+[2024-08-07 23:51:05] [main INFO] target: net.minecraft.class_2631, mixin: customskinloader.mixin.MixinTileEntitySkull, result: true

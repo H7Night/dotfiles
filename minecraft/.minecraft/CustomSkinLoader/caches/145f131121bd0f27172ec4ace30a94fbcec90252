@@ -1,0 +1,9 @@
+{
+  "id" : "7e8cf9bc1e094c29a9a7963e6baee3cc",
+  "name" : "Bot_Steve",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA0NTg5ODY1MSwKICAicHJvZmlsZUlkIiA6ICI3ZThjZjliYzFlMDk0YzI5YTlhNzk2M2U2YmFlZTNjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3RfU3RldmUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFmM2Q4OGNjYjM4ZjExZjc0ODE0ZTkyMDUzZDkyZjc3MjhkZGIxYTc5NTU2NTJhNjBlMzBjYjI3YWU2NjU5ZiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

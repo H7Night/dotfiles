@@ -1,33 +1,138 @@
-[2024-08-06 21:49:00] [Render thread INFO] CustomSkinLoader 14.13-SNAPSHOT-278
-[2024-08-06 21:49:00] [Render thread INFO] DataDir: /Users/jhonhe/Public/dotfiles/minecraft/.minecraft/CustomSkinLoader
-[2024-08-06 21:49:00] [Render thread INFO] Operating System: Mac OS X (aarch64) version 14.4.1
-[2024-08-06 21:49:00] [Render thread INFO] Java Version: 21.0.4, Oracle Corporation
-[2024-08-06 21:49:00] [Render thread INFO] Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
-[2024-08-06 21:49:00] [Render thread INFO] Minecraft: 1.16.4(1.16.4)
-[2024-08-06 21:49:00] [Render thread INFO] Config File: /Users/jhonhe/Public/dotfiles/minecraft/.minecraft/CustomSkinLoader/CustomSkinLoader.json
-[2024-08-06 21:49:00] [Render thread INFO] Config file not found, use default instead.
-[2024-08-06 21:49:00] [Render thread INFO] Successfully create config.
-[2024-08-06 21:49:00] [Render thread INFO] Add a profile loader: MojangAPI
-[2024-08-06 21:49:00] [Render thread INFO] Add a profile loader: Legacy
-[2024-08-06 21:49:00] [Render thread INFO] Add a profile loader: CustomSkinAPI
-[2024-08-06 21:49:00] [Render thread INFO] Add a profile loader: CustomSKinAPIPlus
-[2024-08-06 21:49:00] [Render thread INFO] Add a profile loader: UniSkinAPI
-[2024-08-06 21:49:00] [Render thread INFO] Add a profile loader: ElyByAPI
-[2024-08-06 21:49:00] [Render thread INFO] Add a profile loader: GlitchlessAPI
-[2024-08-06 21:49:00] [Render thread INFO] Successfully update config.
-[2024-08-06 21:49:00] [Render thread INFO] version : 14.13
-[2024-08-06 21:49:00] [Render thread INFO] buildNumber : 278
-[2024-08-06 21:49:00] [Render thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littlesk.in/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
-[2024-08-06 21:49:00] [Render thread INFO] enableDynamicSkull : true
-[2024-08-06 21:49:00] [Render thread INFO] enableTransparentSkin : true
-[2024-08-06 21:49:00] [Render thread INFO] forceIgnoreHttpsCertificate : false
-[2024-08-06 21:49:00] [Render thread INFO] forceLoadAllTextures : false
-[2024-08-06 21:49:00] [Render thread INFO] enableCape : true
-[2024-08-06 21:49:00] [Render thread INFO] forceFillSkullNBT : false
-[2024-08-06 21:49:00] [Render thread INFO] threadPoolSize : 3
-[2024-08-06 21:49:00] [Render thread INFO] retryTime : 1
-[2024-08-06 21:49:00] [Render thread INFO] cacheExpiry : 30
-[2024-08-06 21:49:00] [Render thread INFO] forceUpdateSkull : false
-[2024-08-06 21:49:00] [Render thread INFO] enableLocalProfileCache : false
-[2024-08-06 21:49:00] [Render thread INFO] enableCacheAutoClean : false
-[2024-08-06 21:49:00] [Render thread INFO] forceDisableCache : false
+[2024-08-07 23:51:10] [Render thread INFO] CustomSkinLoader 14.13-SNAPSHOT-278
+[2024-08-07 23:51:10] [Render thread INFO] DataDir: /Users/jhonhe/Public/dotfiles/minecraft/.minecraft/CustomSkinLoader
+[2024-08-07 23:51:10] [Render thread INFO] Operating System: Mac OS X (aarch64) version 14.4.1
+[2024-08-07 23:51:10] [Render thread INFO] Java Version: 21.0.4, Oracle Corporation
+[2024-08-07 23:51:10] [Render thread INFO] Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+[2024-08-07 23:51:10] [Render thread INFO] Minecraft: 1.16.4(1.16.4)
+[2024-08-07 23:51:10] [Render thread INFO] Config File: /Users/jhonhe/Public/dotfiles/minecraft/.minecraft/CustomSkinLoader/CustomSkinLoader.json
+[2024-08-07 23:51:10] [Render thread INFO] Try to load config.
+[2024-08-07 23:51:10] [Render thread INFO] Successfully load config.
+[2024-08-07 23:51:10] [Render thread INFO] Add a profile loader: MojangAPI
+[2024-08-07 23:51:10] [Render thread INFO] Add a profile loader: Legacy
+[2024-08-07 23:51:10] [Render thread INFO] Add a profile loader: CustomSkinAPI
+[2024-08-07 23:51:10] [Render thread INFO] Add a profile loader: CustomSKinAPIPlus
+[2024-08-07 23:51:10] [Render thread INFO] Add a profile loader: UniSkinAPI
+[2024-08-07 23:51:10] [Render thread INFO] Add a profile loader: ElyByAPI
+[2024-08-07 23:51:10] [Render thread INFO] Add a profile loader: GlitchlessAPI
+[2024-08-07 23:51:10] [Render thread INFO] Successfully update config.
+[2024-08-07 23:51:10] [Render thread INFO] version : 14.13
+[2024-08-07 23:51:10] [Render thread INFO] buildNumber : 278
+[2024-08-07 23:51:10] [Render thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littlesk.in/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
+[2024-08-07 23:51:10] [Render thread INFO] enableDynamicSkull : true
+[2024-08-07 23:51:10] [Render thread INFO] enableTransparentSkin : true
+[2024-08-07 23:51:10] [Render thread INFO] forceIgnoreHttpsCertificate : false
+[2024-08-07 23:51:10] [Render thread INFO] forceLoadAllTextures : false
+[2024-08-07 23:51:10] [Render thread INFO] enableCape : true
+[2024-08-07 23:51:10] [Render thread INFO] forceFillSkullNBT : false
+[2024-08-07 23:51:10] [Render thread INFO] threadPoolSize : 3
+[2024-08-07 23:51:10] [Render thread INFO] retryTime : 1
+[2024-08-07 23:51:10] [Render thread INFO] cacheExpiry : 30
+[2024-08-07 23:51:10] [Render thread INFO] forceUpdateSkull : false
+[2024-08-07 23:51:10] [Render thread INFO] enableLocalProfileCache : false
+[2024-08-07 23:51:10] [Render thread INFO] enableCacheAutoClean : false
+[2024-08-07 23:51:10] [Render thread INFO] forceDisableCache : false
+[2024-08-07 23:51:36] [mikefoo's skull INFO] Loading mikefoo's profile.
+[2024-08-07 23:51:36] [mikefoo's skull INFO] 1/7 Try to load profile from 'Mojang'.
+[2024-08-07 23:51:36] [mikefoo's skull INFO] Default profile will be used.
+[2024-08-07 23:51:36] [mikefoo's skull INFO] mikefoo's profile loaded.
+[2024-08-07 23:51:36] [mikefoo's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/4bc38f87c4f071b52e6d2f0f8bb2e87febad9955a9f89d0c7551ab48b761a9d6 , Model: default , CapeUrl: http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933  , Expiry: 1723045926)
+[2024-08-07 23:51:36] [H7Night INFO] Loading H7Night's profile.
+[2024-08-07 23:51:36] [H7Night INFO] 1/7 Try to load profile from 'Mojang'.
+[2024-08-07 23:51:36] [H7Night DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-08-07 23:51:36] [H7Night INFO] Payload: ["H7Night"]
+[2024-08-07 23:51:37] [Bot_Steve INFO] Loading Bot_Steve's profile.
+[2024-08-07 23:51:37] [Bot_Steve INFO] 1/7 Try to load profile from 'Mojang'.
+[2024-08-07 23:51:37] [Bot_Steve DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-08-07 23:51:37] [Bot_Steve INFO] Payload: ["Bot_Steve"]
+[2024-08-07 23:51:37] [Render thread INFO] ThreadDownloadImageData Class: net.minecraft.class_1046
+[2024-08-07 23:51:37] [drinktea's skull INFO] Loading drinktea's profile.
+[2024-08-07 23:51:37] [drinktea's skull INFO] 1/7 Try to load profile from 'Mojang'.
+[2024-08-07 23:51:37] [drinktea's skull INFO] Default profile will be used.
+[2024-08-07 23:51:37] [drinktea's skull INFO] drinktea's profile loaded.
+[2024-08-07 23:51:37] [drinktea's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/dabebad72ff49062bc94d3ff870cd1a76b0813a2a28decb411d843ca611819e3 , Model: default , CapeUrl: null  , Expiry: 1723045927)
+[2024-08-07 23:51:37] [H7Night's skull INFO] Loading H7Night's profile.
+[2024-08-07 23:51:37] [H7Night's skull INFO] 1/7 Try to load profile from 'Mojang'.
+[2024-08-07 23:51:37] [H7Night's skull INFO] Default profile will be used.
+[2024-08-07 23:51:37] [H7Night's skull INFO] H7Night's profile loaded.
+[2024-08-07 23:51:37] [H7Night's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/430082a285d56abcf0feba8a364eb1ea67a8f9a1f907a22b19b756ed78db4e59 , Model: default , CapeUrl: http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933  , Expiry: 1723045927)
+[2024-08-07 23:51:37] [H7Night DEBUG] Successfully request (Response Code: 200 , Content Length: 73)
+[2024-08-07 23:51:37] [H7Night DEBUG] Content: [ {
+  "id" : "138626bf12864e6d82a551422e27e8f1",
+  "name" : "H7Night"
+} ]
+[2024-08-07 23:51:37] [H7Night DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/138626bf12864e6d82a551422e27e8f1'.
+[2024-08-07 23:51:37] [Bot_Steve DEBUG] Successfully request (Response Code: 200 , Content Length: 75)
+[2024-08-07 23:51:37] [Bot_Steve DEBUG] Content: [ {
+  "id" : "7e8cf9bc1e094c29a9a7963e6baee3cc",
+  "name" : "Bot_Steve"
+} ]
+[2024-08-07 23:51:37] [Bot_Steve DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/7e8cf9bc1e094c29a9a7963e6baee3cc'.
+[2024-08-07 23:51:38] [H7Night DEBUG] Successfully request (Response Code: 200 , Content Length: 721)
+[2024-08-07 23:51:38] [H7Night DEBUG] Saved to cache (Length: 721 , Path: '/Users/jhonhe/Public/dotfiles/minecraft/.minecraft/CustomSkinLoader/caches/9475af0a2646278d1b7729be079aa661b3eaa59f' , Expire: 1723045928)
+[2024-08-07 23:51:38] [H7Night DEBUG] Content: {
+  "id" : "138626bf12864e6d82a551422e27e8f1",
+  "name" : "H7Night",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA0NTg5ODMzOCwKICAicHJvZmlsZUlkIiA6ICIxMzg2MjZiZjEyODY0ZTZkODJhNTUxNDIyZTI3ZThmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIN05pZ2h0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzMDA4MmEyODVkNTZhYmNmMGZlYmE4YTM2NGViMWVhNjdhOGY5YTFmOTA3YTIyYjE5Yjc1NmVkNzhkYjRlNTkiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
+[2024-08-07 23:51:38] [H7Night INFO] H7Night's profile loaded.
+[2024-08-07 23:51:38] [H7Night INFO] (SkinUrl: http://textures.minecraft.net/texture/430082a285d56abcf0feba8a364eb1ea67a8f9a1f907a22b19b756ed78db4e59 , Model: default , CapeUrl: http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933  , Expiry: 1723045928)
+[2024-08-07 23:51:38] [pool-3-thread-1 DEBUG] Try to request 'http://textures.minecraft.net/texture/430082a285d56abcf0feba8a364eb1ea67a8f9a1f907a22b19b756ed78db4e59'.
+[2024-08-07 23:51:38] [pool-3-thread-1 DEBUG] Cache file found (Length: 1092 , Path: '/Users/jhonhe/.minecraft/assets/skins/43/430082a285d56abcf0feba8a364eb1ea67a8f9a1f907a22b19b756ed78db4e59' , Expire: 0)
+[2024-08-07 23:51:38] [pool-3-thread-1 DEBUG] Try to request 'http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933'.
+[2024-08-07 23:51:38] [pool-3-thread-1 DEBUG] Cache file found (Length: 705 , Path: '/Users/jhonhe/.minecraft/assets/skins/23/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933' , Expire: 0)
+[2024-08-07 23:51:38] [Render thread DEBUG] Loading type: SKIN
+[2024-08-07 23:51:38] [Render thread DEBUG] Loading type: CAPE
+[2024-08-07 23:51:38] [Bot_Steve DEBUG] Successfully request (Response Code: 200 , Content Length: 539)
+[2024-08-07 23:51:38] [Bot_Steve DEBUG] Saved to cache (Length: 539 , Path: '/Users/jhonhe/Public/dotfiles/minecraft/.minecraft/CustomSkinLoader/caches/145f131121bd0f27172ec4ace30a94fbcec90252' , Expire: 1723045928)
+[2024-08-07 23:51:38] [Bot_Steve DEBUG] Content: {
+  "id" : "7e8cf9bc1e094c29a9a7963e6baee3cc",
+  "name" : "Bot_Steve",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA0NTg5ODY1MSwKICAicHJvZmlsZUlkIiA6ICI3ZThjZjliYzFlMDk0YzI5YTlhNzk2M2U2YmFlZTNjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3RfU3RldmUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFmM2Q4OGNjYjM4ZjExZjc0ODE0ZTkyMDUzZDkyZjc3MjhkZGIxYTc5NTU2NTJhNjBlMzBjYjI3YWU2NjU5ZiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2024-08-07 23:51:38] [Bot_Steve INFO] Bot_Steve's profile loaded.
+[2024-08-07 23:51:38] [Bot_Steve INFO] (SkinUrl: http://textures.minecraft.net/texture/daf3d88ccb38f11f74814e92053d92f7728ddb1a7955652a60e30cb27ae6659f , Model: default , CapeUrl: null  , Expiry: 1723045928)
+[2024-08-07 23:51:38] [pool-3-thread-2 DEBUG] Try to request 'http://textures.minecraft.net/texture/daf3d88ccb38f11f74814e92053d92f7728ddb1a7955652a60e30cb27ae6659f'.
+[2024-08-07 23:51:38] [pool-3-thread-2 DEBUG] Cache file found (Length: 1397 , Path: '/Users/jhonhe/.minecraft/assets/skins/da/daf3d88ccb38f11f74814e92053d92f7728ddb1a7955652a60e30cb27ae6659f' , Expire: 0)
+[2024-08-07 23:51:38] [Render thread DEBUG] Loading type: SKIN
+[2024-08-07 23:51:38] [onninebrother's skull INFO] Loading onninebrother's profile.
+[2024-08-07 23:51:38] [onninebrother's skull INFO] 1/7 Try to load profile from 'Mojang'.
+[2024-08-07 23:51:38] [onninebrother's skull INFO] Default profile will be used.
+[2024-08-07 23:51:38] [onninebrother's skull INFO] onninebrother's profile loaded.
+[2024-08-07 23:51:38] [onninebrother's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/15421e715d47d2103f1e179178f7399565cd4df7f4f8aabaceeeb2172dd32fb4 , Model: default , CapeUrl: http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933  , Expiry: 1723045928)
+[2024-08-07 23:52:25] [onninebrother INFO] Loading onninebrother's profile.
+[2024-08-07 23:52:25] [onninebrother INFO] 1/7 Try to load profile from 'Mojang'.
+[2024-08-07 23:52:25] [onninebrother DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-08-07 23:52:25] [onninebrother INFO] Payload: ["onninebrother"]
+[2024-08-07 23:52:25] [onninebrother DEBUG] Successfully request (Response Code: 200 , Content Length: 79)
+[2024-08-07 23:52:25] [onninebrother DEBUG] Content: [ {
+  "id" : "79dfe25969c94f45a6f587092fe6fa28",
+  "name" : "onninebrother"
+} ]
+[2024-08-07 23:52:25] [onninebrother DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/79dfe25969c94f45a6f587092fe6fa28'.
+[2024-08-07 23:52:26] [onninebrother DEBUG] Successfully request (Response Code: 200 , Content Length: 735)
+[2024-08-07 23:52:26] [onninebrother DEBUG] Saved to cache (Length: 735 , Path: '/Users/jhonhe/Public/dotfiles/minecraft/.minecraft/CustomSkinLoader/caches/847f454c1839fbebb23026cc8af790f52f70ad08' , Expire: 1723045976)
+[2024-08-07 23:52:26] [onninebrother DEBUG] Content: {
+  "id" : "79dfe25969c94f45a6f587092fe6fa28",
+  "name" : "onninebrother",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA0NTk0NjI5MiwKICAicHJvZmlsZUlkIiA6ICI3OWRmZTI1OTY5Yzk0ZjQ1YTZmNTg3MDkyZmU2ZmEyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJvbm5pbmVicm90aGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1NDIxZTcxNWQ0N2QyMTAzZjFlMTc5MTc4ZjczOTk1NjVjZDRkZjdmNGY4YWFiYWNlZWViMjE3MmRkMzJmYjQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
+[2024-08-07 23:52:26] [onninebrother INFO] onninebrother's profile loaded.
+[2024-08-07 23:52:26] [onninebrother INFO] (SkinUrl: http://textures.minecraft.net/texture/15421e715d47d2103f1e179178f7399565cd4df7f4f8aabaceeeb2172dd32fb4 , Model: default , CapeUrl: http://textures.minecraft.net/texture/cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625  , Expiry: 1723045976)
+[2024-08-07 23:52:26] [pool-3-thread-3 DEBUG] Try to request 'http://textures.minecraft.net/texture/15421e715d47d2103f1e179178f7399565cd4df7f4f8aabaceeeb2172dd32fb4'.
+[2024-08-07 23:52:26] [pool-3-thread-3 DEBUG] Cache file found (Length: 1142 , Path: '/Users/jhonhe/.minecraft/assets/skins/15/15421e715d47d2103f1e179178f7399565cd4df7f4f8aabaceeeb2172dd32fb4' , Expire: 0)
+[2024-08-07 23:52:26] [pool-3-thread-3 DEBUG] Try to request 'http://textures.minecraft.net/texture/cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625'.
+[2024-08-07 23:52:26] [pool-3-thread-3 DEBUG] Cache file found (Length: 1105 , Path: '/Users/jhonhe/.minecraft/assets/skins/cd/cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625' , Expire: 0)
+[2024-08-07 23:52:26] [Render thread DEBUG] Loading type: SKIN
+[2024-08-07 23:52:26] [Render thread DEBUG] Loading type: CAPE

@@ -1,0 +1,87 @@
+{
+  "selections": {
+    "mode": "SIMPLE",
+    "current": "/Users/jhonhe/Public/dotfiles/minecraft/.minecraft/config/litematica/area_selections_per_world/te/area_selections/sea_land/sea_land.json"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/Users/jhonhe/Public/dotfiles/minecraft/.minecraft/schematics/sea_land.litematic",
+        "name": "Unnamed",
+        "origin": [
+          24614,
+          97,
+          1157
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          24425,
+          56,
+          1111
+        ],
+        "pos2": [
+          24597,
+          140,
+          1253
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}
