@@ -23,7 +23,7 @@
     "executeRequireHoldingTool": true,
     "fixRailRotation": true,
     "generateLowercaseNames": false,
-    "highlightBlockInInventory": false,
+    "highlightBlockInInventory": true,
     "layerModeFollowsPlayer": false,
     "loadEntireSchematics": false,
     "pasteIgnoreEntities": false,
@@ -31,7 +31,7 @@
     "pasteNbtRestoreBehavior": "none",
     "pasteToMcFunctionFiles": false,
     "pickBlockEnabled": true,
-    "pickBlockShulkers": false,
+    "pickBlockShulkers": true,
     "placementRestriction": false,
     "renderMaterialListInGuis": true,
     "renderThreadNoTimeout": true,
@@ -82,7 +82,7 @@
       }
     },
     "easyPlaceUseKey": {
-      "keys": "BUTTON_4",
+      "keys": "",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",
