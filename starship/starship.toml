@@ -1,0 +1,55 @@
+# General Starship prompt configuration
+add_newline = true  # Add a new line at the start of the prompt
+format = "\n$all"   # Format the entire prompt
+
+# Directory module configuration
+[directory]
+truncation_length = 3  # Truncate the directory path to show the last 3 folders
+truncation_symbol = "…/"  # Symbol to show truncated directories
+style = "bold blue"  # Customize the style for directory names
+
+# Git branch module configuration
+[git_branch]
+symbol = "🌿 "  # Custom symbol for git branches
+style = "green bold"  # Style for git branch names
+
+# Git status module configuration
+[git_status]
+format = '([\[$all_status$ahead_behind\]]($style) )'
+conflicted = "🏳️ "  # Custom icon for conflicted states
+ahead = "⇡$count"  # Custom icon and format for commits ahead
+behind = "⇣$count"  # Custom icon and format for commits behind
+
+# Node.js module configuration
+[nodejs]
+format = "via 📦 $version "
+style = "bold blue"
+
+# Python module configuration
+[python]
+format = "via 🐍 $version "
+style = "bold yellow"
+
+# Battery module configuration
+[battery]
+full_symbol = "🔋"
+charging_symbol = "⚡️ "
+discharging_symbol = "🔌 "
+
+[[battery.display]]
+threshold = 10  # Show battery info only when under 10%
+style = "bold red"
+
+# Time module configuration
+[time]
+format = "🕰  [$time](bold yellow)"  # Display current time with an icon
+time_format = "%H:%M:%S"  # Time format (24-hour clock)
+
+# Status of the last command module
+[status]
+success_symbol = "✔️ "  # Symbol for successful commands
+
+# Package version module
+[package]
+format = "📦 $version"  # Display package version
+style = "bold red"  # Style for package version
