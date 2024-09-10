@@ -1,0 +1,113 @@
+# Configuration for Alacritty, the GPU-accelerated terminal emulator.
+
+# Window settings.
+window:
+  # Window dimensions (columns, lines).
+  # By default, it opens with 80x24 cells.
+  dimensions:
+    columns: 100
+    lines: 30
+
+  # Window position (x, y).
+  # position:
+  #   x: 100
+  #   y: 100
+
+  # Start Alacritty maximized.
+  maximized: false
+
+  # Start Alacritty in fullscreen.
+  fullscreen: false
+
+  # Window title.
+  title: "Alacritty"
+
+  # Enable/disable the window decorations.
+  decorations: full
+
+  # Opacity of the window background. 0 is fully transparent, 1.0 is opaque.
+  opacity: 0.95
+
+# Font configuration.
+font:
+  # Font size in points.
+  size: 12.0
+
+  # Font family.
+  normal:
+    family: "JetBrainsMono NF"
+    # The style of the normal font face to use.
+    style: Regular
+
+  # Bold font face.
+  bold:
+    family: "JetBrainsMono NF"
+    style: Bold
+
+  # Italic font face.
+  italic:
+    family: "JetBrainsMono NF"
+    style: Italic
+
+  # Offset of text.
+  offset:
+    x: 0
+    y: 0
+
+  # Glyph offset of text.
+  glyph_offset:
+    x: 0
+    y: 0
+
+  # Enable ligatures (e.g. fancy symbols for `=>` or `==`).
+  ligatures: true
+
+# Colors (Dracula theme example).
+colors:
+  primary:
+    background: '0x282a36'
+    foreground: '0xf8f8f2'
+
+  cursor:
+    text: '0x000000'
+    cursor: '0xf8f8f2'
+
+  selection:
+    text: '0x000000'
+    background: '0x44475a'
+
+  normal:
+    black:   '0x21222c'
+    red:     '0xff5555'
+    green:   '0x50fa7b'
+    yellow:  '0xf1fa8c'
+    blue:    '0xbd93f9'
+    magenta: '0xff79c6'
+    cyan:    '0x8be9fd'
+    white:   '0xf8f8f2'
+
+  bright:
+    black:   '0x6272a4'
+    red:     '0xff6e6e'
+    green:   '0x69ff94'
+    yellow:  '0xffffa5'
+    blue:    '0xd6acff'
+    magenta: '0xff92df'
+    cyan:    '0xa4ffff'
+    white:   '0xffffff'
+
+# Cursor configuration.
+cursor:
+  style: Block  # Choices: 'Block', 'Underline', 'Beam'
+  blinking: true
+
+# Scrolling configuration.
+scrolling:
+  history: 10000
+  multiplier: 3
+
+# Key bindings.
+key_bindings:
+  - { key: V, mods: Control, action: Paste } # Ctrl+V for paste
+  - { key: C, mods: Control, action: Copy }  # Ctrl+C for copy
+  - { key: F11, action: ToggleFullscreen }   # F11 toggles fullscreen
