@@ -1,55 +1,127 @@
-# General Starship prompt configuration
-add_newline = true  # Add a new line at the start of the prompt
-format = "\n$all"   # Format the entire prompt
+add_newline = false
+scan_timeout = 500
+command_timeout = 5000
+format = '$all$line_break$env_var$character'
 
-# Directory module configuration
+[env_var.VIRTUAL_ENV]
+format = 'venv:[$env_value]($style) '
+style = 'yellow bold'
+
+[time]
+disabled = false
+format = '🕙[$time]($style) '
+
 [directory]
-truncation_length = 3  # Truncate the directory path to show the last 3 folders
-truncation_symbol = "…/"  # Symbol to show truncated directories
-style = "bold blue"  # Customize the style for directory names
+format = "[](243)[ $path]($style)[$read_only]($read_only_style)[](243) "
+style = "bg:243"
+read_only_style = "bg:243"
+truncation_symbol = '…/'
 
-# Git branch module configuration
+[cmd_duration]
+min_time = 100
+format = '🐌[$duration](bold yellow) '
+
+[aws]
+symbol = "  "
+
+[buf]
+symbol = " "
+
+[c]
+symbol = " "
+
+[conda]
+symbol = " "
+
+[dart]
+symbol = " "
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[fossil_branch]
+symbol = " "
+
 [git_branch]
-symbol = "🌿 "  # Custom symbol for git branches
-style = "green bold"  # Style for git branch names
-
-# Git status module configuration
-[git_status]
-format = '([\[$all_status$ahead_behind\]]($style) )'
-conflicted = "🏳️ "  # Custom icon for conflicted states
-ahead = "⇡$count"  # Custom icon and format for commits ahead
-behind = "⇣$count"  # Custom icon and format for commits behind
-
-# Node.js module configuration
-[nodejs]
-format = "via 📦 $version "
-style = "bold blue"
-
-# Python module configuration
-[python]
-format = "via 🐍 $version "
+symbol = " "
+format = "[$symbol$branch(:$remote_branch)]($style) "
 style = "bold yellow"
 
-# Battery module configuration
-[battery]
-full_symbol = "🔋"
-charging_symbol = "⚡️ "
-discharging_symbol = "🔌 "
+[git_status]
+conflicted = '🏳'
+ahead = '🏎💨'
+behind = '😰'
+diverged = '😵'
+up_to_date = '✓'
+untracked = '🤷'
+stashed = '📦'
+modified = '📝'
+staged = '[++\($count\)](green)'
+renamed = '👅'
+deleted = '🗑'
 
-[[battery.display]]
-threshold = 10  # Show battery info only when under 10%
-style = "bold red"
+[golang]
+symbol = " "
 
-# Time module configuration
-[time]
-format = "🕰  [$time](bold yellow)"  # Display current time with an icon
-time_format = "%H:%M:%S"  # Time format (24-hour clock)
+[guix_shell]
+symbol = " "
 
-# Status of the last command module
-[status]
-success_symbol = "✔️ "  # Symbol for successful commands
+[haskell]
+symbol = " "
 
-# Package version module
+[haxe]
+symbol = " "
+
+[hg_branch]
+symbol = " "
+
+[hostname]
+ssh_symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[lua]
+symbol = " "
+
+[meson]
+symbol = "󰔷 "
+
+[nim]
+symbol = "󰆥 "
+
+[nix_shell]
+symbol = " "
+
+[nodejs]
+symbol = " "
+
 [package]
-format = "📦 $version"  # Display package version
-style = "bold red"  # Style for package version
+symbol = "󰏗 "
+
+[pijul_channel]
+symbol = " "
+
+[python]
+symbol = " "
+
+[erlang]
+symbol = "󰟔 "
+
+[ruby]
+symbol = " "
+
+[rust]
+symbol = " "
+
+[scala]
+symbol = " "
