@@ -3,12 +3,16 @@ vim.cmd("set expandtab")
 vim.cmd("set tabstop=2")
 vim.cmd("set softtabstop=2")
 vim.cmd("set shiftwidth=2")
--- 在 INSERT, COMMAND, TERMINAL 模式下，按下 <Shift+Space> 开启或关闭输入法
-keymap({'c', 'i', 't'}, '<S-Space>', function()
-    vim.g.neovide_input_ime = not vim.g.neovide_input_ime
-end, {
-    silent = true
+
+
+local ime_input = vim.api.nvim_create_augroup("ime_input", { clear = true })
+-- 模式切换后关闭输入法
+vim.api.nvim_create_autocmd({ "ModeChanged" }, {
+    group = ime_input,
+    pattern = "*",
+    callback = function() vim.g.neovide_input_ime = false end
 })
+
 
 local glob = vim.g
 if glob.neovide then
