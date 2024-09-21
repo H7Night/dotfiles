@@ -97,7 +97,6 @@ alias c='clear'
 
 # Shell integrations
 eval "$(fzf --zsh)"
-
 # nvm
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -105,16 +104,17 @@ export NVM_DIR="$HOME/.nvm"
 
 # Load Angular CLI autocompletion.
 # source <(ng completion script)
-export PATH="$PATH:$HOME/Public/Tools/flutter/bin"
+
+#flutter
+export FLUTTERPATH="$PATH:$HOME/Public/Tools/flutter/bin"
 
 # go
 export GOPATH="${HOME}/Public/Tools/go"
 
+# python
+export PYPATH="/opt/homebrew/bin/python3/bin:$PATH"
+
 # mysql
 export PATH=$PATH:/usr/local/mysql/bin
-
-___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
-___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
-
 
 ___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
