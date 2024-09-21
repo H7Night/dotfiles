@@ -1,9 +1,9 @@
 # Shell program to run inside Alacritty.
-shell:
-  program: "C:\\Program Files\\Git\\bin\\bash.exe"
-  args:
-    - "--login"
-    - "-i"
+# shell:
+#   program: "C:\\Program Files\\Git\\bin\\bash.exe"
+#   args:
+#     - "--login"
+#     - "-i"
 
 # Rest of your Alacritty configuration...
 
