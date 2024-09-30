@@ -1,10 +1,10 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    default: 1725611432
+    default: 1717774656
     default.custom: 0
     melt_eng.custom: 0
-    melt_eng.schema: 1725611432
+    melt_eng.schema: 1717774339
 algebra_abc:
   - "derive/1([4-7|9])/$1teen/"
   - "derive/11/eleven/"

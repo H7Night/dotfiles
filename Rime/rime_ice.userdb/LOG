@@ -1,4 +1,3 @@
-2024/09/30-22:51:50.962516 0x16b4ff000 Table #154: 5138 entries OK
-2024/09/30-22:51:50.962683 0x16b4ff000 Table #157: 2 entries OK
-2024/09/30-22:51:50.963218 0x16b4ff000 Table #152: 6095 entries OK
-2024/09/30-22:51:50.969751 0x16b4ff000 **** Repaired leveldb /Users/jhonhe/Library/Rime/rime_ice.userdb; recovered 3 files; 523861 bytes. Some data may have been lost. ****
+2024/09/30-22:52:37.831101 0x20051bac0 Recovering log #159
+2024/09/30-22:52:37.847255 0x20051bac0 Delete type=3 #158
+2024/09/30-22:52:37.847269 0x20051bac0 Delete type=0 #159
