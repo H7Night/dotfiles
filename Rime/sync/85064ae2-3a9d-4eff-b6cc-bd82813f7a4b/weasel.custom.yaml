@@ -1,7 +1,7 @@
 patch:
   style:
-    # color_scheme: ms_sogou
-    color_scheme: ms_wechat_light
+    color_scheme: ms_sogou
+    # color_scheme: ms_wechat_light
     # color_scheme: ms_wechat_dark
 
     font_face: "微软雅黑"
