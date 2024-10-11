@@ -1,0 +1,8 @@
+;[支付类型：2024-10-11]
+2000-01-01 open Expenses:Food          CNY ;吃饭
+
+2000-01-01 open Expenses:Government:pension CNY ;养老保险
+2000-01-01 open Expenses:Government:unemployment CNY ;失业保险
+2000-01-01 open Expenses:Government:MedicalCare CNY ;医疗保险
+2000-01-01 open Expenses:Government:HousingFund CNY ;住房公积金
+2000-01-01 open Expenses:Government:IncomeTax CNY ;个人所得税
