@@ -1,5 +1,6 @@
 ;[账户：2024-10-11]
 2000-01-01 open Equity:OpenBalance CNY ;账户初始化
-2000-01-01 open Equity:HistoryIncome ;开始复式记账（2019-07-01）前的部分收入
+2000-01-01 open Equity:HistoryIncome ;开始复式记账（2024-10-11）前的部分收入
 2000-01-01 open Equity:Round ;四舍五入操作
 2000-01-01 open Equity:UFO ;无法追溯的差额
+
