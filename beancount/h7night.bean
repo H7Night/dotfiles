@@ -1,0 +1,19 @@
+option "title" "我的账本" 
+option "operating_currency" "CNY"
+
+;收入（Income）：工资、投资收益等。
+;支出（Expenses）：衣、食、住、行等。
+;资产（Assets）：储蓄卡余额、支付宝余额、股票账户余额、房子、车子等。
+;负债（Liabilities）：信用卡欠款、房贷、车贷等。
+;权益（Equity）：这个账户比较特殊，在账户初始化、误差处理等少数场合使用。
+
+;[欠款]
+2024-10-11 open Liabilities:CMBCreditCard CNY ;招商银行信用卡
+2024-10-11 open Assets:Huabei CNY
+
+2024-10-11 open Assets:Cash CNY
+
+
+
+;[账户]
+2024-10-11 open Equity:Opening-Balances CNY ;账户初始化
