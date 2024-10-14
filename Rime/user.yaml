@@ -1,12 +1,2 @@
 var:
-<<<<<<< HEAD
-  last_build_time: 1728896345
-=======
-  last_build_time: 1728791584
->>>>>>> 6ef0170f7e2838d9ef494ebdde290105e90513fc
-  option:
-    full_shape: false
-  previously_selected_schema: rime_ice
-  schema_access_time:
-    double_pinyin_flypy: 1725952874
-    rime_ice: 1725952883
+  last_build_time: 1728912082
