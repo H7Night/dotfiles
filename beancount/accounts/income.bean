@@ -1,0 +1,8 @@
+;[收入类型：2024-10-11]
+2000-01-01 open Income:Salary          CNY ;工资
+
+;退款返款
+2021-02-11 open Income:CN:Rebate    CNY
+
+;红包
+2021-02-11 open Income:CN:RedEnvelope    CNY

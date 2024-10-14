@@ -1,0 +1,20 @@
+;[账本设置]
+option "title" "我的账本"
+option "operating_currency" "CNY"
+2000-01-01 custom "fava-option" "language" "zh"
+;收入（Income）：工资、投资收益等。
+;支出（Expenses）：衣、食、住、行等。
+;资产（Assets）：储蓄卡余额、支付宝余额、股票账户余额、房子、车子等。
+;负债（Liabilities）：信用卡欠款、房贷、车贷等。
+;权益（Equity）：这个账户比较特殊，在账户初始化、误差处理等少数场合使用。
+
+
+;[账户设置]
+include "accounts/assets.bean" ;资产账户设置与初始化
+include "accounts/liabilities.bean" ;负债账户设置与初始化
+include "accounts/income.bean" ;收入账户设置
+include "accounts/expenses.bean" ;支出账户设置
+include "accounts/equity.bean" ;权益账户设置
+
+;[交易记录]
+include "2024/2024.bean"

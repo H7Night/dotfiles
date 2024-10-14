@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.11.2
   timestamps:
     weasel: 1726740101
-    weasel.custom: 1726740301
+    weasel.custom: 1726740408
 app_options:
   firefox.exe:
     inline_preedit: true
