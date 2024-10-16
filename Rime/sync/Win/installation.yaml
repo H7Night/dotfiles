@@ -2,6 +2,8 @@ distribution_code_name: Weasel
 distribution_name: "小狼毫"
 distribution_version: 0.16.1
 install_time: "Fri Jun  7 23:33:16 2024"
-installation_id: "85064ae2-3a9d-4eff-b6cc-bd82813f7a4b"
 rime_version: 1.11.2
 update_time: "Mon Oct 14 17:04:16 2024"
+
+installation_id: "Win"
+sync_dir: D:\Public\dotfiles\Rime\sync

@@ -1,6 +1,0 @@
-# Rime user dictionary
-#@/db_name	rime_ice
-#@/db_type	userdb
-#@/rime_version	1.11.2
-#@/tick	0
-#@/user_id	f7d9c39b-a7cd-4441-b223-8ba118e53591
