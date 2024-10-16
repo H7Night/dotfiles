@@ -33,19 +33,6 @@ patch:
       candidate_text_color: 0xD67F42
       comment_text_color: 0xFFFFFF
 
-    ms_wechat_light:
-      name: 微信light
-      author: Mark24Code
-      back_color: 0xFFFFFF
-      border_color: 0xFFFFFF
-      text_color: 0x69AD2E
-      hilited_text_color: 0xFFFFFF
-      hilited_back_color: 0x69AD2E
-      hilited_candidate_text_color: 0xFFFFFF
-      hilited_candidate_back_color: 0x69AD2E
-      candidate_text_color: 0x69AD2E
-      comment_text_color: 0xFFFFFF
-
     ms_wechat_dark:
       name: 微信dark
       author: Mark24Code

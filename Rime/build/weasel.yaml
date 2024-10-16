@@ -1,8 +1,8 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    weasel: 1726740101
-    weasel.custom: 1726740408
+    weasel: 1729070482
+    weasel.custom: 1729070458
 app_options:
   firefox.exe:
     inline_preedit: true
@@ -32,18 +32,6 @@ preset_color_schemes:
     hilited_candidate_text_color: 0xD8D8D8
     hilited_text_color: 0xD8D8D8
     name: "微信dark"
-    text_color: 0x69AD2E
-  ms_wechat_light:
-    author: Mark24Code
-    back_color: 0xFFFFFF
-    border_color: 0xFFFFFF
-    candidate_text_color: 0x69AD2E
-    comment_text_color: 0xFFFFFF
-    hilited_back_color: 0x69AD2E
-    hilited_candidate_back_color: 0x69AD2E
-    hilited_candidate_text_color: 0xFFFFFF
-    hilited_text_color: 0xFFFFFF
-    name: "微信light"
     text_color: 0x69AD2E
 show_notifications: true
 show_notifications_time: 1200
