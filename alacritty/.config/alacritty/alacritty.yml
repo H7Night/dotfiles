@@ -1,9 +1,9 @@
 # Shell program to run inside Alacritty.
-# shell:
-#   program: "C:\\Program Files\\Git\\bin\\bash.exe"
-#   args:
-#     - "--login"
-#     - "-i"
+shell:
+  program: "C:\\Program Files\\Git\\bin\\bash.exe"
+  args:
+    - "--login"
+    - "-i"
 
 # Rest of your Alacritty configuration...
 
@@ -54,20 +54,20 @@ colors:
 # 设置字体
 font:
   normal:
-    family: "FiraMono Nerd Font"
+    family: "FiraCode Nerd Font Mono"
     style: Regular
   bold:
-    family: "FiraMono Nerd Font"
-    style: Regular
+    family: "FiraCode Nerd Font Mono"
+    style: Bold
   italic:
-    family: "FiraMono Nerd Font"
+    family: "FiraCode Nerd Font Mono"
     style: Italic
   bold_italic:
-    family: "FiraMono Nerd Font"
-    style: Italic
+    family: "FiraCode Nerd Font Mono"
+    style: Bold Italic
 
   # 字大小
-  size: 11.0
+  size: 10.0
 
   offset:
     x: 0
@@ -78,7 +78,7 @@ font:
 
 window:
   padding:
-    x: 20
+    x: 24
     y: 14
   decorations: transparent
   dimensions:
