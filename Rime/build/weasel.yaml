@@ -1,8 +1,8 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    weasel: 1729070482
-    weasel.custom: 1729070458
+    weasel: 1729128684
+    weasel.custom: 1729128684
 app_options:
   firefox.exe:
     inline_preedit: true
@@ -33,14 +33,32 @@ preset_color_schemes:
     hilited_text_color: 0xD8D8D8
     name: "微信dark"
     text_color: 0x69AD2E
+  soak:
+    author: "create by soak"
+    back_color: 16777215
+    border_color: 14737632
+    candidate_text_color: 0
+    comment_text_color: 5132111
+    hilited_back_color: 13948116
+    hilited_candidate_back_color: 16398858
+    hilited_candidate_text_color: 16777215
+    hilited_comment_text_color: 5132111
+    hilited_label_color: 16629165
+    hilited_text_color: 0
+    label_color: 5132111
+    name: "rime-soak"
+    text_color: 0
 show_notifications: true
 show_notifications_time: 1200
 style:
-  color_scheme: ms_sogou
-  font_face: "微软雅黑"
+  color_scheme: soak
+  comment_font_face: "Microsoft YaHei"
+  comment_font_point: 13
+  font_face: "Segoe UI Emoji, Microsoft YaHei, SF Pro, Noto Color Emoji"
   font_point: 14
   horizontal: true
   inline_preedit: true
+  label_font_face: "Microsoft YaHei"
   label_font_point: 14
   layout:
     border: 2
@@ -49,5 +67,6 @@ style:
     hilite_spacing: 5
     margin_x: 5
     margin_y: 5
-    round_corner: 0
+    round_corner: 8
     spacing: 5
+  preedit_type: composition

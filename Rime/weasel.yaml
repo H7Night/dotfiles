@@ -42,24 +42,8 @@ global_ascii: false                        # 切换为 ascii 模式时，是否�
 # [style]
 # 字体；候选项、候选窗口的行为、布局及样式
 style:
-  color_scheme: purity_of_form_custom      # 默认配色方案
-  # color_scheme_dark: nord                # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
-
-  # 全局字体
-  # 格式：字体1:起始码位:结束码位:字重:字形,字体2……，字体会依次 fallback
-  # 详细设定请参考 <https://github.com/rime/weasel/wiki/字體設定>
-  font_face: "Segoe UI Emoji, Microsoft YaHei, SF Pro, Noto Color Emoji"
-  label_font_face: "Microsoft YaHei"       # 标签字体
-  comment_font_face: "Microsoft YaHei"     # 注释字体
-  font_point: 14                           # 全局字体字号
-  label_font_point: 14                     # 标签字体字号，不设定 fallback 到 font_point
-  comment_font_point: 13                   # 注释字体字号，不设定 fallback 到 font_point
-
-  inline_preedit: true                     # 行内显示预编辑区：true；false
-  preedit_type: composition                # 预编辑区内容：composition（编码）； preview（选中的候选）；preview_all（全部候选）
 
   fullscreen: false                        # 候选窗口全屏显示：true；false
-  horizontal: true                         # 候选项横排：true；false
   vertical_text: false                     # 竖排文本：true；false
   # text_orientation: horizontal           # 文本排列方向，效果和 `vertical_text` 相同：horizontal；vertical
   vertical_text_left_to_right: false       # 竖排方向是否从左到右：true；false
@@ -112,56 +96,3 @@ style:
 # 小狼毫配色在线设计：
 # [RIME 西米](https://fxliang.github.io/RimeSeeMe/)
 # [小狼毫配色详解](https://github.com/rime/weasel/wiki/定制小狼毫配色)
-
-preset_color_schemes:
-  # 以下是一个配色方案示例
-  nord:                                      # 在 `style/color_schema` 指定的配色方案值
-    name: "远山／Nord"                       # 方案设置中显示的配色名称
-    author: Mirtle                           # 配色作者名称
-    color_format: rgba                       # 颜色格式：argb（0xaarrggbb）；rgba（0xrrggbbaa）；abgr（0xaabbggrr 默认）
-    # 默认配色
-    text_color: 0x2E3440                     # 文字
-    shadow_color: 0x000000b4                 # 阴影
-    label_color: 0x4C566A                    # 标签
-    comment_text_color: 0xD08770             # 注释
-    border_color: 0xECEFF4                   # 边框
-    back_color: 0xECEFF4                     # 背景
-    # 普通候选项配色
-    candidate_back_color: 0xECEFF4           # 背景
-    # candidate_border_color:                # 边框
-    # candidate_shadow_color:                # 阴影
-    candidate_text_color: 0x2E3440           # 文字
-    # 编码区域配色
-    hilited_text_color: 0x000000             # 文字
-    hilited_back_color: 0xEBCB8B             # 背景
-    # hilited_shadow_color:                  # 阴影
-    # 选中的候选区域配色
-    hilited_mark_color: 0xBF616A             # 标签前的标记
-    hilited_label_color: 0x4C566A            # 标签
-    hilited_comment_text_color: 0xBF616A     # 注释
-    hilited_candidate_text_color: 0x2E3440   # 文字
-    hilited_candidate_border_color: 0x8FBCBB # 边框
-    hilited_candidate_back_color: 0x8FBCBB   # 背景
-    # hilited_candidate_shadow_color:        # 阴影
-    # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
-    # nextpage_color: 0x000000               # 下一页
-    # prevpage_color: 0x000000               # 上一页
-
-  # 修改自鼠须管配色方案
-  purity_of_form_custom:
-    name: "純粹的形式／Purity of Form Custom"
-    author: 雨過之後、佛振
-    text_color: 0x808080
-    back_color: 0x545554
-    label_color: 0xBBBBBB
-    border_color: 0x545554
-    shadow_color: 0xb4000000
-    comment_text_color: 0x808080
-    candidate_text_color: 0xEEEEEE
-    hilited_text_color: 0xEEEEEE
-    hilited_comment_text_color: 0x808080
-    hilited_candidate_back_color: 0xE3E3E3
-    hilited_candidate_border_color: 0xE3E3E3
-    hilited_candidate_label_color: 0x4C4C4C
-    hilited_candidate_text_color: 0x000000
-

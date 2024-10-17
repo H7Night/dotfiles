@@ -1,17 +1,22 @@
 patch:
   style:
-    color_scheme: ms_sogou
-    # color_scheme: ms_wechat_light
-    # color_scheme: ms_wechat_dark
+    color_scheme: soak
 
-    font_face: "微软雅黑"
+    # 全局字体
+    # 格式：字体1:起始码位:结束码位:字重:字形,字体2……，字体会依次 fallback
+    # 详细设定请参考 <https://github.com/rime/weasel/wiki/字體設定>
+    font_face: "Segoe UI Emoji, Microsoft YaHei, SF Pro, Noto Color Emoji"
+    label_font_face: "Microsoft YaHei"       # 标签字体
+    comment_font_face: "Microsoft YaHei"     # 注释字体
     font_point: 14
-    horizontal: true
-    inline_preedit: true
-    label_font_point: 14
+    label_font_point: 14                     # 标签字体字号，不设定 fallback 到 font_point
+    comment_font_point: 13                   # 注释字体字号，不设定 fallback 到 font_point
+    horizontal: true                          # 候选项横排：true；false
+    inline_preedit: true                     # 行内显示预编辑区：true；false
+    preedit_type: composition                # 预编辑区内容：composition（编码）； preview（选中的候选）；preview_all（全部候选）
     layout:
       border: 2
-      round_corner: 0
+      round_corner: 8
       margin_x: 5
       margin_y: 5
       hilite_padding: 5
@@ -45,3 +50,19 @@ patch:
       hilited_candidate_back_color: 0x69AD2E
       candidate_text_color: 0x69AD2E
       comment_text_color: 0xFFFFFF
+
+    soak:
+      name: rime-soak
+      author: create by soak
+      text_color: 0
+      back_color: 16777215
+      border_color: 14737632
+      label_color: 5132111
+      hilited_text_color: 0
+      hilited_back_color: 13948116
+      candidate_text_color: 0
+      comment_text_color: 5132111
+      hilited_candidate_text_color: 16777215
+      hilited_comment_text_color: 5132111
+      hilited_candidate_back_color: 16398858
+      hilited_label_color: 16629165
