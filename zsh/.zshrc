@@ -2,26 +2,6 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
-if [[ -f "/opt/homebrew/bin/brew" ]] then
-  eval "$(/opt/homebrew/bin/brew shellenv)"
-fi
-
-# proxy
-proxy () {
-	export all_proxy="http://127.0.0.1:7890"
-	export http_proxy="http://127.0.0.1:7890"
-	# export https_proxy="http://127.0.0.1:7890"
-	echo "Proxy on"
-}
-
-# unproxy
-uproxy () {
-	unset all_proxy
-	unset http_proxy
-	unset https_proxy
-	echo "Proxy off"
-}
-
 export ZSH="$HOME/.oh-my-zsh"
 source $ZSH/oh-my-zsh.sh
 
@@ -53,7 +33,7 @@ zinit light romkatv/powerlevel10k
 zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-autosuggestions
-zinit light Aloxaf/fzf-tab
+# zinit light Aloxaf/fzf-tab
 
 # Add in snippets
 zinit snippet OMZP::git
@@ -90,13 +70,36 @@ zstyle ':completion:*' menu no
 zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 
+# ----------------------My Config----------------------
+# proxy
+proxy () {
+	export all_proxy="http://127.0.0.1:7890"
+	export http_proxy="http://127.0.0.1:7890"
+	# export https_proxy="http://127.0.0.1:7890"
+	echo "Proxy on"
+}
+
+# unproxy
+uproxy () {
+	unset all_proxy
+	unset http_proxy
+	# unset https_proxy
+	echo "Proxy off"
+}
+
 # Aliases
 alias ls='ls --color'
 alias vim='nvim'
 alias c='clear'
 
-# Shell integrations
-eval "$(fzf --zsh)"
+
+# ----------------------MacOS Config----------------------
+if [[ -f "/opt/homebrew/bin/brew" ]] then
+  eval "$(/opt/homebrew/bin/brew shellenv)"
+  # Shell integrations
+  eval "$(fzf --zsh)"
+fi
+
 # nvm
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
