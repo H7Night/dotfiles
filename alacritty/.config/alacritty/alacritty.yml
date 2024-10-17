@@ -5,51 +5,8 @@ shell:
     - "--login"
     - "-i"
 
-# Rest of your Alacritty configuration...
-
-# Colors (Aura Theme)
-colors:
-  # Default colors
-  primary:
-    background: "#15141b"
-    foreground: "#edecee"
-
-  cursor:
-    cursor: "#00D1FF"
-
-  selection:
-    text: CellForeground
-    background: "#29263c"
-
-  # Normal colors
-  normal:
-    black: "#110f18"
-    red: "#ff6767"
-    green: "#61ffca"
-    yellow: "#ffca85"
-    blue: "#a277ff"
-    magenta: "#a277ff"
-    cyan: "#61ffca"
-    white: "#edecee"
-
-  # Bright colors
-  bright:
-    black: "#4d4d4d"
-    red: "#ff6767"
-    green: "#61ffca"
-    yellow: "#ffca85"
-    blue: "#a277ff"
-    magenta: "#a277ff"
-    cyan: "#61ffca"
-    white: "#edecee"
-
-  search:
-    matches:
-      foreground: "#000000"
-      background: "#ffffff"
-    focused_match:
-      foreground: "#ffffff"
-      background: "#00D1FF"
+# 实时预览配置项
+live_config_reload: true
 
 # 设置字体
 font:
@@ -67,23 +24,32 @@ font:
     style: Bold Italic
 
   # 字大小
-  size: 10.0
+  size: 11.0
 
   offset:
     x: 0
-    y: 1
+    y: 2
   glyph_offset:
     x: 0
     y: 1
 
+# 窗口设置
 window:
+  # 窗口标题
+  title: Alacritty
+  # 是否允许终端应用更改窗口标题
+  dynamic_title: true
   padding:
     x: 24
-    y: 14
-  decorations: transparent
+    y: 20
   dimensions:
-    columns: 80
-    lines: 25
+    columns: 100
+    lines: 30
+  # 将终端内容平均分配给 padding
+  dynamic_padding: true
+  # 窗口透明度
+  opacity: 0.85
+  decorations: transparent
 
 scrolling:
   # 回滚缓冲区中的最大行数,指定“0”将禁用滚动。
@@ -91,19 +57,34 @@ scrolling:
   # 滚动行数
   multiplier: 4
 
+# 光标相关
 cursor:
+  # 光标样式
   style:
-    shape: Beam
+    # 光标形状
+    shape: Block
 
-# 如果为‘true’，则使用亮色变体绘制粗体文本。
-draw_bold_text_with_bright_colors: false
+    # 是否闪烁
+    # blinking: Always
+    blinking: on
 
+    # 闪烁间隔
+    # blink_interval: 300
+
+    # 窗口未聚焦时光标变为空心
+    # unfocused_hollow: true
+
+# 选择相关
 selection:
   semantic_escape_chars: ',│`|:"'' ()[]{}<>'
   save_to_clipboard: true
 
-live_config_reload: true
+# 鼠标配置
+mouse:
+  # 打字时隐藏鼠标
+  hide_when_typing: true
 
+# 键绑定
 key_bindings:
   - { key: R, mods: Command, mode: ~Vi|~Search, chars: "\x0c" }
   - { key: R, mods: Command, mode: ~Vi|~Search, action: ClearHistory }
@@ -117,3 +98,43 @@ key_bindings:
   - { key: Back, mods: Alt, chars: "\x1b\x7f" } # Delete word
   - { key: Left, mods: Alt, chars: "\x1bb" } # Skip word left
   - { key: Right, mods: Alt, chars: "\x1bf" } # Skip word right
+
+
+# 主题设置
+# Catppuccin
+colors:
+  # Default colors
+  primary:
+    background: "#1E1D2F"
+    foreground: "#D9E0EE"
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: "#1E1D2F"
+    cursor: "#F5E0DC"
+
+  # Normal colors
+  normal:
+    black: "#6E6C7E"
+    red: "#F28FAD"
+    green: "#ABE9B3"
+    yellow: "#FAE3B0"
+    blue: "#96CDFB"
+    magenta: "#F5C2E7"
+    cyan: "#89DCEB"
+    white: "#D9E0EE"
+
+  # Bright colors
+  bright:
+    black: "#988BA2"
+    red: "#F28FAD"
+    green: "#ABE9B3"
+    yellow: "#FAE3B0"
+    blue: "#96CDFB"
+    magenta: "#F5C2E7"
+    cyan: "#89DCEB"
+    white: "#D9E0EE"
+
+  indexed_colors:
+    - { index: 16, color: "#F8BD96" }
+    - { index: 17, color: "#F5E0DC" }
