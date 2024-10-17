@@ -67,8 +67,8 @@ setopt hist_find_no_dups
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"
 zstyle ':completion:*' menu no
-zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
-zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
+# zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
+# zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 
 # ----------------------My Config----------------------
 # proxy
@@ -120,4 +120,5 @@ export PYPATH="/opt/homebrew/bin/python3/bin:$PATH"
 # mysql
 export PATH=$PATH:/usr/local/mysql/bin
 
+#jetbra
 ___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
