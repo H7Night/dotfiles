@@ -3,7 +3,7 @@ __build_info:
   timestamps:
     default: 1729047525
     default.custom: 0
-    melt_eng.custom: 0
+    melt_eng.custom: 1729220552
     melt_eng.schema: 1729219832
 algebra_abc:
   - "derive/1([4-7|9])/$1teen/"
@@ -785,5 +785,5 @@ switches:
     reset: 0
     states: ["ASCII-OFF", "ASCII-ON"]
 translator:
-  dictionary: melt_eng
+  dictionary: melt_eng_private
   spelling_hints: 9
