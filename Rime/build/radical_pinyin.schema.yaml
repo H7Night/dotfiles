@@ -4,7 +4,7 @@ __build_info:
     default: 1729047525
     default.custom: 0
     radical_pinyin.custom: 0
-    radical_pinyin.schema: 1725611432
+    radical_pinyin.schema: 1729219753
 algebra_abc:
   - "xform/^zh/<a>/"
   - "xform/^ch/<e>/"
@@ -277,11 +277,41 @@ schema:
   version: 1.1.0
 speller:
   algebra:
-    - "xform/'//"
-    - "derive/^([nl])ue$/$1ve/"
-    - "derive/'([nl])ue$/'$1ve/"
-    - "derive/^([jqxy])u/$1v/"
-    - "derive/'([jqxy])u/'$1v/"
+    - "derive/^([jqxy])u(?=^|$|')/$1v/"
+    - "derive/'([jqxy])u(?=^|$|')/'$1v/"
+    - "derive/^([aoe])([ioun])(?=^|$|')/$1$1$2/"
+    - "derive/'([aoe])([ioun])(?=^|$|')/'$1$1$2/"
+    - "xform/^([aoe])(ng)?(?=^|$|')/$1$1$2/"
+    - "xform/'([aoe])(ng)?(?=^|$|')/'$1$1$2/"
+    - "xform/iu(?=^|$|')/<q>/"
+    - "xform/(.)ei(?=^|$|')/$1<w>/"
+    - "xform/uan(?=^|$|')/<r>/"
+    - "xform/[uv]e(?=^|$|')/<t>/"
+    - "xform/un(?=^|$|')/<y>/"
+    - "xform/^sh/<u>/"
+    - "xform/^ch/<i>/"
+    - "xform/^zh/<v>/"
+    - "xform/'sh/'<u>/"
+    - "xform/'ch/'<i>/"
+    - "xform/'zh/'<v>/"
+    - "xform/uo(?=^|$|')/<o>/"
+    - "xform/ie(?=^|$|')/<p>/"
+    - "xform/([a-z>])i?ong(?=^|$|')/$1<s>/"
+    - "xform/ing(?=^|$|')|uai(?=^|$|')/<k>/"
+    - "xform/([a-z>])ai(?=^|$|')/$1<d>/"
+    - "xform/([a-z>])en(?=^|$|')/$1<f>/"
+    - "xform/([a-z>])eng(?=^|$|')/$1<g>/"
+    - "xform/[iu]ang(?=^|$|')/<l>/"
+    - "xform/([a-z>])ang(?=^|$|')/$1<h>/"
+    - "xform/ian(?=^|$|')/<m>/"
+    - "xform/([a-z>])an(?=^|$|')/$1<j>/"
+    - "xform/([a-z>])ou(?=^|$|')/$1<z>/"
+    - "xform/[iu]a(?=^|$|')/<x>/"
+    - "xform/iao(?=^|$|')/<n>/"
+    - "xform/([a-z>])ao(?=^|$|')/$1<c>/"
+    - "xform/ui(?=^|$|')/<v>/"
+    - "xform/in(?=^|$|')/<b>/"
+    - "xform/'|<|>//"
   alphabet: "abcdefghijklmnopqrstuvwxyz;"
   delimiter: " '"
 translator:

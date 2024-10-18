@@ -1,7 +1,7 @@
 patch:
   # 菜单
   menu:
-    page_size: 8  # 候选词个数
+    page_size: 6  # 候选词个数
     # alternative_select_labels: [ ①, ②, ③, ④, ⑤, ⑥, ⑦, ⑧, ⑨, ⑩ ]  # 修改候选项标签
     # alternative_select_keys: ASDFGHJKL  # 如编码字符占用数字键，则需另设选字键
     # ascii_mode、inline、no_inline、vim_mode 等等设定，可参考 /Library/Input Methods/Squirrel.app/Contents/SharedSupport/squirrel.yaml

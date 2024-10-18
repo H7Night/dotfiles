@@ -7,3 +7,9 @@ update_time: "Mon Oct 14 17:04:16 2024"
 
 installation_id: "Win"
 sync_dir: D:\Public\dotfiles\Rime\sync
+
+# installation_id: "MacOS"
+# sync_dir:
+
+# installation_id: "Linux"
+# sync_dir:

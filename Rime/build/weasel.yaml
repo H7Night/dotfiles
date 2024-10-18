@@ -1,60 +1,96 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    weasel: 1729128684
-    weasel.custom: 1729128684
+    weasel: 1729216170
+    weasel.custom: 1729217234
 app_options:
+  cmd.exe:
+    ascii_mode: true
+  conhost.exe:
+    ascii_mode: true
   firefox.exe:
     inline_preedit: true
 config_version: "2024-05-14"
 global_ascii: false
 preset_color_schemes:
-  ms_sogou:
-    author: Mark24Code
-    back_color: 0xFFFFFF
-    border_color: 0xFFFFFF
-    candidate_text_color: 0xD67F42
-    comment_text_color: 0xFFFFFF
-    hilited_back_color: 0xFFFFFF
-    hilited_candidate_back_color: 0xFFFFFF
-    hilited_candidate_text_color: 0x0D4FE9
-    hilited_text_color: 0xD9884F
-    name: "搜狗"
-    text_color: 0xD9884F
-  ms_wechat_dark:
-    author: Mark24Code
+  ayaya:
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0xF9F9F9
+    border_color: 0xE7E7E7
+    candidate_text_color: 0x121212
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0xECE4FC
+    hilited_candidate_label_color: 0xB18FF4
+    hilited_candidate_text_color: 0x7A40EC
+    hilited_label_color: 0xA483EC
+    hilited_mark_color: 0x7A40EC
+    label_color: 0x888785
+    name: "文文／Ayaya"
+    text_color: 0x8100EB
+  ayaya_dark:
+    author: "Lufs X <i@isteed.cc>"
     back_color: 0x000000
     border_color: 0x000000
-    candidate_text_color: 0x69AD2E
-    comment_text_color: 0xFFFFFF
-    hilited_back_color: 0x69AD2E
-    hilited_candidate_back_color: 0x69AD2E
-    hilited_candidate_text_color: 0xD8D8D8
-    hilited_text_color: 0xD8D8D8
-    name: "微信dark"
-    text_color: 0x69AD2E
+    candidate_text_color: 0xD2D2D2
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0x2C1E3C
+    hilited_candidate_label_color: 0x7036E2
+    hilited_candidate_text_color: 0x7036E2
+    hilited_comment_text_color: 0x8E8E8E
+    hilited_label_color: 0xA483EC
+    hilited_mark_color: 0x7A40EC
+    label_color: 0x888785
+    name: "文文／Ayaya／深色"
+  macos12_dark:
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0x1E1F24
+    border_color: 0x1E1F24
+    candidate_text_color: 0xE8E8E8
+    comment_text_color: 0x3F000000
+    hilited_candidate_back_color: 0xDA6203
+    hilited_candidate_label_color: 0xFFE7D6
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0x808080
+    hilited_text_color: 0xD8000000
+    label_color: 0x7C7C7C
+    name: "高仿暗色 macOS"
+    text_color: 0x3F000000
+  macos12_light:
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0xFFFFFF
+    border_color: 0xFFFFFF
+    candidate_text_color: 0xD8000000
+    comment_text_color: 0x3F000000
+    hilited_candidate_back_color: 0xD05925
+    hilited_candidate_label_color: 0xFFFFFF
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0x808080
+    hilited_text_color: 0xD8000000
+    label_color: 0x7F7F7F
+    name: "高仿亮色 macOS"
+    text_color: 0x3F000000
   soak:
     author: "create by soak"
     back_color: 16777215
     border_color: 14737632
     candidate_text_color: 0
-    comment_text_color: 5132111
+    comment_text_color: 3552301
     hilited_back_color: 13948116
     hilited_candidate_back_color: 16398858
     hilited_candidate_text_color: 16777215
-    hilited_comment_text_color: 5132111
+    hilited_comment_text_color: 3552301
     hilited_label_color: 16629165
     hilited_text_color: 0
-    label_color: 5132111
+    label_color: 3552301
     name: "rime-soak"
     text_color: 0
 show_notifications: true
 show_notifications_time: 1200
 style:
-  color_scheme: soak
+  color_scheme: ayaya
   comment_font_face: "Microsoft YaHei"
-  comment_font_point: 13
-  font_face: "Segoe UI Emoji, Microsoft YaHei, SF Pro, Noto Color Emoji"
+  comment_font_point: 14
+  font_face: "Segoe UI Emoji:30:39, Noto Color Emoji, Microsoft YaHei"
   font_point: 14
   horizontal: true
   inline_preedit: true
