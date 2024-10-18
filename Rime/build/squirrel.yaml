@@ -1,506 +1,386 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    squirrel: 1717774339
-    squirrel.custom: 1717774379
+    squirrel: 1729260238
+    squirrel.custom: 0
+app_options:
+  {}
 chord_duration: 0.1
-config_version: "2023-02-27"
-keyboard_layout: default
+config_version: "2023-12-30"
+keyboard_layout: last
 preset_color_schemes:
   apathy:
+    alpha: 0.95
+    author: "LIANG Hai"
     back_color: 0xFFFFFF
-    border_height: 0
-    border_width: 8
-    candidate_format: "%c %@ "
+    candidate_format: "%c %@"
+    candidate_list_layout: linear
+    candidate_text_color: 0xD8000000
+    color_space: srgb
     comment_text_color: 0x999999
     corner_radius: 5
-    font_point: 17
+    font_face: "PingFangSC-Regular"
+    font_point: 16
     hilited_candidate_back_color: 0xFFF0E4
+    hilited_candidate_label_color: 0xF4994C
     hilited_candidate_text_color: 0xEE6E00
-    horizontal: true
+    hilited_comment_text_color: 0x999999
+    hilited_text_color: 0xD8000000
     inline_preedit: true
+    label_color: 0xE5555555
+    label_font_face: "STHeitiSC-Light"
     label_font_point: 12
-    line_spacing: 10
-    name: "冷漠"
+    name: "冷漠／Apathy"
     text_color: 0x424242
-  google:
+    text_orientation: horizontal
+  ayaya:
+    alpha: 0.95
+    author: "Lufs X <i@isteed.cc>"
     back_color: 0xFFFFFF
-    border_color: 0xE2E2E2
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x000000
-    comment_text_color: 0x6D6D6D
-    corner_radius: 6
-    font_point: 21
-    hilited_back_color: 0xFFFFFF
-    hilited_candidate_back_color: 0xCE7539
-    hilited_candidate_label_color: 0xfafafa
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0xEBC6B0
-    hilited_text_color: 0x000000
-    horizontal: true
-    label_font_point: 15
-    line_spacing: 10
-    name: "谷歌"
-    text_color: 0x666666
-  ink:
-    back_color: 0xeeffffff
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x000000
-    comment_text_color: 0x5a5a5a
+    border_color: 0xECE4FC
+    border_height: 0
+    border_width: 0
+    candidate_format: "%c %@"
+    candidate_list_layout: linear
+    candidate_text_color: 0x121212
+    color_space: display_p3
+    comment_text_color: 0x8E8E8E
     corner_radius: 5
-    font_point: 21
-    hilited_candidate_back_color: 0xcc000000
-    hilited_candidate_text_color: 0xffffff
+    font_face: "LXGWWenKai-Regular, PingFangSC"
+    font_point: 16.5
+    hilited_candidate_back_color: 0xECE4FC
+    hilited_candidate_label_color: 0xB18FF4
+    hilited_candidate_text_color: 0x7A40EC
+    hilited_comment_text_color: 0x8E8E8E
+    hilited_corner_radius: 0
+    hilited_text_color: 0xD8000000
+    inline_preedit: true
+    label_color: 0x888785
+    label_font_face: "LXGWWenKai-Regular, PingFangSC"
+    label_font_point: 12
+    name: "文文／Ayaya"
+    shadow_size: 0
+    text_color: 0x8100EB
+    text_orientation: horizontal
+  ayaya_dark:
+    alpha: 0.95
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0x000000
+    border_color: 0xECE4FC
+    border_height: 0
+    border_width: 0
+    candidate_format: "%c %@"
+    candidate_list_layout: linear
+    candidate_text_color: 0xD2D2D2
+    color_space: display_p3
+    comment_text_color: 0x8E8E8E
+    corner_radius: 5
+    font_face: "LXGWWenKai-Regular, PingFangSC"
+    font_point: 16.5
+    hilited_candidate_back_color: 0x2C1E3C
+    hilited_candidate_label_color: 0x7036E2
+    hilited_candidate_text_color: 0x7036E2
+    hilited_comment_text_color: 0x8E8E8E
+    hilited_corner_radius: 0
+    hilited_text_color: 0xD8000000
+    inline_preedit: true
+    label_color: 0x888785
+    label_font_face: "LXGWWenKai-Regular, PingFangSC"
+    label_font_point: 12
+    name: "文文／Ayaya／深色"
+    shadow_size: 0
+    text_color: 0x8100EB
+    text_orientation: horizontal
+  macos12_dark:
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0x1E1F24
+    border_color: 0x1E1F24
+    border_width: 2
+    candidate_format: "%c %@"
+    candidate_list_layout: linear
+    candidate_text_color: 0xE8E8E8
+    color_space: display_p3
+    comment_font_face: "PingFangSC-Regular"
+    comment_font_point: 13
+    comment_text_color: 0x3F000000
+    corner_radius: 7
+    font_face: "PingFangSC-Regular"
+    font_point: 15
+    hilited_candidate_back_color: 0xDA6203
+    hilited_candidate_label_color: 0xFFE7D6
+    hilited_candidate_text_color: 0xFFFFFF
     hilited_comment_text_color: 0x808080
-    hilited_text_color: 0x000000
-    horizontal: true
-    label_font_point: 14
-    line_spacing: 10
-    name: "墨池"
-    text_color: 0x5a5a5a
-  mac_blue:
+    hilited_corner_radius: 6
+    hilited_text_color: 0xD8000000
+    inline_preedit: true
+    label_color: 0x7C7C7C
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 12
+    line_spacing: 1
+    name: "高仿暗色 macOS"
+    text_color: 0x3F000000
+    text_orientation: horizontal
+  macos12_light:
+    author: "Lufs X <i@isteed.cc>"
     back_color: 0xFFFFFF
     border_color: 0xFFFFFF
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x3c3c3c
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 21
-    hilited_back_color: 0xF8AA4D
+    border_width: 2
+    candidate_format: "%c %@"
+    candidate_list_layout: linear
+    candidate_text_color: 0xD8000000
+    color_space: display_p3
+    comment_font_face: "PingFangSC-Regular"
+    comment_font_point: 13
+    comment_text_color: 0x3F000000
+    corner_radius: 7
+    font_face: "PingFangSC-Regular"
+    font_point: 15
+    hilited_candidate_back_color: 0xD05925
     hilited_candidate_label_color: 0xFFFFFF
     hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0x999999
-    hilited_text_color: 0x999999
-    horizontal: true
-    label_color: 0x999999
-    label_font_point: 13
-    line_spacing: 10
-    name: "Mac浅蓝"
-    text_color: 0x424242
-  mac_dark:
-    back_color: 0x252a2e
-    border_color: 0x050505
-    border_height: 4
-    border_width: 4
-    candidate_format: "%c %@ "
-    candidate_text_color: 0xe9e9ea
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 21
-    hilited_back_color: 0xD75A00
+    hilited_comment_text_color: 0x808080
+    hilited_corner_radius: 6
+    hilited_text_color: 0xD8000000
+    inline_preedit: true
+    label_color: 0x7F7F7F
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 12
+    line_spacing: 1
+    name: "高仿亮色 macOS"
+    text_color: 0x3F000000
+    text_orientation: horizontal
+  macos14:
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0xE7E8EA
+    border_color: 0xE7E8EA
+    border_height: "-4"
+    border_width: 2
+    candidate_format: "%c   %@  "
+    candidate_list_layout: linear
+    candidate_text_color: 0x464647
+    color_space: display_p3
+    comment_font_face: "PingFangSC-Regular"
+    comment_font_point: 13
+    comment_text_color: 0x3F000000
+    corner_radius: 7
+    font_face: "PingFangSC-Regular"
+    font_point: 16
+    hilited_candidate_back_color: 0xD05925
     hilited_candidate_label_color: 0xFFFFFF
     hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0x999999
-    hilited_corner_radius: 5
-    hilited_text_color: 0x999999
-    horizontal: true
-    label_color: 0x999999
-    label_font_point: 13
-    line_spacing: 10
-    name: "Mac深色"
-    text_color: 0x424242
-  mac_green:
-    back_color: 0xFFFFFF
-    border_color: 0xFFFFFF
-    border_height: 4
-    border_width: 4
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x3c3c3c
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 21
-    hilited_candidate_back_color: 0x32A14C
+    hilited_comment_text_color: 0xDCDCDC
+    hilited_corner_radius: "-1"
+    hilited_text_color: 0xD8000000
+    inline_preedit: true
+    label_color: 0x7F7F7F
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 8
+    name: "高仿 macOS 14"
+    text_color: 0x3F000000
+    text_orientation: horizontal
+  macos14_dark:
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0x555557
+    border_color: 0x0C0C0C
+    border_height: "-4"
+    border_width: 2
+    candidate_format: "%c   %@  "
+    candidate_list_layout: linear
+    candidate_text_color: 0xEEEEEE
+    color_space: display_p3
+    comment_font_face: "PingFangSC-Regular"
+    comment_font_point: 13
+    comment_text_color: 0x80FFFFFF
+    corner_radius: 7
+    font_face: "PingFangSC-Regular"
+    font_point: 16
+    hilited_candidate_back_color: 0xCA5824
     hilited_candidate_label_color: 0xFFFFFF
     hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0x999999
-    hilited_corner_radius: 5
-    hilited_text_color: 0x999999
-    horizontal: true
-    label_color: 0x999999
-    label_font_point: 13
-    line_spacing: 10
-    name: "Mac绿色"
-    text_color: 0x424242
-  mac_light:
-    back_color: 0xFFFFFF
-    border_color: 0xFFFFFF
-    border_height: 4
-    border_width: 4
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x3c3c3c
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 21
-    hilited_back_color: 0xD75A00
-    hilited_candidate_label_color: 0xFFFFFF
-    hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0x999999
-    hilited_corner_radius: 5
-    hilited_text_color: 0x999999
-    horizontal: true
-    label_color: 0x999999
-    label_font_point: 13
-    line_spacing: 10
-    name: "Mac浅色"
-    text_color: 0x424242
-  mac_orange:
-    back_color: 0xFFFFFF
-    border_color: 0xFFFFFF
-    border_height: 4
-    border_width: 4
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x3c3c3c
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 21
-    hilited_candidate_back_color: 0x0E6BD8
-    hilited_candidate_label_color: 0xFFFFFF
-    hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0x999999
-    hilited_corner_radius: 5
-    hilited_text_color: 0x999999
-    horizontal: true
-    label_color: 0x999999
-    label_font_point: 13
-    line_spacing: 10
-    name: "Mac橙色"
-    text_color: 0x424242
-  macos_dark:
-    alpha: 1
-    author: "小码哥"
-    back_color: 0x1f1e2d
-    base_offset: 0
-    border_color: 0x050505
+    hilited_comment_text_color: 0xF0F0F0
+    hilited_corner_radius: "-1"
+    hilited_text_color: 0xD8000000
+    inline_preedit: true
+    label_color: 0x7C7C7C
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 8
+    name: "高仿暗色 macOS 14"
+    text_color: 0x3F000000
+    text_orientation: horizontal
+  reimu:
+    alpha: 0.95
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0xF5FCFD
     border_height: 1
     border_width: 1
-    candidate_back_color: 0x1f1e2d
-    candidate_format: "%c %@ "
+    candidate_format: "%c %@"
     candidate_list_layout: linear
-    candidate_text_color: 0xe9e9ea
-    color_space: srgb
-    comment_font_face: PingFangSC
-    comment_font_point: 16
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 16
-    hilited_back_color: 0xD75A00
-    hilited_candidate_back_color: 0xD75A00
-    hilited_candidate_label_color: 0xFFFFFF
-    hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0x999999
-    hilited_corner_radius: 5
-    hilited_text_color: 0xFFFFFF
+    candidate_text_color: 0x282C32
+    color_space: display_p3
+    comment_text_color: 0x717172
+    corner_radius: 7
+    font_face: "LXGWWenKai-Regular, PingFangSC"
+    font_point: 17
+    hilited_candidate_back_color: 0xF5FCFD
+    hilited_candidate_label_color: 0x4F00E5
+    hilited_candidate_text_color: 0x4F00E5
+    hilited_comment_text_color: 0x9F9CF2
+    hilited_corner_radius: 6
+    hilited_text_color: 0xD8000000
     inline_preedit: true
-    label_color: 0x999999
-    label_font_face: PingFangSC
-    label_font_point: 12
-    line_spacing: 5
-    mutual_exclusive: false
-    name: "MacOS 深色／MacOS Dark"
-    shadow_size: 0
-    spacing: 10
-    surrounding_extra_expansion: 0
-    text_color: 0x808080
+    label_color: 0x888785
+    label_font_face: "LXGWWenKai-Regular, PingFangSC"
+    label_font_point: 14
+    name: "灵梦／Reimu"
+    shadow_size: 2
+    text_color: 0x6B54E9
     text_orientation: horizontal
-    translucency: false
-  macos_light:
-    alpha: 1
-    author: "小码哥"
-    back_color: 0xFFFFFF
-    base_offset: 0
-    border_color: 0xFFFFFF
+  reimu_dark:
+    alpha: 0.95
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0x020A00
+    border_color: 0x020A00
     border_height: 1
     border_width: 1
-    candidate_back_color: 0xFFFFFF
-    candidate_format: "%c %@ "
+    candidate_format: "%c %@"
     candidate_list_layout: linear
-    candidate_text_color: 0x3c3c3c
-    color_space: srgb
-    comment_font_face: PingFangSC
-    comment_font_point: 16
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 16
-    hilited_back_color: 0xD75A00
-    hilited_candidate_back_color: 0xD75A00
+    candidate_text_color: 0xC0C0C0
+    color_space: display_p3
+    comment_text_color: 0x717172
+    corner_radius: 7
+    font_face: "LXGWWenKai-Regular, PingFangSC"
+    font_point: 17
+    hilited_candidate_back_color: 0x0C140A
+    hilited_candidate_label_color: 0x3100C7
+    hilited_candidate_text_color: 0x3100C7
+    hilited_comment_text_color: 0x7772AF
+    hilited_corner_radius: 6
+    hilited_text_color: 0xD8000000
+    inline_preedit: true
+    label_color: 0x717172
+    label_font_face: "LXGWWenKai-Regular, PingFangSC"
+    label_font_point: 14
+    name: "灵梦／Reimu／深色"
+    shadow_size: 2
+    text_color: 0x6B54E9
+    text_orientation: horizontal
+  wechat:
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0xFFFFFF
+    border_color: 0xFFFFFF
+    border_height: "-2"
+    candidate_format: "%c %@"
+    candidate_list_layout: linear
+    candidate_text_color: 0x444444
+    color_space: display_p3
+    comment_font_face: "PingFangSC-Regular"
+    comment_font_point: 12
+    comment_text_color: 0x8E8E8E
+    corner_radius: 7
+    font_face: "PingFangSC-Regular"
+    font_point: 15
+    hilited_candidate_back_color: 0x7BAE4F
     hilited_candidate_label_color: 0xFFFFFF
     hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0xFFFFFF
-    hilited_corner_radius: 5
-    hilited_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0xF0F0F0
+    hilited_corner_radius: 7
+    hilited_text_color: 0xD8000000
     inline_preedit: true
-    label_color: 0x999999
-    label_font_face: PingFangSC
+    label_color: 0x888785
+    label_font_face: "PingFangSC-Regular"
     label_font_point: 12
-    line_spacing: 5
-    mutual_exclusive: false
-    name: "MacOS 浅色／MacOS Light"
-    shadow_size: 0
-    spacing: 10
-    surrounding_extra_expansion: 0
-    text_color: 0x424242
+    name: "高仿微信输入法"
+    text_color: 0xFFFFFF
     text_orientation: horizontal
-    translucency: false
-  milan:
-    back_color: 0xFFFFFF
-    border_height: 4
-    border_width: 4
-    candidate_format: "%c %@ "
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_point: 21
-    hilited_candidate_back_color: 0xF5803B
-    hilited_candidate_text_color: 0xFFFFFF
-    horizontal: true
-    label_font_point: 14
-    line_spacing: 10
-    name: "米兰"
-    text_color: 0x424242
-  nord_dark:
-    back_color: 0x473A33
-    border_color: 0x473A33
-    candidate_format: "%c %@ "
-    candidate_text_color: 0xF5D887
-    comment_text_color: 0xE6B687
-    corner_radius: 5
-    font_point: 21
-    hilited_back_color: 0x473A33
-    hilited_candidate_back_color: 0x5D4C43
-    hilited_candidate_text_color: 0xC0E077
-    hilited_text_color: 0x6EC8F5
-    horizontal: true
-    label_font_point: 14
-    line_spacing: 10
-    name: "北方深色"
-    text_color: 0x78E8F0
-  nord_light:
-    back_color: 0xF4EFEC
-    border_color: 0xF4EFEC
-    candidate_format: "%c %@ "
-    candidate_text_color: 0xC1A181
-    comment_text_color: 0xD0C088
-    corner_radius: 5
-    font_point: 21
-    hilited_back_color: 0xF0E9E5
-    hilited_candidate_back_color: 0xE9DED8
-    hilited_candidate_text_color: 0xAC815E
-    hilited_text_color: 0xAD8EB4
-    horizontal: true
-    label_font_point: 14
-    line_spacing: 10
-    name: "北方浅色"
-    text_color: 0x7087D0
-  psionics:
-    back_color: 0x444444
-    candidate_format: "%c %@ "
-    candidate_text_color: 0xeeeeee
-    comment_text_color: 0x808080
-    corner_radius: 5
-    font_face: "PingFangSC-Regular,HanaMinB"
-    font_point: 21
-    hilited_back_color: 0x444444
-    hilited_candidate_back_color: 0xd4bc00
-    hilited_candidate_label_color: 0xfafafa
-    hilited_candidate_text_color: 0xfafafa
-    hilited_comment_text_color: 0x444444
-    hilited_text_color: 0xeeeeee
-    horizontal: true
-    label_font_point: 14
-    line_spacing: 10
-    name: "幽能"
-    text_color: 0xc2c2c2
-  purity:
-    back_color: 0x444444
-    candidate_format: "%c %@ "
-    candidate_text_color: 0xeeeeee
-    comment_text_color: 0x808080
-    corner_radius: 5
-    font_point: 21
-    hilited_back_color: 0x444444
-    hilited_candidate_back_color: 0xfafafa
-    hilited_candidate_text_color: 0x000000
-    hilited_text_color: 0xeeeeee
-    horizontal: true
-    label_font_point: 14
-    line_spacing: 10
-    name: "纯洁"
-    text_color: 0xc2c2c2
-  solarized_dark:
-    back_color: 0xf0352A0A
-    border_color: 0xf02A1F00
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x989F52
-    comment_text_color: 0x289989
-    corner_radius: 6
-    font_face: "PingFangSC-Regular,HanaMinB"
-    font_point: 21
-    hilited_back_color: 0x444444
-    hilited_candidate_back_color: 0xD7E8ED
-    hilited_candidate_label_color: 0x2566C6
-    hilited_candidate_text_color: 0x3942CB
-    hilited_comment_text_color: 0x8144C2
-    hilited_text_color: 0x2C8BAE
-    horizontal: true
-    label_color: 0xCC8947
-    label_font_point: 15
-    line_spacing: 10
-    name: "夜光石"
-    text_color: 0xA1A095
-  solarized_rock:
-    back_color: 0x362b00
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x969483
-    comment_text_color: 0xc098a12a
-    corner_radius: 6
-    font_face: "PingFangSC-Regular,HanaMinB"
-    font_point: 21
-    hilited_back_color: 0x444444
-    hilited_candidate_back_color: 0x8236d3
-    hilited_candidate_label_color: 0xfafafa
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0x362b00
-    hilited_text_color: 0x98a12a
-    horizontal: true
-    label_font_point: 15
-    line_spacing: 10
-    name: "日光石"
-    text_color: 0x8236d3
-  starcraft:
-    back_color: 0xee000000
-    border_color: 0x1010a0
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x30bb55
-    comment_text_color: 0x1010d0
-    corner_radius: 5
-    font_point: 21
-    hilited_back_color: 0x000000
-    hilited_candidate_back_color: 0x000000
-    hilited_candidate_text_color: 0x70ffaf
-    hilited_comment_text_color: 0x1010f0
-    hilited_text_color: 0xfecb96
-    horizontal: true
-    label_font_point: 14
-    line_spacing: 10
-    name: "星际争霸"
-    text_color: 0xccaa88
   wechat_dark:
-    alpha: 1
-    author: "小码哥"
+    author: "Lufs X <i@isteed.cc>"
     back_color: 0x151515
-    base_offset: 0
-    border_color: 0x292929
-    border_height: 1
-    border_width: 1
-    candidate_back_color: 0x151515
-    candidate_format: "%c %@ "
+    border_color: 0x151515
+    border_height: "-2"
+    candidate_format: "%c %@"
     candidate_list_layout: linear
-    candidate_text_color: 0xbbbbbb
-    color_space: srgb
-    comment_font_face: PingFangSC
-    comment_font_point: 16
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 16
-    hilited_back_color: 0x79af22
-    hilited_candidate_back_color: 0x79af22
+    candidate_text_color: 0xB9B9B9
+    color_space: display_p3
+    comment_font_face: "PingFangSC-Regular"
+    comment_font_point: 12
+    comment_text_color: 0x8E8E8E
+    corner_radius: 7
+    font_face: "PingFangSC-Regular"
+    font_point: 15
+    hilited_candidate_back_color: 0x74A54B
     hilited_candidate_label_color: 0xFFFFFF
     hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0xFFFFFF
-    hilited_corner_radius: 5
-    hilited_text_color: 0x999999
+    hilited_comment_text_color: 0xF0F0F0
+    hilited_corner_radius: 7
+    hilited_text_color: 0x777777
     inline_preedit: true
-    label_color: 0x999999
-    label_font_face: PingFangSC
-    label_font_point: 13
-    line_spacing: 5
-    mutual_exclusive: false
-    name: "微信深色／Wechat Dark"
-    shadow_size: 0
-    spacing: 10
-    surrounding_extra_expansion: 0
-    text_color: 0xbbbbbb
+    label_color: 0x888785
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 12
+    name: "高仿暗色微信输入法"
+    text_color: 0xFFFFFF
     text_orientation: horizontal
-    translucency: false
-  wechat_light:
-    alpha: 1
-    author: "小码哥"
-    back_color: 0xFFFFFF
-    base_offset: 0
-    border_color: 0xFFFFFF
-    border_height: 1
-    border_width: 1
-    candidate_back_color: 0xFFFFFF
-    candidate_format: "%c %@ "
-    candidate_list_layout: linear
-    candidate_text_color: 0x3c3c3c
-    color_space: srgb
-    comment_font_face: PingFangSC
-    comment_font_point: 16
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: PingFangSC
-    font_point: 16
-    hilited_back_color: 0x79af22
-    hilited_candidate_back_color: 0x79af22
-    hilited_candidate_label_color: 0xFFFFFF
-    hilited_candidate_text_color: 0xFFFFFF
-    hilited_comment_text_color: 0x999999
-    hilited_corner_radius: 5
-    hilited_text_color: 0x999999
-    inline_preedit: true
-    label_color: 0x999999
-    label_font_face: PingFangSC
-    label_font_point: 13
-    line_spacing: 5
-    mutual_exclusive: false
-    name: "微信浅色／Wechat Light"
-    shadow_size: 0
-    spacing: 10
-    surrounding_extra_expansion: 0
-    text_color: 0x424242
-    text_orientation: horizontal
-    translucency: false
   win10:
-    back_color: 0xffffff
-    border_height: 6
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0xFFFFFF
+    border_height: 7
     border_width: 6
-    candidate_format: "%c %@  "
-    candidate_spacing: 24
+    candidate_list_layout: linear
     candidate_text_color: 0x000000
+    color_space: srgb
     comment_text_color: 0x888888
     corner_radius: 0
-    font_point: 17
-    hilite_padding: 12
-    hilite_spacing: 8
-    hilited_back_color: 0xffffff
-    hilited_candidate_back_color: 0xcc8f29
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0xffffff
-    hilited_label_color: 0xffffff
+    font_face: "LXGWWenKai-Regular, PingFangSC"
+    font_point: 16.5
+    hilited_back_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xCC8F29
+    hilited_candidate_label_color: 0xEEDAB8
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0xFFFFFF
+    hilited_corner_radius: "-6"
     hilited_text_color: 0x000000
-    horizontal: true
+    inline_preedit: true
     label_color: 0x888888
-    label_font_point: 16
-    line_spacing: 10
-    margin_x: 12
-    margin_y: 12
-    round_corner: 0
+    label_font_face: "LXGWWenKai-Regular, PingFangSC"
+    label_font_point: 12
+    name: WIN10
     spacing: 10
     text_color: 0x000000
+    text_orientation: horizontal
+  win10_ayaya:
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0xFFFFFF
+    border_color: 0xFFFFFF
+    border_height: 7
+    border_width: 6
+    candidate_list_layout: linear
+    candidate_text_color: 0x121212
+    color_space: display_p3
+    comment_text_color: 0x8E8E8E
+    corner_radius: 0
+    font_face: "LXGWWenKai-Regular, PingFangSC"
+    font_point: 16.5
+    hilited_candidate_back_color: 0xECE4FC
+    hilited_candidate_label_color: 0xB18FF4
+    hilited_candidate_text_color: 0x7A40EC
+    hilited_comment_text_color: 0x8E8E8E
+    hilited_corner_radius: "-6"
+    hilited_text_color: 0xD8000000
+    inline_preedit: true
+    label_color: 0x888785
+    label_font_face: "LXGWWenKai-Regular, PingFangSC"
+    label_font_point: 12
+    name: "WIN10／文文／Ayaya"
+    spacing: 10
+    text_color: 0x8100EB
+    text_orientation: horizontal
+show_notifications_via_notification_center: true
 show_notifications_when: appropriate
 style:
   border_height: 0
   border_width: 0
-  color_scheme: mac_light
-  color_scheme_dark: mac_dark
+  color_scheme: reimu
+  color_scheme_dark: reimu_dark
   comment_font_point: 18
   corner_radius: 10
   font_face: "Lucida Grande"
@@ -511,3 +391,4 @@ style:
   line_spacing: 5
   spacing: 10
   text_orientation: horizontal
+  translucency: true
