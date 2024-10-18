@@ -86,10 +86,8 @@ mouse:
 
 # 键绑定
 key_bindings:
-  - { key: R, mods: Command, mode: ~Vi|~Search, chars: "\x0c" }
-  - { key: R, mods: Command, mode: ~Vi|~Search, action: ClearHistory }
-  - { key: W, mods: Command, action: Hide }
-  - { key: W, mods: Command|Shift, action: Quit }
+  - { key: Q, mods: Command, action: Hide }
+  - { key: Q, mods: Command, action: Quit }
   - { key: N, mods: Command, action: SpawnNewInstance }
   - { key: T, mods: Command, action: CreateNewWindow }
   - { key: Left, mods: Command, chars: "\x01" } # Home
@@ -98,7 +96,12 @@ key_bindings:
   - { key: Back, mods: Alt, chars: "\x1b\x7f" } # Delete word
   - { key: Left, mods: Alt, chars: "\x1bb" } # Skip word left
   - { key: Right, mods: Alt, chars: "\x1bf" } # Skip word right
-
+  - { key: Q, mods: Control, action: Hide }
+  - { key: Q, mods: Control, action: Quit }
+  - { key: N, mods: Control, action: SpawnNewInstance }
+  - { key: T, mods: Control, action: CreateNewWindow }
+  - { key: Left, mods: Control, chars: "\x01" } # Home
+  - { key: Right, mods: Control, chars: "\x05" } # End
 
 # 主题设置
 # Catppuccin
