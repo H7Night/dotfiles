@@ -10,3 +10,6 @@
 
 ;卖东西
 2000-01-01 open Income:Sales          CNY
+
+;基金
+2000-01-01 open Income:Fund     CNY

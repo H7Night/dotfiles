@@ -10,10 +10,10 @@
 ;[初始化账户：2024-10-11]
 ; 支付宝余额
 2024-10-10 pad Assets:AliPay:Balance Equity:OpenBalance
-2024-10-11 balance Assets:AliPay:Balance 3168.31 CNY
+2024-10-11 balance Assets:AliPay:Balance 3168.57 CNY
 ; 基金余额
 2024-10-10 pad Assets:AliPay:Funds Equity:OpenBalance
-2024-10-11 balance Assets:AliPay:Funds 3808.26 CNY
+2024-10-11 balance Assets:AliPay:Funds 3808.15 CNY
 ; 现金余额
 2024-10-10 pad Assets:Cash Equity:OpenBalance
 2024-10-11 balance Assets:Cash 50 CNY

@@ -63,8 +63,12 @@
 2000-01-01 open Expenses:Transport:Other ;其他
 
 ;投资
+2000-01-01 open Expenses:Invest:Fund
 2000-01-01 open Expenses:Invest:Dev ;技术基础设施费用
 2000-01-01 open Expenses:Invest:Study ;学习费用
 2000-01-01 open Expenses:Invest:Portfolio:Interest ;利息支出
 2000-01-01 open Expenses:Invest:Cost ;手续费
 2000-01-01 open Expenses:Invest:Other ;其他
+
+;
+2000-01-01 open Expenses:Others
