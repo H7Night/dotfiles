@@ -1,9 +1,9 @@
 # Shell program to run inside Alacritty.
-shell:
-  program: "C:\\Program Files\\Git\\bin\\bash.exe"
-  args:
-    - "--login"
-    - "-i"
+# shell:
+#   program: "C:\\Program Files\\Git\\bin\\bash.exe"
+#   args:
+#     - "--login"
+#     - "-i"
 
 # 实时预览配置项
 live_config_reload: true
@@ -24,7 +24,7 @@ font:
     style: Bold Italic
 
   # 字大小
-  size: 11.0
+  size: 13.0
 
   offset:
     x: 0
