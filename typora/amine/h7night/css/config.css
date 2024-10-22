@@ -1,0 +1,78 @@
+:root {
+    --theme-color-01: #e96900;
+    --theme-color-02: #e2ecef;
+    --theme-color-03: #f87759;
+    --theme-color-04: #e07a5f;
+    --theme-color-05: #457b9d;
+    --theme-color-06: #7c9dca;
+    --theme-color-07: #ffee99;
+    --theme-color-08: #428bca;
+    --theme-color-09: #f76e40;
+    --theme-color-10: #f0f5f9;
+
+
+    --text-color: #000000;
+    --bg-color: #fdf8ee;
+    --active-file-text-color: #e66767;
+
+    --side-bar-bg-color: #f9eacb;
+
+    --control-text-color: var(--text-color);
+    --meta-content-color: var(--text-color);
+    --active-file-border-color: var(--drake-highlight);
+    --rawblock-edit-panel-bd: var(--code-block-bg-color);
+    --item-hover-bg-color: #badc58;
+    --active-file-bg-color: var(--item-hover-bg-color);
+
+    --blur-text-color: rgba(32, 33, 36, 0.5);
+    --drake-accent: #5784ec;
+    --drake-highlight: #e66767;
+    --a-color: #1769e0;
+    --variable-color: #d8208b;
+    --outline-active-color: #eb4d4b;
+    --code-block-bg-color: #d7f7aa;
+    --code-block-color: #4c3b8f;
+    --title-color: #202124;
+    --blockquote-border-color: #275796;
+    --blockquote-color: #6ab04c;
+    --blockquote-bg-color: #e5f4fd;
+    --strong-color: var(--title-color);
+    --h2-underline-color: var(--title-color);
+    --horizontal-divider-color: var(--title-color);
+    --height-light-color: var(--drake-highlight);
+    --height-light-border-color: var(--drake-highlight);
+    --yaml-color: #777777;
+    --yaml-bg-color: #f7f7f7;
+    --footnotes-bg-color: #3c3d3e;
+    --footnotes-highlight: #FFD760;
+    --table-border-color: #dadce0;
+    --table-header-bg-color: #f1f3f4;
+    --table-bg-color: var(--bg-color);
+    --table-n2-bg-color: var(--bg-color);
+    --input-bg-color: var(--item-hover-bg-color);
+    --btn-hover-bg-color: var(--item-hover-bg-color);
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━ 正文样式（write-area.css） ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+:root {
+    /* 界面默认背景颜色 */
+    --interface-default-bg-color: #fff;
+    /* 界面写作区域文本字体 */
+    --writeArea-text-font: "FiraCode Nerd Font Mono", "霞鹜文楷";
+    /* 界面写作区域文本颜色 */
+    --writeArea-text-color: #000;
+    /* 界面写作区域文本大小 */
+    --writeArea-text-size: 16px;
+    /* 界面写作区域文本行间距 */
+    --writeArea-text-line-spacing: 1.6rem;
+    /* 界面写作区域文本段间距，用 margin-bottom 实现*/
+    --writeArea-text-paragraph-spacing: 1.2rem;
+    /* 界面写作区域文本对齐方式，justify —— 两端对齐，initial —— 默认值，应该是左对齐 */
+    --writeArea-text-align-style: initial;
+    /* 界面写作区域默认宽度 */
+    --writeArea-default-width: 1000px;
+    /* 界面写作区域选中文本颜色 */
+    --writeArea-selected-text-color: #fff;
+    /* 界面写作区域选中文本背景颜色 */
+    --writeArea-selected-text-bg-color: #7caad2;
+}
