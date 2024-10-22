@@ -1,0 +1,688 @@
+# Rime user dictionary
+#@/db_name	rime_ice_private
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	1124
+#@/user_id	Win
+ba 	吧	c=1 d=1 t=766
+ba 	把	c=1 d=1 t=793
+ba shou 	把手	c=2 d=1.41271 t=190
+ban 	半	c=1 d=1 t=917
+ban 	板	c=1 d=1 t=568
+ban shui ban xing zhi jian 	半睡半醒之间	c=1 d=1 t=724
+ban xiang 	半响	c=2 d=1.99501 t=257
+bei xia 	背下	c=1 d=1 t=118
+bi 	闭	c=1 d=1 t=133
+bi jiao 	比较	c=1 d=1 t=780
+bi wo 	比我	c=1 d=1 t=470
+bian 	便	c=1 d=1 t=718
+bian 	边	c=1 d=1 t=903
+bian cheng le 	变成了	c=1 d=1 t=1068
+bian hua 	变化	c=1 d=1 t=5
+bian shang 	边上	c=1 d=1 t=846
+biao mian 	表面	c=1 d=1 t=530
+biao qing 	表情	c=2 d=1.03405 t=1007
+biao zhun 	标准	c=0 d=0.1 t=692
+bing 	并	c=4 d=1.88278 t=1093
+bing mei you 	并没有	c=1 d=1 t=144
+bo fang 	播放	c=1 d=1 t=1100
+bu 	部	c=1 d=1 t=527
+bu dai 	不带	c=1 d=1 t=623
+bu dai you 	不带有	c=1 d=1 t=482
+bu deng wo 	不等我	c=1 d=1 t=40
+bu gan 	不敢	c=1 d=1 t=437
+bu han chen 	不寒碜	c=1 d=1 t=1009
+bu hao yi si 	不好意思	c=1 d=1 t=186
+bu jie 	不解	c=1 d=1 t=291
+bu nai fan 	不耐烦	c=1 d=1 t=258
+bu neng 	不能	c=3 d=1.67383 t=534
+bu shi 	不是	c=1 d=1 t=458
+bu yuan 	不远	c=1 d=1 t=736
+bu zhi dao 	不知道	c=2 d=1.48919 t=858
+bu zhi suo cuo 	不知所措	c=1 d=1 t=376
+bu zi jue 	不自觉	c=1 d=1 t=909
+ca po 	擦破	c=1 d=1 t=152
+ce 	侧	c=1 d=1 t=265
+ce guo tou 	侧过头	c=1 d=1 t=210
+ce tang 	侧躺	c=1 d=1 t=377
+cha bu duo le 	差不多了	c=1 d=1 t=182
+chang fang xing 	长方形	c=1 d=1 t=637
+chang lang 	长廊	c=2 d=1.93707 t=775
+chang yi 	长椅	c=2 d=1.97045 t=698
+chang zhuo 	长桌	c=1 d=1 t=705
+che 	扯	c=2 d=1.99501 t=995
+che shang 	车上	c=2 d=1.27253 t=385
+che tou 	车头	c=1 d=1 t=75
+che zi 	车子	c=2 d=1.94176 t=94
+chen shan 	衬衫	c=0 d=0.1 t=487
+cheng 	呈	c=2 d=1.74082 t=635
+cheng qi 	撑起	c=1 d=1 t=263
+cheng zhe 	撑着	c=1 d=1 t=293
+chong gui 	重归	c=1 d=1 t=2
+chong shang 	冲上	c=1 d=1 t=541
+chong xin 	重新	c=2 d=1.82696 t=278
+chou 	抽	c=1 d=1 t=191
+chu 	出	c=3 d=1.56003 t=996
+chu dian 	触电	c=1 d=1 t=67
+chu gan 	触感	c=2 d=1.09537 t=518
+chu lai 	出来	c=2 d=1.05366 t=777
+chu le 	除了	c=1 d=1 t=139
+chu xian 	出现	c=1 d=1 t=430
+chuan lai 	传来	c=4 d=2.03577 t=369
+chuan shang 	穿上	c=1 d=1 t=824
+chuan zhe 	穿着	c=1 d=1 t=1070
+ci ke 	此刻	c=2 d=1.12124 t=532
+ci shi 	此时	c=3 d=1.05793 t=1115
+cong 	从	c=5 d=2.96695 t=811
+cong rong 	从容	c=1 d=1 t=536
+cong wo 	从我	c=0 d=0.1 t=494
+cong wo de 	从我的	c=1 d=1 t=495
+cong xia zhi shang 	从下至上	c=1 d=1 t=497
+da da 	大大	c=1 d=1 t=998
+da di tan 	大地毯	c=1 d=1 t=572
+da er duo 	大耳朵	c=1 d=1 t=1039
+da gai 	大概	c=1 d=1 t=737
+da kai 	打开	c=1 d=1 t=867
+da ting 	大厅	c=2 d=1.98511 t=631
+da tui 	大腿	c=1 d=1 t=525
+dan 	但	c=6 d=2.70624 t=899
+dan dan 	淡淡	c=2 d=1.74453 t=670
+dan shi 	但是	c=3 d=2.00193 t=1047
+dan shou 	单手	c=1 d=1 t=1114
+dan wo 	但我	c=1 d=1 t=389
+dan you 	但有	c=1 d=1 t=614
+dang ran 	当然	c=1 d=1 t=451
+dang shi 	当时	c=1 d=1 t=1035
+dao 	到	c=2 d=1.09027 t=800
+dao 	道	c=1 d=1 t=235
+dao le 	到了	c=1 d=1 t=523
+dao xia 	倒下	c=1 d=1 t=126
+dao zhi 	导致	c=1 d=1 t=127
+de 	地	c=4 d=1.17642 t=910
+de 	得	c=1 d=1 t=181
+de 	的	c=74 d=15.5892 t=1118
+de chen shan 	的衬衫	c=1 d=1 t=488
+de guo 	德国	c=1 d=1 t=1104
+de shi 	的是	c=1 d=1 t=168
+deng 	瞪	c=1 d=1 t=445
+deng 	等	c=1 d=1 t=1110
+deng dai 	等待	c=1 d=1 t=754
+di 	地	c=1 d=1 t=348
+di fang 	地方	c=1 d=1 t=379
+di se 	底色	c=1 d=1 t=580
+di shang 	地上	c=1 d=1 t=831
+di shi ni 	迪士尼	c=1 d=1 t=1102
+di tan 	地毯	c=1 d=1 t=574
+di yi ge meng 	第一个梦	c=1 d=1 t=555
+dian che 	电车	c=2 d=1.48675 t=156
+dian ti 	电梯	c=6 d=3.30122 t=869
+dian ti kou 	电梯口	c=1 d=1 t=730
+diao 	掉	c=1 d=1 t=91
+dong 	动	c=1 d=1 t=438
+dong hua 	动画	c=1 d=1 t=1106
+dong li 	动力	c=1 d=1 t=154
+dou 	都	c=5 d=1.24786 t=993
+dou shi 	都是	c=0 d=0.1 t=657
+dou shi yong 	都是用	c=1 d=1 t=658
+dou zai 	都在	c=2 d=1.84366 t=358
+du 	度	c=1 d=1 t=1059
+du zi 	肚子	c=1 d=1 t=415
+duan 	短	c=1 d=1 t=701
+duan fa 	短发	c=1 d=1 t=273
+dui shi 	对视	c=2 d=1.956 t=316
+dun zai 	蹲在	c=1 d=1 t=930
+duo jiu 	多久	c=1 d=1 t=860
+duo le 	多了	c=1 d=1 t=1048
+er 	而	c=1 d=1 t=454
+er duo 	耳朵	c=1 d=1 t=320
+er wei 	而为	c=1 d=1 t=460
+fa jian 	发尖	c=1 d=1 t=368
+fa sheng 	发生	c=2 d=1.46301 t=386
+fa sheng le 	发生了	c=2 d=1.78663 t=473
+fa si 	发丝	c=1 d=1 t=363
+fa xi si 	法西斯	c=1 d=1 t=1105
+fa zhan 	发展	c=1 d=1 t=432
+fan shen 	翻身	c=2 d=1.97045 t=90
+fan ying 	反应	c=1 d=1 t=9
+fang 	方	c=1 d=1 t=514
+fang fu 	仿佛	c=2 d=1.00613 t=1085
+fang xiang 	芳香	c=1 d=1 t=371
+fang zhe 	放着	c=1 d=1 t=650
+fei 	肥	c=1 d=1 t=781
+fei teng 	沸腾	c=2 d=1.94176 t=477
+fei zi 	肥子	c=4 d=2.77056 t=978
+fen 	分	c=1 d=1 t=346
+feng ge 	风格	c=2 d=1.62814 t=696
+feng kuang 	疯狂	c=1 d=1 t=1112
+fu 	抚	c=1 d=1 t=51
+fu za 	复杂	c=1 d=1 t=587
+gai 	该	c=1 d=1 t=915
+gan 	干	c=1 d=1 t=444
+gan jue 	感觉	c=2 d=1.32142 t=286
+gan qing 	感情	c=1 d=1 t=484
+gan shen me 	干什么	c=1 d=1 t=717
+gao gao shou shou 	高高瘦瘦	c=1 d=1 t=771
+ge zhong 	各种	c=1 d=1 t=586
+gei 	给	c=1 d=1 t=798
+gen 	根	c=1 d=1 t=526
+gen ben 	根本	c=1 d=1 t=390
+gen zhe 	跟着	c=1 d=1 t=912
+geng 	更	c=1 d=1 t=471
+geng huan 	更换	c=1 d=1 t=818
+geng xin 	更新	c=1 d=1 t=1121
+gu ji 	估计	c=2 d=1.57121 t=875
+gu ling ling 	孤零零	c=1 d=1 t=749
+gu nong 	咕哝	c=1 d=1 t=677
+guan 	冠	c=0 d=0.1 t=563
+guan chuan 	贯穿	c=1 d=1 t=398
+guan li tang huang 	冠丽堂皇	c=1 d=1 t=564
+guang dong 	广东	c=0 d=0.1 t=982
+gui li 	瑰丽	c=1 d=1 t=606
+gui yu 	归于	c=1 d=1 t=157
+guo 	过	c=2 d=1.36788 t=406
+guo le 	过了	c=2 d=1.0488 t=859
+hai 	还	c=1 d=0.122483 t=872
+hai bei 	还被	c=1 d=1 t=115
+hai shi 	还是	c=1 d=1 t=656
+hai you 	还有	c=1 d=1 t=760
+hai zhan zai 	还站在	c=1 d=1 t=873
+hao sheng 	好生	c=1 d=1 t=550
+he 	呵	c=1 d=1 t=199
+he 	和	c=2 d=1.04264 t=674
+he se 	褐色	c=1 d=1 t=662
+hei se 	黑色	c=1 d=1 t=1050
+hen duo 	很多	c=2 d=1.9802 t=1025
+heng 	横	c=1 d=1 t=96
+hong huang 	红黄	c=1 d=1 t=576
+hong se 	红色	c=2 d=1.625 t=672
+hou 	后	c=1 d=1 t=678
+hu xian 	弧线	c=1 d=1 t=1000
+hua chu 	滑出	c=1 d=1 t=98
+huan 	缓	c=2 d=1.8825 t=205
+huan huan 	缓缓	c=1 d=1 t=892
+huang dong 	晃动	c=1 d=1 t=36
+huang le shen 	慌了神	c=1 d=1 t=62
+huang mo 	荒漠	c=1 d=1 t=108
+huang se 	黄色	c=2 d=1.85214 t=613
+hui 	会	c=1 d=1 t=429
+hui fu le 	恢复了	c=1 d=1 t=279
+hui guo shen lai 	回过神来	c=1 d=1 t=237
+hui lai le 	回来了	c=1 d=1 t=177
+huo 	或	c=2 d=1.01111 t=1088
+ji ben 	基本	c=1 d=1 t=1044
+ji jing 	寂静	c=1 d=1 t=172
+ji shi 	即使	c=1 d=1 t=457
+ji xu 	继续	c=1 d=1 t=896
+jia ju 	家具	c=1 d=1 t=665
+jia zhuang 	假装	c=1 d=1 t=897
+jian 	间	c=2 d=1.74826 t=394
+jian jie 	简介	c=1 d=1 t=633
+jian jie 	简洁	c=1 d=1 t=634
+jian le 	见了	c=0 d=0.1 t=1007
+jiang hu 	糨糊	c=1 d=1 t=421
+jiao 	脚	c=1 d=1 t=802
+jiao hu 	交互	c=1 d=1 t=396
+jin jin 	紧紧	c=1 d=1 t=132
+jin ru le 	进入了	c=1 d=1 t=1086
+jin xing 	进行	c=1 d=1 t=327
+jin zhang 	紧张	c=1 d=1 t=434
+jin zhou 	紧皱	c=1 d=1 t=339
+jing 	竟	c=1 d=1 t=805
+jing kong 	惊恐	c=1 d=1 t=1002
+jing xing 	惊醒	c=1 d=1 t=863
+jiu 	就	c=5 d=1.72568 t=1046
+jiu dian 	酒店	c=2 d=1.68045 t=643
+jiu lian 	就连	c=1 d=1 t=598
+jiu shi 	就是	c=1 d=1 t=642
+jiu yao 	就要	c=1 d=1 t=83
+jiu zai 	就在	c=5 d=1.65667 t=880
+jiu zhe me 	就这么	c=1 d=1 t=249
+ju jiao 	聚焦	c=1 d=1 t=241
+ju li 	距离	c=1 d=1 t=741
+ju lie 	剧烈	c=1 d=1 t=121
+ju qi 	举起	c=2 d=1.99005 t=1060
+jue dui 	绝对	c=1 d=1 t=170
+jun zhuang 	军装	c=1 d=1 t=1071
+kai 	开	c=1 d=1 t=1095
+kai kou 	开口	c=1 d=1 t=187
+kai shi 	开始	c=9 d=2.68308 t=1099
+kan 	看	c=3 d=1.22305 t=837
+kan dao 	看到	c=3 d=1.49347 t=926
+kan jian 	看见	c=1 d=1 t=211
+kan qi lai 	看起来	c=1 d=1 t=1014
+kan xiang 	看向	c=1 d=1 t=888
+kan zhe 	看着	c=2 d=1.01674 t=1108
+kan zhe ta 	看着他	c=2 d=1.68386 t=1080
+kan zhe wo 	看着我	c=2 d=1.03615 t=934
+ke fang 	客房	c=1 d=1 t=765
+ke yi 	刻意	c=0 d=0.1 t=458
+ke yi 	可以	c=1 d=1 t=924
+kong jian 	空间	c=2 d=1.06361 t=711
+kong zhi 	控制	c=2 d=1.98511 t=77
+kou 	口	c=1 d=1 t=870
+kou gan she zao 	口干舌燥	c=2 d=1.99501 t=512
+kua 	跨	c=2 d=1.99005 t=405
+kun yi 	困意	c=1 d=1 t=850
+lai 	来	c=1 d=1 t=516
+lai kan 	来看	c=1 d=1 t=500
+lai le 	来了	c=1 d=1 t=208
+lan qiu chang 	篮球场	c=1 d=1 t=739
+lao ban 	老板	c=3 d=2.73013 t=706
+lao jiu 	老旧	c=1 d=1 t=616
+lao ren 	老人	c=1 d=1 t=1017
+le 	了	c=8 d=2.01361 t=1101
+li 	丽	c=0 d=0.1 t=563
+li 	里	c=4 d=2.00176 t=1098
+li kai le 	离开了	c=1 d=1 t=709
+li mian 	里面	c=1 d=1 t=825
+lian 	脸	c=3 d=2.51894 t=1032
+lian 	连	c=1 d=1 t=148
+lian shang 	脸上	c=5 d=1.87644 t=1054
+liang bian 	两边	c=1 d=1 t=990
+liang duan 	两端	c=1 d=1 t=734
+liang ge 	两个	c=1 d=1 t=733
+liang ren 	两人	c=1 d=1 t=347
+liang se 	两色	c=1 d=1 t=577
+liang tao 	两套	c=1 d=1 t=699
+liang ze 	两则	c=1 d=1 t=1124
+ling 	另	c=1 d=1 t=773
+ling luan 	凌乱	c=1 d=1 t=271
+ling yi duan 	另一端	c=1 d=1 t=641
+lu pang 	路旁	c=1 d=1 t=93
+lv le lv 	捋了捋	c=1 d=1 t=296
+lv xing 	旅行	c=1 d=1 t=814
+lve xian 	略显	c=1 d=1 t=615
+ma bi 	麻痹	c=1 d=1 t=72
+mei 	没	c=2 d=1.01699 t=966
+mei deng 	没等	c=1 d=1 t=26
+mei shuo hua 	没说话	c=1 d=1 t=964
+mei tou 	眉头	c=1 d=1 t=335
+mei xiang guo 	没想过	c=1 d=1 t=428
+mei you 	没有	c=6 d=1.23755 t=876
+mei you le 	没有了	c=1 d=1 t=686
+men 	们	c=1 d=1 t=246
+meng 	梦	c=2 d=1.05784 t=1123
+meng jing 	梦境	c=1 d=1 t=1092
+mi 	眯	c=1 d=1 t=918
+mi mi ma ma 	密密麻麻	c=1 d=1 t=591
+mi zhe 	眯着	c=1 d=1 t=727
+mi zhe yan 	眯着眼	c=1 d=1 t=836
+mian wu biao qing 	面无表情	c=1 d=1 t=14
+miao shu 	描述	c=1 d=1 t=1030
+ming que 	明确	c=1 d=1 t=925
+mo 	摸	c=1 d=1 t=522
+mu guang 	目光	c=2 d=1.04056 t=956
+mu zhi 	木质	c=1 d=1 t=664
+na 	拿	c=1 d=1 t=794
+na 	那	c=3 d=2.34071 t=585
+na chu 	拿出	c=1 d=1 t=815
+na li 	那里	c=1 d=1 t=874
+na li ren 	哪里人	c=1 d=1 t=962
+na liang ge ren 	那两个人	c=1 d=1 t=872
+na me 	那么	c=1 d=1 t=1033
+na yi 	那一	c=1 d=1 t=85
+na yi duan 	那一端	c=1 d=1 t=759
+na yi shun jian 	那一瞬间	c=1 d=1 t=1064
+na yi xia 	那一下	c=1 d=1 t=142
+nao zi 	脑子	c=2 d=1.06266 t=1097
+nao zi li 	脑子里	c=1 d=1 t=418
+ne 	呢	c=1 d=1 t=982
+nei xin 	内心	c=1 d=1.08353 t=63
+nei xin you 	内心有	c=1 d=1 t=28
+neng kan jian 	能看见	c=1 d=1 t=334
+ni xian 	你先	c=1 d=1 t=980
+nie 	捏	c=2 d=1.89137 t=971
+ning wang 	凝望	c=1 d=1 t=215
+ning xiao 	狞笑	c=1 d=1 t=988
+niu ye ye 	牛爷爷	c=1 d=1 t=1043
+nuo dong 	挪动	c=1 d=1 t=392
+pai le pai 	拍了拍	c=1 d=1 t=223
+pan gen cuo jie 	盘根错节	c=1 d=1 t=595
+pan tan 	攀谈	c=2 d=1.79453 t=790
+pang 	旁	c=4 d=3.17149 t=803
+pi 	皮	c=1 d=1 t=149
+piao piao ran 	飘飘然	c=1 d=1 t=374
+ping jing 	平静	c=1 d=1 t=158
+pu 	铺	c=1 d=1 t=569
+qi guai 	奇怪	c=1 d=1 t=551
+qi lai 	起来	c=3 d=2.16215 t=989
+qi shi 	其实	c=1 d=1 t=381
+qi zhong 	其中	c=1 d=1 t=666
+qian 	前	c=1 d=1 t=647
+qian tai 	前台	c=5 d=4.48739 t=683
+qiang 	墙	c=1 d=1 t=599
+qiang lie 	强烈	c=2 d=1.12938 t=538
+qiang zhuang 	强装	c=1 d=1 t=957
+qiang zhuang zhen ding 	强装镇定	c=1 d=1 t=531
+qie ge 	切割	c=1 d=1 t=1094
+qing chu 	清楚	c=1 d=1 t=472
+qing heng 	轻哼	c=1 d=1 t=202
+qing qing 	轻轻	c=1 d=1 t=944
+qing su 	情愫	c=1 d=1 t=540
+qing wei 	轻微	c=1 d=1 t=970
+qu xian 	曲线	c=1 d=1 t=494
+quan bu 	全部	c=1 d=1 t=317
+que shi 	确实	c=1 d=1 t=19
+ran hou 	然后	c=1 d=1 t=823
+rang wo 	让我	c=3 d=1.50983 t=372
+re dai yu lin 	热带雨林	c=1 d=1 t=593
+ren 	人	c=2 d=1.86936 t=770
+ren he 	任何	c=3 d=1.27846 t=483
+ren wo 	任我	c=1 d=1 t=528
+ren wu 	人物	c=1 d=1 t=1111
+ren you 	任由	c=1 d=1 t=195
+reng 	扔	c=2 d=1.86071 t=829
+ru guo 	如果	c=1 d=1 t=1027
+ru he 	如何	c=1 d=1 t=1029
+ru tong 	如同	c=1 d=1 t=592
+san luan 	散乱	c=1 d=1 t=274
+san luo zai 	散落在	c=1 d=1 t=298
+sha 	刹	c=1 d=1 t=86
+sha fa 	沙发	c=2 d=1.95123 t=855
+sha fa shang 	沙发上	c=1 d=1 t=720
+shang 	上	c=6 d=1.49304 t=856
+shang hai 	伤害	c=1 d=1 t=147
+shang le 	上了	c=1 d=1 t=570
+shang mian 	上面	c=2 d=1.8311 t=621
+shen 	深	c=1 d=1 t=661
+shen 	神	c=1 d=1 t=207
+shen bian 	身边	c=1 d=1 t=932
+shen hong 	深红	c=0 d=0.1 t=658
+shen hong de 	深红的	c=1 d=1 t=659
+shen hou 	身后	c=1 d=1 t=32
+shen me 	什么	c=3 d=1.45856 t=746
+shen me shi le 	什么事了	c=1 d=1 t=233
+shen pang 	身旁	c=1 d=1 t=1117
+shen shang 	身上	c=1 d=1 t=360
+shen ti 	身体	c=8 d=4.12131 t=468
+shen zi 	身子	c=1 d=1 t=402
+sheng 	声	c=0 d=0.1 t=20
+sheng xia 	剩下	c=1 d=1 t=167
+sheng yin 	声音	c=1 d=1 t=164
+shi 	事	c=1 d=1 t=388
+shi 	是	c=12 d=4.17759 t=1038
+shi biao zhun 	是标准	c=1 d=1 t=693
+shi fen 	十分	c=2 d=1.47001 t=783
+shi jian 	时间	c=3 d=1.32735 t=1120
+shi jiao 	视角	c=1 d=1 t=499
+shi jie 	世界	c=2 d=1.96561 t=350
+shi qu 	失去	c=2 d=1.68045 t=153
+shi tu 	试图	c=2 d=1.99501 t=228
+shi xian 	视线	c=1 d=1 t=908
+shi zhen 	失真	c=1 d=1 t=1084
+shi zhi he mu zhi 	食指和拇指	c=1 d=1 t=947
+shi zhong 	始终	c=3 d=2.93131 t=311
+shou 	手	c=3 d=1.04114 t=950
+shou dao 	受到	c=1 d=1 t=145
+shou ji 	手机	c=1 d=1 t=1119
+shou ti bao 	手提包	c=2 d=1.92774 t=812
+shou wan 	手腕	c=1 d=1 t=221
+shou zhang 	手掌	c=2 d=1.89583 t=973
+shou zi 	瘦子	c=6 d=3.82112 t=986
+shu 	梳	c=1 d=1 t=318
+shu mi 	数米	c=1 d=1 t=99
+shu zhi 	树枝	c=1 d=1 t=597
+shuai dao 	摔倒	c=2 d=1.91851 t=140
+shuang shou 	双手	c=8 d=2.27827 t=1057
+shuang shuang 	双双	c=1 d=1 t=89
+shuang yan 	双眼	c=4 d=1.4317 t=1077
+shui 	睡	c=1 d=1 t=877
+shui 	谁	c=1 d=0.385076 t=1007
+shui jian le 	谁见了	c=1 d=1 t=1008
+shui jiao 	睡觉	c=2 d=1.41478 t=898
+shui zhao 	睡着	c=1 d=1 t=561
+shui zhao le 	睡着了	c=1 d=1 t=857
+shun 	瞬	c=0 d=0.1 t=351
+shun jian 	瞬间	c=1 d=1 t=61
+shun zhe 	顺着	c=1 d=1 t=953
+shuo 	说	c=3 d=2.57328 t=1028
+si hu 	似乎	c=3 d=1.41241 t=752
+si kao 	思考	c=2 d=1.01412 t=882
+song kua kua 	松垮垮	c=1 d=1 t=487
+su ma 	酥麻	c=1 d=1 t=284
+sui hou 	随后	c=1 d=1 t=261
+sui ran 	虽然	c=2 d=1.45841 t=173
+sui zhi 	随之	c=1 d=1 t=464
+suo 	所	c=1 d=1 t=29
+suo xing 	所幸	c=1 d=1 t=136
+suo you 	所有	c=1 d=1 t=356
+ta 	他	c=4 d=2.99984 t=1064
+ta 	她	c=8 d=3.86449 t=491
+ta de 	他的	c=1 d=1 t=1031
+ta men 	他们	c=5 d=4.34327 t=922
+ta zheng ge ren 	他整个人	c=1 d=1 t=1065
+tai jiu 	太久	c=1 d=1 t=878
+tai le 	抬了	c=1 d=1 t=941
+tang huang 	堂皇	c=0 d=0.1 t=563
+tang lao ya 	唐老鸭	c=1 d=1 t=1109
+tang zai 	躺在	c=1 d=1 t=104
+tian hua ban 	天花板	c=1 d=1 t=608
+tian kong 	天空	c=1 d=1 t=217
+tian ling gai 	天灵盖	c=1 d=1 t=545
+tiao dou 	挑逗	c=1 d=1 t=364
+tie zai 	贴在	c=1 d=1 t=620
+ting dao le 	听到了	c=1 d=1 t=20
+ting qi 	挺起	c=1 d=0.225556 t=484
+ting qi le 	挺起了	c=1 d=1 t=485
+ting xia 	停下	c=1 d=1 t=1056
+tong chu 	痛楚	c=1 d=1 t=178
+tong shi 	同时	c=1 d=1 t=886
+tou 	头	c=1 d=1 t=842
+tou ding 	头顶	c=1 d=1 t=906
+tou fa 	头发	c=1 d=1 t=297
+tou lu 	透露	c=1 d=1 t=667
+tu an 	图案	c=1 d=1 t=605
+tu po 	突破	c=1 d=1 t=544
+tu qi 	凸起	c=1 d=1 t=504
+tu ran 	突然	c=4 d=2.13126 t=987
+tu ru qi lai 	突如其来	c=1 d=1 t=57
+tu tu 	图图	c=1 d=1 t=1040
+tu ya 	涂鸦	c=2 d=1.8781 t=1052
+tu zi dong 	兔子洞	c=1 d=1 t=1087
+tuo xia 	脱下	c=1 d=1 t=820
+wai mao 	外貌	c=1 d=1 t=1067
+wan hua jing 	万华镜	c=1 d=1 t=1089
+wan mei 	完美	c=1 d=1 t=508
+wan quan 	完全	c=2 d=1.04117 t=1074
+wei wei 	微微	c=3 d=1.35372 t=866
+wei yi 	唯一	c=1 d=1 t=162
+wei zhi 	位置	c=1 d=1 t=890
+wen 	问	c=2 d=1.0513 t=976
+wen le 	问了	c=1 d=1 t=959
+wen lu 	纹路	c=1 d=1 t=590
+wen zhang 	文章	c=1 d=1 t=1122
+wo 	卧	c=1 d=1 t=843
+wo 	我	c=28 d=7.20459 t=1076
+wo cong lai 	我从来	c=1 d=1 t=427
+wo de 	我的	c=20 d=4.5747 t=1096
+wo de shou 	我的手	c=1 d=1 t=277
+wo de yan jing 	我的眼睛	c=1 d=1 t=914
+wo dou 	我都	c=1 d=1 t=354
+wo gen ben 	我根本	c=1 d=1 t=422
+wo guang dong 	我广东	c=1 d=1 t=983
+wo jian 	我见	c=1 d=1 t=380
+wo jiu 	我就	c=1 d=1 t=1107
+wo ke yi 	我刻意	c=1 d=1 t=459
+wo liang 	我两	c=2 d=1.81058 t=143
+wo men 	我们	c=1 d=1 t=304
+wo neng 	我能	c=1 d=1 t=716
+wo shuo 	我说	c=1 d=1 t=985
+wo xun wen 	我询问	c=1 d=1 t=234
+wo ye 	我也	c=2 d=1.02901 t=714
+wo yi ge ren 	我一个人	c=1 d=1 t=713
+wo yi jing 	我已经	c=1 d=1 t=927
+wo zai 	我再	c=1 d=1 t=864
+wo zhe 	握着	c=1 d=1 t=11
+wo zhu 	握住	c=1 d=1 t=938
+wu cha 	无差	c=1 d=1 t=1045
+wu lun 	无论	c=1 d=1 t=653
+xi lai 	袭来	c=1 d=1 t=852
+xi te le 	希特勒	c=1 d=1 t=1073
+xia 	下	c=1 d=1 t=513
+xian 	先	c=1 d=1 t=819
+xiang 	想	c=1 d=1 t=721
+xiang dao 	想到	c=1 d=1 t=1036
+xiang ge 	相隔	c=1 d=1 t=735
+xiang hu 	相互	c=1 d=1 t=250
+xiang shi 	像是	c=1 d=1 t=617
+xiao shi le 	消失了	c=1 d=1 t=166
+xie 	斜	c=1 d=1 t=267
+xing le 	醒了	c=1 d=1 t=928
+xing shi zhe 	行驶着	c=1 d=1 t=16
+xing yun 	幸运	c=1 d=1 t=119
+xing zhuang 	形状	c=1 d=1 t=506
+xiong 	胸	c=1 d=1 t=510
+xiong bu 	胸部	c=1 d=1 t=492
+xiong di 	兄弟	c=1 d=1 t=961
+xu duo 	许多	c=1 d=1 t=1049
+xuan li 	绚丽	c=1 d=1 t=588
+xue bai 	雪白	c=1 d=1 t=106
+xun wen 	询问	c=0 d=0.1 t=233
+ya 	压	c=1 d=1 t=197
+ya zai 	压在	c=1 d=1 t=116
+yan 	眼	c=1 d=1 t=447
+yan jing 	眼睛	c=6 d=1.23309 t=1081
+yan kan 	眼看	c=1 d=1 t=81
+yan shen 	眼神	c=3 d=2.27532 t=393
+yang mian 	仰面	c=1 d=1 t=103
+yang pi zhi 	羊皮纸	c=1 d=1 t=619
+yang zi 	样子	c=1 d=1 t=1019
+yao 	腰	c=2 d=1.27253 t=486
+yao bai 	摇摆	c=1 d=1 t=80
+ye 	也	c=10 d=1.43729 t=911
+ye jiu zai 	也就在	c=1 d=1 t=767
+ye shi 	也是	c=1 d=1 t=601
+yi 	一	c=2 d=1.03688 t=969
+yi ban 	一般	c=2 d=1.00604 t=1090
+yi da 	一大	c=0 d=0.1 t=617
+yi da zhang 	一大张	c=1 d=1 t=618
+yi dian 	一点	c=1 d=1 t=669
+yi dong 	一动	c=1 d=1 t=222
+yi dong 	移动	c=1 d=1 t=442
+yi dong bu dong 	一动不动	c=2 d=1.04807 t=895
+yi duan 	一端	c=1 d=1 t=638
+yi fu 	衣服	c=2 d=1.94649 t=827
+yi ge 	一个	c=8 d=3.46362 t=1069
+yi ge ren 	一个人	c=2 d=1.72979 t=747
+yi huo 	疑惑	c=1 d=1 t=41
+yi jian 	一件	c=1 d=1 t=563
+yi jing 	已经	c=4 d=2.12038 t=923
+yi ju 	一句	c=1 d=1 t=960
+yi ju yi dong 	一举一动	c=0 d=0.1 t=321
+yi kan 	一看	c=1 d=1 t=1116
+yi mian 	一面	c=1 d=1 t=610
+yi mu yi yang 	一模一样	c=1 d=1 t=1075
+yi pang 	一旁	c=2 d=1.81465 t=690
+yi qie 	一切	c=1 d=1 t=1
+yi ran 	依然	c=3 d=1.09651 t=968
+yi sheng 	一声	c=1 d=1 t=201
+yi shi 	意识	c=1 d=1 t=175
+yi shi dao 	意识到	c=1 d=1 t=424
+yi shun jian 	一瞬间	c=1 d=1 t=1082
+yi si 	一丝	c=3 d=1.46923 t=624
+yi si yi hao 	一丝一毫	c=1 d=1 t=440
+yi tao 	一套	c=2 d=1.79453 t=697
+yi tuan 	一团	c=1 d=1 t=420
+yi tui 	一腿	c=1 d=1 t=404
+yi xia 	一下	c=1 d=1 t=71
+yi zhang 	一张	c=1 d=1 t=704
+yi zhen 	一阵	c=3 d=1.08363 t=676
+yi zheng mian 	一整面	c=1 d=1 t=571
+yin qi 	引起	c=1 d=1 t=229
+yin yue 	隐约	c=1 d=1 t=333
+ying gai 	应该	c=1 d=1 t=203
+yong 	用	c=1 d=1.02357 t=946
+yong wei 	用为	c=1 d=1 t=583
+yong yuan 	永远	c=1 d=1 t=400
+you 	又	c=2 d=1.96079 t=861
+you 	右	c=2 d=1.73345 t=281
+you 	有	c=2 d=1.23292 t=1024
+you bei 	右背	c=1 d=1 t=44
+you le 	有了	c=1 d=1 t=466
+you shi 	又是	c=1 d=1 t=200
+you shou 	右手	c=4 d=1.57369 t=1062
+you suo 	有所	c=1 d=1 t=479
+yu wo 	与我	c=1 d=1 t=314
+yu yun 	余韵	c=1 d=1 t=557
+yuan 	远	c=1 d=1 t=100
+yuan di 	原地	c=1 d=1 t=808
+yuan run 	圆润	c=1 d=1 t=784
+yun xuan gan 	晕眩感	c=1 d=1 t=130
+zai 	再	c=1 d=1 t=535
+zai 	在	c=17 d=4.44028 t=1063
+zai ci 	再次	c=2 d=1.93239 t=865
+zai yi ci 	再一次	c=1 d=1 t=560
+zai zhe 	在这	c=1 d=1 t=159
+ze 	则	c=1 d=1 t=95
+ze shi 	则是	c=1 d=1 t=582
+zen me 	怎么	c=1 d=1 t=529
+zhan xian chu 	展现出	c=0 d=0.1 t=489
+zhan xian chu le 	展现出了	c=1 d=1 t=490
+zhan zai 	站在	c=3 d=1.66927 t=872
+zhan zhe 	站着	c=1 d=1 t=751
+zhang 	张	c=1 d=1.06603 t=700
+zhe 	着	c=13 d=2.95323 t=919
+zhe 	这	c=4 d=1.94399 t=452
+zhe li 	这里	c=1 d=1 t=629
+zhe me 	这么	c=4 d=2.06137 t=841
+zhe shi 	这时	c=1 d=1 t=768
+zhe wo 	着我	c=1 d=1 t=313
+zhe yang 	这样	c=1 d=1 t=1005
+zhe yang de 	这样的	c=1 d=1 t=431
+zhe yi 	这一	c=0 d=0.119109 t=351
+zhe yi ban 	这一半	c=1 d=1 t=345
+zhe yi ge 	这一个	c=1 d=1 t=779
+zhe yi ju yi dong 	着一举一动	c=1 d=1 t=322
+zhe yi sheng 	这一声	c=1 d=1 t=21
+zhe yi shun 	这一瞬	c=1 d=1 t=352
+zhe zhong 	这种	c=1 d=1 t=602
+zhe zhou 	褶皱	c=1 d=1 t=625
+zhen 	真	c=1 d=1 t=252
+zhen ding 	镇定	c=1 d=1 t=958
+zhen shi 	真是	c=1 d=1 t=549
+zhen tou 	枕头	c=1 d=1 t=848
+zheng da 	睁大	c=1 d=1 t=443
+zheng dui zhe 	正对着	c=0 d=0.1 t=934
+zheng dui zhe wo 	正对着我	c=1 d=1 t=935
+zheng ge 	整个	c=2 d=1.50409 t=710
+zheng ge ren 	整个人	c=3 d=0.413736 t=1064
+zheng hao 	正好	c=1 d=1 t=501
+zheng kai 	睁开	c=3 d=1.48108 t=728
+zhi 	直	c=1 d=1 t=401
+zhi gou gou 	直勾勾	c=1 d=1 t=1078
+zhi ji 	之际	c=1 d=1 t=884
+zhi jie 	直接	c=3 d=1.18311 t=806
+zhi jue 	知觉	c=1 d=1 t=280
+zhi shang 	之上	c=1 d=1 t=109
+zhi sheng xia 	只剩下	c=2 d=1.23108 t=712
+zhi you 	只有	c=3 d=1.54651 t=607
+zhong 	中	c=3 d=2.70899 t=594
+zhong 	种	c=1 d=1 t=453
+zhong jian 	中间	c=1 d=1 t=703
+zhong shi 	中式	c=1 d=1 t=695
+zhou wen 	皱纹	c=1 d=1 t=1020
+zhu shi 	注释	c=1 d=1 t=312
+zhu shi xia 	注视下	c=1 d=1 t=326
+zhu shi zhe 	注视着	c=2 d=1.84513 t=303
+zhu shi zhe wo 	注视着我	c=1 d=1 t=244
+zhu yi 	注意	c=1 d=1 t=231
+zhu yi li 	注意力	c=1 d=1 t=357
+zhuan guo tou 	转过头	c=1 d=1 t=887
+zhuan guo tou lai 	转过头来	c=2 d=1.02573 t=975
+zhuan shen 	转身	c=1 d=1 t=88
+zhun bei 	准备	c=1 d=1 t=480
+zhuo yi 	桌椅	c=2 d=1.98511 t=655
+zi ji 	自己	c=1 d=1 t=821
+zi yan zi yu 	自言自语	c=1 d=1 t=260
+zou dao 	走到	c=3 d=2.31139 t=904
+zou guo lai 	走过来	c=1 d=1 t=893
+zou le 	走了	c=1 d=1 t=776
+zui jiao 	嘴角	c=2 d=1.99501 t=992
+zuo 	作	c=1 d=1 t=23
+zuo 	坐	c=3 d=2.13701 t=707
+zuo chu 	做出	c=1 d=1 t=439
+zuo dian 	坐垫	c=1 d=1 t=37
+zuo jian 	左肩	c=1 d=1 t=42
+zuo shou 	左手	c=2 d=1.86071 t=292
+zuo wei 	作为	c=1 d=1 t=579
+zuo you 	左右	c=2 d=1.0137 t=937
