@@ -25,13 +25,14 @@ ai ding bao 	爱丁堡	c=4 d=0.0632918 t=28633
 ai guo 	爱国	c=5 d=3.79613 t=28633
 ai guo lun 	爱国论	c=3 d=2.12902 t=28633
 ai guo zhu yi 	爱国主义	c=3 d=1.53072 t=28633
-ai hao 	爱好	c=5 d=0.00167826 t=28633
+ai hao 	爱好	c=5 d=2.06944 t=28633
 ai hao zhe 	爱好者	c=1 d=0.0154523 t=28633
 ai lian 	爱恋	c=1 d=0.00366107 t=28633
 ai mei 	暧昧	c=3 d=0.416862 t=28633
 ai mu 	爱慕	c=1 d=0.0739031 t=28633
 ai qing 	爱情	c=13 d=0.0347816 t=28633
 ai qing shi ye 	爱情事业	c=1 d=0.0368832 t=28633
+ai qing zhong 	爱情中	c=1 d=1 t=235
 ai ren 	爱人	c=1 d=0.00216573 t=28633
 ai xin jue luo shi 	爱新觉罗氏	c=1 d=0.162026 t=28633
 ai zai 	爱在	c=1 d=0.0468877 t=28633
@@ -58,7 +59,7 @@ an wei 	安慰	c=1 d=2.88883e-10 t=28633
 an xia 	按下	c=2 d=0.00291892 t=28633
 an zhao 	按照	c=2 d=0.189191 t=28633
 an zhong 	暗中	c=1 d=4.18083e-06 t=28633
-an zhuang 	安装	c=28 d=1.16517 t=28633
+an zhuang 	安装	c=28 d=1.41526 t=28633
 an zhuang de 	安装的	c=1 d=2.6584e-32 t=28633
 an zhuang jin du 	安装进度	c=1 d=5.09416e-07 t=28633
 an zhuang le 	安装了	c=1 d=4.33787e-28 t=28633
@@ -112,7 +113,7 @@ ban ben 	版本	c=15 d=0.00475242 t=28633
 ban fa 	办法	c=2 d=0.971922 t=28633
 ban ji 	班级	c=3 d=0.00194154 t=28633
 ban li 	办理	c=4 d=6.94788e-11 t=28633
-ban lv 	伴侣	c=1 d=4.17004e-05 t=28633
+ban lv 	伴侣	c=2 d=1.09515 t=28633
 ban nian 	半年	c=3 d=8.22174e-20 t=28633
 ban shang 	半晌	c=1 d=0.000617396 t=28633
 ban shang 	班上	c=1 d=0.000620491 t=28633
@@ -142,8 +143,9 @@ bao cuo 	报错	c=2 d=2.79955e-23 t=28633
 bao dao 	报道	c=4 d=0.13068 t=28633
 bao de 	薄的	c=0 d=4.42865e-08 t=28633
 bao fa 	爆发	c=4 d=0.271173 t=28633
-bao fa chu 	爆发出	c=1 d=1 t=28277
+bao fa chu 	爆发出	c=1 d=0.168638 t=28633
 bao fu gan 	饱腹感	c=1 d=2.72152e-14 t=28633
+bao guan li qi 	包管理器	c=1 d=1 t=131
 bao guo 	包裹	c=2 d=0.154124 t=28633
 bao han 	包含	c=2 d=0.0243841 t=28633
 bao hu 	保护	c=1 d=4.20179e-06 t=28633
@@ -155,7 +157,7 @@ bao liu 	保留	c=6 d=4.60053e-31 t=28633
 bao lu 	暴露	c=1 d=0.229925 t=28633
 bao ma 	宝马	c=1 d=5.62687e-30 t=28633
 bao ming 	报名	c=1 d=0.0672055 t=28633
-bao rong 	包容	c=1 d=1 t=28633
+bao rong 	包容	c=3 d=1 t=28633
 bao wo 	抱我	c=1 d=0.00122477 t=28633
 bao xian 	保险	c=1 d=0.995012 t=28633
 bao xiao 	报销	c=1 d=5.0001e-23 t=28633
@@ -231,7 +233,7 @@ bi xu cheng ren 	必须承认	c=1 d=1.35055e-06 t=28633
 bi yao 	必要	c=1 d=0.000182274 t=28633
 bi ye 	毕业	c=2 d=6.89478e-12 t=28633
 bi yi 	鄙夷	c=1 d=1.85092e-08 t=28633
-bi zhi de 	笔直的	c=1 d=1 t=28406
+bi zhi de 	笔直的	c=1 d=0.321422 t=28633
 bian 	便	c=2 d=0.329559 t=28633
 bian 	变	c=3 d=0.0221482 t=28633
 bian 	边	c=1 d=7.5996e-07 t=28633
@@ -241,6 +243,7 @@ bian cheng le 	变成了	c=7 d=0.453033 t=28633
 bian cheng zhong 	编程中	c=1 d=0.00257991 t=28633
 bian dao 	编导	c=1 d=7.47476e-18 t=28633
 bian de 	变得	c=16 d=0.269825 t=28633
+bian di 	贬低	c=1 d=1 t=433
 bian dong 	变动	c=1 d=0.814647 t=28633
 bian fa 	变法	c=1 d=1 t=28633
 bian gu 	变故	c=1 d=9.01244e-13 t=28633
@@ -262,7 +265,7 @@ bian xie 	编写	c=2 d=2.19353e-06 t=28633
 bian zuo zeng 	贬左曾	c=1 d=0.311923 t=28633
 biao 	表	c=29 d=2.60671 t=28633
 biao bai le 	表白了	c=1 d=2.53184e-17 t=28633
-biao da 	表达	c=12 d=0.169537 t=28633
+biao da 	表达	c=12 d=0.913931 t=28633
 biao da guo 	表达过	c=1 d=9.56486e-07 t=28633
 biao dan 	表单	c=1 d=1.80301e-23 t=28633
 biao ding 	标定	c=2 d=0.00609213 t=28633
@@ -279,7 +282,7 @@ biao shi 	表示	c=3 d=0.0399591 t=28633
 biao suo 	表锁	c=1 d=0.402524 t=28633
 biao ti 	标题	c=2 d=0.000551344 t=28633
 biao xian 	表现	c=13 d=0.706654 t=28633
-biao xian chu 	表现出	c=1 d=1 t=28343
+biao xian chu 	表现出	c=1 d=0.23457 t=28633
 biao yan 	表演	c=1 d=3.17835e-16 t=28633
 biao zhi 	标志	c=1 d=0.0389686 t=28633
 biao zhong 	表中	c=1 d=0.357007 t=28633
@@ -302,6 +305,7 @@ bing bu hui 	并不会	c=1 d=7.05048e-07 t=28633
 bing bu kang ju 	并不抗拒	c=1 d=0.449329 t=28633
 bing bu she ji 	并不涉及	c=1 d=1.15086e-06 t=28633
 bing bu shi 	并不是	c=7 d=0.0526231 t=28633
+bing bu xi huan 	并不喜欢	c=1 d=1 t=399
 bing bu xing fu 	并不幸福	c=1 d=2.65893e-05 t=28633
 bing bu xu yao 	并不需要	c=1 d=5.14082e-26 t=28633
 bing bu yi ding 	并不一定	c=1 d=1.55482e-16 t=28633
@@ -337,7 +341,7 @@ bu 	补	c=1 d=0.0385808 t=28633
 bu 	部	c=8 d=0.663664 t=28633
 bu an 	不安	c=1 d=5.55083e-17 t=28633
 bu an quan 	不安全	c=2 d=5.48518e-10 t=28633
-bu an quan gan 	不安全感	c=2 d=1.37783e-06 t=28633
+bu an quan gan 	不安全感	c=2 d=0.423162 t=28633
 bu bao 	不包	c=1 d=0.0216013 t=28633
 bu bei 	不被	c=1 d=0.453845 t=28633
 bu cao zuo 	不操作	c=1 d=2.5599e-29 t=28633
@@ -358,14 +362,14 @@ bu de yi 	不得以	c=1 d=1.22053e-21 t=28633
 bu ding 	补丁	c=3 d=1.67019e-24 t=28633
 bu dong 	不动	c=1 d=1.24994e-07 t=28633
 bu dong 	不懂	c=3 d=0.00697795 t=28633
-bu dong de 	不懂得	c=1 d=1.94244e-17 t=28633
+bu dong de 	不懂得	c=2 d=0.553474 t=28633
 bu dou 	不都	c=1 d=5.18542e-10 t=28633
 bu duan 	不断	c=7 d=0.00144449 t=28633
 bu duan hei 	不断黑	c=1 d=4.11859e-06 t=28633
 bu dui 	不对	c=1 d=0.000534061 t=28633
 bu fen 	不分	c=1 d=0.0523397 t=28633
 bu fen 	部分	c=7 d=0.0769261 t=28633
-bu fu he 	不符合	c=1 d=2.11808e-06 t=28633
+bu fu he 	不符合	c=1 d=0.32628 t=28633
 bu fu yu 	不富裕	c=1 d=5.19796e-09 t=28633
 bu fu ze 	不负责	c=1 d=5.05293e-29 t=28633
 bu fu ze ren 	不负责任	c=1 d=4.3522e-08 t=28633
@@ -378,6 +382,7 @@ bu gong dai tian 	不共戴天	c=1 d=1 t=28633
 bu gou 	不够	c=4 d=0.000192935 t=28633
 bu guan 	不关	c=0 d=2.17429e-21 t=28633
 bu guan hu 	不关乎	c=1 d=2.18519e-20 t=28633
+bu guang deng 	补光灯	c=2 d=1.96079 t=76
 bu gui 	不贵	c=1 d=1.89352e-11 t=28633
 bu guo 	不过	c=6 d=0.00241755 t=28633
 bu han er li 	不寒而栗	c=1 d=0.0124007 t=28633
@@ -398,7 +403,7 @@ bu jiao 	不交	c=1 d=0.199888 t=28633
 bu jie 	不解	c=1 d=0.248815 t=28633
 bu jin 	不仅	c=1 d=3.33846e-06 t=28633
 bu jin 	不进	c=1 d=6.55329e-29 t=28633
-bu jin bu man 	不紧不慢	c=1 d=1 t=28492
+bu jin bu man 	不紧不慢	c=1 d=0.494109 t=28633
 bu jin jin 	不仅仅	c=2 d=3.79212e-05 t=28633
 bu jin yao 	不仅要	c=1 d=1 t=28633
 bu jing yi jian 	不经意间	c=1 d=1.87372e-05 t=28633
@@ -476,7 +481,7 @@ bu shi dian ying 	不是电影	c=1 d=0.000564257 t=28633
 bu shi shuo 	不是说	c=2 d=4.79832e-09 t=28633
 bu shi yi ge 	不是一个	c=1 d=1.85824e-25 t=28633
 bu shi yong 	不适用	c=4 d=0.251579 t=28633
-bu shu 	部署	c=15 d=0.000282788 t=28633
+bu shu 	部署	c=15 d=0.254107 t=28633
 bu shu fu 	不舒服	c=1 d=2.5358e-06 t=28633
 bu shu xi 	不熟悉	c=2 d=0.00171599 t=28633
 bu shua ka 	不刷卡	c=2 d=2.08861e-10 t=28633
@@ -491,7 +496,7 @@ bu tao lun 	不讨论	c=2 d=0.0143357 t=28633
 bu tie 	补贴	c=1 d=1.16263e-08 t=28633
 bu ting 	不停	c=1 d=3.01707e-21 t=28633
 bu ting de 	不停地	c=0 d=3.96801e-10 t=28633
-bu tong 	不同	c=16 d=1.30962 t=28633
+bu tong 	不同	c=16 d=1.33745 t=28633
 bu tong 	不通	c=3 d=0.0904948 t=28633
 bu tong di fang 	不同地方	c=1 d=0.00540733 t=28633
 bu tong guo 	不通过	c=2 d=0.134079 t=28633
@@ -500,7 +505,7 @@ bu tui 	不退	c=2 d=5.22498e-10 t=28633
 bu wan 	不完	c=1 d=6.30726e-20 t=28633
 bu wan mei 	不完美	c=1 d=0.00102302 t=28633
 bu wan quan 	不完全	c=1 d=0.12307 t=28633
-bu xi huan 	不喜欢	c=4 d=0.00141394 t=28633
+bu xi huan 	不喜欢	c=4 d=2.05795 t=28633
 bu xi kan 	不细看	c=1 d=2.13675e-21 t=28633
 bu xi wang 	不希望	c=1 d=8.66053e-15 t=28633
 bu xia qu 	不下去	c=1 d=0.353455 t=28633
@@ -509,7 +514,7 @@ bu xiang 	不像	c=1 d=0.000958635 t=28633
 bu xiang 	不想	c=1 d=0.40657 t=28633
 bu xiang kan 	不想看	c=1 d=7.39283e-06 t=28633
 bu xiang qu 	不想去	c=1 d=1.22203e-06 t=28633
-bu xiang tong 	不相同	c=1 d=1.98371e-29 t=28633
+bu xiang tong 	不相同	c=1 d=0.628135 t=28633
 bu xiang xin 	不相信	c=3 d=0.0528657 t=28633
 bu xie 	不屑	c=1 d=3.93803e-08 t=28633
 bu xie yi gu 	不屑一顾	c=1 d=5.96364e-08 t=28633
@@ -532,7 +537,7 @@ bu yi wu xi 	不以物喜	c=2 d=1.10763e-20 t=28633
 bu yi wu xi bu yi ji bei 	不以物喜不以己悲	c=1 d=0.00388746 t=28633
 bu yi yang 	不一样	c=8 d=0.835329 t=28633
 bu yi zhi 	不一致	c=1 d=0.298197 t=28633
-bu ying gai 	不应该	c=4 d=0.00612731 t=28633
+bu ying gai 	不应该	c=4 d=2.11338 t=28633
 bu ying xiang 	不影响	c=2 d=0.519071 t=28633
 bu yong 	不用	c=4 d=0.0114473 t=28633
 bu yong gan huo 	不用干活	c=0 d=2.79422e-31 t=28633
@@ -561,12 +566,14 @@ bu zhi 	不知	c=3 d=2.56013 t=28633
 bu zhi bu jue 	不知不觉	c=3 d=0.0123389 t=28633
 bu zhi chi 	不支持	c=1 d=1.81396e-06 t=28633
 bu zhi dao 	不知道	c=14 d=0.760467 t=28633
+bu zhi qing 	不知情	c=1 d=1 t=205
 bu zhi yu 	不至于	c=2 d=9.23902e-11 t=28633
 bu zhu 	不住	c=2 d=0.264477 t=28633
 bu zhu 	补助	c=1 d=9.68599e-08 t=28633
 bu zhuang 	不装	c=1 d=2.3922e-26 t=28633
 bu zhui qiu 	不追求	c=2 d=1.75462e-16 t=28633
 bu zhui shu 	不赘述	c=1 d=2.01163e-17 t=28633
+bu zhun 	不准	c=1 d=1 t=31
 bu zi jue de 	不自觉的	c=2 d=0.000636198 t=28633
 bu zi ran 	不自然	c=2 d=1.47062e-08 t=28633
 bu zi zai 	不自在	c=0 d=0.067368 t=28633
@@ -588,7 +595,7 @@ cai neng gou 	才能够	c=1 d=0.19593 t=28633
 cai neng jian shen 	才能健身	c=1 d=1.4962e-05 t=28633
 cai pai 	彩排	c=2 d=0.209511 t=28633
 cai rang 	才让	c=1 d=0.113042 t=28633
-cai shi 	才是	c=4 d=0.021602 t=28633
+cai shi 	才是	c=4 d=0.551563 t=28633
 cai shi 	菜式	c=2 d=4.07053e-06 t=28633
 cai suan 	才算	c=1 d=0.00236968 t=28633
 cai wu 	财务	c=1 d=0.00170362 t=28633
@@ -602,7 +609,7 @@ can ku 	残酷	c=2 d=0.331211 t=28633
 can ren 	残忍	c=1 d=0.170333 t=28633
 can shu 	参数	c=2 d=3.50734e-27 t=28633
 can ting 	餐厅	c=10 d=6.20373e-06 t=28633
-cang bai 	苍白	c=1 d=1 t=28503
+cang bai 	苍白	c=1 d=0.522046 t=28633
 cang ku 	仓库	c=1 d=0.063609 t=28633
 cao 	艹	c=1 d=1.06916e-22 t=28633
 cao kong 	操控	c=2 d=6.77796e-17 t=28633
@@ -673,14 +680,15 @@ chang ming 	长命	c=1 d=7.03764e-22 t=28633
 chang ming gong fu 	长命功夫	c=1 d=6.37174e-22 t=28633
 chang qi 	长崎	c=1 d=5.82432e-24 t=28633
 chang qi 	长期	c=4 d=8.88495e-05 t=28633
-chang shi 	尝试	c=6 d=0.722897 t=28633
+chang shi 	尝试	c=6 d=1.77952 t=28633
+chang shi hou 	尝试后	c=1 d=1 t=411
 chang shi jian 	长时间	c=1 d=7.97133e-10 t=28633
 chang xiao 	畅销	c=1 d=3.97896e-12 t=28633
 chang ye 	长野	c=1 d=1.12727e-27 t=28633
 chao 	嘲	c=1 d=0.0366992 t=28633
 chao 	炒	c=2 d=2.10539e-15 t=28633
 chao ben 	抄本	c=1 d=0.00169512 t=28633
-chao chang 	超常	c=1 d=1 t=28285
+chao chang 	超常	c=1 d=0.17552 t=28633
 chao da 	超大	c=1 d=0.229925 t=28633
 chao da xing 	超大型	c=1 d=0.242926 t=28633
 chao feng 	嘲讽	c=2 d=0.254107 t=28633
@@ -688,7 +696,7 @@ chao guo 	超过	c=1 d=4.06557e-30 t=28633
 chao hu 	超乎	c=3 d=0.179133 t=28633
 chao ji 	超级	c=1 d=0.0212797 t=28633
 chao nong 	嘲弄	c=1 d=0.0169922 t=28633
-chao ren 	超人	c=1 d=1 t=28278
+chao ren 	超人	c=1 d=0.169483 t=28633
 chao xiang 	朝向	c=1 d=4.19094e-05 t=28633
 chao xiao 	嘲笑	c=1 d=0.366045 t=28633
 chao yue 	超越	c=1 d=1 t=28633
@@ -702,8 +710,8 @@ che hui 	撤回	c=1 d=2.50878e-27 t=28633
 che hui lai 	撤回来	c=1 d=0.00329615 t=28633
 che le 	扯了	c=1 d=2.30004e-05 t=28633
 che liang 	车辆	c=2 d=0.866769 t=28633
-che liu 	车流	c=1 d=2.12356e-07 t=28633
-che pai 	车牌	c=5 d=0.000326182 t=28633
+che liu 	车流	c=2 d=0.320867 t=28633
+che pai 	车牌	c=5 d=0.147342 t=28633
 che shang 	车上	c=1 d=0.125556 t=28633
 che tou che wei 	彻头彻尾	c=1 d=5.87985e-18 t=28633
 che yuan le 	扯远了	c=1 d=0.00621991 t=28633
@@ -717,7 +725,7 @@ chen long 	陈龙	c=1 d=8.87373e-07 t=28633
 chen mi 	沉迷	c=1 d=8.91973e-09 t=28633
 chen mo 	沉没	c=1 d=0.191092 t=28633
 chen mo 	沉默	c=2 d=0.190139 t=28633
-chen shan 	衬衫	c=1 d=1 t=28523
+chen shan 	衬衫	c=1 d=0.57695 t=28633
 chen yi xun 	陈奕迅	c=1 d=3.19156e-06 t=28633
 chen yu 	陈裕	c=1 d=3.65846e-24 t=28633
 chen zhi long 	陈智龙	c=1 d=3.90894e-09 t=28633
@@ -746,7 +754,7 @@ cheng tian 	成田	c=14 d=9.56684e-11 t=28633
 cheng wei 	成为	c=8 d=1.22119 t=28633
 cheng wei 	称为	c=9 d=0.149774 t=28633
 cheng wei le 	成为了	c=3 d=0.0266491 t=28633
-cheng xian 	呈现	c=1 d=1 t=28539
+cheng xian 	呈现	c=1 d=0.625002 t=28633
 cheng xu 	程序	c=5 d=3.39769e-07 t=28633
 cheng yuan 	成员	c=2 d=1.95123 t=28633
 cheng zhang 	成长	c=4 d=0.032185 t=28633
@@ -780,10 +788,10 @@ chong dian qi 	充电器	c=2 d=9.70941e-07 t=28633
 chong die 	重叠	c=2 d=5.57996e-31 t=28633
 chong dong 	冲动	c=1 d=3.10525e-07 t=28633
 chong fen 	充分	c=2 d=0.196912 t=28633
-chong fu 	重复	c=3 d=0.111361 t=28633
+chong fu 	重复	c=3 d=0.305884 t=28633
 chong fu le 	重复了	c=1 d=0.00504176 t=28633
 chong gao 	崇高	c=1 d=0.302704 t=28633
-chong gou 	重构	c=1 d=1 t=28058
+chong gou 	重构	c=1 d=0.0564161 t=28633
 chong he 	重合	c=1 d=0.00112497 t=28633
 chong hua 	重画	c=1 d=0.00990218 t=28633
 chong ji 	冲剂	c=1 d=0.000232877 t=28633
@@ -872,9 +880,9 @@ chuang shang 	床上	c=2 d=0.357011 t=28633
 chuang wai 	窗外	c=1 d=2.02978e-05 t=28633
 chuang zao 	创造	c=6 d=0.596738 t=28633
 chui 	吹	c=1 d=0.00158052 t=28633
-chui dong 	吹动	c=1 d=1 t=28520
+chui dong 	吹动	c=1 d=0.56836 t=28633
 chui lai 	吹来	c=1 d=0.00146632 t=28633
-chui xia 	垂下	c=1 d=1 t=28491
+chui xia 	垂下	c=1 d=0.491644 t=28633
 chun 	春	c=1 d=2.65704e-26 t=28633
 chun 	纯	c=3 d=3.51381e-21 t=28633
 chun cui 	纯粹	c=1 d=6.29975e-06 t=28633
@@ -886,7 +894,8 @@ chun zhen 	纯真	c=3 d=0.00198553 t=28633
 ci 	次	c=5 d=9.18917e-05 t=28633
 ci 	此	c=7 d=0.375078 t=28633
 ci chu 	此处	c=3 d=0.402524 t=28633
-ci ke 	此刻	c=1 d=1 t=28465
+ci ji 	刺激	c=1 d=1 t=370
+ci ke 	此刻	c=1 d=0.431711 t=28633
 ci ku 	词库	c=5 d=1.69561 t=28633
 ci lei 	此类	c=1 d=0.174645 t=28633
 ci pan 	磁盘	c=4 d=3.89962e-26 t=28633
@@ -953,7 +962,7 @@ da dan 	大胆	c=1 d=0.227638 t=28633
 da dao 	大盗	c=1 d=0.327915 t=28633
 da dao 	达到	c=11 d=0.252845 t=28633
 da de 	大的	c=2 d=0.262674 t=28633
-da di 	大地	c=1 d=1 t=28516
+da di 	大地	c=1 d=0.557106 t=28633
 da dou 	打斗	c=1 d=9.84242e-20 t=28633
 da dou dou 	打豆豆	c=1 d=1.02795e-09 t=28633
 da du 	大度	c=2 d=2.27424e-20 t=28633
@@ -1051,7 +1060,7 @@ dan chun 	单纯	c=4 d=1.12245e-06 t=28633
 dan da wang wei 	胆大妄为	c=0 d=2.59417e-10 t=28633
 dan da wang wei wan da wei sheng wu 	胆大妄为万达微生物	c=1 d=2.60717e-09 t=28633
 dan du 	单独	c=1 d=0.000259956 t=28633
-dan fang mian 	单方面	c=1 d=3.75503e-07 t=28633
+dan fang mian 	单方面	c=1 d=0.304221 t=28633
 dan gan qing 	但感情	c=1 d=0.615697 t=28633
 dan gang 	单杠	c=1 d=2.74224e-15 t=28633
 dan han 	胆寒	c=1 d=0.181772 t=28633
@@ -1105,10 +1114,11 @@ dao guo 	到过	c=1 d=0.00259284 t=28633
 dao hang 	导航	c=2 d=0.00109793 t=28633
 dao hang lan 	导航栏	c=5 d=0.249977 t=28633
 dao huo suo 	导火索	c=1 d=1.78786e-12 t=28633
-dao ji shi 	倒计时	c=2 d=1.49411 t=28214
+dao ji shi 	倒计时	c=2 d=0.18388 t=28633
 dao lai 	到来	c=1 d=7.31927e-06 t=28633
-dao le 	倒了	c=1 d=1 t=28313
+dao le 	倒了	c=1 d=0.201897 t=28633
 dao le 	到了	c=15 d=1.01848 t=28633
+dao li 	道理	c=1 d=1 t=378
 dao lu 	道路	c=11 d=0.698345 t=28633
 dao mi 	稻米	c=0 d=3.43184e-08 t=28633
 dao mi shu 	稻米鼠	c=2 d=6.91536e-07 t=28633
@@ -1189,7 +1199,7 @@ di a lai 	狄阿来	c=1 d=0.101774 t=28633
 di ban 	地板	c=2 d=0.642493 t=28633
 di ban shang 	地板上	c=1 d=0.315058 t=28633
 di bu 	地步	c=4 d=0.551563 t=28633
-di bu 	底部	c=1 d=1 t=28067
+di bu 	底部	c=1 d=0.0590129 t=28633
 di ceng 	底层	c=1 d=6.71005e-13 t=28633
 di dao 	地道	c=1 d=0.179964 t=28633
 di dian 	地点	c=2 d=0.0682212 t=28633
@@ -1206,7 +1216,7 @@ di fang 	地方	c=17 d=0.00284088 t=28633
 di liu 	第六	c=5 d=0.649195 t=28633
 di lou 	地漏	c=1 d=0.337902 t=28633
 di mian 	地面	c=3 d=0.53795 t=28633
-di ping xian 	地平线	c=1 d=1 t=28464
+di ping xian 	地平线	c=1 d=0.429557 t=28633
 di qiu 	地球	c=1 d=0.130029 t=28633
 di qiu ren 	地球人	c=1 d=0.0784731 t=28633
 di qu 	地区	c=4 d=0.161318 t=28633
@@ -1285,6 +1295,8 @@ ding 	鼎	c=1 d=0.000297529 t=28633
 ding ban 	定版	c=9 d=1.4803e-23 t=28633
 ding de 	订的	c=0 d=2.6972e-27 t=28633
 ding le 	订了	c=1 d=0.606531 t=28633
+ding shi 	定时	c=1 d=1.07045 t=27
+ding shi zhua pai 	定时抓拍	c=1 d=1 t=28
 ding ti 	顶替	c=1 d=0.0739031 t=28633
 ding yi 	定义	c=7 d=0.00810722 t=28633
 ding yue 	订阅	c=1 d=7.69978e-14 t=28633
@@ -1315,24 +1327,25 @@ dong xi 	东西	c=40 d=1.22585 t=28633
 dong xue 	洞穴	c=1 d=0.0303487 t=28633
 dong ye 	东野	c=1 d=8.28227e-19 t=28633
 dong zuo 	动作	c=2 d=4.61128e-15 t=28633
-dou 	都	c=110 d=0.952042 t=28633
+dou 	都	c=110 d=1.23265 t=28633
 dou bei 	都被	c=1 d=7.29021e-18 t=28633
 dou bu 	都不	c=0 d=7.24128e-28 t=28633
 dou bu gan 	都不敢	c=1 d=3.98723e-07 t=28633
 dou bu she ji 	都不涉及	c=1 d=7.27757e-27 t=28633
 dou bu shi 	都不是	c=3 d=7.55894e-05 t=28633
 dou bu xing 	都不行	c=1 d=0.0808629 t=28633
-dou bu xu yao 	都不需要	c=1 d=1 t=28083
+dou bu xu yao 	都不需要	c=1 d=0.0639279 t=28633
 dou bu yong 	都不用	c=1 d=1.96297e-23 t=28633
 dou bu zi zai 	都不自在	c=1 d=0.677057 t=28633
 dou chu yu 	都处于	c=1 d=1.90728e-08 t=28633
 dou di 	兜底	c=2 d=4.06777e-07 t=28633
-dou ge 	都个	c=1 d=1 t=28048
+dou ge 	都个	c=1 d=0.0536647 t=28633
 dou hao 	都好	c=1 d=0.00167826 t=28633
 dou hui 	都会	c=12 d=0.847919 t=28633
 dou hui lian 	都会练	c=1 d=5.33227e-15 t=28633
 dou hui qu 	都会去	c=1 d=0.000173384 t=28633
 dou hui si 	都会死	c=1 d=6.37954e-07 t=28633
+dou hui you 	都会有	c=1 d=1 t=324
 dou juan 	都卷	c=1 d=0.331211 t=28633
 dou ke yi 	都可以	c=3 d=3.19928e-05 t=28633
 dou mei 	都没	c=4 d=0.0413782 t=28633
@@ -1354,6 +1367,7 @@ dou yi yang 	都一样	c=1 d=3.19982e-07 t=28633
 dou yin 	抖音	c=1 d=1.23196e-13 t=28633
 dou ying gai 	都应该	c=1 d=0.00105946 t=28633
 dou you 	都有	c=9 d=0.0266491 t=28633
+dou you ke neng 	都有可能	c=1 d=1 t=272
 dou you le 	都有了	c=1 d=0.000825105 t=28633
 dou you zhe 	都有着	c=1 d=0.0916297 t=28633
 dou zai 	都在	c=9 d=0.303506 t=28633
@@ -1401,10 +1415,10 @@ dui ci 	对此	c=1 d=0.000111666 t=28633
 dui cuo 	对错	c=1 d=0.00102814 t=28633
 dui de 	对的	c=4 d=0.0982736 t=28633
 dui dui dui 	对对对	c=1 d=0.000211772 t=28633
-dui fang 	对方	c=19 d=0.543351 t=28633
+dui fang 	对方	c=19 d=4.35659 t=28633
 dui hua 	对话	c=1 d=1.42691e-06 t=28633
 dui huan 	兑换	c=1 d=9.55804e-28 t=28633
-dui jiao 	对焦	c=1 d=0.000300519 t=28633
+dui jiao 	对焦	c=1 d=0.131336 t=28633
 dui jie 	对接	c=1 d=0.594521 t=28633
 dui li 	对立	c=1 d=1 t=28633
 dui ni 	对你	c=3 d=4.00653e-05 t=28633
@@ -1453,7 +1467,7 @@ duo yi 	多疑	c=1 d=4.21338e-09 t=28633
 duo yi lai 	多依赖	c=1 d=0.000262568 t=28633
 duo yuan 	多元	c=3 d=7.08295e-05 t=28633
 duo zai 	多载	c=1 d=0.0129068 t=28633
-duo zhong 	多种	c=3 d=0.0761538 t=28633
+duo zhong 	多种	c=3 d=0.431711 t=28633
 e 	呃	c=2 d=0.00172074 t=28633
 e hua 	恶化	c=1 d=0.0706512 t=28633
 e lie 	恶劣	c=3 d=2.10485e-07 t=28633
@@ -1535,6 +1549,7 @@ fa xi si 	法西斯	c=3 d=0.30764 t=28633
 fa xian 	发现	c=23 d=0.975199 t=28633
 fa xian le 	发现了	c=1 d=0.00119453 t=28633
 fa xie 	发泄	c=2 d=0.105929 t=28633
+fa xing ban 	发行版	c=1 d=1 t=118
 fa yi fen 	发一份	c=1 d=3.96869e-11 t=28633
 fa ze 	法则	c=1 d=0.00516939 t=28633
 fa zhan 	发展	c=12 d=0.00447186 t=28633
@@ -1546,7 +1561,7 @@ fan dao shi 	反倒是	c=1 d=0.0184997 t=28633
 fan dian 	饭店	c=1 d=1.88343e-07 t=28633
 fan dui 	反对	c=2 d=0.0393602 t=28633
 fan er 	反而	c=2 d=0.0119145 t=28633
-fan gan 	反感	c=4 d=0.00126207 t=28633
+fan gan 	反感	c=4 d=0.690734 t=28633
 fan guo lai 	反过来	c=2 d=0.451581 t=28633
 fan hui 	返回	c=13 d=1.16791 t=28633
 fan hui xin xi 	返回信息	c=2 d=1.32732 t=28633
@@ -1564,7 +1579,7 @@ fan wei 	范围	c=1 d=0.755784 t=28633
 fan wen 	反问	c=1 d=3.58358e-16 t=28633
 fan xing 	反省	c=1 d=3.4843e-09 t=28633
 fan yan 	繁衍	c=6 d=0.00710283 t=28633
-fan ye 	翻页	c=1 d=1 t=28227
+fan ye 	翻页	c=1 d=0.131336 t=28633
 fan yi 	翻译	c=1 d=1.27363e-22 t=28633
 fan ying 	反应	c=2 d=1.34706e-05 t=28633
 fan zha 	反诈	c=2 d=3.67766e-19 t=28633
@@ -1573,7 +1588,7 @@ fan zhi 	反之	c=1 d=1.10401e-17 t=28633
 fan zui 	犯罪	c=3 d=0.275656 t=28633
 fang 	房	c=3 d=0.713813 t=28633
 fang 	放	c=5 d=0.904846 t=28633
-fang 	方	c=1 d=0.182684 t=28633
+fang 	方	c=2 d=1.30761 t=28633
 fang 	访	c=2 d=0.164633 t=28633
 fang ai 	妨碍	c=1 d=3.27291e-08 t=28633
 fang an 	方案	c=11 d=0.826959 t=28633
@@ -1689,6 +1704,7 @@ fou ding 	否定	c=1 d=1 t=28633
 fou ze 	否则	c=1 d=1 t=28633
 fu 	复	c=1 d=1.12573e-11 t=28633
 fu 	富	c=1 d=0.891366 t=28633
+fu 	福	c=1 d=1 t=127
 fu bu 	腹部	c=1 d=0.000158461 t=28633
 fu chou 	复仇	c=1 d=0.532592 t=28633
 fu chu 	付出	c=4 d=0.00267272 t=28633
@@ -1739,13 +1755,14 @@ gai bian zi ji 	改变自己	c=1 d=1 t=28633
 gai dong 	改动	c=1 d=0.0300468 t=28633
 gai ge 	改革	c=1 d=1.27255e-12 t=28633
 gai jin 	改进	c=1 d=1 t=28633
-gai kuo 	概括	c=1 d=1 t=28319
+gai kuo 	概括	c=1 d=0.208045 t=28633
 gai le 	改了	c=4 d=1.74065e-22 t=28633
 gai nian 	概念	c=4 d=2.40892 t=28633
 gai ru he 	该如何	c=1 d=1.08983e-12 t=28633
 gai shan 	改善	c=1 d=1.32448e-12 t=28633
 gai wei 	改为	c=1 d=0.0145524 t=28633
 gai zao 	改造	c=2 d=1.0825 t=28633
+gai zheng 	改正	c=1 d=1 t=226
 gan 	干	c=7 d=0.324652 t=28633
 gan 	感	c=3 d=6.26727e-05 t=28633
 gan 	敢	c=2 d=0.794534 t=28633
@@ -1886,7 +1903,7 @@ geng jia 	更加	c=3 d=2.52926e-05 t=28633
 geng jian rong 	更兼容	c=1 d=1.31671e-31 t=28633
 geng le 	更了	c=1 d=4.16778e-28 t=28633
 geng ling ren 	更令人	c=1 d=1 t=28633
-geng mei guan 	更美观	c=1 d=1 t=28052
+geng mei guan 	更美观	c=1 d=0.0547488 t=28633
 geng rang ren 	更让人	c=1 d=0.00951391 t=28633
 geng rong yi 	更容易	c=2 d=0.055299 t=28633
 geng shen 	更甚	c=1 d=0.360595 t=28633
@@ -1958,6 +1975,8 @@ gou cheng 	构成	c=1 d=1 t=28633
 gou jian 	构建	c=2 d=9.40569e-31 t=28633
 gou ma 	够吗	c=1 d=1.41709e-13 t=28633
 gou mai 	购买	c=5 d=4.67905e-07 t=28633
+gou tong 	沟通	c=3 d=2.65066 t=217
+gou xiang 	构想	c=2 d=1.99501 t=168
 gou yong 	够用	c=1 d=8.37263e-29 t=28633
 gu bu zi feng 	故步自封	c=1 d=1 t=28633
 gu dian 	古典	c=1 d=0.0163259 t=28633
@@ -1966,6 +1985,7 @@ gu dong 	鼓动	c=1 d=2.04273e-21 t=28633
 gu du 	孤独	c=1 d=9.00631e-05 t=28633
 gu ji 	估计	c=10 d=0.217262 t=28633
 gu ji 	顾及	c=1 d=2.91736e-08 t=28633
+gu jian 	固件	c=2 d=1.92312 t=98
 gu lv 	顾虑	c=1 d=1.19803e-08 t=28633
 gu ming si yi 	顾名思义	c=1 d=0.316637 t=28633
 gu piao 	股票	c=4 d=0.318377 t=28633
@@ -1990,13 +2010,14 @@ guan chuan 	贯穿	c=2 d=0.328802 t=28633
 guan dian 	观点	c=13 d=0.0782511 t=28633
 guan dong 	关东	c=1 d=1.29579e-19 t=28633
 guan fang 	官方	c=1 d=6.78441e-25 t=28633
+guan huai 	关怀	c=1 d=1 t=313
 guan ji 	关机	c=1 d=0.631284 t=28633
 guan jian zi 	关键字	c=1 d=3.16411e-22 t=28633
 guan jun 	冠军	c=1 d=9.08261e-16 t=28633
 guan kan 	观看	c=7 d=0.856817 t=28633
 guan kan wan hou 	观看完后	c=1 d=1.39504e-05 t=28633
 guan lan 	灌篮	c=2 d=8.27047e-24 t=28633
-guan li 	管理	c=13 d=0.10085 t=28633
+guan li 	管理	c=13 d=0.251579 t=28633
 guan li qi 	管理器	c=1 d=3.04947e-29 t=28633
 guan li yuan 	管理员	c=2 d=0.238802 t=28633
 guan lian 	关联	c=4 d=5.38164e-08 t=28633
@@ -2007,6 +2028,7 @@ guan qu 	观去	c=1 d=2.13457e-09 t=28633
 guan shang 	冠上	c=1 d=3.15218e-07 t=28633
 guan shang 	观赏	c=1 d=7.56942e-19 t=28633
 guan shi 	灌屎	c=1 d=1.45925e-05 t=28633
+guan wang 	官网	c=1 d=1 t=111
 guan xi 	关系	c=26 d=1.58925 t=28633
 guan xi 	关西	c=5 d=2.37415e-17 t=28633
 guan xi ma 	关系吗	c=1 d=0.000800719 t=28633
@@ -2023,10 +2045,10 @@ guang dong hua 	广东话	c=7 d=1.51353 t=28633
 guang dong ren 	广东人	c=1 d=0.852144 t=28633
 guang fa 	广发	c=2 d=0.726149 t=28633
 guang gao 	广告	c=6 d=4.16044e-06 t=28633
-guang hou 	广厚	c=1 d=1 t=28618
+guang hou 	广厚	c=1 d=0.927743 t=28633
 guang kuo 	广阔	c=2 d=0.382935 t=28633
 guang le 	广乐	c=4 d=2.03028 t=28633
-guang mao wu yin 	广袤无垠	c=1 d=1 t=28400
+guang mao wu yin 	广袤无垠	c=1 d=0.311923 t=28633
 guang ming 	光明	c=3 d=9.80658e-18 t=28633
 guang su 	光速	c=1 d=1.84645e-09 t=28633
 guang wu 	光武	c=1 d=5.94501e-30 t=28633
@@ -2100,6 +2122,7 @@ hai chuan cha 	还穿插	c=1 d=2.07078e-05 t=28633
 hai hao 	还好	c=1 d=0.579842 t=28633
 hai hui 	还会	c=1 d=6.7007e-26 t=28633
 hai juan 	还卷	c=1 d=0.304221 t=28633
+hai kang 	海康	c=0 d=0.1 t=33
 hai ke 	还可	c=1 d=5.90832e-16 t=28633
 hai liu le 	还留了	c=1 d=9.58798e-06 t=28633
 hai mei 	还没	c=2 d=1.15722e-12 t=28633
@@ -2148,6 +2171,7 @@ hao de hao de 	好的好的	c=1 d=0.257947 t=28633
 hao gan du 	好感度	c=1 d=0.000141247 t=28633
 hao guai yi 	好怪异	c=1 d=0.00238156 t=28633
 hao gui 	好贵	c=1 d=8.99377e-18 t=28633
+hao hao 	好好	c=1 d=1 t=218
 hao jian ao 	好煎熬	c=0 d=4.84902e-16 t=28633
 hao jue 	豪爵	c=1 d=0.020141 t=28633
 hao kan 	好看	c=1 d=5.13208e-06 t=28633
@@ -2188,7 +2212,7 @@ he luo 	和罗	c=1 d=0.169483 t=28633
 he mo fang ta ren 	和模仿他人	c=1 d=0.0112769 t=28633
 he ni 	和你	c=6 d=0.00159172 t=28633
 he ping 	和平	c=3 d=1.52951 t=28633
-he ren 	和人	c=1 d=0.000973123 t=28633
+he ren 	和人	c=1 d=0.56836 t=28633
 he shang 	合上	c=1 d=4.36109e-32 t=28633
 he shen du 	和深度	c=1 d=0.0958472 t=28633
 he ta 	和她	c=4 d=0.000240932 t=28633
@@ -2204,16 +2228,16 @@ hei an 	黑暗	c=2 d=0.154896 t=28633
 hei bai 	黑白	c=1 d=1.88311e-05 t=28633
 hei men 	黑门	c=1 d=3.71249e-20 t=28633
 hei ren 	黑人	c=12 d=1.7462 t=28633
-hei se 	黑色	c=1 d=1 t=28428
+hei se 	黑色	c=1 d=0.358796 t=28633
 hei yao shi 	黑曜石	c=2 d=0.000396894 t=28633
 hei yun 	黑云	c=1 d=0.00141589 t=28633
 hei zhi zhu xia 	黑蜘蛛侠	c=1 d=1.86437e-05 t=28633
-hen 	很	c=34 d=0.599679 t=28633
+hen 	很	c=34 d=0.733447 t=28633
 hen 	恨	c=1 d=4.25428e-05 t=28633
 hen bu 	很不	c=1 d=0.634448 t=28633
 hen da 	很大	c=7 d=0.195699 t=28633
 hen da cheng 	很大成	c=1 d=0.0116786 t=28633
-hen duo 	很多	c=19 d=0.388306 t=28633
+hen duo 	很多	c=19 d=0.414783 t=28633
 hen duo ci 	很多次	c=1 d=0.00404611 t=28633
 hen duo ren 	很多人	c=1 d=5.57296e-05 t=28633
 hen duo shi hou 	很多时候	c=2 d=2.26579e-05 t=28633
@@ -2221,7 +2245,7 @@ hen gan xing qu 	很感兴趣	c=1 d=0.000209665 t=28633
 hen gao 	很高	c=1 d=8.1759e-14 t=28633
 hen hao 	很好	c=7 d=2.72764e-11 t=28633
 hen jian dan 	很简单	c=1 d=9.24689e-21 t=28633
-hen jin 	很近	c=1 d=1 t=28574
+hen jin 	很近	c=1 d=0.744532 t=28633
 hen jing cai 	很精彩	c=1 d=0.0383884 t=28633
 hen jiu 	很久	c=2 d=0.000633025 t=28633
 hen kai xin 	很开心	c=1 d=0.169483 t=28633
@@ -2234,8 +2258,8 @@ hen nan 	很难	c=9 d=1.49905e-05 t=28633
 hen nan da 	很难打	c=1 d=2.09879e-16 t=28633
 hen nan shuo 	很难说	c=1 d=5.94824e-07 t=28633
 hen qi guai 	很奇怪	c=2 d=0.218116 t=28633
-hen qiang 	很强	c=1 d=1 t=28374
-hen qiang da 	很强大	c=1 d=1 t=28308
+hen qiang 	很强	c=1 d=0.273898 t=28633
+hen qiang da 	很强大	c=1 d=0.196912 t=28633
 hen qiang lie 	很强烈	c=1 d=1.51669e-18 t=28633
 hen qiao he 	很巧合	c=1 d=0.537944 t=28633
 hen qing chu 	很清楚	c=2 d=0.0457319 t=28633
@@ -2253,7 +2277,7 @@ hen you ke neng 	很有可能	c=1 d=2.39553e-13 t=28633
 hen zhi bai 	很直白	c=2 d=0.262889 t=28633
 hen zi hao 	很自豪	c=1 d=0.00382958 t=28633
 hen zi ran 	很自然	c=1 d=7.41197e-07 t=28633
-heng 	哼	c=1 d=1 t=28558
+heng 	哼	c=1 d=0.687289 t=28633
 heng bin 	横滨	c=1 d=4.22788e-20 t=28633
 heng gang 	横冈	c=1 d=1.29156e-10 t=28633
 heng xing 	恒星	c=1 d=1.82995e-21 t=28633
@@ -2413,7 +2437,7 @@ hun yin 	婚姻	c=1 d=7.79066e-05 t=28633
 hun yu 	婚育	c=0 d=7.17312e-05 t=28633
 hun yu lv 	婚育率	c=1 d=0.000720907 t=28633
 hun za 	混杂	c=1 d=2.4916e-05 t=28633
-huo 	或	c=18 d=0.918512 t=28633
+huo 	或	c=18 d=1.23534 t=28633
 huo 	活	c=1 d=2.79621e-09 t=28633
 huo bi 	货币	c=1 d=9.51037e-28 t=28633
 huo bu liao 	活不了	c=1 d=6.08515e-10 t=28633
@@ -2426,11 +2450,12 @@ huo le 	活了	c=1 d=6.39496e-06 t=28633
 huo qu 	获取	c=14 d=1.82305e-06 t=28633
 huo qu dao 	获取到	c=1 d=5.2338e-31 t=28633
 huo shan 	火山	c=1 d=1.64755e-21 t=28633
-huo shao 	或少	c=1 d=1 t=28598
-huo shao 	火烧	c=1 d=1 t=28597
+huo shao 	或少	c=1 d=0.839457 t=28633
+huo shao 	火烧	c=1 d=0.83527 t=28633
+huo sheng sheng 	活生生	c=1 d=1 t=284
 huo xu 	或许	c=9 d=0.0227185 t=28633
 huo yan 	火焰	c=2 d=4.2063e-08 t=28633
-huo zhe 	或者	c=10 d=0.237075 t=28633
+huo zhe 	或者	c=10 d=0.585669 t=28633
 huo zhe 	活着	c=3 d=0.529935 t=28633
 huo zhe shuo 	或者说	c=3 d=7.67728e-09 t=28633
 ji 	几	c=1 d=9.09992e-09 t=28633
@@ -2505,7 +2530,7 @@ ji ran 	既然	c=3 d=0.46336 t=28633
 ji rou 	肌肉	c=3 d=0.000256604 t=28633
 ji shi 	几时	c=1 d=4.18297e-12 t=28633
 ji shi 	即使	c=12 d=0.901837 t=28633
-ji shi 	计时	c=1 d=1 t=28041
+ji shi 	计时	c=1 d=0.0518189 t=28633
 ji shi 	记事	c=1 d=3.06215e-19 t=28633
 ji shi shi 	即使是	c=0 d=1.54176e-06 t=28633
 ji shi shi you 	即使是有	c=1 d=1.54949e-05 t=28633
@@ -2513,7 +2538,7 @@ ji shi zai 	即使在	c=1 d=0.271173 t=28633
 ji shu 	技术	c=5 d=0.120633 t=28633
 ji shu 	记述	c=5 d=2.53491e-18 t=28633
 ji shui 	积水	c=1 d=0.319819 t=28633
-ji suan 	计算	c=10 d=0.00431814 t=28633
+ji suan 	计算	c=10 d=0.13068 t=28633
 ji suan de 	计算的	c=1 d=0.0784731 t=28633
 ji suan ji 	计算机	c=1 d=5.34425e-12 t=28633
 ji tian qian 	几天前	c=1 d=9.65934e-05 t=28633
@@ -2579,14 +2604,15 @@ jian 	件	c=1 d=1.8315e-31 t=28633
 jian 	减	c=3 d=8.69687e-06 t=28633
 jian 	煎	c=1 d=1.11203e-14 t=28633
 jian 	见	c=4 d=0.171187 t=28633
-jian 	间	c=13 d=0.27332 t=28633
+jian 	键	c=1 d=1 t=9
+jian 	间	c=13 d=0.752014 t=28633
 jian ba nu zhang 	剑拔弩张	c=1 d=1.92711e-12 t=28633
 jian bang 	肩膀	c=1 d=0.000154549 t=28633
 jian bian 	渐变	c=3 d=0.0119407 t=28633
 jian bian 	简便	c=1 d=0.0037164 t=28633
 jian ce 	检测	c=25 d=0.577002 t=28633
 jian cha 	检查	c=10 d=0.831448 t=28633
-jian chi 	坚持	c=3 d=5.27272e-05 t=28633
+jian chi 	坚持	c=3 d=0.955997 t=28633
 jian dan 	简单	c=6 d=0.103377 t=28633
 jian dan shuo yi xia 	简单说一下	c=1 d=0.0587185 t=28633
 jian dao guo 	见到过	c=1 d=1.12826e-08 t=28633
@@ -2629,7 +2655,7 @@ jian shi 	见识	c=4 d=0.000749025 t=28633
 jian suo 	检索	c=1 d=1.29332e-26 t=28633
 jian ting 	监听	c=1 d=1.06e-09 t=28633
 jian tou 	箭头	c=1 d=1.07306e-06 t=28633
-jian yi 	建议	c=7 d=1.14216e-05 t=28633
+jian yi 	建议	c=7 d=0.190139 t=28633
 jian ying 	坚硬	c=2 d=0.000448321 t=28633
 jian yu 	鉴于	c=1 d=1.45346e-17 t=28633
 jian yue 	简约	c=1 d=1.16583e-11 t=28633
@@ -2742,7 +2768,7 @@ jie shao yi xia 	介绍一下	c=2 d=0.00348252 t=28633
 jie shi 	解释	c=9 d=1.07337 t=28633
 jie shi le 	结识了	c=1 d=1.96163e-15 t=28633
 jie shi yi xia 	解释一下	c=1 d=3.92373e-24 t=28633
-jie shou 	接受	c=4 d=0.39509 t=28633
+jie shou 	接受	c=4 d=2.58462 t=28633
 jie shou 	接手	c=1 d=2.18824e-07 t=28633
 jie shou 	接收	c=10 d=0.1837 t=28633
 jie shou ta 	接受他	c=1 d=2.52969e-07 t=28633
@@ -2770,7 +2796,7 @@ jin 	紧	c=1 d=3.71766e-07 t=28633
 jin 	近	c=4 d=5.03443e-08 t=28633
 jin 	进	c=5 d=0.0977834 t=28633
 jin 	金	c=1 d=0.201897 t=28633
-jin bu 	进步	c=3 d=0.0152227 t=28633
+jin bu 	进步	c=3 d=0.355226 t=28633
 jin che zhan 	进车站	c=1 d=1.03133e-10 t=28633
 jin cheng 	进程	c=1 d=1.96805e-24 t=28633
 jin chi 	矜持	c=1 d=1.6371e-05 t=28633
@@ -2799,7 +2825,7 @@ jin shi 	尽是	c=1 d=6.27474e-18 t=28633
 jin shu 	禁书	c=1 d=0.22091 t=28633
 jin tian 	今天	c=8 d=0.337902 t=28633
 jin tian de 	今天的	c=1 d=6.39496e-06 t=28633
-jin tou 	尽头	c=1 d=1 t=28462
+jin tou 	尽头	c=1 d=0.425283 t=28633
 jin xing 	尽兴	c=1 d=0.203926 t=28633
 jin xing 	进行	c=25 d=0.646108 t=28633
 jin xing cao zuo 	进行操作	c=1 d=0.339596 t=28633
@@ -2826,7 +2852,7 @@ jing li 	精力	c=2 d=5.12693e-13 t=28633
 jing li 	经历	c=6 d=0.000348207 t=28633
 jing li 	经理	c=1 d=1.13527e-22 t=28633
 jing li guo 	经历过	c=5 d=0.0999803 t=28633
-jing li le 	经历了	c=1 d=1 t=28269
+jing li le 	经历了	c=1 d=0.162026 t=28633
 jing mi 	静谧	c=1 d=1.98958e-05 t=28633
 jing pei 	敬佩	c=2 d=0.574445 t=28633
 jing ran 	竟然	c=1 d=2.49415e-17 t=28633
@@ -2902,7 +2928,7 @@ jiu si xiang 	旧思想	c=1 d=1 t=28633
 jiu suan 	就算	c=3 d=3.92786e-07 t=28633
 jiu tuo li 	就脱离	c=1 d=0.323033 t=28633
 jiu wan shi le 	就完事了	c=1 d=4.2025e-08 t=28633
-jiu xiang 	就像	c=5 d=0.373691 t=28633
+jiu xiang 	就像	c=5 d=0.562705 t=28633
 jiu xiang dao le 	就想到了	c=1 d=5.01832e-07 t=28633
 jiu xiang shi 	就像是	c=1 d=6.91675e-17 t=28633
 jiu xing 	就行	c=5 d=1.94312e-09 t=28633
@@ -2967,7 +2993,7 @@ jun shi 	军事	c=2 d=0.0361763 t=28633
 ka 	卡	c=8 d=2.535 t=28633
 ka fei 	咖啡	c=2 d=0.000494951 t=28633
 ka fei ting 	咖啡厅	c=1 d=5.01133e-20 t=28633
-ka kou 	卡口	c=4 d=0.66711 t=28633
+ka kou 	卡口	c=6 d=0.910501 t=28633
 ka kou xiang ji 	卡口相机	c=1 d=6.60565e-05 t=28633
 ka la la 	卡拉拉	c=8 d=3.72465 t=28633
 ka si 	卡死	c=1 d=1.53538e-15 t=28633
@@ -3006,7 +3032,7 @@ kan 	看	c=29 d=0.644532 t=28633
 kan bu chu 	看不出	c=1 d=2.92134e-24 t=28633
 kan bu jian 	看不见	c=1 d=0.00143012 t=28633
 kan bu liao 	看不了	c=2 d=9.03977e-11 t=28633
-kan dai 	看待	c=4 d=0.000547581 t=28633
+kan dai 	看待	c=4 d=0.865022 t=28633
 kan dao 	看到	c=11 d=0.702384 t=28633
 kan dao hou 	看到后	c=1 d=0.000246044 t=28633
 kan de 	看的	c=1 d=1.3552e-17 t=28633
@@ -3098,12 +3124,12 @@ kong 	空	c=1 d=0.0350844 t=28633
 kong bai 	空白	c=5 d=1.27232 t=28633
 kong bu 	恐怖	c=3 d=0.0187056 t=28633
 kong dong 	空洞	c=3 d=1.06081 t=28633
-kong dong dong 	空洞洞	c=2 d=1.98511 t=28475
+kong dong dong 	空洞洞	c=2 d=0.900932 t=28633
 kong jian 	空间	c=5 d=0.000265207 t=28633
 kong tiao 	空调	c=1 d=1.21506e-27 t=28633
 kong zhi 	控制	c=9 d=0.737417 t=28633
 kong zhi dao 	控制到	c=1 d=6.46253e-12 t=28633
-kong zhi yu 	控制欲	c=1 d=0.32628 t=28633
+kong zhi yu 	控制欲	c=1 d=0.425283 t=28633
 kou 	口	c=1 d=0.0731678 t=28633
 kou 	扣	c=1 d=1.84006e-27 t=28633
 kou nan kai 	口难开	c=1 d=0.0473589 t=28633
@@ -3117,8 +3143,9 @@ kua ping tai 	跨平台	c=2 d=0.0108969 t=28633
 kuai 	块	c=1 d=1.3138e-05 t=28633
 kuai 	快	c=1 d=4.53058e-10 t=28633
 kuai gan 	快感	c=2 d=0.00860854 t=28633
-kuai jie 	快捷	c=1 d=0.000185956 t=28633
+kuai jie 	快捷	c=1 d=0.0117068 t=28633
 kuai jie jian 	快捷键	c=6 d=0.0145524 t=28633
+kuai jie mian 	快捷面	c=1 d=1 t=8
 kuai le 	快乐	c=1 d=2.92392e-05 t=28633
 kuai yin 	快印	c=1 d=0.904837 t=28633
 kuai yun 	快运	c=1 d=6.60902e-11 t=28633
@@ -3223,7 +3250,7 @@ li lun jia 	理论家	c=1 d=0.0103063 t=28633
 li lun ke 	理论课	c=0 d=1.02389e-14 t=28633
 li ma 	立马	c=3 d=0.13467 t=28633
 li mian 	里面	c=24 d=0.172004 t=28633
-li mian le 	里面了	c=1 d=1 t=28616
+li mian le 	里面了	c=1 d=0.918512 t=28633
 li nian 	理念	c=2 d=1.73345 t=28633
 li ru 	例如	c=28 d=1.18752 t=28633
 li shi 	历史	c=8 d=0.114399 t=28633
@@ -3233,7 +3260,7 @@ li suo neng ji 	力所能及	c=1 d=3.8794e-08 t=28633
 li suo ying dang 	理所应当	c=3 d=0.694481 t=28633
 li wai 	里外	c=1 d=1.6641e-21 t=28633
 li wan kuang lan 	力挽狂澜	c=1 d=0.0497871 t=28633
-li wo 	离我	c=1 d=1 t=28573
+li wo 	离我	c=1 d=0.740818 t=28633
 li wu 	礼物	c=7 d=0.00507353 t=28633
 li xia 	立下	c=1 d=7.82971e-05 t=28633
 li xiang 	理想	c=3 d=0.307279 t=28633
@@ -3269,12 +3296,13 @@ liang 	辆	c=1 d=2.40631e-07 t=28633
 liang 	量	c=2 d=2.39431e-07 t=28633
 liang 	靓	c=3 d=1.81973 t=28633
 liang bian 	两边	c=2 d=0.000134358 t=28633
-liang che dao 	两车道	c=1 d=1 t=28443
+liang che dao 	两车道	c=1 d=0.386741 t=28633
 liang ci 	两次	c=1 d=1.56613e-13 t=28633
 liang ge 	两个	c=16 d=0.122203 t=28633
 liang ge ren 	两个人	c=2 d=0.0735345 t=28633
 liang ge yue 	两个月	c=1 d=1.10457e-23 t=28633
 liang gen 	两根	c=1 d=1.39599e-13 t=28633
+liang hao 	良好	c=1 d=1 t=318
 liang jian 	两间	c=1 d=2.30678e-10 t=28633
 liang jian fang 	两间房	c=1 d=0.609571 t=28633
 liang kuai 	两块	c=1 d=0.000120966 t=28633
@@ -3296,6 +3324,7 @@ liao 	聊	c=3 d=0.410656 t=28633
 liao gong 	寥工	c=1 d=2.03047e-09 t=28633
 liao jie 	了解	c=4 d=0.00852289 t=28633
 liao jie dao 	了解到	c=1 d=1.79127e-05 t=28633
+liao ru zhi zhang 	了如指掌	c=1 d=1 t=253
 liao tian 	聊天	c=9 d=0.000269073 t=28633
 liao yuan 	燎原	c=1 d=0.501576 t=28633
 lie 	列	c=2 d=0.212001 t=28633
@@ -3315,7 +3344,7 @@ ling dao 	领导	c=1 d=4.14924e-05 t=28633
 ling dao li 	领导力	c=1 d=0.304221 t=28633
 ling hua qian 	零花钱	c=1 d=8.65906e-13 t=28633
 ling hun 	灵魂	c=1 d=7.30908e-19 t=28633
-ling luan 	凌乱	c=1 d=1 t=28533
+ling luan 	凌乱	c=1 d=0.606531 t=28633
 ling ren 	令人	c=4 d=0.194988 t=28633
 ling ren fa zhi 	令人发指	c=1 d=0.282239 t=28633
 ling shi 	零食	c=1 d=1.98614e-14 t=28633
@@ -3324,6 +3353,7 @@ ling wai 	另外	c=2 d=0.028297 t=28633
 ling wai yi ge 	另外一个	c=1 d=2.34443e-24 t=28633
 ling yi 	灵异	c=1 d=0.12938 t=28633
 ling yi bian 	另一边	c=1 d=2.12906e-08 t=28633
+ling yi fang 	另一方	c=3 d=2.7492 t=391
 ling yi fang mian 	另一方面	c=2 d=0.00597602 t=28633
 ling yi ge 	另一个	c=7 d=0.154225 t=28633
 ling yi gu shi 	灵异故事	c=1 d=0.690734 t=28633
@@ -3338,11 +3368,13 @@ liu ben mu 	六本木	c=2 d=3.82555e-20 t=28633
 liu bi ti 	流鼻涕	c=1 d=2.6e-06 t=28633
 liu cheng 	流程	c=6 d=0.215456 t=28633
 liu chuan jun 	刘传军	c=2 d=3.02494e-25 t=28633
+liu gong li 	六公里	c=1 d=1 t=95
 liu jing 	刘静	c=2 d=2.96549e-24 t=28633
 liu lan 	浏览	c=3 d=0.000169034 t=28633
 liu lan le 	浏览了	c=1 d=0.000104117 t=28633
 liu lan qi 	浏览器	c=6 d=0.000333601 t=28633
 liu le 	留了	c=0 d=9.54016e-07 t=28633
+liu li zhe 	流离者	c=1 d=1 t=99
 liu liang 	流量	c=4 d=1.38325e-19 t=28633
 liu ri 	六日	c=0 d=0.026982 t=28633
 liu shui zhang 	流水账	c=2 d=9.81813e-19 t=28633
@@ -3366,7 +3398,7 @@ lou che 	漏车	c=1 d=5.4626e-05 t=28633
 lou dong 	漏洞	c=5 d=5.16042e-24 t=28633
 lou zhe 	搂着	c=1 d=0.000420107 t=28633
 lu 	卢	c=0 d=4.60861e-06 t=28633
-lu 	路	c=1 d=1 t=28439
+lu 	路	c=1 d=0.379083 t=28633
 lu 	露	c=1 d=5.43721e-09 t=28633
 lu bao 	芦苞	c=1 d=1.07917e-14 t=28633
 lu bian 	路边	c=1 d=0.904837 t=28633
@@ -3420,13 +3452,13 @@ lve wei 	略微	c=1 d=2.56129e-06 t=28633
 ma 	吗	c=66 d=3.2095 t=28633
 ma 	嘛	c=4 d=0.000334526 t=28633
 ma 	妈	c=2 d=3.35892e-12 t=28633
-ma 	码	c=1 d=1 t=28579
+ma 	码	c=1 d=0.763379 t=28633
 ma de 	妈的	c=1 d=7.76369e-23 t=28633
 ma fan 	麻烦	c=5 d=5.09416e-07 t=28633
 ma hua teng 	马化腾	c=1 d=8.78544e-07 t=28633
 ma liu 	码流	c=1 d=2.70013e-06 t=28633
 ma lou 	马喽	c=1 d=7.34071e-11 t=28633
-ma lu 	马路	c=2 d=1.97045 t=28461
+ma lu 	马路	c=2 d=0.83382 t=28633
 ma ma 	麻麻	c=1 d=2.13712e-23 t=28633
 ma sai ke 	马赛克	c=1 d=5.70589e-11 t=28633
 ma sai ke le 	马赛克了	c=1 d=5.0959e-11 t=28633
@@ -3580,7 +3612,7 @@ mi shi 	迷失	c=1 d=7.5227e-05 t=28633
 mi yao 	密钥	c=3 d=0.0269235 t=28633
 mi zhe yan 	眯着眼	c=1 d=0.71177 t=28633
 mian 	眠	c=1 d=1.57317e-07 t=28633
-mian 	面	c=3 d=0.000154555 t=28633
+mian 	面	c=3 d=0.0117068 t=28633
 mian dui 	面对	c=3 d=0.322903 t=28633
 mian lin 	面临	c=1 d=3.61651e-06 t=28633
 mian qian 	面前	c=1 d=9.42245e-07 t=28633
@@ -3610,7 +3642,8 @@ ming bai le 	明白了	c=6 d=0.214011 t=28633
 ming cheng 	名称	c=3 d=4.10935e-09 t=28633
 ming ci 	名词	c=1 d=1.15761e-16 t=28633
 ming jiao 	名叫	c=1 d=3.88812e-05 t=28633
-ming ling 	命令	c=9 d=0.00557791 t=28633
+ming ling 	命令	c=9 d=0.242926 t=28633
+ming ling hang 	命令行	c=1 d=1 t=123
 ming mian 	明面	c=1 d=8.89519e-06 t=28633
 ming ming 	命名	c=1 d=3.0057e-06 t=28633
 ming ming 	明明	c=7 d=0.806192 t=28633
@@ -3656,7 +3689,8 @@ mo tou 	魔头	c=1 d=0.000742862 t=28633
 mo tuo che 	摩托车	c=5 d=0.0508796 t=28633
 mo xing 	模型	c=3 d=0.0584257 t=28633
 mo xu you 	莫须有	c=1 d=2.88785e-06 t=28633
-mou 	某	c=6 d=0.868183 t=28633
+mou 	某	c=6 d=1.30108 t=28633
+mou fang 	某方	c=1 d=1 t=363
 mou ge 	某个	c=8 d=1.43714 t=28633
 mou ge ren 	某个人	c=1 d=2.4305e-07 t=28633
 mou jian 	某件	c=1 d=6.50731e-05 t=28633
@@ -3679,7 +3713,7 @@ mu 	幕	c=1 d=1.16945e-18 t=28633
 mu ban 	模板	c=3 d=3.51871e-07 t=28633
 mu biao 	目标	c=11 d=0.410656 t=28633
 mu biao xing 	目标性	c=2 d=1.49008e-05 t=28633
-mu bu zhuan jing de kan zhe 	目不转睛地看着	c=1 d=1 t=28460
+mu bu zhuan jing de kan zhe 	目不转睛地看着	c=1 d=0.421052 t=28633
 mu di 	目的	c=1 d=6.47705e-09 t=28633
 mu guang 	目光	c=3 d=8.70941e-06 t=28633
 mu lu 	目录	c=4 d=1.70594e-19 t=28633
@@ -3736,7 +3770,9 @@ na you 	哪有	c=2 d=1.60495e-07 t=28633
 na zhang 	哪张	c=1 d=4.88927e-24 t=28633
 na zhong 	哪种	c=1 d=0.00308872 t=28633
 na zhong 	那种	c=11 d=0.311921 t=28633
+na zi ran shi 	那自然是	c=1 d=1 t=340
 nai fen 	奶粉	c=1 d=0.000239969 t=28633
+nai xin 	耐心	c=2 d=1.98511 t=182
 nai zhi 	乃至	c=1 d=0.00677172 t=28633
 nan 	男	c=1 d=0.0845849 t=28633
 nan 	难	c=3 d=4.24688e-06 t=28633
@@ -3811,7 +3847,7 @@ ni bu shi 	你不是	c=1 d=1 t=28633
 ni bu xu yao 	你不需要	c=2 d=6.97249e-22 t=28633
 ni chi wan 	你吃完	c=1 d=1.62949e-09 t=28633
 ni da 	你打	c=1 d=0.546074 t=28633
-ni de 	你的	c=13 d=0.0489795 t=28633
+ni de 	你的	c=13 d=0.327915 t=28633
 ni de ka 	你的卡	c=1 d=6.625e-10 t=28633
 ni dui 	你对	c=1 d=0.000116223 t=28633
 ni dui wo 	你对我	c=1 d=1.06861e-16 t=28633
@@ -3822,7 +3858,7 @@ ni hai zai 	你还在	c=1 d=1.31242e-22 t=28633
 ni hao 	你好	c=9 d=3.21498 t=28633
 ni he wo 	你和我	c=1 d=0.00116504 t=28633
 ni hong 	霓虹	c=1 d=9.40613e-16 t=28633
-ni hui 	你会	c=4 d=0.000376347 t=28633
+ni hui 	你会	c=4 d=0.299692 t=28633
 ni jia 	你家	c=1 d=0.100761 t=28633
 ni jiao 	你叫	c=1 d=6.26833e-06 t=28633
 ni jin tian 	你今天	c=1 d=0.000175127 t=28633
@@ -3897,6 +3933,7 @@ nian qing de shi hou 	年轻的时候	c=1 d=1 t=28633
 nian qing ren 	年轻人	c=3 d=8.19009e-05 t=28633
 nian sui 	碾碎	c=1 d=0.00240549 t=28633
 nian tou 	念头	c=3 d=1.63849e-15 t=28633
+nian xiang 	念想	c=1 d=1 t=166
 nie 	捏	c=2 d=0.000277414 t=28633
 nin 	您	c=1 d=7.44128e-24 t=28633
 nin hao 	您好	c=1 d=6.98984e-23 t=28633
@@ -3930,10 +3967,10 @@ o 	哦	c=6 d=0.00298956 t=28633
 o wo men 	哦我们	c=1 d=7.20516e-27 t=28633
 ou 	欧	c=0 d=1.27827e-07 t=28633
 ou duan si lian 	藕断丝连	c=1 d=2.44268e-07 t=28633
-ou er 	偶尔	c=5 d=0.00145901 t=28633
+ou er 	偶尔	c=5 d=0.260749 t=28633
 ou er jian 	偶尔间	c=1 d=3.9272e-05 t=28633
 ou fa 	偶发	c=1 d=0.00408677 t=28633
-ou he 	耦合	c=1 d=1 t=28057
+ou he 	耦合	c=1 d=0.0561348 t=28633
 ou lu 	欧陆	c=1 d=1 t=28633
 ou xiang 	偶像	c=5 d=4.19909e-07 t=28633
 pa 	啪	c=1 d=0.379083 t=28633
@@ -3986,6 +4023,7 @@ peng ke zhi zhu 	朋克蜘蛛	c=1 d=0.0135009 t=28633
 peng ren 	烹饪	c=1 d=1.67449e-06 t=28633
 peng tou 	碰头	c=1 d=4.20394e-12 t=28633
 peng you 	朋友	c=30 d=0.857897 t=28633
+peng you jian 	朋友间	c=1 d=1 t=380
 peng you men 	朋友们	c=1 d=5.3683e-06 t=28633
 peng you quan 	朋友圈	c=1 d=5.83046e-07 t=28633
 peng yu 	彭玉	c=0 d=1.27827e-07 t=28633
@@ -3993,6 +4031,7 @@ peng zhuang 	碰撞	c=3 d=0.0148639 t=28633
 peng zi 	棚子	c=1 d=4.04281e-05 t=28633
 peng zi shang 	棚子上	c=1 d=3.83023e-05 t=28633
 pi gu 	屁股	c=0 d=1.09567e-17 t=28633
+pi hao 	癖好	c=1 d=1 t=333
 pi jiu 	啤酒	c=1 d=6.89655e-12 t=28633
 pi liang 	批量	c=4 d=1.05181 t=28633
 pi pan 	批判	c=1 d=3.17564e-06 t=28633
@@ -4021,7 +4060,7 @@ pian yi ba 	便宜吧	c=1 d=1.81927e-11 t=28633
 pian yi de 	便宜的	c=1 d=0.227638 t=28633
 piao 	票	c=2 d=2.54938e-10 t=28633
 piao 	飘	c=1 d=0.0337087 t=28633
-piao yang 	飘扬	c=1 d=1 t=28527
+piao yang 	飘扬	c=1 d=0.588605 t=28633
 pin chuan 	品川	c=1 d=4.16494e-20 t=28633
 pin dao 	频道	c=1 d=0.0175097 t=28633
 pin jin quan li 	拼尽全力	c=1 d=3.0057e-06 t=28633
@@ -4082,7 +4121,7 @@ qi fei 	起飞	c=3 d=3.29044e-12 t=28633
 qi guai 	奇怪	c=4 d=0.208045 t=28633
 qi ji 	契机	c=2 d=3.71639e-05 t=28633
 qi ji er 	契机二	c=1 d=3.71703e-05 t=28633
-qi jian 	其间	c=1 d=1 t=28409
+qi jian 	其间	c=1 d=0.32628 t=28633
 qi jian 	期间	c=5 d=0.156453 t=28633
 qi lai 	起来	c=4 d=0.255529 t=28633
 qi le 	起了	c=1 d=0.170333 t=28633
@@ -4104,7 +4143,7 @@ qi shou 	骑手	c=1 d=0.000567086 t=28633
 qi ta 	其他	c=29 d=1.67069 t=28633
 qi ta ren 	其他人	c=6 d=0.0051953 t=28633
 qi ta shi qing 	其他事情	c=1 d=0.00514361 t=28633
-qi wang 	期望	c=18 d=0.0111435 t=28633
+qi wang 	期望	c=18 d=0.674288 t=28633
 qi xi 	七夕	c=1 d=2.95431e-09 t=28633
 qi ye wei xin 	企业微信	c=1 d=2.42249e-27 t=28633
 qi yi 	其一	c=2 d=0.744532 t=28633
@@ -4112,7 +4151,7 @@ qi yin 	起因	c=3 d=5.38311e-09 t=28633
 qi yong 	弃用	c=2 d=0.0144798 t=28633
 qi yu 	其余	c=1 d=3.30064e-19 t=28633
 qi zha 	欺诈	c=1 d=0.12938 t=28633
-qi zhe 	骑着	c=1 d=1 t=28433
+qi zhe 	骑着	c=1 d=0.367879 t=28633
 qi zhong 	其中	c=25 d=0.820992 t=28633
 qia qia 	恰恰	c=1 d=0.0186856 t=28633
 qia qiao 	恰巧	c=1 d=3.25604e-06 t=28633
@@ -4121,7 +4160,7 @@ qian 	谦	c=1 d=1 t=28633
 qian 	钱	c=4 d=1.69161e-08 t=28633
 qian bei 	前辈	c=2 d=1.7657e-11 t=28633
 qian bu duo 	钱不多	c=1 d=4.30816e-06 t=28633
-qian cai 	钱财	c=3 d=0.167797 t=28633
+qian cai 	钱财	c=3 d=0.394554 t=28633
 qian cao si 	浅草寺	c=2 d=3.07007e-20 t=28633
 qian che zhi jian 	前车之鉴	c=1 d=0.000281606 t=28633
 qian ding 	签订	c=1 d=0.216536 t=28633
@@ -4162,6 +4201,7 @@ qiang diao 	强调	c=1 d=3.97693e-06 t=28633
 qiang jing 	强劲	c=1 d=0.305746 t=28633
 qiang lie 	强烈	c=9 d=0.887837 t=28633
 qiang lve 	抢掠	c=1 d=6.49824e-18 t=28633
+qiang po 	强迫	c=2 d=1.72253 t=424
 qiang qiang 	强强	c=0 d=0.0715338 t=28633
 qiang qiang min nv 	强抢民女	c=1 d=6.53081e-18 t=28633
 qiang qiu 	强求	c=1 d=0.0049667 t=28633
@@ -4191,7 +4231,7 @@ qin wen 	亲吻	c=2 d=0.000608204 t=28633
 qin wen wo 	亲吻我	c=1 d=0.00123091 t=28633
 qing 	清	c=2 d=1.595e-22 t=28633
 qing 	请	c=9 d=0.838086 t=28633
-qing 	轻	c=1 d=1 t=28550
+qing 	轻	c=1 d=0.66034 t=28633
 qing can kao 	请参考	c=1 d=1.43109e-11 t=28633
 qing cha kan 	请查看	c=1 d=0.19205 t=28633
 qing chao 	清朝	c=1 d=0.138069 t=28633
@@ -4231,6 +4271,7 @@ qing shui 	清水	c=1 d=2.78852e-06 t=28633
 qing song 	轻松	c=1 d=2.65984e-09 t=28633
 qing ting 	清廷	c=1 d=0.955997 t=28633
 qing tong 	青铜	c=1 d=0.000296045 t=28633
+qing tou yi he 	情投意合	c=1 d=1 t=337
 qing wei 	庆伟	c=0 d=8.72202e-11 t=28633
 qing wen 	请问	c=6 d=2.3623 t=28633
 qing wo 	请我	c=2 d=3.37771e-10 t=28633
@@ -4253,7 +4294,7 @@ qiu tong cun yi 	求同存异	c=1 d=2.867e-09 t=28633
 qiu ye yuan 	秋叶原	c=3 d=4.8396e-20 t=28633
 qiu yi 	秋意	c=1 d=0.00150344 t=28633
 qu 	区	c=2 d=0.0528657 t=28633
-qu 	去	c=85 d=1.46083 t=28633
+qu 	去	c=85 d=2.61848 t=28633
 qu 	取	c=4 d=0.00131296 t=28633
 qu ba 	去吧	c=1 d=0.00711891 t=28633
 qu bie 	区别	c=7 d=0.197269 t=28633
@@ -4364,7 +4405,7 @@ ren 	人	c=70 d=1.8834 t=28633
 ren de 	认得	c=1 d=2.46849e-13 t=28633
 ren ge 	人格	c=1 d=1.27958e-18 t=28633
 ren ge mei li 	人格魅力	c=1 d=2.67918e-06 t=28633
-ren he 	任何	c=17 d=0.0170289 t=28633
+ren he 	任何	c=17 d=1.03372 t=28633
 ren ji 	人际	c=3 d=0.625096 t=28633
 ren jiu 	人就	c=1 d=0.10435 t=28633
 ren ke 	认可	c=1 d=2.71967e-06 t=28633
@@ -4388,8 +4429,9 @@ ren shu 	人数	c=1 d=7.858e-18 t=28633
 ren tong 	认同	c=1 d=2.52926e-05 t=28633
 ren wei 	认为	c=7 d=0.0211736 t=28633
 ren wu 	人物	c=4 d=0.00425356 t=28633
-ren wu 	任务	c=1 d=6.43906e-28 t=28633
+ren wu 	任务	c=1 d=0.0116484 t=28633
 ren wu lan 	任务栏	c=1 d=0.0824965 t=28633
+ren wu shi tu 	任务试图	c=1 d=1 t=7
 ren xing 	人性	c=4 d=0.153355 t=28633
 ren xing 	任性	c=1 d=0.00222055 t=28633
 ren xing hua 	人性化	c=1 d=2.51143e-10 t=28633
@@ -4428,13 +4470,14 @@ ri zi 	日子	c=4 d=0.151072 t=28633
 rong 	容	c=1 d=0.25924 t=28633
 rong he 	融合	c=4 d=0.297014 t=28633
 rong huo 	荣获	c=1 d=1.60884e-06 t=28633
-rong qi 	容器	c=1 d=0.00514361 t=28633
+rong qi 	容器	c=1 d=0.0232236 t=28633
+rong qi zhong 	容器中	c=1 d=1 t=145
 rong ru 	融入	c=2 d=3.63335e-05 t=28633
 rong ru dao 	融入到	c=2 d=1.73833e-05 t=28633
 rong yi 	容易	c=2 d=0.000131698 t=28633
 rong yu 	荣誉	c=2 d=3.59941e-06 t=28633
 rou 	肉	c=1 d=0.00752142 t=28633
-rou ti 	肉体	c=1 d=0.00238156 t=28633
+rou ti 	肉体	c=1 d=0.390628 t=28633
 rou yan 	肉眼	c=1 d=2.31952e-16 t=28633
 ru 	乳	c=1 d=0.00814786 t=28633
 ru 	入	c=2 d=0.362402 t=28633
@@ -4443,9 +4486,9 @@ ru chu yi zhe 	如出一辙	c=1 d=9.17701e-20 t=28633
 ru ci 	如此	c=21 d=0.146667 t=28633
 ru gou 	乳沟	c=3 d=0.0224829 t=28633
 ru guan 	入关	c=1 d=0.231078 t=28633
-ru guo 	如果	c=115 d=0.961638 t=28633
+ru guo 	如果	c=115 d=2.65614 t=28633
 ru guo ni 	如果你	c=1 d=0.000280202 t=28633
-ru guo you 	如果有	c=1 d=2.53443e-29 t=28633
+ru guo you 	如果有	c=1 d=0.759572 t=28633
 ru he 	如何	c=114 d=4.13612 t=28633
 ru he ru he 	如何如何	c=2 d=0.366045 t=28633
 ru ji 	如己	c=1 d=1 t=28633
@@ -4495,7 +4538,7 @@ san tai 	三台	c=3 d=0.851768 t=28633
 san tian 	三天	c=1 d=3.23418e-15 t=28633
 san tian da yu liang tian shai wang 	三天打渔两天晒网	c=1 d=3.25039e-15 t=28633
 san wen yu 	三文鱼	c=1 d=1.11761e-14 t=28633
-san xia 	散下	c=1 d=1 t=28528
+san xia 	散下	c=1 d=0.591555 t=28633
 san xing 	三星	c=4 d=0.491644 t=28633
 san yan liang yu 	三言两语	c=0 d=4.09234e-20 t=28633
 san yan liang yu yu 	三言两语与	c=1 d=4.11285e-19 t=28633
@@ -4508,7 +4551,7 @@ se 	色	c=1 d=0.0149208 t=28633
 se bian 	色变	c=1 d=0.0111647 t=28633
 se bie 	色别	c=1 d=4.00653e-05 t=28633
 se cai 	色彩	c=2 d=0.421052 t=28633
-se diao 	色调	c=2 d=1.93239 t=28132
+se diao 	色调	c=2 d=0.157829 t=28633
 se gu 	涩谷	c=11 d=2.4372e-10 t=28633
 se qing 	色情	c=1 d=0.22091 t=28633
 se san 	色散	c=1 d=0.0147723 t=28633
@@ -4537,7 +4580,7 @@ shan guang 	闪光	c=1 d=6.46143e-10 t=28633
 shan jian 	删减	c=1 d=1.60468e-05 t=28633
 shan jian ji tuan 	陕建集团	c=1 d=3.88535e-26 t=28633
 shan ku 	删库	c=1 d=1.2362e-24 t=28633
-shan liang 	善良	c=2 d=4.31547e-18 t=28633
+shan liang 	善良	c=2 d=0.257947 t=28633
 shan qun 	善群	c=1 d=0.29671 t=28633
 shan shui 	山水	c=1 d=1.319e-22 t=28633
 shan xi 	陕西	c=2 d=9.47853e-25 t=28633
@@ -4667,7 +4710,7 @@ shen yang 	沈阳	c=1 d=3.76923e-22 t=28633
 shen zhe 	甚者	c=1 d=0.131336 t=28633
 shen zhen 	深圳	c=2 d=0.00349997 t=28633
 shen zhen shi 	深圳市	c=1 d=6.87523e-05 t=28633
-shen zhi 	甚至	c=18 d=1.00263 t=28633
+shen zhi 	甚至	c=18 d=1.00551 t=28633
 shen zhuo 	身着	c=1 d=0.0515605 t=28633
 sheng 	剩	c=1 d=5.44369e-23 t=28633
 sheng 	升	c=3 d=0.0979466 t=28633
@@ -4751,7 +4794,7 @@ shi ji 	实际	c=8 d=0.874485 t=28633
 shi jia zhuang 	石家庄	c=1 d=0.650509 t=28633
 shi jian 	事件	c=19 d=1.10412 t=28633
 shi jian 	实践	c=4 d=0.00375375 t=28633
-shi jian 	时间	c=35 d=0.154888 t=28633
+shi jian 	时间	c=35 d=0.38868 t=28633
 shi jian jian ce 	事件检测	c=1 d=3.4059e-06 t=28633
 shi jian xian 	时间线	c=1 d=4.53521e-22 t=28633
 shi jiao 	视角	c=1 d=0.0112206 t=28633
@@ -4786,7 +4829,7 @@ shi qu le 	失去了	c=0 d=1.15482e-18 t=28633
 shi ri 	十日	c=0 d=0.0213312 t=28633
 shi ri ji 	十日记	c=1 d=0.214381 t=28633
 shi she le ma 	是射了吗	c=1 d=1.92279e-15 t=28633
-shi shen me 	是什么	c=25 d=0.166148 t=28633
+shi shen me 	是什么	c=25 d=0.25284 t=28633
 shi shi 	事实	c=7 d=0.00020159 t=28633
 shi shi 	实施	c=1 d=9.94472e-24 t=28633
 shi shi 	实时	c=2 d=0.16696 t=28633
@@ -4800,7 +4843,7 @@ shi ti fen 	史提芬	c=1 d=1 t=28633
 shi tou 	湿透	c=1 d=9.97928e-06 t=28633
 shi tou 	石头	c=1 d=9.58798e-06 t=28633
 shi tou le 	湿透了	c=1 d=1.05964e-05 t=28633
-shi tu 	试图	c=1 d=9.73454e-08 t=28633
+shi tu 	试图	c=1 d=0.0116484 t=28633
 shi wang 	失望	c=1 d=0.00136719 t=28633
 shi wei 	视为	c=2 d=0.0107269 t=28633
 shi wo 	是我	c=5 d=0.0320647 t=28633
@@ -4861,7 +4904,7 @@ shou ru 	收入	c=1 d=0.782705 t=28633
 shou shang le 	受伤了	c=1 d=0.412714 t=28633
 shou shi 	收拾	c=1 d=0.00895987 t=28633
 shou wu cun tie 	手无寸铁	c=1 d=0.121238 t=28633
-shou xian 	首先	c=6 d=2.51057e-06 t=28633
+shou xian 	首先	c=6 d=0.978822 t=28633
 shou xin 	手信	c=1 d=2.65342e-10 t=28633
 shou xu 	手续	c=3 d=6.8103e-11 t=28633
 shou yao 	首要	c=1 d=0.0404542 t=28633
@@ -4877,7 +4920,7 @@ shu 	鼠	c=0 d=3.43184e-08 t=28633
 shu bai nian qian 	数百年前	c=1 d=0.228779 t=28633
 shu biao 	鼠标	c=1 d=1.58758e-26 t=28633
 shu bu sheng shu 	数不胜数	c=2 d=0.000207081 t=28633
-shu chu 	输出	c=5 d=0.0148464 t=28633
+shu chu 	输出	c=5 d=0.92611 t=28633
 shu fu 	束缚	c=0 d=1.95524e-07 t=28633
 shu fu 	舒服	c=4 d=0.00164502 t=28633
 shu fu le 	束缚了	c=1 d=1.96504e-06 t=28633
@@ -4913,7 +4956,7 @@ shua ya 	刷牙	c=2 d=1.74249e-21 t=28633
 shuai lao 	衰老	c=1 d=8.96139e-05 t=28633
 shuai xian 	率先	c=1 d=0.647265 t=28633
 shuang 	双	c=2 d=0.037068 t=28633
-shuang fang 	双方	c=1 d=7.77319e-08 t=28633
+shuang fang 	双方	c=1 d=0.50409 t=28633
 shuang fu shui 	爽肤水	c=2 d=0.0162563 t=28633
 shuang pin 	双拼	c=3 d=1.46734 t=28633
 shuang shou 	双手	c=2 d=0.484339 t=28633
@@ -4944,8 +4987,8 @@ shun xi 	瞬息	c=1 d=0.0492917 t=28633
 shun xu 	顺序	c=3 d=0.268184 t=28633
 shuo 	说	c=64 d=0.83202 t=28633
 shuo bu shang 	说不上	c=1 d=8.40315e-13 t=28633
-shuo chu 	说出	c=1 d=0.235746 t=28633
-shuo chu lai 	说出来	c=2 d=3.50903e-05 t=28633
+shuo chu 	说出	c=1 d=0.353455 t=28633
+shuo chu lai 	说出来	c=2 d=0.339596 t=28633
 shuo dao 	说到	c=3 d=0.402524 t=28633
 shuo dao di 	说到底	c=2 d=0.421884 t=28633
 shuo guo 	说过	c=1 d=1.23662e-28 t=28633
@@ -4980,7 +5023,7 @@ si shi 	四史	c=1 d=5.27562e-07 t=28633
 si suo 	死锁	c=3 d=1.67236 t=28633
 si wei 	思维	c=5 d=0.014564 t=28633
 si wu ji dan 	肆无忌惮	c=1 d=8.54786e-08 t=28633
-si wu ji dan de 	肆无忌惮地	c=1 d=1 t=28457
+si wu ji dan de 	肆无忌惮地	c=1 d=0.414783 t=28633
 si xiang 	思想	c=5 d=0.0150544 t=28633
 si yi 	肆意	c=1 d=0.26054 t=28633
 si zhai 	死宅	c=2 d=2.00278e-13 t=28633
@@ -5012,7 +5055,7 @@ sui 	岁	c=2 d=0.000186888 t=28633
 sui 	遂	c=2 d=8.82477e-22 t=28633
 sui bian 	随便	c=3 d=7.44785e-05 t=28633
 sui bo zhu liu 	随波逐流	c=2 d=3.76411e-06 t=28633
-sui feng 	随风	c=1 d=1 t=28526
+sui feng 	随风	c=1 d=0.585669 t=28633
 sui hou 	随后	c=1 d=1.95185e-15 t=28633
 sui ji 	随即	c=1 d=3.34653e-05 t=28633
 sui ran 	虽然	c=8 d=0.384812 t=28633
@@ -5039,7 +5082,7 @@ suo shuo 	所说	c=2 d=0.000309671 t=28633
 suo wei 	所谓	c=1 d=0.852144 t=28633
 suo xiao 	缩小	c=1 d=4.73831e-08 t=28633
 suo xie 	缩写	c=1 d=0.0911727 t=28633
-suo yan 	所言	c=1 d=5.98315e-17 t=28633
+suo yan 	所言	c=1 d=0.408608 t=28633
 suo yao 	所要	c=0 d=2.09046e-29 t=28633
 suo yao yong 	所要用	c=1 d=2.10094e-28 t=28633
 suo yi 	所以	c=24 d=0.760662 t=28633
@@ -5114,6 +5157,7 @@ tai yang xia 	太阳下	c=1 d=6.98746e-19 t=28633
 tai yuan 	太远	c=2 d=3.07383e-05 t=28633
 tai zi 	太子	c=1 d=0.0934807 t=28633
 tan 	谈	c=2 d=0.0110536 t=28633
+tan bai 	坦白	c=1 d=1 t=417
 tan chu 	弹出	c=1 d=2.95481e-11 t=28633
 tan chuang 	弹窗	c=3 d=0.0420319 t=28633
 tan lu 	袒露	c=0 d=6.81494e-20 t=28633
@@ -5123,6 +5167,7 @@ tan suo 	探索	c=1 d=0.172907 t=28633
 tan tan 	谈谈	c=1 d=8.05281e-12 t=28633
 tan tao 	探讨	c=2 d=0.000703108 t=28633
 tan xin 	谈心	c=2 d=0.00123091 t=28633
+tan yu 	贪欲	c=1 d=1 t=271
 tang 	糖	c=10 d=2.4781e-13 t=28633
 tang 	躺	c=1 d=0.355226 t=28633
 tang xia 	躺下	c=2 d=3.87134e-05 t=28633
@@ -5147,6 +5192,7 @@ te ding 	特定	c=1 d=2.64174e-32 t=28633
 te ding pei zhi 	特定配置	c=1 d=2.25404e-32 t=28633
 te kuai 	特快	c=5 d=2.54945e-19 t=28633
 te se 	特色	c=1 d=5.12231e-13 t=28633
+te shu 	特殊	c=1 d=1 t=330
 te zhi 	特指	c=1 d=0.00184551 t=28633
 teng bu chu shou 	腾不出手	c=1 d=8.99683e-22 t=28633
 teng xun hui yi 	腾讯会议	c=1 d=0.0403566 t=28633
@@ -5168,6 +5214,7 @@ ti liang 	体谅	c=0 d=3.28083e-08 t=28633
 ti liang ta 	体谅他	c=1 d=3.29727e-07 t=28633
 ti mu 	题目	c=1 d=0.00416933 t=28633
 ti qi 	提起	c=1 d=2.43464e-27 t=28633
+ti sheng zi ji 	提升自己	c=1 d=1 t=310
 ti shi 	提示	c=2 d=0.810584 t=28633
 ti shi yu 	提示语	c=2 d=0.818731 t=28633
 ti xian 	体现	c=2 d=0.26054 t=28633
@@ -5187,7 +5234,7 @@ tian di 	天地	c=1 d=1.11396e-05 t=28633
 tian fu 	天赋	c=1 d=1 t=28633
 tian gou 	舔狗	c=1 d=1.17511e-16 t=28633
 tian he 	天河	c=1 d=0.188247 t=28633
-tian ji 	天际	c=2 d=1.97045 t=28420
+tian ji 	天际	c=2 d=0.679269 t=28633
 tian jia 	天假	c=1 d=7.84171e-23 t=28633
 tian jia 	添加	c=49 d=2.87402 t=28633
 tian jia dao 	添加到	c=1 d=0.0152222 t=28633
@@ -5243,7 +5290,7 @@ ting wan le 	听完了	c=1 d=8.0487e-06 t=28633
 ting zai 	停在	c=1 d=8.01128e-10 t=28633
 ting zhe 	听着	c=2 d=0.00124951 t=28633
 ting zhe you yi 	听者有意	c=1 d=0.00565622 t=28633
-ting zhi 	停止	c=1 d=1.75157e-06 t=28633
+ting zhi 	停止	c=1 d=0.937067 t=28633
 tong 	同	c=8 d=0.877375 t=28633
 tong 	彤	c=1 d=3.30524e-06 t=28633
 tong 	通	c=4 d=1.78135 t=28633
@@ -5257,7 +5304,8 @@ tong guo 	通过	c=60 d=1.63146 t=28633
 tong guo hou 	通过后	c=1 d=0.0724398 t=28633
 tong hua 	童话	c=1 d=0.00204983 t=28633
 tong ji 	统计	c=11 d=2.00911 t=28633
-tong ji hao 	统计好	c=1 d=1 t=28584
+tong ji hao 	统计好	c=1 d=0.782705 t=28633
+tong ji hao le 	统计好了	c=1 d=1 t=33
 tong ku 	痛苦	c=3 d=0.349938 t=28633
 tong kuai 	痛快	c=1 d=0.0230521 t=28633
 tong ling ren 	同龄人	c=2 d=7.04928e-05 t=28633
@@ -5282,19 +5330,22 @@ tong yong 	通用	c=2 d=0.0385138 t=28633
 tong zhao 	统招	c=1 d=5.10909e-12 t=28633
 tong zhi 	统治	c=1 d=0.111359 t=28633
 tou 	头	c=8 d=0.600634 t=28633
-tou fa 	头发	c=1 d=1 t=28530
+tou fa 	头发	c=1 d=0.597501 t=28633
 tou fang 	投放	c=1 d=6.98033e-07 t=28633
 tou guo 	透过	c=1 d=1.00395e-17 t=28633
 tou hun nao zhang 	头昏脑胀	c=1 d=1.70623e-21 t=28633
 tou kui 	偷窥	c=1 d=0.000335463 t=28633
+tou kui yu 	偷窥欲	c=1 d=1 t=266
 tou lai 	头来	c=1 d=5.7864e-06 t=28633
 tou nao yi re 	头脑一热	c=1 d=0.369723 t=28633
 tou pai 	偷拍	c=1 d=0.66034 t=28633
 tou pi 	头皮	c=1 d=2.50452e-07 t=28633
+tou ru 	投入	c=1 d=1 t=312
 tou tong 	头痛	c=1 d=1.24841e-22 t=28633
 tou tou 	偷偷	c=1 d=0.008396 t=28633
 tou wen zi 	头文字	c=1 d=3.00407e-29 t=28633
 tou xiang 	投向	c=1 d=1.84168e-08 t=28633
+tou yi 	投以	c=1 d=1 t=430
 tou ying 	投影	c=1 d=2.62024e-09 t=28633
 tou zi 	投资	c=1 d=1.89287e-07 t=28633
 tu 	图	c=6 d=0.901774 t=28633
@@ -5307,7 +5358,7 @@ tu fei 	土匪	c=2 d=1.19979e-17 t=28633
 tu pian 	图片	c=37 d=0.920621 t=28633
 tu po 	突破	c=2 d=0.0387029 t=28633
 tu ran 	突然	c=6 d=0.875515 t=28633
-tu ran jian 	突然间	c=1 d=1 t=28268
+tu ran jian 	突然间	c=1 d=0.161218 t=28633
 tu sha 	屠杀	c=2 d=4.97632e-18 t=28633
 tu wu 	突兀	c=1 d=2.19084e-21 t=28633
 tui 	腿	c=1 d=0.000160054 t=28633
@@ -5347,7 +5398,7 @@ wai bu 	外部	c=6 d=0.71177 t=28633
 wai chu 	外出	c=2 d=0.140156 t=28633
 wai chu gong zuo 	外出工作	c=1 d=1.15106e-08 t=28633
 wai gong 	外公	c=1 d=6.70777e-09 t=28633
-wai guan 	外观	c=1 d=1 t=28220
+wai guan 	外观	c=1 d=0.126818 t=28633
 wai guo 	外国	c=1 d=0.141564 t=28633
 wai guo ren 	外国人	c=1 d=1.09944e-27 t=28633
 wai jie 	外接	c=1 d=4.427e-32 t=28633
@@ -5397,7 +5448,7 @@ wang 	王	c=0 d=0.00944202 t=28633
 wang 	网	c=1 d=3.69208e-14 t=28633
 wang guan 	网关	c=17 d=6.92366 t=28633
 wang guang zhou 	往广州	c=7 d=0.231653 t=28633
-wang ji 	忘记	c=4 d=0.280437 t=28633
+wang ji 	忘记	c=4 d=0.458406 t=28633
 wang jin zhong 	王金忠	c=1 d=4.12631e-28 t=28633
 wang kai ping 	往开平	c=4 d=0.0988341 t=28633
 wang kou 	网口	c=1 d=0.00909528 t=28633
@@ -5412,6 +5463,8 @@ wang que le 	忘却了	c=1 d=0.0116203 t=28633
 wang ren 	望人	c=1 d=1 t=28633
 wang shang 	网上	c=7 d=0.77871 t=28633
 wang wang 	往往	c=2 d=0.0122161 t=28633
+wang wang hui 	往往会	c=0 d=0.1 t=236
+wang wang hui xian ru 	往往会陷入	c=1 d=1 t=237
 wang wang shi 	往往是	c=0 d=8.76574e-11 t=28633
 wang xia 	往下	c=1 d=1.06108e-21 t=28633
 wang xian 	网线	c=4 d=0.0310239 t=28633
@@ -5422,7 +5475,7 @@ wang ye 	网页	c=4 d=0.00195963 t=28633
 wang you 	网友	c=1 d=0.249075 t=28633
 wang zha 	网闸	c=3 d=1.01663 t=28633
 wang zhan 	网站	c=13 d=6.25215e-05 t=28633
-wang zhe 	望着	c=1 d=1 t=28502
+wang zhe 	望着	c=1 d=0.519442 t=28633
 wang zhe 	王者	c=3 d=9.64523e-09 t=28633
 wang zi 	王子	c=5 d=1.12464e-11 t=28633
 wang zi fei bo 	妄自菲薄	c=1 d=2.59373e-07 t=28633
@@ -5471,7 +5524,7 @@ wei suo bu qian 	畏缩不前	c=1 d=0.00449405 t=28633
 wei wo 	为我	c=1 d=1 t=28633
 wei xi 	维系	c=1 d=3.74597e-08 t=28633
 wei xian 	危险	c=1 d=1 t=28633
-wei xiang 	尾箱	c=1 d=1 t=28487
+wei xiang 	尾箱	c=1 d=0.481909 t=28633
 wei xiao 	微小	c=3 d=0.00506703 t=28633
 wei xie 	威胁	c=1 d=0.15259 t=28633
 wei xin 	微信	c=4 d=0.241719 t=28633
@@ -5625,7 +5678,7 @@ wo men xian zai 	我们现在	c=1 d=7.80791e-31 t=28633
 wo men zhuang 	我们装	c=1 d=1.06437e-28 t=28633
 wo ming bai 	我明白	c=1 d=0.00191125 t=28633
 wo ming you wo bu you tian 	我命由我不由天	c=1 d=0.0547488 t=28633
-wo mu qian 	我目前	c=1 d=1 t=28251
+wo mu qian 	我目前	c=1 d=0.14808 t=28633
 wo neng 	我能	c=1 d=1.62191e-13 t=28633
 wo pei 	我呸	c=0 d=6.14192e-32 t=28633
 wo pei zi 	我呸子	c=1 d=6.17271e-31 t=28633
@@ -5739,6 +5792,7 @@ wo zuo 	我做	c=1 d=0.00121866 t=28633
 wu 	五	c=3 d=0.558466 t=28633
 wu 	吴	c=1 d=9.64917e-22 t=28633
 wu 	唔	c=4 d=1.03449 t=28633
+wu 	无	c=1 d=1 t=26
 wu 	毋	c=1 d=1 t=28633
 wu 	鹜	c=1 d=0.000193545 t=28633
 wu bao 	误报	c=2 d=1.45594 t=28633
@@ -5767,7 +5821,7 @@ wu hao 	唔好	c=1 d=0.755784 t=28633
 wu hui 	污秽	c=1 d=0.147342 t=28633
 wu jian 	物件	c=1 d=0.00914087 t=28633
 wu jian 	误检	c=8 d=0.0112654 t=28633
-wu jie 	误解	c=1 d=1 t=28351
+wu jie 	误解	c=1 d=0.244143 t=28633
 wu ke 	无可	c=2 d=0.22599 t=28633
 wu ke hou fei 	无可厚非	c=2 d=0.232856 t=28633
 wu le 	无了	c=1 d=1.20777e-15 t=28633
@@ -5780,12 +5834,13 @@ wu li tou 	无厘头	c=1 d=0.135335 t=28633
 wu lun 	无论	c=6 d=0.970446 t=28633
 wu lun shi 	无论是	c=7 d=0.853038 t=28633
 wu nai 	无奈	c=4 d=0.47857 t=28633
+wu pin 	物品	c=1 d=1 t=249
 wu qi 	武器	c=2 d=3.86873e-05 t=28633
 wu qing 	无情	c=1 d=0.0350844 t=28633
 wu quan 	无权	c=1 d=0.00180897 t=28633
 wu quan xian dian 	无权限电	c=1 d=1.02017e-29 t=28633
-wu ru 	侮辱	c=1 d=1 t=28321
-wu shen 	无神	c=1 d=1 t=28499
+wu ru 	侮辱	c=1 d=0.210136 t=28633
+wu shen 	无神	c=1 d=0.511709 t=28633
 wu shi 	无事	c=1 d=4.21841e-23 t=28633
 wu shi 	无视	c=1 d=1.67883e-07 t=28633
 wu shi bu ke 	无时不刻	c=3 d=1.46657e-05 t=28633
@@ -5801,7 +5856,7 @@ wu wu wu wu wu wu wu wu wo 	呜呜呜呜呜呜呜呜我	c=1 d=2.56836e-09 t=2863
 wu xian 	无限	c=1 d=0.0629761 t=28633
 wu xin 	无心	c=2 d=0.167797 t=28633
 wu xu duo yan 	无需多言	c=1 d=0.56836 t=28633
-wu yan 	无言	c=0 d=0.1 t=28542
+wu yan 	无言	c=0 d=0.0634448 t=28633
 wu yi 	无异	c=1 d=9.73289e-06 t=28633
 wu yi 	无疑	c=1 d=0.00344787 t=28633
 wu yi wu kao 	无依无靠	c=1 d=7.60089e-09 t=28633
@@ -5824,14 +5879,14 @@ xi guan 	习惯	c=5 d=0.392602 t=28633
 xi ha 	嘻哈	c=1 d=1.6453e-05 t=28633
 xi hao 	喜好	c=1 d=6.52526e-08 t=28633
 xi hua 	细化	c=1 d=3.19809e-30 t=28633
-xi huan 	喜欢	c=18 d=0.00728175 t=28633
+xi huan 	喜欢	c=18 d=2.07666 t=28633
 xi huan de ren 	喜欢的人	c=1 d=0.000120363 t=28633
 xi huan kan 	喜欢看	c=1 d=0.00051312 t=28633
 xi huan shang le 	喜欢上了	c=1 d=5.72883e-06 t=28633
 xi huan ta 	喜欢她	c=1 d=8.74013e-05 t=28633
 xi jie 	细节	c=2 d=0.066205 t=28633
 xi ju 	喜剧	c=8 d=0.210383 t=28633
-xi ju xing 	戏剧性	c=1 d=1 t=28344
+xi ju xing 	戏剧性	c=1 d=0.235746 t=28633
 xi la 	希腊	c=1 d=5.89106e-11 t=28633
 xi lao 	细佬	c=4 d=4.51995e-05 t=28633
 xi li hu tu 	稀里糊涂	c=1 d=0.715338 t=28633
@@ -5845,13 +5900,13 @@ xi te le 	希特勒	c=4 d=0.361893 t=28633
 xi tong 	系统	c=40 d=1.59573 t=28633
 xi tong jia gou 	系统架构	c=1 d=3.98371e-26 t=28633
 xi tong xing 	系统性	c=1 d=1.23729e-05 t=28633
-xi wang 	希望	c=13 d=0.0335406 t=28633
+xi wang 	希望	c=13 d=0.379083 t=28633
 xi wang shi 	希望是	c=1 d=0.000332125 t=28633
 xi wang zai 	希望在	c=1 d=2.88735e-05 t=28633
-xi wei 	细微	c=1 d=1 t=28563
+xi wei 	细微	c=1 d=0.704688 t=28633
 xi xi li 	西西里	c=1 d=0.313486 t=28633
 xi xi su su 	窸窸窣窣	c=1 d=2.03995e-05 t=28633
-xi xian 	细线	c=1 d=1 t=28430
+xi xian 	细线	c=1 d=0.362402 t=28633
 xi yin 	吸引	c=2 d=0.292293 t=28633
 xi zao 	洗澡	c=3 d=1.26078 t=28633
 xi zao qian 	洗澡前	c=1 d=1.80178e-15 t=28633
@@ -5913,7 +5968,7 @@ xian mu 	羡慕	c=1 d=1.25792e-23 t=28633
 xian qi 	掀起	c=1 d=0.0437178 t=28633
 xian qu 	先去	c=1 d=9.31254e-16 t=28633
 xian ren 	仙人	c=1 d=0.0804596 t=28633
-xian ru 	陷入	c=2 d=0.00603614 t=28633
+xian ru 	陷入	c=2 d=0.0367879 t=28633
 xian ru le 	陷入了	c=1 d=1.26861e-05 t=28633
 xian ru wei zhu 	先入为主	c=1 d=9.91567e-19 t=28633
 xian shang 	线上	c=1 d=6.84444e-11 t=28633
@@ -5973,22 +6028,23 @@ xiang mu 	项目	c=31 d=1.21883 t=28633
 xiang mu jing li 	项目经理	c=1 d=5.31109e-27 t=28633
 xiang mu kai shi 	项目开始	c=1 d=8.0457e-31 t=28633
 xiang qi 	响起	c=1 d=0.00180897 t=28633
-xiang qian 	向前	c=0 d=0.1 t=28546
+xiang qian 	向前	c=0 d=0.0647265 t=28633
 xiang qu 	想去	c=0 d=0.0390628 t=28633
 xiang shan 	相善	c=1 d=1 t=28633
+xiang shi 	像是	c=1 d=1 t=261
 xiang shou 	享受	c=2 d=0.000104227 t=28633
 xiang shou zhe 	享受着	c=1 d=8.33681e-08 t=28633
 xiang si 	相似	c=1 d=7.33822e-07 t=28633
 xiang su 	像素	c=1 d=1.69132e-06 t=28633
 xiang sui 	相随	c=1 d=0.0393602 t=28633
-xiang tong 	相同	c=6 d=3.09724e-06 t=28633
+xiang tong 	相同	c=6 d=0.615697 t=28633
 xiang tou 	相投	c=1 d=0.00101284 t=28633
 xiang xi 	详细	c=13 d=0.17057 t=28633
 xiang xi dao 	详细到	c=1 d=0.856415 t=28633
 xiang xia 	乡下	c=1 d=3.15433e-15 t=28633
 xiang xiang 	想想	c=2 d=1.72608e-10 t=28633
 xiang xiang 	想象	c=2 d=0.159614 t=28633
-xiang xin 	相信	c=8 d=0.441329 t=28633
+xiang xin 	相信	c=8 d=0.484325 t=28633
 xiang yao 	想要	c=12 d=0.847062 t=28633
 xiang ye 	翔业	c=8 d=2.54381e-24 t=28633
 xiang zhe 	想着	c=5 d=2.27636e-07 t=28633
@@ -6087,6 +6143,7 @@ xin pian 	芯片	c=2 d=0.571209 t=28633
 xin qi 	新奇	c=1 d=2.68566e-05 t=28633
 xin qing 	心情	c=4 d=0.289585 t=28633
 xin ren 	信任	c=4 d=0.97984 t=28633
+xin shang 	欣赏	c=2 d=1.42528 t=403
 xin shou ji 	新手机	c=3 d=1.46208 t=28633
 xin su 	新宿	c=5 d=7.35971e-12 t=28633
 xin su yu yuan 	新宿御苑	c=1 d=3.96181e-20 t=28633
@@ -6143,20 +6200,20 @@ xing qi liu ri 	星期六日	c=1 d=0.271173 t=28633
 xing qi si 	星期四	c=2 d=0.344728 t=28633
 xing qiu 	星球	c=1 d=0.172045 t=28633
 xing qiu shang 	星球上	c=1 d=0.12938 t=28633
-xing qu 	兴趣	c=6 d=0.00810722 t=28633
-xing qu ai hao 	兴趣爱好	c=2 d=5.27666e-06 t=28633
+xing qu 	兴趣	c=6 d=2.05912 t=28633
+xing qu ai hao 	兴趣爱好	c=2 d=0.612626 t=28633
 xing ren 	星人	c=4 d=0.754761 t=28633
 xing ren 	行人	c=27 d=6.17113e-08 t=28633
 xing rong 	形容	c=1 d=1.52642e-05 t=28633
 xing san shen bu san 	形散神不散	c=1 d=2.46681e-05 t=28633
 xing shi 	形势	c=1 d=0.0119145 t=28633
 xing shi 	形式	c=1 d=6.77287e-06 t=28633
-xing shi 	行驶	c=4 d=2.8519 t=28568
+xing shi 	行驶	c=4 d=2.06058 t=28633
 xing shi huo dong 	形式活动	c=1 d=6.80682e-05 t=28633
-xing shi zhe 	行驶着	c=1 d=1 t=28477
+xing shi zhe 	行驶着	c=1 d=0.458406 t=28633
 xing shuai 	兴衰	c=1 d=1.25989e-12 t=28633
 xing tong xu she 	形同虚设	c=1 d=9.39813e-06 t=28633
-xing wei 	行为	c=38 d=0.589582 t=28633
+xing wei 	行为	c=38 d=1.59156 t=28633
 xing xiao tiao 	性萧条	c=5 d=0.000545239 t=28633
 xing xing se se 	形形色色	c=1 d=8.36408e-17 t=28633
 xing xing wei 	性行为	c=6 d=0.110794 t=28633
@@ -6196,8 +6253,8 @@ xu wei 	虚伪	c=1 d=0.0137736 t=28633
 xu wu 	虚无	c=3 d=1.36959e-07 t=28633
 xu wu zhu yi 	虚无主义	c=5 d=0.00201931 t=28633
 xu xian 	虚线	c=1 d=0.0614212 t=28633
-xu xu 	徐徐	c=0 d=0.1 t=28546
-xu xu xiang qian 	徐徐向前	c=1 d=1 t=28547
+xu xu 	徐徐	c=0 d=0.0647265 t=28633
+xu xu xiang qian 	徐徐向前	c=1 d=0.650509 t=28633
 xu yao 	需要	c=47 d=1.8934 t=28633
 xu yao zhe me 	需要这么	c=1 d=5.0933e-05 t=28633
 xu yao zuo 	需要做	c=1 d=0.00470091 t=28633
@@ -6210,6 +6267,7 @@ xuan hu 	玄乎	c=1 d=0.00126207 t=28633
 xuan lv 	旋律	c=1 d=5.64353e-06 t=28633
 xuan ran 	渲染	c=1 d=0.00591656 t=28633
 xuan ran xia 	渲染下	c=1 d=8.14925e-05 t=28633
+xuan wo 	漩涡	c=1 d=1 t=240
 xuan xuan 	选选	c=1 d=8.30229e-18 t=28633
 xuan ze 	选择	c=17 d=1.80604 t=28633
 xuan zhong 	选中	c=1 d=1 t=28633
@@ -6257,7 +6315,7 @@ yan chang hui 	演唱会	c=4 d=4.00492e-08 t=28633
 yan fa 	研发	c=1 d=1.89056e-22 t=28633
 yan fu 	严复	c=1 d=0.479505 t=28633
 yan ge 	严格	c=1 d=0.0617291 t=28633
-yan guang 	眼光	c=1 d=1.86952e-08 t=28633
+yan guang 	眼光	c=1 d=0.856415 t=28633
 yan hai 	沿海	c=1 d=5.45128e-10 t=28633
 yan hui 	颜回	c=1 d=5.84456e-06 t=28633
 yan huo 	焰火	c=1 d=2.27205e-08 t=28633
@@ -6271,17 +6329,17 @@ yan jiu sheng 	研究生	c=1 d=5.64642e-12 t=28633
 yan li 	眼里	c=2 d=0.149066 t=28633
 yan mo 	淹没	c=1 d=2.31196e-07 t=28633
 yan mo 	湮没	c=1 d=1 t=28633
-yan mo zai 	淹没在	c=1 d=1 t=28566
+yan mo zai 	淹没在	c=1 d=0.715338 t=28633
 yan qiu 	眼球	c=1 d=0.29671 t=28633
 yan se 	颜色	c=18 d=1.29744 t=28633
-yan shen 	延伸	c=1 d=1 t=28410
+yan shen 	延伸	c=1 d=0.327915 t=28633
 yan shi 	演示	c=3 d=0.000139842 t=28633
 yan shou 	验收	c=2 d=1.06544e-26 t=28633
 yan shuo 	言说	c=1 d=0.0407622 t=28633
-yan wu 	厌恶	c=7 d=2.28855e-06 t=28633
+yan wu 	厌恶	c=7 d=0.99005 t=28633
 yan xu 	延续	c=1 d=0.000189713 t=28633
 yan yu 	言语	c=1 d=2.0608e-07 t=28633
-yan zheng 	验证	c=3 d=1.41026e-15 t=28633
+yan zheng 	验证	c=3 d=0.245367 t=28633
 yan zheng ma 	验证码	c=1 d=1.00707e-24 t=28633
 yan zhong 	严重	c=1 d=1.68026e-17 t=28633
 yang 	样	c=10 d=0.223115 t=28633
@@ -6295,7 +6353,7 @@ yang shi 	样式	c=10 d=2.05682e-06 t=28633
 yang tai 	阳台	c=1 d=0.00137404 t=28633
 yang wo qi zuo 	仰卧起坐	c=2 d=4.69181e-15 t=28633
 yang xiu qing 	杨秀清	c=1 d=0.316637 t=28633
-yang zhe 	仰着	c=1 d=1 t=28494
+yang zhe 	仰着	c=1 d=0.499074 t=28633
 yang zhou 	扬州	c=1 d=0.213312 t=28633
 yang zi 	样子	c=1 d=1.88799e-06 t=28633
 yao 	腰	c=2 d=0.470034 t=28633
@@ -6340,10 +6398,11 @@ ye ba 	也罢	c=1 d=0.00010569 t=28633
 ye bei 	也被	c=1 d=0.00157264 t=28633
 ye bu 	也不	c=1 d=0.0235177 t=28633
 ye bu hao 	也不好	c=1 d=1.16199e-31 t=28633
-ye bu hui 	也不会	c=1 d=9.573e-17 t=28633
+ye bu hui 	也不会	c=1 d=0.287941 t=28633
 ye bu li yu 	也不利于	c=1 d=2.2881e-32 t=28633
 ye bu neng 	也不能	c=1 d=1.1814e-20 t=28633
 ye bu xing 	也不行	c=3 d=0.909373 t=28633
+ye bu xu yao 	也不需要	c=1 d=1 t=429
 ye bu yao 	也不要	c=1 d=2.26618e-07 t=28633
 ye bu zhi dao 	也不知道	c=1 d=0.000898306 t=28633
 ye dou 	也都	c=1 d=8.31387e-05 t=28633
@@ -6360,11 +6419,12 @@ ye jian 	夜间	c=1 d=0.316637 t=28633
 ye jiu 	也就	c=1 d=2.07685e-10 t=28633
 ye jiu mei you 	也就没有	c=1 d=2.76933e-13 t=28633
 ye jiu shi 	也就是	c=6 d=0.874904 t=28633
-ye ke yi 	也可以	c=3 d=9.55318e-23 t=28633
+ye ke yi 	也可以	c=3 d=0.229925 t=28633
 ye man 	野蛮	c=1 d=0.162838 t=28633
 ye mei you 	也没有	c=2 d=1.89745e-06 t=28633
 ye mian 	页面	c=19 d=1.95556 t=28633
 ye neng 	也能	c=1 d=1.00136e-16 t=28633
+ye qing 	也请	c=1 d=1 t=344
 ye shi 	也是	c=30 d=0.702297 t=28633
 ye shi you hen duo 	也是有很多	c=1 d=8.58312e-27 t=28633
 ye shuo 	也说	c=2 d=0.726149 t=28633
@@ -6376,20 +6436,21 @@ ye wu 	业务	c=1 d=0.603506 t=28633
 ye xin 	野心	c=1 d=0.323033 t=28633
 ye xu 	也许	c=2 d=1.19109 t=28633
 ye yao 	也要	c=3 d=1.24021e-08 t=28633
+ye ying gai 	也应该	c=1 d=1 t=400
 ye you 	也有	c=16 d=0.573093 t=28633
 ye zai 	也在	c=2 d=0.600496 t=28633
 ye zheng chang 	也正常	c=1 d=0.000746586 t=28633
 ye zhi neng 	也只能	c=1 d=4.22357e-08 t=28633
 yi 	一	c=14 d=0.591555 t=28633
 yi 	亿	c=1 d=8.25245e-06 t=28633
-yi 	以	c=5 d=0.438235 t=28633
+yi 	以	c=5 d=0.839457 t=28633
 yi 	夷	c=2 d=1.58653 t=28633
 yi 	已	c=14 d=0.0461046 t=28633
 yi 	异	c=7 d=2.90382e-06 t=28633
 yi an 	已按	c=1 d=0.214381 t=28633
 yi an zhuang 	已安装	c=1 d=5.2493e-07 t=28633
 yi ba zhang 	一巴掌	c=1 d=5.43536e-05 t=28633
-yi bai 	衣摆	c=1 d=1 t=28524
+yi bai 	衣摆	c=1 d=0.579842 t=28633
 yi ban 	一半	c=1 d=0.0256042 t=28633
 yi ban 	一般	c=18 d=0.336408 t=28633
 yi ban shi 	一般是	c=1 d=2.72857e-15 t=28633
@@ -6431,6 +6492,7 @@ yi ding ban 	已定版	c=1 d=4.08386e-24 t=28633
 yi diu diu 	一丢丢	c=1 d=5.41654e-23 t=28633
 yi dong 	易懂	c=2 d=0.677057 t=28633
 yi dong 	移动	c=3 d=0.554327 t=28633
+yi dong dao 	移动到	c=1 d=1 t=5
 yi du 	一度	c=2 d=0.315947 t=28633
 yi duan 	一段	c=9 d=0.32442 t=28633
 yi duan hua 	一段话	c=1 d=0.118245 t=28633
@@ -6505,11 +6567,11 @@ yi liang ge yue 	一两个月	c=1 d=0.0706512 t=28633
 yi liao 	一聊	c=1 d=0.412714 t=28633
 yi lie 	一列	c=1 d=0.83527 t=28633
 yi lu 	一路	c=3 d=0.0634454 t=28633
-yi lu wu yan 	一路无言	c=1 d=1 t=28543
+yi lu wu yan 	一路无言	c=1 d=0.637628 t=28633
 yi mian 	一面	c=4 d=0.00142298 t=28633
 yi min 	遗民	c=1 d=0.904837 t=28633
-yi ming 	一名	c=4 d=0.0314298 t=28633
-yi mu 	一幕	c=1 d=1 t=28265
+yi ming 	一名	c=4 d=0.465334 t=28633
+yi mu 	一幕	c=1 d=0.158817 t=28633
 yi nian 	一年	c=5 d=0.000193634 t=28633
 yi nv you xi 	乙女游戏	c=1 d=0.0561348 t=28633
 yi pang 	一旁	c=1 d=2.52969e-07 t=28633
@@ -6522,10 +6584,10 @@ yi qi 	一期	c=1 d=3.98655e-05 t=28633
 yi qi 	一起	c=9 d=0.158317 t=28633
 yi qian 	一千	c=1 d=2.11844e-08 t=28633
 yi qian 	以前	c=14 d=0.102991 t=28633
-yi qie 	一切	c=8 d=0.000131943 t=28633
+yi qie 	一切	c=8 d=0.386741 t=28633
 yi qing 	疫情	c=2 d=1.76512e-12 t=28633
 yi que ren 	已确认	c=1 d=0.0948935 t=28633
-yi ran 	依然	c=21 d=0.639259 t=28633
+yi ran 	依然	c=21 d=0.891366 t=28633
 yi ran 	已然	c=2 d=0.0902655 t=28633
 yi ran 	毅然	c=1 d=1 t=28633
 yi ran hui 	依然会	c=1 d=3.21084e-18 t=28633
@@ -6549,7 +6611,7 @@ yi shuang 	一双	c=1 d=0.449329 t=28633
 yi si 	意思	c=13 d=0.0936084 t=28633
 yi si shi 	意思是	c=1 d=3.87664e-29 t=28633
 yi si si 	一丝丝	c=2 d=0.00565644 t=28633
-yi si yi hao 	一丝一毫	c=1 d=1 t=28468
+yi si yi hao 	一丝一毫	c=1 d=0.438235 t=28633
 yi tai 	一台	c=6 d=0.777598 t=28633
 yi tang 	一趟	c=4 d=7.63783e-11 t=28633
 yi ti hua 	一体化	c=1 d=3.9244e-26 t=28633
@@ -6560,6 +6622,7 @@ yi tian tian 	一天天	c=1 d=9.55479e-24 t=28633
 yi tiao 	一条	c=2 d=0.319819 t=28633
 yi tiao 	一跳	c=1 d=0.000363402 t=28633
 yi ting 	一听	c=2 d=1.20668e-05 t=28633
+yi tong 	一同	c=1 d=1 t=225
 yi tong 	一通	c=1 d=2.3348e-05 t=28633
 yi tong 	异同	c=1 d=4.84819e-13 t=28633
 yi wai 	意外	c=1 d=0.000357992 t=28633
@@ -6636,7 +6699,7 @@ yin qing 	引擎	c=1 d=0.603506 t=28633
 yin ru 	引入	c=3 d=2.23786e-06 t=28633
 yin shi 	饮食	c=6 d=2.47631 t=28633
 yin si 	隐私	c=1 d=0.0116786 t=28633
-yin su 	因素	c=4 d=6.73909e-05 t=28633
+yin su 	因素	c=4 d=0.433874 t=28633
 yin wei 	因为	c=65 d=1.17591 t=28633
 yin xian 	阴险	c=2 d=4.23284e-18 t=28633
 yin xiang 	印象	c=3 d=0.0352602 t=28633
@@ -6650,7 +6713,7 @@ yin yue 	音乐	c=1 d=1.62893e-05 t=28633
 ying 	应	c=2 d=0.355226 t=28633
 ying 	樱	c=1 d=1.80552e-10 t=28633
 ying 	硬	c=0 d=0.0565525 t=28633
-ying gai 	应该	c=16 d=0.699693 t=28633
+ying gai 	应该	c=16 d=2.50172 t=28633
 ying gai dou shi 	应该都是	c=1 d=2.01615e-14 t=28633
 ying gai jiu shi 	应该就是	c=1 d=1.68954e-23 t=28633
 ying gai shi 	应该是	c=8 d=0.00146764 t=28633
@@ -6703,6 +6766,7 @@ yong qi 	勇气	c=3 d=0.00404611 t=28633
 yong shou mo 	用手摸	c=1 d=2.15823e-21 t=28633
 yong wan le 	用完了	c=1 d=2.57142e-23 t=28633
 yong wu zhi jing 	永无止境	c=1 d=0.00609675 t=28633
+yong xin 	用心	c=1 d=1 t=311
 yong yi ge 	用一个	c=1 d=3.09082e-11 t=28633
 yong you 	拥有	c=4 d=1.69541e-05 t=28633
 yong you le 	拥有了	c=1 d=0.000808767 t=28633
@@ -6714,7 +6778,7 @@ you 	友	c=1 d=2.21897e-24 t=28633
 you 	右	c=2 d=1.08927e-06 t=28633
 you 	有	c=186 d=3.55038 t=28633
 you 	游	c=4 d=8.41173e-09 t=28633
-you 	由	c=10 d=0.340683 t=28633
+you 	由	c=10 d=0.794534 t=28633
 you bi bin 	由比滨	c=1 d=3.22748e-20 t=28633
 you bian 	右边	c=3 d=7.98924e-07 t=28633
 you bian hua 	有变化	c=1 d=3.02859e-07 t=28633
@@ -6736,7 +6800,7 @@ you duo shao 	有多少	c=3 d=0.000304632 t=28633
 you fei 	油费	c=1 d=5.02516e-23 t=28633
 you gan 	有感	c=1 d=2.89532e-07 t=28633
 you ge 	有个	c=4 d=0.0029528 t=28633
-you guan 	有关	c=2 d=3.66294e-09 t=28633
+you guan 	有关	c=2 d=0.436049 t=28633
 you guo 	有过	c=3 d=1.12516e-05 t=28633
 you hen da 	有很大	c=1 d=3.58419e-18 t=28633
 you hua 	优化	c=6 d=0.128569 t=28633
@@ -6793,7 +6857,7 @@ you xuan ze 	有选择	c=1 d=0.0284388 t=28633
 you ya 	优雅	c=6 d=0.677057 t=28633
 you yao 	又要	c=2 d=1.70449e-09 t=28633
 you yi 	友谊	c=1 d=0.000376347 t=28633
-you yi 	有益	c=1 d=2.00992e-07 t=28633
+you yi 	有益	c=1 d=0.522046 t=28633
 you yi ci 	又一次	c=1 d=2.39016e-16 t=28633
 you yi ge 	有一个	c=8 d=1.022 t=28633
 you yi wu yi 	有意无意	c=2 d=4.24402e-06 t=28633
@@ -6824,6 +6888,7 @@ yu fa 	语法	c=2 d=6.50917e-05 t=28633
 yu fou 	与否	c=1 d=1.16243e-06 t=28633
 yu gai mi zhang 	欲盖弥彰	c=1 d=0.0146253 t=28633
 yu guan dian 	与观点	c=1 d=5.0933e-05 t=28633
+yu hai kang 	与海康	c=1 d=1 t=34
 yu ji 	预计	c=1 d=8.65759e-11 t=28633
 yu jian 	遇见	c=1 d=0.00402593 t=28633
 yu ju 	语句	c=4 d=1.38061e-26 t=28633
@@ -6904,7 +6969,7 @@ yue deng yu 	约等于	c=3 d=3.43163e-19 t=28633
 yue du 	阅读	c=9 d=0.137298 t=28633
 yue du mo shi xia 	阅读模式下	c=1 d=0.142987 t=28633
 yue du qi 	阅读器	c=1 d=0.527292 t=28633
-yue du zhe 	阅读者	c=1 d=1 t=28352
+yue du zhe 	阅读者	c=1 d=0.245367 t=28633
 yue duo 	越多	c=1 d=1.57259e-32 t=28633
 yue fen 	月份	c=1 d=0.937067 t=28633
 yue gong zuo 	月工作	c=1 d=1.90495e-23 t=28633
@@ -6922,6 +6987,7 @@ yue zao 	越早	c=1 d=0.000103081 t=28633
 yue zhu 	越住	c=1 d=2.99224e-12 t=28633
 yun 	云	c=6 d=7.6099e-09 t=28633
 yun 	运	c=1 d=0.913931 t=28633
+yun dong 	运动	c=1 d=1 t=372
 yun dong yuan 	运动员	c=1 d=1.26861e-05 t=28633
 yun tou zhuan xiang 	晕头转向	c=1 d=3.35805e-16 t=28633
 yun wei 	运维	c=14 d=0.644036 t=28633
@@ -6932,7 +6998,7 @@ yun yong 	运用	c=1 d=1.96979e-05 t=28633
 yun yu 	孕育	c=1 d=0.371577 t=28633
 za 	咋	c=3 d=5.70025e-06 t=28633
 za luan 	杂乱	c=1 d=0.246597 t=28633
-za nian 	杂念	c=1 d=1 t=28470
+za nian 	杂念	c=1 d=0.442639 t=28633
 zai 	再	c=48 d=0.815556 t=28633
 zai 	在	c=289 d=4.88535 t=28633
 zai chuang 	在床	c=1 d=1.93078e-05 t=28633
@@ -6959,12 +7025,12 @@ zai yi qi 	在一起	c=1 d=9.23431e-05 t=28633
 zai you 	再有	c=1 d=1.59283e-06 t=28633
 zai yu 	在于	c=2 d=5.41009e-09 t=28633
 zai zhe ge 	在这个	c=1 d=0.00131358 t=28633
-zai zhe li 	在这里	c=1 d=1 t=28506
+zai zhe li 	在这里	c=1 d=0.529935 t=28633
 zai zhe yi ke 	在这一刻	c=1 d=3.21532e-05 t=28633
 zan shi 	暂时	c=1 d=8.5464e-06 t=28633
 zan yu 	赞誉	c=1 d=0.923116 t=28633
 zao 	早	c=13 d=0.0793704 t=28633
-zao cheng 	造成	c=3 d=7.79637e-07 t=28633
+zao cheng 	造成	c=3 d=0.442639 t=28633
 zao dao 	遭到	c=2 d=0.764111 t=28633
 zao dian 	噪点	c=1 d=0.0156076 t=28633
 zao hua 	造化	c=1 d=1.17875e-23 t=28633
@@ -7023,8 +7089,8 @@ zhan xian 	展现	c=1 d=0.0197421 t=28633
 zhan xian chu 	展现出	c=1 d=1.17411e-06 t=28633
 zhan xian guo 	展现过	c=1 d=9.51715e-07 t=28633
 zhan yong 	占用	c=30 d=6.89721e-08 t=28633
-zhan you 	占有	c=4 d=0.000101546 t=28633
-zhan you yu 	占有欲	c=14 d=0.000206683 t=28633
+zhan you 	占有	c=4 d=0.380983 t=28633
+zhan you yu 	占有欲	c=14 d=0.371577 t=28633
 zhan zai 	站在	c=4 d=0.011109 t=28633
 zhan zheng 	战争	c=10 d=0.265295 t=28633
 zhang 	张	c=2 d=0.0715338 t=28633
@@ -7128,7 +7194,7 @@ zhe yi bu 	这一部	c=3 d=0.0426512 t=28633
 zhe yi ci 	这一次	c=4 d=0.136016 t=28633
 zhe yi duan 	这一段	c=3 d=0.625052 t=28633
 zhe yi fen 	这一份	c=1 d=0.000550326 t=28633
-zhe yi ge 	这一个	c=1 d=1.24671e-06 t=28633
+zhe yi ge 	这一个	c=1 d=0.995012 t=28633
 zhe yi ju 	这一句	c=2 d=3.26558e-11 t=28633
 zhe yi qie 	这一切	c=2 d=2.54237e-07 t=28633
 zhe yi ti 	这一题	c=1 d=2.86602e-05 t=28633
@@ -7165,7 +7231,7 @@ zhen zheng de 	真正的	c=1 d=1 t=28633
 zhen zi 	真子	c=1 d=3.01913e-29 t=28633
 zheng 	争	c=1 d=0.522046 t=28633
 zheng 	整	c=5 d=0.661876 t=28633
-zheng 	正	c=1 d=1 t=28294
+zheng 	正	c=1 d=0.183599 t=28633
 zheng 	证	c=2 d=0.00252883 t=28633
 zheng ban 	正版	c=1 d=1.40323e-15 t=28633
 zheng chang 	正常	c=14 d=0.492053 t=28633
@@ -7184,7 +7250,7 @@ zheng mian 	正面	c=2 d=0.000117979 t=28633
 zheng ning 	狰狞	c=1 d=0.00273944 t=28633
 zheng que 	正确	c=9 d=0.920671 t=28633
 zheng que de 	正确的	c=1 d=6.13044e-09 t=28633
-zheng ru 	正如	c=2 d=0.0102037 t=28633
+zheng ru 	正如	c=2 d=0.40657 t=28633
 zheng shi 	正是	c=2 d=0.00033379 t=28633
 zheng shu 	证书	c=1 d=0.0739031 t=28633
 zheng tong 	正统	c=1 d=0.0221482 t=28633
@@ -7299,7 +7365,7 @@ zhi zai 	只在	c=2 d=0.142274 t=28633
 zhi zai 	旨在	c=1 d=2.8968e-13 t=28633
 zhi zao 	制造	c=1 d=3.78297e-06 t=28633
 zhi zhi 	纸质	c=1 d=0.0735345 t=28633
-zhi zhong 	之中	c=4 d=3.773e-05 t=28633
+zhi zhong 	之中	c=4 d=0.377192 t=28633
 zhi zhu 	之主	c=1 d=0.882497 t=28633
 zhi zhu 	蜘蛛	c=3 d=0.0145307 t=28633
 zhi zhu xia 	蜘猪侠	c=1 d=1.91157e-05 t=28633
@@ -7375,7 +7441,7 @@ zhu chang ren yuan 	驻场人员	c=1 d=1.17895e-25 t=28633
 zhu chu 	主厨	c=2 d=3.06957e-06 t=28633
 zhu dao 	主导	c=1 d=3.47471e-06 t=28633
 zhu ding 	注定	c=3 d=1.25409e-08 t=28633
-zhu dong 	主动	c=4 d=4.0537e-13 t=28633
+zhu dong 	主动	c=4 d=0.802519 t=28633
 zhu fang 	住房	c=1 d=1.08402e-08 t=28633
 zhu guan 	主观	c=2 d=1.8949e-18 t=28633
 zhu hou 	诸侯	c=1 d=0.744532 t=28633
@@ -7394,7 +7460,7 @@ zhu she 	注射	c=1 d=4.02443e-28 t=28633
 zhu shi jie 	主世界	c=1 d=1.5201e-15 t=28633
 zhu su 	住宿	c=1 d=8.98612e-08 t=28633
 zhu ti 	主题	c=8 d=0.460704 t=28633
-zhu ti yan se 	主体颜色	c=1 d=1 t=28225
+zhu ti yan se 	主体颜色	c=1 d=0.130029 t=28633
 zhu ti you hua 	主题优化	c=1 d=1.92076e-32 t=28633
 zhu xian 	主线	c=2 d=0.0283227 t=28633
 zhu xue jin 	助学金	c=1 d=1.01318e-07 t=28633
@@ -7408,7 +7474,7 @@ zhu zai 	住在	c=2 d=2.80927e-05 t=28633
 zhu zhang 	主张	c=1 d=1.47392e-05 t=28633
 zhu zhu xia 	猪猪侠	c=1 d=0.0441572 t=28633
 zhua er nao sai 	抓耳挠腮	c=1 d=0.000243596 t=28633
-zhua pai 	抓拍	c=2 d=0.848212 t=28633
+zhua pai 	抓拍	c=6 d=0.848212 t=28633
 zhuan 	赚	c=3 d=8.68105e-20 t=28633
 zhuan 	转	c=6 d=0.100761 t=28633
 zhuan a fu 	转阿福	c=1 d=1.32995e-31 t=28633
@@ -7484,7 +7550,8 @@ zi duan 	字段	c=5 d=0.235876 t=28633
 zi fu 	字符	c=1 d=4.06418e-26 t=28633
 zi gen 	字根	c=2 d=0.026139 t=28633
 zi hao 	自豪	c=1 d=1.56155e-08 t=28633
-zi ji 	自己	c=146 d=2.97433 t=28633
+zi ji 	自己	c=146 d=3.78085 t=28633
+zi ji de 	自己的	c=1 d=1 t=209
 zi ji xie 	自己写	c=1 d=0.0149208 t=28633
 zi ji yi ge ren 	自己一个人	c=1 d=6.74483e-15 t=28633
 zi jian 	自检	c=1 d=3.57372e-13 t=28633
@@ -7494,7 +7561,7 @@ zi ma liu 	子码流	c=2 d=4.2506e-06 t=28633
 zi mian 	自勉	c=1 d=1 t=28633
 zi mo kuai 	子模块	c=1 d=0.0129068 t=28633
 zi qi 	自欺	c=0 d=0.1 t=28633
-zi ran 	自然	c=20 d=0.492365 t=28633
+zi ran 	自然	c=20 d=0.946211 t=28633
 zi ran er ran 	自然而然	c=2 d=0.369723 t=28633
 zi ran jie 	自然界	c=1 d=0.193013 t=28633
 zi run 	滋润	c=1 d=0.367879 t=28633
@@ -7505,7 +7572,7 @@ zi shi ying 	自适应	c=1 d=1.38187e-11 t=28633
 zi si 	自私	c=1 d=2.56172e-08 t=28633
 zi si zi li 	自私自利	c=1 d=0.00348252 t=28633
 zi sun 	子孙	c=1 d=0.559898 t=28633
-zi tai 	姿态	c=1 d=1 t=28542
+zi tai 	姿态	c=1 d=0.634448 t=28633
 zi ti 	字体	c=27 d=2.21935 t=28633
 zi wo 	自我	c=7 d=0.0306538 t=28633
 zi xi 	仔细	c=1 d=0.0159229 t=28633
@@ -7571,6 +7638,7 @@ zui e zhuang bei 	罪恶装备	c=1 d=5.45778e-24 t=28633
 zui gao 	最高	c=1 d=1.66614e-06 t=28633
 zui gao zhang 	最高涨	c=1 d=0.249075 t=28633
 zui hao 	最好	c=3 d=0.0399176 t=28633
+zui hao de 	最好的	c=1 d=1 t=341
 zui hou 	最后	c=10 d=0.811673 t=28633
 zui hou yi ci 	最后一次	c=1 d=2.14228e-22 t=28633
 zui jin 	最近	c=13 d=0.453963 t=28633
@@ -7595,7 +7663,7 @@ zui zhu yao 	最主要	c=1 d=8.24236e-21 t=28633
 zun 	尊	c=1 d=0.308819 t=28633
 zun jing 	尊敬	c=1 d=0.289384 t=28633
 zun yan 	尊严	c=1 d=0.00733572 t=28633
-zun zhong 	尊重	c=6 d=0.0017555 t=28633
+zun zhong 	尊重	c=6 d=2.38119 t=28633
 zun zhong ta 	尊重他	c=1 d=3.3471e-07 t=28633
 zuo 	作	c=1 d=0.000218221 t=28633
 zuo 	做	c=55 d=0.517863 t=28633
@@ -7615,11 +7683,12 @@ zuo dao 	坐到	c=2 d=1.58979e-05 t=28633
 zuo dao le 	做到了	c=1 d=0.00660453 t=28633
 zuo dao ma 	做到吗	c=1 d=0.000608204 t=28633
 zuo de 	做的	c=4 d=4.23378e-07 t=28633
-zuo fa 	做法	c=4 d=0.0270619 t=28633
+zuo fa 	做法	c=4 d=0.323033 t=28633
 zuo ge 	做个	c=1 d=0.000368894 t=28633
 zuo guo 	做过	c=1 d=9.49258e-06 t=28633
 zuo hao 	做好	c=1 d=0.00504176 t=28633
 zuo hao le 	做好了	c=1 d=0.00538036 t=28633
+zuo hao zi ji 	做好自己	c=1 d=1 t=309
 zuo jia 	作家	c=2 d=0.000214973 t=28633
 zuo le 	做了	c=10 d=1.11741 t=28633
 zuo le yi fen 	做了一份	c=1 d=0.000139842 t=28633
