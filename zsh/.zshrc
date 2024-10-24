@@ -75,7 +75,7 @@ zstyle ':completion:*' menu no
 proxy () {
 	export all_proxy="http://127.0.0.1:7890"
 	export http_proxy="http://127.0.0.1:7890"
-	# export https_proxy="http://127.0.0.1:7890"
+	export https_proxy="http://127.0.0.1:7890"
 	echo "Proxy on"
 }
 
@@ -83,7 +83,7 @@ proxy () {
 uproxy () {
 	unset all_proxy
 	unset http_proxy
-	# unset https_proxy
+	unset https_proxy
 	echo "Proxy off"
 }
 
