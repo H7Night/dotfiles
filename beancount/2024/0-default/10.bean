@@ -1,3 +1,154 @@
+2024-10-24 * "隆江猪脚饭" "收钱码收款"
+    time: "12:35:41"
+    uuid: "2024102422001453521406322273"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 12.00 CNY
+    Liabilities:Huabei                 -12.00 CNY
+
+2024-10-23 * "深圳**店" "补差价专用"
+    time: "20:06:59"
+    uuid: "2024102322001153521400906828"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Other             27.00 CNY
+    Liabilities:CMBCreditCard:2035     -27.00 CNY
+
+2024-10-23 * "英记粥坊" "收钱码收款"
+    time: "19:42:49"
+    uuid: "2024102322001453521401628733"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner                10.00 CNY
+    Liabilities:Huabei                 -10.00 CNY
+
+2024-10-23 * "小五快餐（村尾店）" "收钱码收款"
+    time: "12:07:46"
+    uuid: "2024102322001453521400815962"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 13.00 CNY
+    Liabilities:Huabei                 -13.00 CNY
+
+2024-10-22 * "佛山市南海区华楷屋面包店" "订单号:No11622024102299212_520"
+    time: "18:37:27"
+    uuid: "2024102223001453521455321534"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner                14.00 CNY
+    Liabilities:CMBCreditCard:2035     -14.00 CNY
+
+2024-10-22 * "do**1" "classic基础字符"
+    time: "13:08:49"
+    uuid: "2024102222001153521454228244"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital          167.00 CNY
+    Liabilities:CMBCreditCard:2035    -167.00 CNY
+
+2024-10-22 * "小五快餐（村尾店）" "收钱码收款"
+    time: "12:16:31"
+    uuid: "2024102222001453521453532364"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 13.00 CNY
+    Liabilities:Huabei                 -13.00 CNY
+
+2024-10-22 * "余额宝" "余额宝-单次转入"
+    time: "01:15:22"
+    uuid: "20241022019130100010520065159858"
+    status: "ALiPay - 交易成功"
+    Assets:CITIC:9425                -2000.00 CNY
+    Assets:AliPay:Balance             2000.00 CNY
+
+2024-10-21 * "美团" "美团订单-24102111100300001301474501928278"
+    time: "19:14:41"
+    uuid: "2024102122001453521446485743"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner                63.30 CNY
+    Liabilities:CMBCreditCard:2035     -63.30 CNY
+
+2024-10-21 * "小五快餐（村尾店）" "收钱码收款"
+    time: "12:14:34"
+    uuid: "2024102122001453521446430023"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 13.00 CNY
+    Liabilities:Huabei                 -13.00 CNY
+
+2024-10-21 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "09:00:23"
+    uuid: "20241021001080012204520078130488"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance             -500.00 CNY
+    Assets:AliPay:Funds                500.00 CNY
+
+2024-10-20 * "深圳**店" "日本电话卡5G/4G手机流量上网卡可选9999GB5/7/10/15天旅游sim卡"
+    time: "22:27:34"
+    uuid: "2024102022001153521440117606"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Other             34.48 CNY
+    Liabilities:CMBCreditCard:2035     -34.48 CNY
+
+2024-10-20 * "tb**8" "【构思者】自适应 免调试 弹性结构钢板卫星轴  构思者卫星轴"
+    time: "22:19:41"
+    uuid: "2024102022001153521440300824"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital           19.90 CNY
+    Liabilities:CMBCreditCard:2035     -19.90 CNY
+
+2024-10-20 * "j8**8" "凯华Kailh box草莓冰淇淋pro客制化cream37g触发线性机械键盘轴体"
+    time: "22:19:41"
+    uuid: "2024102022001153521442848116"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital          181.00 CNY
+    Liabilities:CMBCreditCard:2035    -181.00 CNY
+
+2024-10-20 * "运营商合约分期服务( PhoneWin）" "广东移动套餐-合约36期/第23期扣款"
+    time: "14:08:10"
+    uuid: "2024102022001453521438485534"
+    status: "ALiPay - 交易成功"
+    Expenses:Home:Phone                 51.00 CNY
+    Assets:AliPay:Balance              -51.00 CNY
+
+2024-10-20 * "余额宝" "余额宝-单次转入"
+    time: "13:05:31"
+    uuid: "20241020019130100010520063249457"
+    status: "ALiPay - 交易成功"
+    Assets:CITIC:9425                -2000.00 CNY
+    Assets:AliPay:Balance             2000.00 CNY
+
+2024-10-20 * "余额宝" "余额宝-单次转入"
+    time: "13:05:16"
+    uuid: "20241020019130100010520063951020"
+    status: "ALiPay - 交易成功"
+    Assets:CITIC:9425                -2000.00 CNY
+    Assets:AliPay:Balance             2000.00 CNY
+
+2024-10-19 * "心润沁糖水铺" "美团点单"
+    time: "22:51:04"
+    status: "WeChat Pay - 交易成功"
+    Expenses:Food:Snack                 25.00 CNY
+    Liabilities:CMBCreditCard:2035     -25.00 CNY
+
+2024-10-19 * "卖茶Mytea" "MyTeau茶订单"
+    time: "16:51:14"
+    uuid: "2024101922001453521432531919"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Snack                 24.00 CNY
+    Liabilities:CMBCreditCard:2035     -24.00 CNY
+
+2024-10-19 * "富丽图快印-三水万达店" "直接支付"
+    time: "16:28:37"
+    status: "WeChat Pay - 交易成功"
+    Expenses:Shopping:Other              1.00 CNY
+    Liabilities:CMBCreditCard:2035      -1.00 CNY
+
+2024-10-19 * "富丽图快印-三水万达店" "直接支付"
+    time: "15:43:33"
+    status: "WeChat Pay - 交易成功"
+    Expenses:Shopping:Other              1.00 CNY
+    Liabilities:CMBCreditCard:2035      -1.00 CNY
+
+2024-10-18 * "广东联合电子服务股份有限公司" "通行费_ES010023070073045935241018184749"
+    time: "18:48:29"
+    uuid: "2024101823001453521427020981"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport:Car:Tolls        19.00 CNY
+    Liabilities:CMBCreditCard:2035     -19.00 CNY
+
 2024-10-18 * "小五快餐（村尾店）" "收钱码收款"
     time: "12:08:27"
     uuid: "2024101822001453521418447846"

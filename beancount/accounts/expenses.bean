@@ -1,74 +1,75 @@
 ;[支付类型：2024-10-11]
 
 ;餐饮
-2000-01-01 open Expenses:Food:Breakfast ;早餐
-2000-01-01 open Expenses:Food:Lunch ;午餐
-2000-01-01 open Expenses:Food:Dinner ;晚餐
-2000-01-01 open Expenses:Food:DrinkFruit ;饮料水果
-2000-01-01 open Expenses:Food:Vegetables ;买菜原料
-2000-01-01 open Expenses:Food:Invite ;请客吃饭
-2000-01-01 open Expenses:Food:Omission ;漏记款
-2000-01-01 open Expenses:Food:Other ;其他
+2000-01-01 open Expenses:Food:Breakfast                 ;早餐
+2000-01-01 open Expenses:Food:Lunch                     ;午餐
+2000-01-01 open Expenses:Food:Dinner                    ;晚餐
+2000-01-01 open Expenses:Food:Snack                     ;小吃
+2000-01-01 open Expenses:Food:DrinkFruit                ;饮料水果
+2000-01-01 open Expenses:Food:Vegetables                ;买菜原料
+2000-01-01 open Expenses:Food:Invite                    ;请客吃饭
+2000-01-01 open Expenses:Food:Omission                  ;漏记款
+2000-01-01 open Expenses:Food:Other                     ;其他
 
 ;五险一金
-2000-01-01 open Expenses:Government:Pension ; 养老保险
-2000-01-01 open Expenses:Government:Unemployment ; 失业保险
-2000-01-01 open Expenses:Government:Medical ; 医疗保险
-2000-01-01 open Expenses:Government:Injury ; 工伤保险
-2000-01-01 open Expenses:Government:Maternity ; 生育保险
+2000-01-01 open Expenses:Government:Pension             ; 养老保险
+2000-01-01 open Expenses:Government:Unemployment        ; 失业保险
+2000-01-01 open Expenses:Government:Medical             ; 医疗保险
+2000-01-01 open Expenses:Government:Injury              ; 工伤保险
+2000-01-01 open Expenses:Government:Maternity           ; 生育保险
 
 ;个人税
-2000-01-01 open Expenses:Government:IncomeTax
-2000-01-01 open Expenses:Government:Customs ; 关税
+2000-01-01 open Expenses:Government:IncomeTax           ; 工资税
+2000-01-01 open Expenses:Government:Customs             ; 关税
 
 ; 生活
-2000-01-01 open Expenses:Home:Phone ;手机电话
-2000-01-01 open Expenses:Home:Delivery ;快递费
-2000-01-01 open Expenses:Home:Haircut ;理发费
-2000-01-01 open Expenses:Home:Rent ;房租
+2000-01-01 open Expenses:Home:Phone                     ;手机电话
+2000-01-01 open Expenses:Home:Delivery                  ;快递费
+2000-01-01 open Expenses:Home:Haircut                   ;理发费
+2000-01-01 open Expenses:Home:Rent                      ;房租
 
 ;购物
-2000-01-01 open Expenses:Shopping:Clothing  ;服饰鞋包
-2000-01-01 open Expenses:Shopping:Digital  ;电子数码
-2000-01-01 open Expenses:Shopping:Home  ;家居百货
-2000-01-01 open Expenses:Shopping:Book  ;买书
-2000-01-01 open Expenses:Shopping:Makeup  ;化妆护肤
-2000-01-01 open Expenses:Shopping:Other  ;其他
+2000-01-01 open Expenses:Shopping:Clothing              ;服饰鞋包
+2000-01-01 open Expenses:Shopping:Digital               ;电子数码
+2000-01-01 open Expenses:Shopping:Home                  ;家居百货
+2000-01-01 open Expenses:Shopping:Book                  ;买书
+2000-01-01 open Expenses:Shopping:Makeup                ;化妆护肤
+2000-01-01 open Expenses:Shopping:Other                 ;其他
 
 ;医疗健康
-2000-01-01 open Expenses:Health:Outpatient  ;门诊
-2000-01-01 open Expenses:Health:Medical  ;药品
-2000-01-01 open Expenses:Health:Examination  ;体检
-2000-01-01 open Expenses:Health:Other  ;其他
+2000-01-01 open Expenses:Health:Outpatient              ;门诊
+2000-01-01 open Expenses:Health:Medical                 ;药品
+2000-01-01 open Expenses:Health:Examination             ;体检
+2000-01-01 open Expenses:Health:Other                   ;其他
 
 ;娱乐
-2000-01-01 open Expenses:Entertainment:Movie  ;电影
-2000-01-01 open Expenses:Entertainment:Travel  ;旅游度假
-2000-01-01 open Expenses:Entertainment:Hotel  ;酒店住宿
-2000-01-01 open Expenses:Entertainment:Media  ;网络流媒体服务
-2000-01-01 open Expenses:Entertainment:Show  ;演出门票
-2000-01-01 open Expenses:Entertainment:Other
+2000-01-01 open Expenses:Entertainment:Movie            ;电影
+2000-01-01 open Expenses:Entertainment:Travel           ;旅游度假
+2000-01-01 open Expenses:Entertainment:Hotel            ;酒店住宿
+2000-01-01 open Expenses:Entertainment:Media            ;网络流媒体服务
+2000-01-01 open Expenses:Entertainment:Show             ;演出门票
+2000-01-01 open Expenses:Entertainment:Other            ;其他
 
 ;交通
-2000-01-01 open Expenses:Transport:Airline ;飞机
-2000-01-01 open Expenses:Transport:Railway ;火车
-2000-01-01 open Expenses:Transport:TAXI ;打车
-2000-01-01 open Expenses:Transport:Transport ;公交地铁
-2000-01-01 open Expenses:Transport:Car:Oil ;加油
-2000-01-01 open Expenses:Transport:Car:Tolls ;过路过桥
-2000-01-01 open Expenses:Transport:Car:Maintenance ;保养维修
-2000-01-01 open Expenses:Transport:Car:Insurance ;车险
-2000-01-01 open Expenses:Transport:Car:Parking ;停车费
-2000-01-01 open Expenses:Transport:Car:Wash ;洗车
-2000-01-01 open Expenses:Transport:Other ;其他
+2000-01-01 open Expenses:Transport:Airline              ;飞机
+2000-01-01 open Expenses:Transport:Railway              ;火车
+2000-01-01 open Expenses:Transport:TAXI                 ;打车
+2000-01-01 open Expenses:Transport:Transport            ;公交地铁
+2000-01-01 open Expenses:Transport:Car:Oil              ;加油
+2000-01-01 open Expenses:Transport:Car:Tolls            ;过路过桥
+2000-01-01 open Expenses:Transport:Car:Maintenance      ;保养维修
+2000-01-01 open Expenses:Transport:Car:Insurance        ;车险
+2000-01-01 open Expenses:Transport:Car:Parking          ;停车费
+2000-01-01 open Expenses:Transport:Car:Wash             ;洗车
+2000-01-01 open Expenses:Transport:Other                ;其他
 
 ;投资
 2000-01-01 open Expenses:Invest:Fund
-2000-01-01 open Expenses:Invest:Dev ;技术基础设施费用
-2000-01-01 open Expenses:Invest:Study ;学习费用
-2000-01-01 open Expenses:Invest:Portfolio:Interest ;利息支出
-2000-01-01 open Expenses:Invest:Cost ;手续费
-2000-01-01 open Expenses:Invest:Other ;其他
+2000-01-01 open Expenses:Invest:Dev                     ;技术基础设施费用
+2000-01-01 open Expenses:Invest:Study                   ;学习费用
+2000-01-01 open Expenses:Invest:Portfolio:Interest      ;利息支出
+2000-01-01 open Expenses:Invest:Cost                    ;手续费
+2000-01-01 open Expenses:Invest:Other                   ;其他
 
-;
+;其他
 2000-01-01 open Expenses:Others
