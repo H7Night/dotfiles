@@ -4,25 +4,23 @@
 2000-01-01 open Expenses:Food:Breakfast                 ;早餐
 2000-01-01 open Expenses:Food:Lunch                     ;午餐
 2000-01-01 open Expenses:Food:Dinner                    ;晚餐
-2000-01-01 open Expenses:Food:Snack                     ;小吃
-2000-01-01 open Expenses:Food:DrinkFruit                ;饮料水果
+2000-01-01 open Expenses:Food:Snack                     ;零食(水果，小吃，饮料等)
 2000-01-01 open Expenses:Food:Vegetables                ;买菜原料
 2000-01-01 open Expenses:Food:Invite                    ;请客吃饭
-2000-01-01 open Expenses:Food:Omission                  ;漏记款
 2000-01-01 open Expenses:Food:Other                     ;其他
 
 ;五险一金
-2000-01-01 open Expenses:Government:Pension             ; 养老保险
-2000-01-01 open Expenses:Government:Unemployment        ; 失业保险
-2000-01-01 open Expenses:Government:Medical             ; 医疗保险
-2000-01-01 open Expenses:Government:Injury              ; 工伤保险
-2000-01-01 open Expenses:Government:Maternity           ; 生育保险
+2000-01-01 open Expenses:Government:Pension             ;养老保险
+2000-01-01 open Expenses:Government:Unemployment        ;失业保险
+2000-01-01 open Expenses:Government:Medical             ;医疗保险
+2000-01-01 open Expenses:Government:Injury              ;工伤保险
+2000-01-01 open Expenses:Government:Maternity           ;生育保险
 
 ;个人税
-2000-01-01 open Expenses:Government:IncomeTax           ; 工资税
-2000-01-01 open Expenses:Government:Customs             ; 关税
+2000-01-01 open Expenses:Government:IncomeTax           ;工资税
+2000-01-01 open Expenses:Government:Customs             ;关税
 
-; 生活
+;生活
 2000-01-01 open Expenses:Home:Phone                     ;手机电话
 2000-01-01 open Expenses:Home:Delivery                  ;快递费
 2000-01-01 open Expenses:Home:Haircut                   ;理发费
@@ -64,10 +62,10 @@
 2000-01-01 open Expenses:Transport:Other                ;其他
 
 ;投资
-2000-01-01 open Expenses:Invest:Fund
+2000-01-01 open Expenses:Invest:Fund                    ;基金亏损
 2000-01-01 open Expenses:Invest:Dev                     ;技术基础设施费用
 2000-01-01 open Expenses:Invest:Study                   ;学习费用
-2000-01-01 open Expenses:Invest:Portfolio:Interest      ;利息支出
+2000-01-01 open Expenses:Invest:Interest                ;利息支出
 2000-01-01 open Expenses:Invest:Cost                    ;手续费
 2000-01-01 open Expenses:Invest:Other                   ;其他
 

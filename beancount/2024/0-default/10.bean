@@ -1,3 +1,11 @@
+; --------------------------------------------------
+2024-10-25 * "小五快餐（村尾店）" "收钱码收款"
+    time: "12:15:35"
+    uuid: "2024102522001453521415516962"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 13.00 CNY
+    Liabilities:Huabei                 -13.00 CNY
+
 2024-10-24 * "隆江猪脚饭" "收钱码收款"
     time: "12:35:41"
     uuid: "2024102422001453521406322273"
@@ -5,7 +13,7 @@
     Expenses:Food:Lunch                 12.00 CNY
     Liabilities:Huabei                 -12.00 CNY
 
-2024-10-23 * "深圳**店" "补差价专用"
+2024-10-23 * "深圳**店" "补差价专用" #travel/jp
     time: "20:06:59"
     uuid: "2024102322001153521400906828"
     status: "ALiPay - 等待确认收货"
@@ -75,7 +83,9 @@
     Assets:AliPay:Balance             -500.00 CNY
     Assets:AliPay:Funds                500.00 CNY
 
-2024-10-20 * "深圳**店" "日本电话卡5G/4G手机流量上网卡可选9999GB5/7/10/15天旅游sim卡"
+; --------------------------------------------------
+
+2024-10-20 * "深圳**店" "日本电话卡5G/4G手机流量上网卡可选9999GB5/7/10/15天旅游sim卡" #travel/jp
     time: "22:27:34"
     uuid: "2024102022001153521440117606"
     status: "ALiPay - 等待确认收货"
@@ -136,7 +146,7 @@
     Expenses:Shopping:Other              1.00 CNY
     Liabilities:CMBCreditCard:2035      -1.00 CNY
 
-2024-10-19 * "富丽图快印-三水万达店" "直接支付"
+2024-10-19 * "富丽图快印-三水万达店" "直接支付" #travel/jp
     time: "15:43:33"
     status: "WeChat Pay - 交易成功"
     Expenses:Shopping:Other              1.00 CNY
@@ -205,7 +215,7 @@
     Assets:AliPay:Balance              601.86 CNY
     Assets:CITIC:9425                 -601.86 CNY
 
-2024-10-17 * "广东**店" "日本&middot;单次旅游签证&middot;广州送签&middot;【中青旅】央企品牌【下单有礼】个人旅游广州深圳免机票酒店加急福建电子签"
+2024-10-17 * "广东**店" "日本&middot;单次旅游签证&middot;广州送签&middot;【中青旅】央企品牌【下单有礼】个人旅游广州深圳免机票酒店加急福建电子签" #travel/jp
     time: "12:58:27"
     uuid: "2024101722001153521412509779"
     status: "ALiPay - 支付成功"
@@ -277,6 +287,8 @@
     Expenses:Food:Lunch                 13.00 CNY
     Liabilities:Huabei                 -13.00 CNY
 
+; --------------------------------------------------
+
 2024-10-13 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2024-10-13 20:55:11"
     time: "20:55:03"
     uuid: "2024101322001453521445671920"
@@ -312,7 +324,7 @@
     Expenses:Food:Invite               227.04 CNY
     Liabilities:CMBCreditCard:2035    -227.04 CNY
 
-2024-10-13 * "富丽图快印" ""
+2024-10-13 * "富丽图快印" "" #travel/jp
     time: "16:01:08"
     Expenses:Shopping:Other                 7 CNY
     Liabilities:CMBCreditCard:2035         -7 CNY

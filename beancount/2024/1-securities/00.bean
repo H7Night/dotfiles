@@ -42,6 +42,10 @@
     Income:Fund             -0.15 CNY
     Assets:AliPay:Balance    0.15 CNY
 
+2024-10-18 * "基金" "纳斯达克"
+    Income:Fund             -4.35 CNY
+    Assets:AliPay:Funds      4.35 CNY
+
 2024-10-18 * "基金" "余额宝"
     Income:Fund             -0.13 CNY
     Assets:AliPay:Balance    0.13 CNY

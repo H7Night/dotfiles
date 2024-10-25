@@ -1,7 +1,7 @@
 ;[欠款：2024-10-11]
-2000-01-01 open Liabilities:CMBCreditCard:2035 CNY          ;招商银行 credit卡
-2000-01-01 open Liabilities:CMBCreditCard:7046 CNY, USD     ;Visa credit卡
-2000-01-01 open Liabilities:Huabei CNY                      ;花呗
+2000-01-01 open Liabilities:CMBCreditCard:2035  CNY          ;招商银行 credit卡
+2000-01-01 open Liabilities:CMBCreditCard:7046  CNY, USD     ;Visa credit卡
+2000-01-01 open Liabilities:Huabei              CNY          ;花呗
 
 ;[初始化欠款：2024-10-11]
 
