@@ -1,5 +1,9 @@
 .idea
 .DS_Store
 */.DS_Store
+
 Rime\rime_ice.userdb
 Rime/rime_ice.userdb
+
+Rime\rime_ice_private.userdb
+Rime/rime_ice_private.userdb
