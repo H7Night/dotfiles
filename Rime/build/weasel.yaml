@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.11.2
   timestamps:
     weasel: 1729216170
-    weasel.custom: 1729217234
+    weasel.custom: 1730085532
 app_options:
   cmd.exe:
     ascii_mode: true
@@ -93,7 +93,7 @@ style:
   font_face: "Segoe UI Emoji:30:39, Noto Color Emoji, Microsoft YaHei"
   font_point: 14
   horizontal: true
-  inline_preedit: true
+  inline_preedit: false
   label_font_face: "Microsoft YaHei"
   label_font_point: 14
   layout:

@@ -790,7 +790,7 @@ chong dong 	冲动	c=1 d=3.10525e-07 t=28718
 chong fen 	充分	c=2 d=0.196912 t=28718
 chong fu 	重复	c=4 d=1.07721 t=28718
 chong fu le 	重复了	c=1 d=0.00504176 t=28718
-chong fu zhua pai 	重复抓拍	c=1 d=1 t=28681
+chong fu zhua pai 	重复抓拍	c=1 d=0.831104 t=28718
 chong gao 	崇高	c=1 d=0.302704 t=28718
 chong gou 	重构	c=1 d=0.0564161 t=28718
 chong he 	重合	c=1 d=0.00112497 t=28718
@@ -1002,7 +1002,7 @@ da ming ding ding de 	大名鼎鼎的	c=1 d=3.51871e-07 t=28718
 da ming xing 	大明星	c=1 d=0.000227127 t=28718
 da mo 	打磨	c=1 d=2.38196e-05 t=28718
 da nao 	大脑	c=1 d=7.23635e-19 t=28718
-da ping 	大屏	c=1 d=1 t=28707
+da ping 	大屏	c=1 d=0.946485 t=28718
 da po 	打破	c=1 d=0.035437 t=28718
 da qiao 	大桥	c=3 d=0.0900237 t=28718
 da san 	大三	c=1 d=4.58952e-15 t=28718
@@ -1426,7 +1426,7 @@ dui li 	对立	c=1 d=1 t=28718
 dui ni 	对你	c=3 d=4.00653e-05 t=28718
 dui qi 	对其	c=3 d=0.00802655 t=28718
 dui ren 	对人	c=2 d=0.000804733 t=28718
-dui shang 	对上	c=1 d=1 t=28670
+dui shang 	对上	c=1 d=0.786628 t=28718
 dui ta 	对他	c=1 d=1.76035e-06 t=28718
 dui ta 	对她	c=1 d=0.396531 t=28718
 dui wo 	对我	c=9 d=0.00461081 t=28718
@@ -1436,7 +1436,7 @@ dui xing 	对性	c=3 d=0.0912356 t=28718
 dui ying 	对应	c=9 d=0.506617 t=28718
 dui ying shang 	对应上	c=1 d=4.06777e-07 t=28718
 dui yu 	对于	c=7 d=0.497229 t=28718
-dui zhao 	对照	c=1 d=1 t=28702
+dui zhao 	对照	c=1 d=0.923116 t=28718
 dun 	顿	c=1 d=1.01439e-21 t=28718
 dun he lu 	敦和路	c=2 d=2.94719e-10 t=28718
 duo 	多	c=13 d=0.99099 t=28718
@@ -2833,7 +2833,7 @@ jin tou 	尽头	c=1 d=0.425283 t=28718
 jin xing 	尽兴	c=1 d=0.203926 t=28718
 jin xing 	进行	c=25 d=0.646108 t=28718
 jin xing cao zuo 	进行操作	c=1 d=0.339596 t=28718
-jin xing guan li 	进行管理	c=1 d=1 t=28652
+jin xing guan li 	进行管理	c=1 d=0.718924 t=28718
 jin xing le 	进行了	c=2 d=0.219808 t=28718
 jin yao shi 	金钥匙	c=1 d=7.19168e-05 t=28718
 jin yi bu 	进一步	c=1 d=8.02929e-07 t=28718
@@ -3105,7 +3105,7 @@ ke quan ke dian 	可圈可点	c=1 d=2.18259e-06 t=28718
 ke wang 	渴望	c=13 d=1.35356 t=28718
 ke xing 	可行	c=2 d=0.0611149 t=28718
 ke xing ma 	可行吗	c=1 d=8.47866e-30 t=28718
-ke xing xing 	可行性	c=1 d=1 t=28655
+ke xing xing 	可行性	c=1 d=0.729789 t=28718
 ke xuan 	可选	c=1 d=8.75651e-27 t=28718
 ke xue 	科学	c=1 d=2.52487e-14 t=28718
 ke yi 	刻意	c=10 d=0.000129737 t=28718
@@ -4000,7 +4000,7 @@ pai ta 	排他	c=2 d=0.962079 t=28718
 pai wai 	排外	c=1 d=1 t=28718
 pai xia le 	拍下了	c=1 d=0.00373503 t=28718
 pai zhao 	拍照	c=1 d=1.08439e-12 t=28718
-pan 	潘	c=1 d=1 t=28716
+pan 	潘	c=1 d=0.99005 t=28718
 pan bi 	攀比	c=2 d=0.208045 t=28718
 pan duan 	判断	c=5 d=0.257986 t=28718
 pan tan 	攀谈	c=3 d=0.923116 t=28718
@@ -4795,7 +4795,7 @@ shi guang 	时光	c=1 d=3.62144e-22 t=28718
 shi guo 	试过	c=2 d=7.11336e-15 t=28718
 shi guo jing qian 	时过境迁	c=1 d=0.410656 t=28718
 shi hou 	时候	c=76 d=1.9119 t=28718
-shi hou you bi yao 	时候有必要	c=1 d=1 t=28647
+shi hou you bi yao 	时候有必要	c=1 d=0.701173 t=28718
 shi huai 	释怀	c=0 d=0.000146632 t=28718
 shi huai le 	释怀了	c=1 d=0.00147367 t=28718
 shi ji 	实际	c=8 d=0.874485 t=28718
@@ -5722,7 +5722,7 @@ wo shuo de 	我说的	c=2 d=0.000673115 t=28718
 wo ta ma 	我他妈	c=1 d=5.52596e-23 t=28718
 wo tao 	我逃	c=1 d=0.548812 t=28718
 wo tong guo 	我通过	c=1 d=1.80768e-24 t=28718
-wo tong ji 	我统计	c=1 d=1 t=28674
+wo tong ji 	我统计	c=1 d=0.802519 t=28718
 wo wan 	我玩	c=1 d=7.00554e-20 t=28718
 wo wei 	我为	c=1 d=9.57626e-21 t=28718
 wo wen 	我问	c=0 d=0.00459593 t=28718
@@ -6385,7 +6385,7 @@ yao qiu 	要求	c=24 d=0.667317 t=28718
 yao qu 	要去	c=2 d=3.10109e-10 t=28718
 yao ru he 	要如何	c=1 d=0.0127784 t=28718
 yao shi 	要是	c=1 d=3.38593e-25 t=28718
-yao shi yong 	要使用	c=1 d=1 t=28636
+yao shi yong 	要使用	c=1 d=0.66365 t=28718
 yao shuo 	要说	c=1 d=3.20037e-09 t=28718
 yao ta 	要他	c=2 d=0.0856227 t=28718
 yao wo 	要我	c=2 d=0.251446 t=28718
@@ -6790,7 +6790,7 @@ you 	有	c=189 d=4.55157 t=28718
 you 	游	c=4 d=8.41173e-09 t=28718
 you 	由	c=10 d=0.794534 t=28718
 you bi bin 	由比滨	c=1 d=3.22748e-20 t=28718
-you bi yao 	有必要	c=0 d=0.1 t=28646
+you bi yao 	有必要	c=0 d=0.0697676 t=28718
 you bian 	右边	c=3 d=7.98924e-07 t=28718
 you bian hua 	有变化	c=1 d=3.02859e-07 t=28718
 you bu shao 	有不少	c=1 d=1.1396e-08 t=28718
