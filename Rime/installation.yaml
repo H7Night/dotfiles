@@ -1,8 +1,10 @@
-distribution_code_name: Weasel
-distribution_name: "小狼毫"
-distribution_version: 0.16.1
+# distribution_code_name: Weasel
+# distribution_name: "小狼毫"
+distribution_code_name: Squirrel
+distribution_name: "鼠鬚管"
+distribution_version: 0.18
 install_time: "Fri Jun  7 23:33:16 2024"
-update_time: "Tue Oct 22 16:51:27 2024"
+update_time: "Fri Nov  1 23:10:47 2024"
 rime_version: 1.11.2
 
 

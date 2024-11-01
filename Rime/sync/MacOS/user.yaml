@@ -1,6 +1,6 @@
 var:
-  last_build_time: 1729312739
-  previously_selected_schema: rime_ice
+  last_build_time: 1730371830
+  previously_selected_schema: double_pinyin_flypy
   schema_access_time:
-    double_pinyin_flypy: 1729152925
+    double_pinyin_flypy: 1729838561
     rime_ice: 1729215713

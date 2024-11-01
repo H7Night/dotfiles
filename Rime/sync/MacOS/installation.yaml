@@ -2,17 +2,7 @@ distribution_code_name: Squirrel
 distribution_name: "鼠鬚管"
 distribution_version: 0.18
 install_time: "Fri Jun  7 23:33:16 2024"
-rime_version: 1.11.2
-update_time: "Fri Oct 18 22:10:06 2024"
-
-installation_id: "Win"
-sync_dir: D:\Public\dotfiles\Rime\sync
-
 installation_id: MacOS
+rime_version: 1.11.2
 sync_dir: "/Users/jhonhe/Public/dotfiles/Rime/sync"
-
-# installation_id: "MacOS"
-# sync_dir:
-
-# installation_id: "Linux"
-# sync_dir:
+update_time: "Fri Nov  1 23:10:47 2024"

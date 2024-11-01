@@ -52,7 +52,7 @@ preset_color_schemes:
     author: "Lufs X <i@isteed.cc>"
 
     font_face: "LXGWWenKai-Regular, PingFangSC"
-    font_point: 24
+    font_point: 20
     label_font_face: "LXGWWenKai-Regular, PingFangSC"
     label_font_point: 12
 
@@ -86,7 +86,7 @@ preset_color_schemes:
     author: "Lufs X <i@isteed.cc>"
 
     font_face: "LXGWWenKai-Regular, PingFangSC"
-    font_point: 24
+    font_point: 20
     label_font_face: "LXGWWenKai-Regular, PingFangSC"
     label_font_point: 12
 
