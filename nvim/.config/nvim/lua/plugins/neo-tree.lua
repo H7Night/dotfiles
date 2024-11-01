@@ -17,6 +17,7 @@ return {
         }
     },
     config = function()
+        -- ctrl + n 打开文件树
         vim.keymap.set('n', '<C-n>', ':Neotree filesystem reveal left<CR>', {})
     end
 }

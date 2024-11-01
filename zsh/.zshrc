@@ -90,6 +90,7 @@ uproxy () {
 # Aliases
 alias ls='ls --color'
 alias vim='nvim'
+alias nvi='neovide'
 alias c='clear'
 
 
