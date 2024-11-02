@@ -1,4 +1,114 @@
+2024-10-30 * "微信转账" "妈妈"
+    time: "15:09:12"
+    uuid: "1000050001202410300121648010680"
+    Income:RedEnvelope               -1000.00 CNY
+    Assets:WeChat                     1000.00 CNY
+
+2024-10-30 * "微信转账" "爸爸"
+    time: "11:19:45"
+    uuid: "1000050001202410300425105038572"
+    Income:RedEnvelope                -300.00 CNY
+    Assets:WeChat                      300.00 CNY
+
+2024-10-31 * "英记粥坊" "收钱码收款"
+    time: "18:28:15"
+    uuid: "2024103122001453521455835882"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner                 8.00 CNY
+    Liabilities:Huabei                  -8.00 CNY
+
+2024-10-31 * "胖大厨鲜炒木桶饭张槎店" "胖大厨鲜炒木桶饭张槎店"
+    time: "12:14:10"
+    uuid: "2024103122001453521454892200"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 18.90 CNY
+    Liabilities:CMBCreditCard:2035     -18.90 CNY
+
+2024-10-30 * "小五快餐（村尾店）" "收钱码收款"
+    time: "12:14:18"
+    uuid: "2024103022001453521447854646"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 13.00 CNY
+    Liabilities:Huabei                 -13.00 CNY
+
+2024-10-29 * "小五快餐（村尾店）" "收钱码收款"
+    time: "12:14:54"
+    uuid: "2024102922001453521440973690"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 13.00 CNY
+    Liabilities:Huabei                 -13.00 CNY
+
+2024-10-28 * "j8**8" "凯华Kailh box草莓冰淇淋pro客制化cream37g触发线性机械键盘轴体"
+    time: "20:31:00"
+    uuid: "2024102822001153521437799710"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital            9.70 CNY
+    Liabilities:CMBCreditCard:2035      -9.70 CNY
+
+2024-10-28 * "小五快餐（村尾店）" "收钱码收款"
+    time: "12:13:12"
+    uuid: "2024102822001453521436259684"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                 13.00 CNY
+    Liabilities:Huabei                 -13.00 CNY
+
 ; --------------------------------------------------
+
+2024-10-26 * "微信红包" "索哥"
+    time: "23:31:38"
+    uuid: "1000039801000410266329308170025"
+    Income:RedEnvelope                 -66.00 CNY
+    Assets:WeChat                       66.00 CNY
+
+2024-10-26 * "佛山三水万达广场商业物业管理有限公司" "小程序停车费支付"
+    time: "18:32:29"
+    uuid: "2024102622001453521420097377"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport:Car:Parking      11.00 CNY
+    Liabilities:CMBCreditCard:2035     -11.00 CNY
+
+2024-10-25 * "hp**n" "怪物猎人艾露猫键帽呆猫沙雕猫个性树脂键帽"
+    time: "22:24:25"
+    uuid: "2024102522001153521414856688"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital           58.00 CNY
+    Assets:AliPay:Balance              -58.00 CNY
+
+2024-10-25 * "tb**8" "【构思者】自适应 免调试 弹性结构PCB卫星轴  构思者卫星轴"
+    time: "22:24:25"
+    uuid: "2024102522001153521414980469"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital           79.00 CNY
+    Liabilities:CMBCreditCard:2035     -79.00 CNY
+
+2024-10-25 * "pr**饼" "怪物猎人 | 呆猫傻狗贴纸"
+    time: "22:24:25"
+    uuid: "2024102522001153521417061120"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Other             26.00 CNY
+    Assets:AliPay:Balance              -26.00 CNY
+
+2024-10-25 * "千屿烘焙三水区店" "千屿烘焙"
+    time: "21:41:35"
+    uuid: "2024102523001453521417797471"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner                21.00 CNY
+    Liabilities:CMBCreditCard:2035     -21.00 CNY
+
+2024-10-25 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2024-10-25 19:07:32"
+    time: "19:07:38"
+    uuid: "2024102522001453521413720616"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport:Transport         9.00 CNY
+    Liabilities:CMBCreditCard:2035      -9.00 CNY
+
+2024-10-25 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2024-10-25 18:21:44"
+    time: "18:21:48"
+    uuid: "2024102522001453521413928346"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport:Transport         2.00 CNY
+    Liabilities:CMBCreditCard:2035      -2.00 CNY
+
 2024-10-25 * "小五快餐（村尾店）" "收钱码收款"
     time: "12:15:35"
     uuid: "2024102522001453521415516962"

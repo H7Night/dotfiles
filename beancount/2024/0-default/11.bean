@@ -1,0 +1,34 @@
+; 2024-11-02 * "****4" "1080，15.6寸便携屏，闲置出"
+;     time: "05:34:53"
+;     uuid: "2024110222001189311448072790"
+;     status: "ALiPay - 等待发货"
+;     Income:Other                       -200.00 CNY
+;     Assets:Savings:Web:AliPay           200.00 CNY
+
+2024-11-01 * "丰巢科技" "到付件运费畅存费"
+    time: "12:44:23"
+    uuid: "2024110122001453521402432596"
+    status: "ALiPay - 交易成功"
+    Expenses:Home:Delivery           14.50 CNY
+    Liabilities:CMBCreditCard:2035  -14.50 CNY
+
+2024-11-01 * "丰巢" "快件畅存费"
+    time: "12:43:02"
+    uuid: "2024110122001453521402720766"
+    status: "ALiPay - 交易成功"
+    Expenses:Home:Delivery            2.50 CNY
+    Liabilities:CMBCreditCard:2035   -2.50 CNY
+
+2024-11-01 * "雨东烘焙" "收钱码收款"
+    time: "12:27:28"
+    uuid: "2024110122001453521403995875"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch               8.00 CNY
+    Liabilities:Huabei               -8.00 CNY
+
+2024-11-01 * "沙县小吃" "经营码交易"
+    time: "12:18:53"
+    uuid: "2024110122001453521401678843"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch              13.00 CNY
+    Liabilities:CMBCreditCard:2035  -13.00 CNY
