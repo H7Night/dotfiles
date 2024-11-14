@@ -32,6 +32,7 @@
 2000-01-01 open Expenses:Shopping:Home                  ;家居百货
 2000-01-01 open Expenses:Shopping:Book                  ;买书
 2000-01-01 open Expenses:Shopping:Makeup                ;化妆护肤
+2000-01-01 open Expenses:Shopping:Invite
 2000-01-01 open Expenses:Shopping:Other                 ;其他
 
 ;医疗健康
@@ -45,7 +46,8 @@
 2000-01-01 open Expenses:Entertainment:Travel           ;旅游度假
 2000-01-01 open Expenses:Entertainment:Hotel            ;酒店住宿
 2000-01-01 open Expenses:Entertainment:Media            ;网络流媒体服务
-2000-01-01 open Expenses:Entertainment:Show             ;演出门票
+2000-01-01 open Expenses:Entertainment:VPN              ;梯子
+2000-01-01 open Expenses:Entertainment:Ticket           ;门票
 2000-01-01 open Expenses:Entertainment:Other            ;其他
 
 ;交通
