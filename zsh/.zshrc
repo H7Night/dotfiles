@@ -92,6 +92,7 @@ alias ls='ls --color'
 alias vim='nvim'
 alias nvi='neovide'
 alias c='clear'
+alias fet='fastfetch'
 
 
 # ----------------------MacOS Config----------------------
@@ -100,6 +101,8 @@ if [[ -f "/opt/homebrew/bin/brew" ]] then
   # Shell integrations
   eval "$(fzf --zsh)"
 fi
+# auto update homebrew 24 hour / 1
+export HOMEBREW_AUTO_UPDATE_SECS=86400
 
 # nvm
 export NVM_DIR="$HOME/.nvm"
