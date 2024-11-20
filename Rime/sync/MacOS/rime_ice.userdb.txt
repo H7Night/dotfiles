@@ -111,10 +111,10 @@ ban 	班	c=1 d=0.000395642 t=28718
 ban 	般	c=2 d=0.170471 t=28718
 ban ben 	版本	c=15 d=0.00475242 t=28718
 ban fa 	办法	c=2 d=0.971922 t=28718
-ban hua 	版画	c=1 d=0.0374406 t=28633
+ban hua 	版画	c=1 d=0.0244775 t=28718
 ban ji 	班级	c=3 d=0.00194154 t=28718
 ban li 	办理	c=4 d=6.94788e-11 t=28718
-ban li ren 	办理人	c=1 d=0.0315873 t=28633
+ban li ren 	办理人	c=1 d=0.0206508 t=28718
 ban lv 	伴侣	c=2 d=1.09515 t=28718
 ban nian 	半年	c=3 d=8.22174e-20 t=28718
 ban shang 	半晌	c=1 d=0.000617396 t=28718
@@ -398,7 +398,7 @@ bu hui shi 	不会是	c=2 d=0.00013845 t=28718
 bu hui zuo 	不会做	c=1 d=5.70122e-08 t=28718
 bu ji 	不急	c=1 d=0.110803 t=28718
 bu ji de 	不记得	c=1 d=2.23161e-32 t=28718
-bu jian 	补件	c=2 d=0.0632253 t=28633
+bu jian 	补件	c=2 d=0.0413348 t=28718
 bu jian quan 	不健全	c=1 d=1 t=28718
 bu jian rong 	不兼容	c=1 d=1.40128e-28 t=28718
 bu jian yi 	不建议	c=1 d=0.0323869 t=28718
@@ -1268,9 +1268,9 @@ dian 	点	c=19 d=0.666977 t=28718
 dian che 	电车	c=6 d=2.43331 t=28718
 dian che nan ti 	电车难题	c=0 d=0.00505395 t=28718
 dian che nan ti shi 	电车难题时	c=1 d=0.0507928 t=28718
-dian dan 	点单	c=1 d=0.0439369 t=28633
+dian dan 	点单	c=1 d=0.0287246 t=28718
 dian dao 	颠倒	c=1 d=5.89708e-23 t=28718
-dian hua 	电话	c=1 d=0.0323869 t=28633
+dian hua 	电话	c=1 d=0.0211736 t=28718
 dian ji 	点击	c=3 d=0.103916 t=28718
 dian ji 	电机	c=1 d=4.42399e-24 t=28718
 dian jing 	电竞	c=1 d=0.149569 t=28718
@@ -1300,7 +1300,7 @@ ding 	丁	c=1 d=3.62082e-20 t=28718
 ding 	定	c=5 d=0.0461896 t=28718
 ding 	鼎	c=1 d=0.000297529 t=28718
 ding ban 	定版	c=9 d=1.4803e-23 t=28718
-ding dan hao 	订单号	c=1 d=0.0320647 t=28633
+ding dan hao 	订单号	c=1 d=0.0209629 t=28718
 ding de 	订的	c=0 d=2.6972e-27 t=28718
 ding le 	订了	c=1 d=0.606531 t=28718
 ding shi 	定时	c=3 d=1.61051 t=28718
@@ -1481,7 +1481,7 @@ duo zhong 	多种	c=3 d=0.431711 t=28718
 e 	呃	c=2 d=0.00172074 t=28718
 e hua 	恶化	c=1 d=0.0706512 t=28718
 e lie 	恶劣	c=3 d=2.10485e-07 t=28718
-e luo si 	俄罗斯	c=1 d=0.0359725 t=28633
+e luo si 	俄罗斯	c=1 d=0.0235177 t=28718
 e meng 	噩梦	c=2 d=0.769778 t=28718
 e mo ban 	恶魔般	c=1 d=0.178173 t=28718
 e wai 	额外	c=1 d=5.61234e-29 t=28718
@@ -1556,7 +1556,7 @@ fa sheng 	发生	c=8 d=0.0898153 t=28718
 fa sheng le 	发生了	c=2 d=0.00047843 t=28718
 fa sheng zai 	发生在	c=2 d=6.05789e-16 t=28718
 fa song 	发送	c=3 d=0.0570245 t=28718
-fa wei 	发威	c=1 d=0.036334 t=28633
+fa wei 	发威	c=1 d=0.0237541 t=28718
 fa xi si 	法西斯	c=3 d=0.30764 t=28718
 fa xian 	发现	c=23 d=0.975199 t=28718
 fa xian le 	发现了	c=1 d=0.00119453 t=28718
@@ -1798,7 +1798,7 @@ gan xing qu 	感兴趣	c=1 d=4.2756e-05 t=28718
 gang 	刚	c=1 d=9.54503e-12 t=28718
 gang 	杠	c=1 d=2.7698e-15 t=28718
 gang ao 	港澳	c=1 d=1.36905e-19 t=28718
-gang bi 	港币	c=1 d=0.054204 t=28633
+gang bi 	港币	c=1 d=0.0354369 t=28718
 gang bi ye 	刚毕业	c=2 d=1.96164e-06 t=28718
 gang cai shi 	刚才是	c=1 d=0.628135 t=28718
 gang gan 	杠杆	c=1 d=0.00179994 t=28718
@@ -1854,7 +1854,7 @@ ge 	歌	c=1 d=8.00856e-06 t=28718
 ge ben 	哥本	c=1 d=6.34104e-24 t=28718
 ge bi 	隔壁	c=4 d=0.728165 t=28718
 ge bu xiang tong 	各不相同	c=1 d=1 t=28718
-ge ci 	歌词	c=1 d=0.0385808 t=28633
+ge ci 	歌词	c=1 d=0.025223 t=28718
 ge da 	各大	c=2 d=0.208045 t=28718
 ge ge 	各个	c=4 d=4.37625e-14 t=28718
 ge he 	隔阂	c=1 d=0.000889368 t=28718
@@ -1934,7 +1934,7 @@ geng ye 	哽咽	c=1 d=4.24474e-08 t=28718
 geng you 	更有	c=1 d=0.13068 t=28718
 geng you xiao 	更有效	c=1 d=2.99998e-13 t=28718
 gong 	供	c=1 d=2.79859e-19 t=28718
-gong 	功	c=1 d=0.0365162 t=28633
+gong 	功	c=1 d=0.0238732 t=28718
 gong 	工	c=1 d=6.30834e-22 t=28718
 gong 	攻	c=1 d=0.121238 t=28718
 gong cheng 	工程	c=4 d=0.331223 t=28718
@@ -2321,7 +2321,7 @@ hou zhi hou jue 	后知后觉	c=1 d=0.000347412 t=28718
 hu 	乎	c=1 d=0.000599149 t=28718
 hu cheng 	糊成	c=1 d=5.17291e-11 t=28718
 hu dong 	互动	c=3 d=0.891461 t=28718
-hu kou ben 	户口本	c=1 d=0.0308074 t=28633
+hu kou ben 	户口本	c=1 d=0.0201409 t=28718
 hu lan shang 	护栏上	c=1 d=0.00138093 t=28718
 hu lian 	互联	c=2 d=3.67367e-14 t=28718
 hu lian wang 	互联网	c=5 d=0.000287295 t=28718
@@ -3175,7 +3175,7 @@ kuang re 	狂热	c=6 d=0.126019 t=28718
 kuang re fen zi 	狂热分子	c=1 d=0.522046 t=28718
 kui jiu 	愧疚	c=1 d=0.353455 t=28718
 kui jiu gan 	愧疚感	c=1 d=0.000534061 t=28718
-kui sun 	亏损	c=1 d=0.0475963 t=28633
+kui sun 	亏损	c=1 d=0.031117 t=28718
 kun jing 	困境	c=1 d=4.2345e-09 t=28718
 kun nan 	困难	c=4 d=0.00398603 t=28718
 kun rao 	困扰	c=1 d=1.21279e-05 t=28718
@@ -3307,7 +3307,7 @@ lian jie 	链接	c=11 d=0.00516939 t=28718
 lian qing 	恋情	c=3 d=0.00156549 t=28718
 lian xi 	练习	c=4 d=7.67326e-05 t=28718
 lian xi 	联系	c=2 d=0.00279479 t=28718
-lian xi ren 	联系人	c=1 d=0.0322254 t=28633
+lian xi ren 	联系人	c=1 d=0.021068 t=28718
 lian xi zhe 	联系着	c=1 d=1.66643e-08 t=28718
 lian xiang 	联想	c=1 d=1.61075e-20 t=28718
 lian xu 	连续	c=2 d=0.00114197 t=28718
@@ -3394,7 +3394,7 @@ liu lan 	浏览	c=3 d=0.000169034 t=28718
 liu lan le 	浏览了	c=1 d=0.000104117 t=28718
 liu lan qi 	浏览器	c=6 d=0.000333601 t=28718
 liu le 	留了	c=0 d=9.54016e-07 t=28718
-liu li 	流离	c=0 d=0.00391639 t=28633
+liu li 	流离	c=0 d=0.00256042 t=28718
 liu li zhe 	流离者	c=2 d=0.657047 t=28718
 liu liang 	流量	c=4 d=1.38325e-19 t=28718
 liu ri 	六日	c=0 d=0.026982 t=28718
@@ -3591,7 +3591,7 @@ mei tan shang 	煤炭上	c=1 d=4.48474e-08 t=28718
 mei ti 	媒体	c=3 d=0.0415449 t=28718
 mei tian 	梅田	c=1 d=3.56692e-20 t=28718
 mei tian 	每天	c=13 d=0.018593 t=28718
-mei tuan 	美团	c=1 d=0.0437178 t=28633
+mei tuan 	美团	c=1 d=0.0285814 t=28718
 mei wai 	媚外	c=1 d=0.149569 t=28718
 mei wen ti 	没问题	c=6 d=0.723414 t=28718
 mei wen ti de 	没问题的	c=1 d=0.0081887 t=28718
@@ -3686,7 +3686,7 @@ ming zi 	名字	c=7 d=1.07058 t=28718
 mo 	摸	c=3 d=0.0948935 t=28718
 mo 	末	c=1 d=9.8307e-06 t=28718
 mo dai 	末代	c=1 d=0.138761 t=28718
-mo du 	魔都	c=1 d=0.0590129 t=28633
+mo du 	魔都	c=1 d=0.0385809 t=28718
 mo duan 	末端	c=1 d=0.188247 t=28718
 mo fa shi 	魔法师	c=1 d=8.38145e-12 t=28718
 mo fang 	模仿	c=8 d=2.46106 t=28718
@@ -3743,9 +3743,9 @@ mu lu 	目录	c=4 d=1.70594e-19 t=28718
 mu lu jie gou 	目录结构	c=2 d=3.11276e-06 t=28718
 mu lu xia 	目录下	c=1 d=2.08074e-32 t=28718
 mu qian 	目前	c=17 d=0.938089 t=28718
-mu qin 	母亲	c=1 d=0.0502874 t=28633
+mu qin 	母亲	c=1 d=0.0328764 t=28718
 mu tou 	木头	c=1 d=0.000639387 t=28718
-n 	唔	c=1 d=0.0333733 t=28633
+n 	唔	c=1 d=0.0218185 t=28718
 na 	哪	c=8 d=0.719003 t=28718
 na 	拿	c=11 d=0.651517 t=28718
 na 	那	c=69 d=0.55862 t=28718
@@ -3796,7 +3796,7 @@ na zhang 	哪张	c=1 d=4.88927e-24 t=28718
 na zhong 	哪种	c=1 d=0.00308872 t=28718
 na zhong 	那种	c=11 d=0.311921 t=28718
 na zi ran shi 	那自然是	c=1 d=3.652e-62 t=28718
-nai cha 	奶茶	c=1 d=0.0468877 t=28633
+nai cha 	奶茶	c=1 d=0.0306538 t=28718
 nai fen 	奶粉	c=1 d=0.000239969 t=28718
 nai xin 	耐心	c=2 d=3.29021e-62 t=28718
 nai zhi 	乃至	c=1 d=0.00677172 t=28718
@@ -3821,7 +3821,7 @@ nan nv peng you 	男女朋友	c=1 d=0.000146278 t=28718
 nan ren 	男人	c=1 d=1.9559e-10 t=28718
 nan sheng 	男生	c=1 d=1.18e-06 t=28718
 nan shi 	男士	c=1 d=0.00794669 t=28718
-nan shuo 	难说	c=1 d=0.0338776 t=28633
+nan shuo 	难说	c=1 d=0.0221482 t=28718
 nan xing 	男性	c=3 d=0.0593087 t=28718
 nan yi 	难以	c=6 d=0.00225337 t=28718
 nan yi jiao rong 	难以交融	c=1 d=0.0146986 t=28718
@@ -4125,7 +4125,7 @@ po jie 	破解	c=4 d=0.61947 t=28718
 po ju 	破局	c=1 d=1.82777e-07 t=28718
 po you 	颇有	c=4 d=0.634803 t=28718
 pou xi 	剖析	c=1 d=0.00396599 t=28718
-pu 	铺	c=1 d=0.0434998 t=28633
+pu 	铺	c=1 d=0.0284389 t=28718
 pu bian 	普遍	c=9 d=0.484597 t=28718
 pu ji 	普及	c=1 d=1 t=28718
 pu luo da zhong 	普罗大众	c=3 d=2.08412e-07 t=28718
@@ -4173,7 +4173,7 @@ qi ta 	其他	c=29 d=1.67069 t=28718
 qi ta ren 	其他人	c=6 d=0.0051953 t=28718
 qi ta shi qing 	其他事情	c=1 d=0.00514361 t=28718
 qi wang 	期望	c=18 d=0.674288 t=28718
-qi wu 	起舞	c=1 d=0.0596059 t=28633
+qi wu 	起舞	c=1 d=0.0389685 t=28718
 qi xi 	七夕	c=1 d=2.95431e-09 t=28718
 qi ye wei xin 	企业微信	c=1 d=2.42249e-27 t=28718
 qi yi 	其一	c=2 d=0.744532 t=28718
@@ -4252,7 +4252,7 @@ qie huan 	切换	c=3 d=0.0822914 t=28718
 qie nuo 	怯懦	c=1 d=1 t=28718
 qin 	亲	c=1 d=5.12667e-23 t=28718
 qin 	侵	c=2 d=1.97045 t=28718
-qin 	沁	c=1 d=0.0430669 t=28633
+qin 	沁	c=1 d=0.0281558 t=28718
 qin fan le 	侵犯了	c=1 d=0.0413782 t=28718
 qin jin 	亲近	c=2 d=0.348192 t=28718
 qin mi 	亲密	c=2 d=0.0173224 t=28718
@@ -4447,7 +4447,7 @@ ren mai 	人脉	c=1 d=7.48773e-09 t=28718
 ren men 	人们	c=36 d=1.36572 t=28718
 ren mian 	人面	c=2 d=0.000586205 t=28718
 ren min 	人民	c=2 d=0.00701293 t=28718
-ren min bi 	人民币	c=1 d=0.0536647 t=28633
+ren min bi 	人民币	c=1 d=0.0350844 t=28718
 ren nai 	忍耐	c=1 d=8.9167e-05 t=28718
 ren ne 	人呢	c=1 d=0.45612 t=28718
 ren qing 	认清	c=1 d=9.85447e-05 t=28718
@@ -4557,7 +4557,7 @@ sai bo 	赛博	c=2 d=0.0139166 t=28718
 sai che 	赛车	c=1 d=1.39718e-23 t=28718
 san 	三	c=4 d=0.451581 t=28718
 san 	散	c=0 d=2.45451e-06 t=28718
-san dian shui 	三点水	c=1 d=0.0426384 t=28633
+san dian shui 	三点水	c=1 d=0.0278757 t=28718
 san fen zhong 	三分钟	c=1 d=0.0025415 t=28718
 san ge 	三个	c=0 d=0.00096577 t=28718
 san ge she bei 	三个设备	c=1 d=0.00970611 t=28718
@@ -4579,7 +4579,7 @@ san zheng 	三证	c=1 d=3.12996e-12 t=28718
 san zhong 	三中	c=1 d=1.29781e-08 t=28718
 sang shi 	丧失	c=2 d=0.118837 t=28718
 sao 	骚	c=2 d=8.0517e-32 t=28718
-sao miao jian 	扫描件	c=1 d=0.031117 t=28633
+sao miao jian 	扫描件	c=1 d=0.0203434 t=28718
 sao zi 	嫂子	c=1 d=5.97075e-22 t=28718
 se 	色	c=1 d=0.0149208 t=28718
 se bian 	色变	c=1 d=0.0111647 t=28718
@@ -4723,7 +4723,7 @@ shen me shi 	什么是	c=3 d=0.172048 t=28718
 shen me yi si 	什么意思	c=1 d=0.0395575 t=28718
 shen mei guan 	审美观	c=1 d=1.01632e-14 t=28718
 shen mi mo ce 	神秘莫测	c=1 d=1 t=28718
-shen qi 	身器	c=1 d=0.037068 t=28633
+shen qi 	身器	c=1 d=0.0242339 t=28718
 shen qie 	深切	c=1 d=4.57534e-08 t=28718
 shen qing 	申请	c=12 d=0.0804596 t=28718
 shen ru 	深入	c=3 d=0.000155324 t=28718
@@ -4897,7 +4897,7 @@ shi yan 	实验	c=1 d=0.0165727 t=28718
 shi yao 	是要	c=1 d=1.66926e-28 t=28718
 shi ye 	事业	c=1 d=0.0800583 t=28718
 shi ye 	失业	c=1 d=0.99005 t=28718
-shi yi 	十一	c=2 d=0.112271 t=28633
+shi yi 	十一	c=2 d=0.0733994 t=28718
 shi yi jian 	是一件	c=1 d=0.618783 t=28718
 shi yin wei 	是因为	c=1 d=5.4626e-05 t=28718
 shi ying 	适应	c=2 d=0.000639901 t=28718
@@ -4921,7 +4921,7 @@ shou 	守	c=2 d=1.00449 t=28718
 shou 	手	c=2 d=0.410943 t=28718
 shou ban 	手办	c=1 d=0.429557 t=28718
 shou bi 	手臂	c=3 d=0.000156885 t=28718
-shou cang 	收藏	c=1 d=0.0372538 t=28633
+shou cang 	收藏	c=1 d=0.0243554 t=28718
 shou ce 	手册	c=1 d=2.3159e-27 t=28718
 shou ci 	首次	c=1 d=5.77343e-09 t=28718
 shou dao 	受到	c=5 d=0.246604 t=28718
@@ -5004,7 +5004,7 @@ shuang yan 	双眼	c=1 d=1.71478e-21 t=28718
 shuang yin 	双银	c=4 d=0.109701 t=28718
 shui 	水	c=3 d=0.689594 t=28718
 shui 	睡	c=3 d=0.0987662 t=28718
-shui 	税	c=1 d=0.0420036 t=28633
+shui 	税	c=1 d=0.0274607 t=28718
 shui 	谁	c=13 d=0.159819 t=28718
 shui bo 	水波	c=1 d=3.74533e-06 t=28718
 shui cai 	水彩	c=2 d=0.0133851 t=28718
@@ -5115,7 +5115,7 @@ suo fang 	缩放	c=1 d=1.3545e-11 t=28718
 suo ge 	索哥	c=1 d=3.8901e-11 t=28718
 suo luo 	索罗	c=1 d=0.332871 t=28718
 suo ni 	索尼	c=1 d=7.78246e-22 t=28718
-suo ping 	锁屏	c=1 d=0.0566989 t=28633
+suo ping 	锁屏	c=1 d=0.037068 t=28718
 suo ran wu wei 	索然无味	c=1 d=3.13103e-16 t=28718
 suo sheng xia 	所剩下	c=1 d=3.30581e-08 t=28718
 suo shuo 	所说	c=2 d=0.000309671 t=28718
@@ -5140,7 +5140,7 @@ ta 	她	c=22 d=0.38888 t=28718
 ta 	它	c=6 d=1.30247 t=28718
 ta ban 	踏板	c=1 d=0.0209629 t=28718
 ta bu jie 	他不解	c=1 d=0.224249 t=28718
-ta da la fei 	他达拉非	c=1 d=0.0288686 t=28633
+ta da la fei 	他达拉非	c=1 d=0.0188734 t=28718
 ta de 	他的	c=11 d=0.0294518 t=28718
 ta gang 	他刚	c=0 d=4.84902e-16 t=28718
 ta gang hao jian ao 	他刚好煎熬	c=1 d=4.87332e-15 t=28718
@@ -5211,12 +5211,12 @@ tan xin 	谈心	c=2 d=0.00123091 t=28718
 tan yu 	贪欲	c=1 d=2.58642e-62 t=28718
 tang 	糖	c=10 d=2.4781e-13 t=28718
 tang 	躺	c=1 d=0.355226 t=28718
-tang shui 	糖水	c=1 d=0.0432828 t=28633
+tang shui 	糖水	c=1 d=0.028297 t=28718
 tang xia 	躺下	c=2 d=3.87134e-05 t=28718
 tang yuan 	糖原	c=1 d=0.767206 t=28718
 tang zai 	躺在	c=1 d=4.10796e-05 t=28718
 tang zhe 	躺着	c=1 d=0.00161245 t=28718
-tao bao 	淘宝	c=1 d=0.0314298 t=28633
+tao bao 	淘宝	c=1 d=0.0205479 t=28718
 tao bi 	逃避	c=6 d=0.00456469 t=28718
 tao li 	逃离	c=1 d=0.251579 t=28718
 tao lu 	套路	c=1 d=0.2334 t=28718
@@ -5345,7 +5345,7 @@ tong dian 	痛点	c=1 d=4.48474e-08 t=28718
 tong guan le 	通关了	c=1 d=2.97833e-16 t=28718
 tong guo 	通过	c=60 d=1.64734 t=28718
 tong guo hou 	通过后	c=1 d=0.0724398 t=28718
-tong hang 	同行	c=1 d=0.034562 t=28633
+tong hang 	同行	c=1 d=0.0225956 t=28718
 tong hua 	童话	c=1 d=0.00204983 t=28718
 tong ji 	统计	c=13 d=3.1326 t=28718
 tong ji hao 	统计好	c=1 d=0.782705 t=28718
@@ -5587,7 +5587,7 @@ wen ben 	文本	c=11 d=0.00334774 t=28718
 wen dang 	文档	c=11 d=0.625304 t=28718
 wen de 	问的	c=1 d=1.85855e-27 t=28718
 wen ge 	文哥	c=1 d=1.08868e-29 t=28718
-wen ge hua 	温哥华	c=1 d=0.0376283 t=28633
+wen ge hua 	温哥华	c=1 d=0.0246002 t=28718
 wen guo 	问过	c=1 d=1.40251e-09 t=28718
 wen hua 	文化	c=5 d=0.974011 t=28718
 wen jian 	文件	c=69 d=1.18634 t=28718
@@ -5595,7 +5595,7 @@ wen jian jia 	文件夹	c=42 d=1.43545 t=28718
 wen jian jia li 	文件夹里	c=1 d=0.00451658 t=28718
 wen jian jia shang 	文件夹上	c=1 d=0.064894 t=28718
 wen jian ming 	文件名	c=1 d=0.0550232 t=28718
-wen jian shi 	文件时	c=1 d=0.0575558 t=28633
+wen jian shi 	文件时	c=1 d=0.0376282 t=28718
 wen ju 	文具	c=1 d=3.21193e-22 t=28718
 wen le 	问了	c=2 d=1.23995e-22 t=28718
 wen ming 	文明	c=5 d=0.643087 t=28718
@@ -6103,7 +6103,7 @@ xiao 	肖	c=1 d=2.2079e-24 t=28718
 xiao bai 	小白	c=2 d=0.833519 t=28718
 xiao cheng shi 	小城市	c=3 d=1.43609e-12 t=28718
 xiao cheng xu 	小程序	c=2 d=1.38546e-24 t=28718
-xiao chi 	小吃	c=3 d=0.132794 t=28633
+xiao chi 	小吃	c=3 d=0.0868167 t=28718
 xiao chi dian 	小吃店	c=1 d=0.909373 t=28718
 xiao chu 	消除	c=1 d=1 t=28718
 xiao di 	小弟	c=2 d=1.06126e-23 t=28718
@@ -6239,7 +6239,7 @@ xing jing 	行径	c=2 d=0.179964 t=28718
 xing kong 	星空	c=2 d=0.149769 t=28718
 xing lai 	醒来	c=1 d=0.384812 t=28718
 xing leng dan 	性冷淡	c=1 d=0.000131698 t=28718
-xing ming 	姓名	c=1 d=0.0317456 t=28633
+xing ming 	姓名	c=1 d=0.0207543 t=28718
 xing neng 	性能	c=1 d=0.436049 t=28718
 xing pi 	性癖	c=1 d=0.0765355 t=28718
 xing qi 	兴起	c=1 d=2.29168e-21 t=28718
@@ -6385,8 +6385,8 @@ yan shen 	延伸	c=1 d=0.327915 t=28718
 yan shi 	演示	c=3 d=0.000139842 t=28718
 yan shou 	验收	c=2 d=1.06544e-26 t=28718
 yan shuo 	言说	c=1 d=0.0407622 t=28718
-yan suan 	盐酸	c=0 d=0.00290133 t=28633
-yan suan ta di na 	盐酸他地那	c=1 d=0.0291588 t=28633
+yan suan 	盐酸	c=0 d=0.0018968 t=28718
+yan suan ta di na 	盐酸他地那	c=1 d=0.0190631 t=28718
 yan wu 	厌恶	c=7 d=0.99005 t=28718
 yan xu 	延续	c=1 d=0.000189713 t=28718
 yan yu 	言语	c=1 d=2.0608e-07 t=28718
@@ -6896,7 +6896,7 @@ you wu fa 	又无法	c=1 d=0.0413782 t=28718
 you wu ren 	有无人	c=1 d=1.19101e-27 t=28718
 you xi 	游戏	c=23 d=0.226928 t=28718
 you xi quan 	游戏圈	c=1 d=0.0605068 t=28718
-you xi wang 	游戏王	c=1 d=0.0368832 t=28633
+you xi wang 	游戏王	c=1 d=0.0241131 t=28718
 you xi zhong 	游戏中	c=2 d=0.0816756 t=28718
 you xian 	优先	c=1 d=0.427415 t=28718
 you xian de 	有限的	c=2 d=5.12603e-13 t=28718
@@ -6967,7 +6967,7 @@ yu wang 	欲望	c=36 d=2.85688 t=28718
 yu wang xi tong 	欲望系统	c=1 d=2.49805e-06 t=28718
 yu wo 	与我	c=7 d=0.00122477 t=28718
 yu yan 	语言	c=12 d=0.631322 t=28718
-yu yu 	欲于	c=1 d=0.0587185 t=28633
+yu yu 	欲于	c=1 d=0.0383884 t=28718
 yu yu 	玉玉	c=1 d=1.10724e-22 t=28718
 yu yue 	预约	c=1 d=2.9502e-22 t=28718
 yu yun 	雨云	c=1 d=0.000409735 t=28718
