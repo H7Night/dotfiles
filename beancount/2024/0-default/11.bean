@@ -1,3 +1,45 @@
+2024-11-29 * "爸" "转账备注:微信转账"
+	time: "12:21:59"
+	uuid: "1000050001202411290420977760875	"
+	status: "已存入零钱"
+    Assets:WeChat:Balance             540.00 CNY
+    Income:RedEnvelope               -540.00 CNY
+
+2024-11-22 * "π佳禾-设计总监阿庆（提前预约）" "转账备注:微信转账"
+	time: "15:15:33"
+	uuid: "53010000795095202411221174900721	"
+	status: "对方已收钱"
+    Expenses:Home:Haircut             198.00 CNY
+    Assets:WeChat:Balance            -198.00 CNY
+
+2024-11-19 * "中通" "中通快递-快递运费-运单号:73537004853622"
+	time: "14:14:35"
+	uuid: "4200002493202411195477804244	"
+	status: "支付成功"
+    Expenses:Home:Delivery             12.00 CNY
+    Assets:WeChat:Balance             -12.00 CNY
+
+2024-11-17 * "中通" "中通快递-快递运费-运单号:73536815368270"
+	time: "14:13:31"
+	uuid: "4200002514202411170219144481	"
+	status: "支付成功"
+    Expenses:Home:Delivery              8.00 CNY
+    Assets:WeChat:Balance              -8.00 CNY
+
+2024-11-15 * "中通" "中通快递-快递运费-运单号:73536657762122"
+	time: "17:42:38"
+	uuid: "4200002385202411154288705222	"
+	status: "支付成功"
+    Expenses:Home:Delivery             10.00 CNY
+    Assets:WeChat:Balance             -10.00 CNY
+
+2024-11-15 * "一叮新能源充电" "微信账户充值"
+	time: "14:15:44"
+	uuid: "4200002366202411151858105539	"
+	status: "支付成功"
+    Expenses:Entertainment:Other       10.00 CNY
+    Assets:WeChat:Balance             -10.00 CNY
+
 2024-11-14 * "加***猫" "闲鱼转账"
     time: "14:56:20"
     uuid: "2024111422001353521443273563"
