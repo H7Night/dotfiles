@@ -116,7 +116,7 @@ export NVM_DIR="$HOME/.nvm"
 export FLUTTERPATH="$PATH:$HOME/Public/Tools/flutter/bin"
 
 # go
-export GOPATH="${HOME}/Public/Tools/go"
+export GOPATH="${HOME}/Public/Tools/go/bin"
 
 # python
 export PYPATH="/opt/homebrew/bin/python3/bin:$PATH"
