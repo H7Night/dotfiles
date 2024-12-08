@@ -32,7 +32,7 @@
 2000-01-01 open Expenses:Shopping:Home                  ;家居百货
 2000-01-01 open Expenses:Shopping:Book                  ;买书
 2000-01-01 open Expenses:Shopping:Makeup                ;化妆护肤
-2000-01-01 open Expenses:Shopping:Invite
+2000-01-01 open Expenses:Shopping:Invite                ;送礼
 2000-01-01 open Expenses:Shopping:Other                 ;其他
 
 ;医疗健康

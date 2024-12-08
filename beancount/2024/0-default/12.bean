@@ -1,0 +1,207 @@
+2024-12-07 * "03北1拥" "sevenstar烟" #travel/jp
+    time: "11:36:50"
+    uuid: "2024120722001453521436315847"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Other            199.22 CNY
+    Liabilities:CMBCreditCard:2035    -199.22 CNY
+
+2024-12-07 * "mikefooo" "转账" #travel/jp
+    time: "11:11:23"
+    uuid: "20241207200040011100770057990655"
+    status: "ALiPay - 交易成功"
+    Income:RedEnvelope                -174.00 CNY
+    Assets:AliPay:Balance              174.00 CNY
+
+2024-12-07 * "03おもたせI" "零食点心" #travel/jp
+    time: "11:10:10"
+    uuid: "2024120722001453521434521977"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Invite           266.27 CNY
+    Liabilities:CMBCreditCard:2035    -266.27 CNY
+
+2024-12-06 * "株式会社ロ`ソン" "牛奶+水" #travel/jp
+    time: "23:11:38"
+    uuid: "2024120622001453521433607276"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Snack                 23.76 CNY
+    Liabilities:CMBCreditCard:2035     -23.76 CNY
+
+2024-12-06 * "タワ`レコ`ド涉谷店" "CD" #travel/jp
+    time: "13:41:52"
+    uuid: "2024120622001453521429977426"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Digital          322.78 CNY
+    Liabilities:CMBCreditCard:2035    -322.78 CNY
+
+2024-12-06 * "らしんばん秋~原店新^" "miku公仔-张巍峰" #travel/jp
+    time: "11:49:33"
+    uuid: "2024120622001453521430200358"
+    status: "ALiPay - 交易成功"
+    Expenses:Other                      96.21 CNY
+    Liabilities:CMBCreditCard:2035     -96.21 CNY
+
+2024-12-06 * "卢俊杰" "无备注转账" #travel/jp
+    time: "11:18:15"
+    uuid: "20241206200040011100520007366125"
+    status: "ALiPay - 交易成功"
+    Expenses:Others                    140.00 CNY
+    Assets:AliPay:Balance             -140.00 CNY
+
+2024-12-06 * "TK　TSUKUMO　eX." "散热风扇-卢俊杰，何铭俊" #travel/jp
+    time: "11:11:46"
+    uuid: "2024120622001453521430545346"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Invite           290.14 CNY
+    Liabilities:CMBCreditCard:2035    -290.14 CNY
+
+2024-12-06 * "mikefooo" "转账" #travel/jp
+    time: "11:10:09"
+    uuid: "20241206200040011100770057404327"
+    status: "ALiPay - 交易成功"
+    Income:RedEnvelope                -140.00 CNY
+    Assets:AliPay:Balance              140.00 CNY
+
+2024-12-05 * "aa505179793" "适用Nothing Phone 1手机壳全包防摔A063磨砂防指纹软硅胶保护套phone 2新款男女纯色防滑散热透气"
+    time: "20:59:47"
+    uuid: "2024120522001153521427630667"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital           10.48 CNY
+    Assets:CGB:41508                   -10.48 CNY
+
+2024-12-05 * "come0058" "Nothing phone1化玻璃膜 nothingphone2手机屏幕保oN全透明高清电镀防指y无白边ph"
+    time: "20:59:47"
+    uuid: "2024120522001153521427896279"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital           14.51 CNY
+    Assets:CGB:41508                   -14.51 CNY
+
+2024-12-05 * "ラムタラ秋~原店" "chikawa公仔-卢伟涛" #travel/jp
+    time: "17:00:46"
+    uuid: "2024120522001453521427323677"
+    status: "ALiPay - 交易成功"
+    Expenses:Other                      85.43 CNY
+    Liabilities:CMBCreditCard:2035     -85.43 CNY
+
+2024-12-05 * "モンハン酒" "怪物猎人主题餐厅" #travel/jp
+    time: "15:28:29"
+    uuid: "2024120522001453521429108778"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                316.25 CNY
+    Liabilities:CMBCreditCard:2035    -316.25 CNY
+
+2024-12-05 * "mikefooo" "转账" #travel/jp
+    time: "12:12:57"
+    uuid: "20241205200040011100770056914551"
+    status: "ALiPay - 交易成功"
+    Income:RedEnvelope                -652.00 CNY
+    Assets:AliPay:Balance              652.00 CNY
+
+2024-12-05 * "ダイバ`シティ|京プラザ" "halo公仔" #travel/jp
+    time: "12:07:12"
+    uuid: "2024120522001453521425157182"
+    status: "ALiPay - 交易成功"
+    Expenses:Other                     160.19 CNY
+    Liabilities:CMBCreditCard:2035    -160.19 CNY
+
+2024-12-04 * "陈智龙" "收钱码收款" #travel/jp
+    time: "20:00:46"
+    uuid: "2024120422001451991431488811"
+    status: "ALiPay - 交易成功"
+    Income:RedEnvelope                -795.00 CNY
+    Assets:AliPay:Balance              795.00 CNY
+
+2024-12-04 * "ダイコクドラッグ" "洗衣液" #travel/jp
+    time: "19:56:11"
+    uuid: "2024120422001453521422950672"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Home              18.65 CNY
+    Liabilities:CMBCreditCard:2035     -18.65 CNY
+
+2024-12-04 * "ダイコクドラッグ" "药-陈智龙" #travel/jp
+    time: "19:55:08"
+    uuid: "2024120422001453521425158480"
+    status: "ALiPay - 交易成功"
+    Expenses:Health:Medical            795.68 CNY
+    Liabilities:CMBCreditCard:2035    -795.68 CNY
+
+2024-12-04 * "mikefooo" "转账" #travel/jp
+    time: "15:15:15"
+    uuid: "20241204200040011100770056477070"
+    status: "ALiPay - 交易成功"
+    Income:RedEnvelope               -2000.00 CNY
+    Assets:AliPay:Balance             2000.00 CNY
+
+2024-12-04 * "mikefooo" "转账" #travel/jp
+    time: "15:14:16"
+    uuid: "20241204200040011100770056509634"
+    status: "ALiPay - 交易成功"
+    Income:RedEnvelope               -2000.00 CNY
+    Assets:AliPay:Balance             2000.00 CNY
+
+2024-12-04 * "ソフマップ AKIBA パソコン?デジタル^" "显卡4070ti" #travel/jp
+    time: "15:10:20"
+    uuid: "2024120422001453521423098765"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Digital         4652.14 CNY
+    Liabilities:CMBCreditCard:2035   -4652.14 CNY
+
+2024-12-04 * "らしんばん秋叶原店新^" "chikawa-张朝晖" #travel/jp
+    time: "14:31:15"
+    uuid: "2024120422001453521423134911"
+    status: "ALiPay - 交易成功"
+    Expenses:Other                      71.29 CNY
+    Liabilities:CMBCreditCard:2035     -71.29 CNY
+
+2024-12-04 * "まんだらけ コンプレックス" "cd-zio" #travel/jp
+    time: "13:42:56"
+    uuid: "2024120422001453521421146803"
+    status: "ALiPay - 交易成功"
+    Expenses:Other                      48.34 CNY
+    Liabilities:CMBCreditCard:2035     -48.34 CNY
+
+2024-12-04 * "あみあみ　秋~原ラジオ会^店" "黑龙公仔-徐宇阳" #travel/jp
+    time: "10:44:36"
+    uuid: "2024120422001453521419835737"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Invite           252.30 CNY
+    Liabilities:CMBCreditCard:2035    -252.30 CNY
+
+2024-12-02 * "料自C" "水" #travel/jp
+    time: "23:46:58"
+    uuid: "2024120222001453521413496971"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Snack                  8.23 CNY
+    Liabilities:CMBCreditCard:2035      -8.23 CNY
+
+2024-12-02 * "月盗" "月盗商品" #travel/jp
+    time: "12:08:30"
+    uuid: "2024120222001453521411920646"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                111.35 CNY
+    Liabilities:CMBCreditCard:2035    -111.35 CNY
+
+2024-12-02 * "何仲贤" "转账到银行卡-转账" #travel/jp
+    time: "10:48:29"
+    uuid: "20241202200040011100520005036963"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance            -1000.00 CNY
+    Assets:CGB:41508                  1000.00 CNY
+
+2024-12-02 * "コインロッカ`" "寄存柜" #travel/jp
+    time: "10:39:11"
+    uuid: "2024120222001453521410944527"
+    status: "ALiPay - 交易成功"
+    Expenses:Entertainment:Travel       43.52 CNY
+    Liabilities:CMBCreditCard:2035     -43.52 CNY
+
+2024-12-01 * "第一店" "零食" #travel/jp
+    time: "16:34:55"
+    uuid: "2024120122001453521408241531"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Snack                 71.07 CNY
+    Liabilities:CMBCreditCard:2035     -71.07 CNY
+
+2024-12-01 * "日本" "日本消费" #travel/jp
+    time:"00:00:00"
+    Expenses:Entertainment:Travel    30000.00 JPY
+    Assets:Cash:JPY                 -30000.00 JPY
