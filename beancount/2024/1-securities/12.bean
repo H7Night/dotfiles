@@ -1,196 +1,196 @@
 2024-12-27 * "基金" "纳斯达克"
-    Expenses:Invest:Fund     4.86 CNY
-    Assets:AliPay:Funds     -4.86 CNY
+    Expenses:Invest:Fund      4.86 CNY
+    Assets:AliPay:Funds      -4.86 CNY
 
 2024-12-26 * "基金" "纳斯达克"
-    Expenses:Invest:Fund     1.84 CNY
-    Assets:AliPay:Funds     -1.84 CNY
+    Expenses:Invest:Fund      1.84 CNY
+    Assets:AliPay:Funds      -1.84 CNY
 
 2024-12-25 * "基金" "纳斯达克"
-    Income:Fund            -70.82 CNY
-    Assets:AliPay:Funds     70.82 CNY
+    Income:Fund             -70.82 CNY
+    Assets:AliPay:Funds      70.82 CNY
 
 2024-12-24 * "基金" "纳斯达克"
-    Income:Fund            -49.88 CNY
-    Assets:AliPay:Funds     49.88 CNY
+    Income:Fund             -49.88 CNY
+    Assets:AliPay:Funds      49.88 CNY
 
 2024-12-23 * "基金" "纳斯达克"
-    Income:Fund            -39.10 CNY
-    Assets:AliPay:Funds     39.10 CNY
+    Income:Fund             -39.10 CNY
+    Assets:AliPay:Funds      39.10 CNY
 
 2024-12-20 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    20.50 CNY
-    Assets:AliPay:Funds    -20.50 CNY
+    Expenses:Invest:Fund     20.50 CNY
+    Assets:AliPay:Funds     -20.50 CNY
 
 2024-12-19 * "基金" "纳斯达克"
-    Expenses:Invest:Fund   180.61 CNY
-    Assets:AliPay:Funds   -180.61 CNY
+    Expenses:Invest:Fund    180.61 CNY
+    Assets:AliPay:Funds    -180.61 CNY
 
 2024-12-18 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    20.50 CNY
-    Assets:AliPay:Funds    -20.50 CNY
+    Expenses:Invest:Fund     20.50 CNY
+    Assets:AliPay:Funds     -20.50 CNY
 
 2024-12-17 * "基金" "纳斯达克"
-    Income:Fund             69.65 CNY
-    Assets:AliPay:Funds    -69.65 CNY
+    Income:Fund             -69.65 CNY
+    Assets:AliPay:Funds      69.65 CNY
 
 2024-12-16 * "基金" "纳斯达克"
-    Income:Fund            -35.54 CNY
-    Assets:AliPay:Funds     35.54 CNY
+    Income:Fund             -35.54 CNY
+    Assets:AliPay:Funds      35.54 CNY
 
 2024-12-13 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    33.80 CNY
-    Assets:AliPay:Funds    -33.80 CNY
+    Expenses:Invest:Fund     33.80 CNY
+    Assets:AliPay:Funds     -33.80 CNY
 
 2024-12-12 * "基金" "纳斯达克"
-    Income:Fund            -85.95 CNY
-    Assets:AliPay:Funds     85.95 CNY
+    Income:Fund             -85.95 CNY
+    Assets:AliPay:Funds      85.95 CNY
 
 2024-12-11 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    13.06 CNY
-    Assets:AliPay:Funds    -13.06 CNY
+    Expenses:Invest:Fund     13.06 CNY
+    Assets:AliPay:Funds     -13.06 CNY
 
 2024-12-10 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    36.80 CNY
-    Assets:AliPay:Funds    -36.80 CNY
+    Expenses:Invest:Fund     36.80 CNY
+    Assets:AliPay:Funds     -36.80 CNY
 
 2024-12-09 * "基金" "纳斯达克"
-    Income:Fund            -41.00 CNY
-    Assets:AliPay:Funds     41.00 CNY
+    Income:Fund             -41.00 CNY
+    Assets:AliPay:Funds      41.00 CNY
 
 2024-12-06 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    18.20 CNY
-    Assets:AliPay:Funds    -18.20 CNY
+    Expenses:Invest:Fund     18.20 CNY
+    Assets:AliPay:Funds     -18.20 CNY
 
 2024-12-05 * "基金" "纳斯达克"
-    Income:Fund            -56.51 CNY
-    Assets:AliPay:Funds     56.51 CNY
+    Income:Fund             -56.51 CNY
+    Assets:AliPay:Funds      56.51 CNY
 
 2024-12-04 * "基金" "纳斯达克"
-    Income:Fund            -21.69 CNY
-    Assets:AliPay:Funds     21.69 CNY
+    Income:Fund             -21.69 CNY
+    Assets:AliPay:Funds      21.69 CNY
 
 2024-12-03 * "基金" "纳斯达克"
-    Income:Fund            -52.39 CNY
-    Assets:AliPay:Funds     52.39 CNY
+    Income:Fund             -52.39 CNY
+    Assets:AliPay:Funds      52.39 CNY
 
 2024-12-02 * "基金" "纳斯达克"
-    Income:Fund            -41.00 CNY
-    Assets:AliPay:Funds     41.00 CNY
+    Income:Fund             -41.00 CNY
+    Assets:AliPay:Funds      41.00 CNY
 
 
 2024-12-29 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-28 * "基金" "余额宝"
-    Income:Fund             -0.75 CNY
-    Assets:AliPay:Funds      0.75 CNY
+    Income:Fund              -0.75 CNY
+    Assets:AliPay:Balance     0.75 CNY
 
 2024-12-27 * "基金" "余额宝"
-    Income:Fund             -0.73 CNY
-    Assets:AliPay:Funds      0.73 CNY
+    Income:Fund              -0.73 CNY
+    Assets:AliPay:Balance     0.73 CNY
 
 2024-12-26 * "基金" "余额宝"
-    Income:Fund             -0.81 CNY
-    Assets:AliPay:Funds      0.81 CNY
+    Income:Fund              -0.81 CNY
+    Assets:AliPay:Balance     0.81 CNY
 
 2024-12-25 * "基金" "余额宝"
-    Income:Fund             -0.73 CNY
-    Assets:AliPay:Funds      0.73 CNY
+    Income:Fund              -0.73 CNY
+    Assets:AliPay:Balance     0.73 CNY
 
 2024-12-24 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-23 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-22 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-21 * "基金" "余额宝"
-    Income:Fund             -0.81 CNY
-    Assets:AliPay:Funds      0.81 CNY
+    Income:Fund              -0.81 CNY
+    Assets:AliPay:Balance     0.81 CNY
 
 2024-12-20 * "基金" "余额宝"
-    Income:Fund             -0.77 CNY
-    Assets:AliPay:Funds      0.77 CNY
+    Income:Fund              -0.77 CNY
+    Assets:AliPay:Balance     0.77 CNY
 
 2024-12-19 * "基金" "余额宝"
-    Income:Fund             -0.75 CNY
-    Assets:AliPay:Funds      0.75 CNY
+    Income:Fund              -0.75 CNY
+    Assets:AliPay:Balance     0.75 CNY
 
 2024-12-18 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-17 * "基金" "余额宝"
-    Income:Fund             -0.73 CNY
-    Assets:AliPay:Funds      0.73 CNY
+    Income:Fund              -0.73 CNY
+    Assets:AliPay:Balance     0.73 CNY
 
 2024-12-16 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-15 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-14 * "基金" "余额宝"
-    Income:Fund             -0.76 CNY
-    Assets:AliPay:Funds      0.76 CNY
+    Income:Fund              -0.76 CNY
+    Assets:AliPay:Balance     0.76 CNY
 
 2024-12-13 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-12 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-11 * "基金" "余额宝"
-    Income:Fund             -0.74 CNY
-    Assets:AliPay:Funds      0.74 CNY
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-10 * "基金" "余额宝"
-    Income:Fund             -0.76 CNY
-    Assets:AliPay:Funds      0.76 CNY
+    Income:Fund              -0.76 CNY
+    Assets:AliPay:Balance     0.76 CNY
 
 2024-12-09 * "基金" "余额宝"
-    Income:Fund             -0.76 CNY
-    Assets:AliPay:Funds      0.76 CNY
+    Income:Fund              -0.76 CNY
+    Assets:AliPay:Balance     0.76 CNY
 
 2024-12-08 * "基金" "余额宝"
-    Income:Fund             -0.97 CNY
-    Assets:AliPay:Funds      0.97 CNY
+    Income:Fund              -0.97 CNY
+    Assets:AliPay:Balance     0.97 CNY
 
 2024-12-07 * "基金" "余额宝"
-    Income:Fund             -1.05 CNY
-    Assets:AliPay:Funds      1.05 CNY
+    Income:Fund              -1.05 CNY
+    Assets:AliPay:Balance     1.05 CNY
 
 2024-12-06 * "基金" "余额宝"
-    Income:Fund             -0.78 CNY
-    Assets:AliPay:Funds      0.78 CNY
+    Income:Fund              -0.78 CNY
+    Assets:AliPay:Balance     0.78 CNY
 
 2024-12-05 * "基金" "余额宝"
-    Income:Fund             -0.80 CNY
-    Assets:AliPay:Funds      0.80 CNY
+    Income:Fund              -0.80 CNY
+    Assets:AliPay:Balance     0.80 CNY
 
 2024-12-04 * "基金" "余额宝"
-    Income:Fund             -0.79 CNY
-    Assets:AliPay:Funds      0.79 CNY
+    Income:Fund              -0.79 CNY
+    Assets:AliPay:Balance     0.79 CNY
 
 2024-12-03 * "基金" "余额宝"
-    Income:Fund             -0.82 CNY
-    Assets:AliPay:Funds      0.82 CNY
+    Income:Fund              -0.82 CNY
+    Assets:AliPay:Balance     0.82 CNY
 
 2024-12-02 * "基金" "余额宝"
-    Income:Fund             -0.82 CNY
-    Assets:AliPay:Funds      0.82 CNY
+    Income:Fund              -0.82 CNY
+    Assets:AliPay:Balance     0.82 CNY
 
 2024-12-01 * "基金" "余额宝"
-    Income:Fund             -0.82 CNY
-    Assets:AliPay:Funds      0.82 CNY
+    Income:Fund              -0.82 CNY
+    Assets:AliPay:Balance     0.82 CNY

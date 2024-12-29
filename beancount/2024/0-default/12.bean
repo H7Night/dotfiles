@@ -117,6 +117,14 @@
     Income:Sales                     -1120.00 CNY
     Assets:AliPay:Balance             1120.00 CNY
 
+2024-12-21 * "google play store" "Storage Isolation"
+    Expenses:Invest:Dev                147.48 CNY
+    Assets:CGB:41508                  -147.48 CNY
+
+2024-12-21 * "广发银行" "利息"
+    Income:Other                        -0.11 CNY
+    Assets:CGB:41508                     0.11 CNY
+
 2024-12-21 * "浙江网商银行股份有限公司" "余额升级服务收益发放"
     time: "02:05:56"
     uuid: "20241221102553010053520015090902"
@@ -247,7 +255,7 @@
     time: "13:18:13"
     uuid: "2024121029020999520108854357"
     status: "ALiPay - 还款成功"
-    Liabilities:Huabei               410.21 CNY
+    Liabilities:Huabei                 410.21 CNY
     Assets:AliPay:Balance             -410.21 CNY
 
 2024-12-09 * "上海珑公商务咨询有限公司" "2024120918340439351"
@@ -268,8 +276,8 @@
     time: "19:12:05"
     uuid: "2024120800003001520026969633"
     status: "ALiPay - 还款成功"
-    Liabilities:CMBCreditCard:2035     5902.7 CNY
-    Assets:AliPay:Balance             -5902.7 CNY
+    Liabilities:CMBCreditCard:2035    5902.70 CNY
+    Assets:AliPay:Balance            -5902.70 CNY
 
 2024-12-08 * "顺丰速运" "散单运费-顺丰速运"
     time: "14:20:49"
@@ -355,6 +363,10 @@
     Income:RedEnvelope                -140.00 CNY
     Assets:AliPay:Balance              140.00 CNY
 
+2024-12-21 * "西瓜卡" "充值" #travel/jp
+    Expenses:Invest:Dev                 48.41 CNY
+    Assets:CGB:41508                   -48.41 CNY
+
 2024-12-05 * "aa505179793" "适用Nothing Phone 1手机壳全包防摔A063磨砂防指纹软硅胶保护套phone 2新款男女纯色防滑散热透气"
     time: "20:59:47"
     uuid: "2024120522001153521427630667"
@@ -369,11 +381,15 @@
     Expenses:Shopping:Digital           14.51 CNY
     Assets:CGB:41508                   -14.51 CNY
 
+2024-12-04 * "西瓜卡" "充值" #travel/jp
+    Expenses:Invest:Dev                 49.02 CNY
+    Assets:CGB:41508                   -49.02 CNY
+
 2024-12-05 * "ラムタラ秋~原店" "chikawa公仔-卢伟涛" #travel/jp
     time: "17:00:46"
     uuid: "2024120522001453521427323677"
     status: "ALiPay - 交易成功"
-    Expenses:Other                      85.43 CNY
+    Expenses:Shopping:Invite            85.43 CNY
     Liabilities:CMBCreditCard:2035     -85.43 CNY
 
 2024-12-05 * "モンハン酒" "怪物猎人主题餐厅" #travel/jp
@@ -394,8 +410,12 @@
     time: "12:07:12"
     uuid: "2024120522001453521425157182"
     status: "ALiPay - 交易成功"
-    Expenses:Other                     160.19 CNY
+    Expenses:Shopping:Invite           160.19 CNY
     Liabilities:CMBCreditCard:2035    -160.19 CNY
+
+2024-12-04 * "西瓜卡" "充值" #travel/jp
+    Expenses:Invest:Dev                145.04 CNY
+    Assets:CGB:41508                  -145.04 CNY
 
 2024-12-04 * "陈智龙" "收钱码收款" #travel/jp
     time: "20:00:46"

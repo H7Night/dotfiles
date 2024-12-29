@@ -41,7 +41,7 @@
 2024-10-28 * "j8**8" "凯华Kailh box草莓冰淇淋pro客制化cream37g触发线性机械键盘轴体"
     time: "20:31:00"
     uuid: "2024102822001153521437799710"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Digital            9.70 CNY
     Liabilities:CMBCreditCard:2035      -9.70 CNY
 
@@ -70,21 +70,21 @@
 2024-10-25 * "hp**n" "怪物猎人艾露猫键帽呆猫沙雕猫个性树脂键帽"
     time: "22:24:25"
     uuid: "2024102522001153521414856688"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Digital           58.00 CNY
     Assets:AliPay:Balance              -58.00 CNY
 
 2024-10-25 * "tb**8" "【构思者】自适应 免调试 弹性结构PCB卫星轴  构思者卫星轴"
     time: "22:24:25"
     uuid: "2024102522001153521414980469"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Digital           79.00 CNY
     Liabilities:CMBCreditCard:2035     -79.00 CNY
 
 2024-10-25 * "pr**饼" "怪物猎人 | 呆猫傻狗贴纸"
     time: "22:24:25"
     uuid: "2024102522001153521417061120"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Other             26.00 CNY
     Assets:AliPay:Balance              -26.00 CNY
 
@@ -126,7 +126,7 @@
 2024-10-23 * "深圳**店" "补差价专用" #travel/jp
     time: "20:06:59"
     uuid: "2024102322001153521400906828"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Other             27.00 CNY
     Liabilities:CMBCreditCard:2035     -27.00 CNY
 
@@ -154,7 +154,7 @@
 2024-10-22 * "do**1" "classic基础字符"
     time: "13:08:49"
     uuid: "2024102222001153521454228244"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Digital          167.00 CNY
     Liabilities:CMBCreditCard:2035    -167.00 CNY
 
@@ -198,21 +198,21 @@
 2024-10-20 * "深圳**店" "日本电话卡5G/4G手机流量上网卡可选9999GB5/7/10/15天旅游sim卡" #travel/jp
     time: "22:27:34"
     uuid: "2024102022001153521440117606"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Other             34.48 CNY
     Liabilities:CMBCreditCard:2035     -34.48 CNY
 
 2024-10-20 * "tb**8" "【构思者】自适应 免调试 弹性结构钢板卫星轴  构思者卫星轴"
     time: "22:19:41"
     uuid: "2024102022001153521440300824"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Digital           19.90 CNY
     Liabilities:CMBCreditCard:2035     -19.90 CNY
 
 2024-10-20 * "j8**8" "凯华Kailh box草莓冰淇淋pro客制化cream37g触发线性机械键盘轴体"
     time: "22:19:41"
     uuid: "2024102022001153521442848116"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Digital          181.00 CNY
     Liabilities:CMBCreditCard:2035    -181.00 CNY
 
@@ -300,21 +300,21 @@
 2024-10-17 * "sd**2" "原装IBM   铭牌 金属贴 笔记本电脑"
     time: "16:55:42"
     uuid: "2024101722001153521410386328"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Other              5.96 CNY
     Liabilities:CMBCreditCard:2035      -5.96 CNY
 
 2024-10-17 * "天猫**市" "【自营】Maxigenes美可卓蓝妹子脱脂牛奶粉中老年高钙早餐脱脂奶"
     time: "16:55:42"
     uuid: "2024101722001153521413097418"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Other             97.90 CNY
     Liabilities:CMBCreditCard:2035     -97.90 CNY
 
 2024-10-17 * "tb**3" "卡通可爱暹罗厘普周边封口贴多栋田中贴纸沙雕搞笑小众装饰diy贴"
     time: "16:55:42"
     uuid: "2024101722001153521416509799"
-    status: "ALiPay - 等待确认收货"
+    status: "ALiPay - 交易成功"
     Expenses:Shopping:Other              2.90 CNY
     Liabilities:CMBCreditCard:2035      -2.90 CNY
 
@@ -427,17 +427,17 @@
     Expenses:Transport:TAXI             16.34 CNY
     Liabilities:CMBCreditCard:2035     -16.34 CNY
 
+2024-10-13 * "富丽图快印" "" #travel/jp
+    time: "16:01:08"
+    Expenses:Shopping:Other                 7 CNY
+    Liabilities:CMBCreditCard:2035         -7 CNY
+
 2024-10-13 * "荔欧烘焙" "条码支付-东海蓝湾店-310101520020002202410130062207"
     time: "10:22:08"
     uuid: "2024101323001453521436180329"
     status: "ALiPay - 交易成功"
     Expenses:Food:Invite               227.04 CNY
     Liabilities:CMBCreditCard:2035    -227.04 CNY
-
-2024-10-13 * "富丽图快印" "" #travel/jp
-    time: "16:01:08"
-    Expenses:Shopping:Other                 7 CNY
-    Liabilities:CMBCreditCard:2035         -7 CNY
 
 2024-10-12 * "徐宇阳" "无备注转账"
     time: "21:33:26"
