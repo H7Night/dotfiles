@@ -129,7 +129,7 @@
     uuid: "20241122200040011100770051186490"
     status: "ALiPay - 交易成功"
     Income:Other                    -1063.46 CNY
-    Assets:AliPay:Balance                             1063.46 CNY
+    Assets:AliPay:Balance            1063.46 CNY
 
 2024-11-22 * "π佳禾-设计总监阿庆（提前预约）" "转账备注:微信转账"
 	time: "15:15:33"
@@ -282,8 +282,8 @@
     time: "21:26:32"
     uuid: "2024111323001100741434624913"
     status: "ALiPay - 交易成功"
-    Income:Other -60.00 CNY
-    None 60.00 CNY
+    Income:Other                      -60.00 CNY
+    Assets:AliPay:Balance              60.00 CNY
 
 2024-11-13 * "深圳雄狮天下旅行社有限公司" "日本环球影城门票" #travel/jp
     time: "10:04:12"
@@ -343,8 +343,8 @@
     time: "10:49:02"
     uuid: "2024111022001181891421717715"
     status: "ALiPay - 交易成功"
-    Income:Other -50.00 CNY
-    None 50.00 CNY
+    Income:Other                      -50.00 CNY
+    Assets:AliPay:Balance              50.00 CNY
 
 2024-11-09 * "肥佬" "转账备注:微信转账"
     time: "23:24:57"
