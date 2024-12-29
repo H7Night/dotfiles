@@ -1,3 +1,199 @@
+2024-12-27 * "萨莉亚意大利餐厅(228三水新动力广场店)" "GZ228三水新动力广场店"
+    time: "20:30:42"
+    uuid: "2024122723001453521450277363"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner                62.00 CNY
+    Liabilities:CMBCreditCard:2035     -62.00 CNY
+
+2024-12-26 * "杭州闲鱼信息技术有限公司" "分账-基础软件服务费(4174309261249956334)扣款"
+    time: "11:32:28"
+    uuid: "2024122610032004060249633334"
+    status: "ALiPay - 交易成功"
+    Expenses:Invest:Cost                 6.72 CNY
+    Assets:AliPay:Balance               -6.72 CNY
+
+2024-12-25 * "蓝柠檬之恋" "经营码交易"
+    time: "15:57:19"
+    uuid: "2024122522001453521441664030"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Snack                  6.00 CNY
+    Liabilities:CMBCreditCard:2035      -6.00 CNY
+
+2024-12-25 * "荔欧烘焙" "条码支付-东海蓝湾店-310101520020002202412250196513"
+    time: "15:09:44"
+    uuid: "2024122523001453521441656346"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Invite                46.00 CNY
+    Liabilities:CMBCreditCard:2035     -46.00 CNY
+
+2024-12-24 * "t***3" "米家挂灯普通版 功能完好，现在不用台式了，故闲置"
+    time: "09:49:45"
+    uuid: "2024122422001153521434968211"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Home             101.00 CNY
+    Assets:AliPay:Balance             -101.00 CNY
+
+2024-12-23 * "昂图**店" "【活动价】搬家纸箱子加厚加硬打包整理家用大容量快递包装纸板收纳瓦楞定制"
+    time: "19:19:38"
+    uuid: "2024122322001153521433863965"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Home              17.78 CNY
+    Liabilities:CMBCreditCard:2035     -17.78 CNY
+
+2024-12-23 * "ji**7" "加厚透明自封袋小号塑封口袋子大号食品保鲜袋密封袋PE塑料包装袋"
+    time: "19:19:38"
+    uuid: "2024122322001153521434928145"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Home               4.63 CNY
+    Liabilities:CMBCreditCard:2035      -4.63 CNY
+
+2024-12-23 * "得力**店" "【活动价】得力便利贴400张便条纸 创意带粘性办公便签纸 彩色易事贴 200张可爱贴纸 方便易携带"
+    time: "19:19:38"
+    uuid: "2024122322001153521434934392"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Home               9.10 CNY
+    Liabilities:CMBCreditCard:2035      -9.10 CNY
+
+2024-12-23 * "tb**8" "日式矮桌子定制尺寸定做40/50厘米高电脑桌80/90长方形办公小书桌 等多件"
+    time: "19:19:38"
+    uuid: "2024122322001153521434953780"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Home             139.06 CNY
+    Liabilities:CMBCreditCard:2035    -139.06 CNY
+
+2024-12-23 * "zh**p" "3G模型 喵匠 20040007 HMK-01R红色套装 全金属窄刃笔刀附刀片 等多件"
+    time: "19:19:38"
+    uuid: "2024122322001153521434966402"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Home              61.15 CNY
+    Liabilities:CMBCreditCard:2035     -61.15 CNY
+
+2024-12-21 * "中国石化销售股份有限公广东佛山石油分公司" "A3"
+    time: "18:13:10"
+    uuid: "2024122123001453521425675769"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport:Car:Oil         200.97 CNY
+    Liabilities:CMBCreditCard:2035    -200.97 CNY
+
+2024-12-21 * "w***d" "闲鱼转账"
+    time: "14:27:54"
+    uuid: "2024122122001353521424928431"
+    status: "ALiPay - 交易成功"
+    Expenses:Home:Delivery              10.00 CNY
+    Assets:AliPay:Balance              -10.00 CNY
+
+2024-12-21 * "****d" "nothing phone 1，12+256，无箱说，无拆修"
+    time: "13:03:16"
+    uuid: "2024122122001178061405454035"
+    status: "ALiPay - 交易成功"
+    Income:Sales                     -1120.00 CNY
+    Assets:AliPay:Balance             1120.00 CNY
+
+2024-12-21 * "浙江网商银行股份有限公司" "余额升级服务收益发放"
+    time: "02:05:56"
+    uuid: "20241221102553010053520015090902"
+    status: "ALiPay - 交易成功"
+    Income:RedEnvelope                  -0.01 CNY
+    Assets:AliPay:Balance                0.01 CNY
+
+2024-12-20 * "b8**1" "TAD6S4N10G N100 305 6盘 M.2双万兆机械固态混合高速存储NAS全铝"
+    time: "15:07:18"
+    uuid: "2024122022001153521422953460"
+    status: "ALiPay - 交易成功"
+    Expenses:Shopping:Digital          499.00 CNY
+    Liabilities:CMBCreditCard:2035    -499.00 CNY
+
+2024-12-20 * "运营商合约分期服务( PhoneWin）" "广东移动套餐-合约36期/第25期扣款"
+    time: "14:09:43"
+    uuid: "2024122022001453521423497339"
+    status: "ALiPay - 交易成功"
+    Expenses:Home:Phone                 51.00 CNY
+    Assets:AliPay:Balance              -51.00 CNY
+
+2024-12-20 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "09:00:16"
+    uuid: "20241220001080012204520007150371"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance             -300.00 CNY
+    Assets:AliPay:Funds                300.00 CNY
+
+2024-12-18 * "广东联合电子服务股份有限公司" "通行费_ES010023070071046118241218125838"
+    time: "12:59:41"
+    uuid: "2024121823001453521415340917"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport:Car:Tolls        16.00 CNY
+    Liabilities:CMBCreditCard:2035     -16.00 CNY
+
+2024-12-18 * "广东联合电子服务股份有限公司" "通行费_ES010032110106034886241218102720"
+    time: "10:27:21"
+    uuid: "2024121823001453521415321447"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport:Car:Tolls        16.00 CNY
+    Liabilities:CMBCreditCard:2035     -16.00 CNY
+
+2024-12-16 * "杭州闲鱼信息技术有限公司" "分账-基础软件服务费(2407775737429435798)扣款"
+    time: "18:25:27"
+    uuid: "2024121610032004030248708771"
+    status: "ALiPay - 交易成功"
+    Expenses:Invest:Cost                 0.54 CNY
+    Assets:AliPay:Balance               -0.54 CNY
+
+2024-12-14 * "****7" "olevs手表，男女两款，亲戚送的，全新未用。"
+    time: "23:53:38"
+    uuid: "2024121423001122031439218806"
+    status: "ALiPay - 交易成功"
+    Income:Sales                       -90.00 CNY
+    Assets:AliPay:Balance               90.00 CNY
+
+2024-12-14 * "佛山市三水区西南街德喜餐厅" "佛山市三水区西南街德喜餐厅"
+    time: "23:32:43"
+    uuid: "2024121423001453521403540671"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Snack                 63.00 CNY
+    Liabilities:CMBCreditCard:2035     -63.00 CNY
+
+2024-12-11 * "米阿来大马餐室" "美团/大众点评点餐订单-12114719788162519360942"
+    time: "18:35:21"
+    uuid: "2024121122001453521452635371"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner                62.00 CNY
+    Liabilities:CMBCreditCard:2035     -62.00 CNY
+
+2024-12-10 * "花呗" "花呗自动还款-2024年12月账单"
+    time: "13:18:13"
+    uuid: "2024121029020999520108854357"
+    status: "ALiPay - 还款成功"
+    Libabiilities:Huabei               410.21 CNY
+    Assets:AliPay:Balance             -410.21 CNY
+
+2024-12-08 * "支付宝" "信用卡还款手续"
+    time: "19:12:05"
+    uuid: "2024120800003001520026969633"
+    status: "ALiPay - 还款成功"
+    Expenses:Invest:Cost                 3.25 CNY
+    Assets:AliPay:Balance               -3.25 CNY
+
+2024-12-08 * "招商银行" "信用卡还款"
+    time: "19:12:05"
+    uuid: "2024120800003001520026969633"
+    status: "ALiPay - 还款成功"
+    Liabilities:CMBCreditCard:2035     5902.7 CNY
+    Assets:AliPay:Balance             -5902.7 CNY
+
+2024-12-08 * "海南祥盛坤网络科技有限公司" "2024120812122169351812770"
+    time: "12:37:40"
+    uuid: "2024120822001453521438907002"
+    status: "ALiPay - 交易成功"
+    Expenses:Entertainment:VPN           7.00 CNY
+    Liabilities:CMBCreditCard:2035      -7.00 CNY
+
+2024-12-07 * "佛山市三水区西南街德喜餐厅" "佛山市三水区西南街德喜餐厅"
+    time: "23:17:22"
+    uuid: "2024120723001453521434189308"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner                82.00 CNY
+    Liabilities:CMBCreditCard:2035     -82.00 CNY
+
 2024-12-07 * "03北1拥" "sevenstar烟" #travel/jp
     time: "11:36:50"
     uuid: "2024120722001453521436315847"
