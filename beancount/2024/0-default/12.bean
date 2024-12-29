@@ -26,6 +26,20 @@
     Expenses:Food:Invite                46.00 CNY
     Liabilities:CMBCreditCard:2035     -46.00 CNY
 
+2024-12-25 * "奈雪的茶" "佛山三水万达广场店"
+    time: "14:48:00"
+    uuid: "4200002525202412252691160064"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Invite                18.70 CNY
+    Assets:WeChat                      -18.70 CNY
+
+2024-12-25 * "奈雪的茶" "佛山三水万达广场店"
+    time: "14:28:26"
+    uuid: "4200002570202412256143874282"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Snack                 22.00 CNY
+    Assets:WeChat                      -22.00 CNY
+
 2024-12-24 * "t***3" "米家挂灯普通版 功能完好，现在不用台式了，故闲置"
     time: "09:49:45"
     uuid: "2024122422001153521434968211"
@@ -68,6 +82,13 @@
     Expenses:Shopping:Home              61.15 CNY
     Liabilities:CMBCreditCard:2035     -61.15 CNY
 
+2024-12-21 * "妈" "红包"
+    time: "19:22:41"
+    uuid: "1000039901000412216233013146750"
+    status: "WeChat - 已存入零钱"
+    Income:Other                      -200.00 CNY
+    Assets:WeChat                      200.00 CNY
+
 2024-12-21 * "中国石化销售股份有限公广东佛山石油分公司" "A3"
     time: "18:13:10"
     uuid: "2024122123001453521425675769"
@@ -81,6 +102,13 @@
     status: "ALiPay - 交易成功"
     Expenses:Home:Delivery              10.00 CNY
     Assets:AliPay:Balance              -10.00 CNY
+
+2024-12-21 * "顺丰速运" "散单运费-顺丰速运"
+    time: "14:24:03"
+    uuid: "4200002386202412218700970032"
+    status: "WeChat - 支付成功"
+    Expenses:Home:Delivery              20.00 CNY
+    Assets:WeChat                      -20.00 CNY
 
 2024-12-21 * "****d" "nothing phone 1，12+256，无箱说，无拆修"
     time: "13:03:16"
@@ -117,12 +145,40 @@
     Assets:AliPay:Balance             -300.00 CNY
     Assets:AliPay:Funds                300.00 CNY
 
+2024-12-19 * "肯德基" "KFC_PREWX10012444922926275625428"
+    time: "17:01:43"
+    uuid: "4200002518202412196000521777"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Snack                 39.80 CNY
+    Assets:WeChat                      -39.80 CNY
+
 2024-12-18 * "广东联合电子服务股份有限公司" "通行费_ES010023070071046118241218125838"
     time: "12:59:41"
     uuid: "2024121823001453521415340917"
     status: "ALiPay - 交易成功"
     Expenses:Transport:Car:Tolls        16.00 CNY
     Liabilities:CMBCreditCard:2035     -16.00 CNY
+
+2024-12-18 * "越秀金融大厦" "越秀金融大厦停车场_停车费_粤E372HU"
+    time: "11:58:04"
+    uuid: "4200002442202412183269859731"
+    status: "WeChat - 支付成功"
+    Expenses:Transport:Car:Parking      15.00 CNY
+    Assets:WeChat                      -15.00 CNY
+
+2024-12-18 * "财记隆江猪脚饭（珠江新城店）" "美团/大众点评点餐订单-12185026033132936668864"
+    time: "11:42:28"
+    uuid: "4200002526202412183539563145"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Lunch                 18.90 CNY
+    Assets:WeChat                      -18.90 CNY
+
+2024-12-18 * "富丽图快印-三水万达店" "直接付款，6079432，150-三水万达店，富丽图快印"
+    time: "09:18:03"
+    uuid: "4200002378202412188195670641"
+    status: "WeChat - 支付成功"
+    Expenses:Invest:Dev                  1.00 CNY
+    Assets:WeChat                       -1.00 CNY
 
 2024-12-18 * "广东联合电子服务股份有限公司" "通行费_ES010032110106034886241218102720"
     time: "10:27:21"
@@ -138,6 +194,13 @@
     Expenses:Invest:Cost                 0.54 CNY
     Assets:AliPay:Balance               -0.54 CNY
 
+2024-12-15 * "中通" "中通快递-快递运费-运单号:73539555834965"
+    time: "14:14:21"
+    uuid: "4200002519202412151077213004"
+    status: "WeChat - 支付成功"
+    Expenses:Home:Delivery              12.00 CNY
+    Assets:WeChat                      -12.00 CNY
+
 2024-12-14 * "****7" "olevs手表，男女两款，亲戚送的，全新未用。"
     time: "23:53:38"
     uuid: "2024121423001122031439218806"
@@ -152,6 +215,13 @@
     Expenses:Food:Snack                 63.00 CNY
     Liabilities:CMBCreditCard:2035     -63.00 CNY
 
+2024-12-14 * "luckin coffee" "订单付款"
+    time: "20:56:39"
+    uuid: "4200002514202412147744468140"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Snack                 38.50 CNY
+    Assets:WeChat                      -38.50 CNY
+
 2024-12-11 * "米阿来大马餐室" "美团/大众点评点餐订单-12114719788162519360942"
     time: "18:35:21"
     uuid: "2024121122001453521452635371"
@@ -159,12 +229,33 @@
     Expenses:Food:Dinner                62.00 CNY
     Liabilities:CMBCreditCard:2035     -62.00 CNY
 
+2024-12-11 * "（壹道）清新强力凉茶" "收款方备注:二维码收款"
+    time: "17:03:02"
+    uuid: "100004990124121100090332164157756273"
+    status: "WeChat - 已转账"
+    Expenses:Food:Snack                 24.00 CNY
+    Assets:WeChat                      -24.00 CNY
+
+2024-12-10 * "肥佬" "转账备注:微信转账"
+    time: "18:25:25"
+    uuid: "1000050001202412100025753154928"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope                 -20.00 CNY
+    Assets:WeChat                       20.00 CNY
+
 2024-12-10 * "花呗" "花呗自动还款-2024年12月账单"
     time: "13:18:13"
     uuid: "2024121029020999520108854357"
     status: "ALiPay - 还款成功"
     Libabiilities:Huabei               410.21 CNY
     Assets:AliPay:Balance             -410.21 CNY
+
+2024-12-09 * "上海珑公商务咨询有限公司" "2024120918340439351"
+    time: "18:34:29"
+    uuid: "4200002520202412098629021939"
+    status: "WeChat - 支付成功"
+    Expenses:Entertainment:VPN          20.00 CNY
+    Assets:WeChat                      -20.00 CNY
 
 2024-12-08 * "支付宝" "信用卡还款手续"
     time: "19:12:05"
@@ -179,6 +270,13 @@
     status: "ALiPay - 还款成功"
     Liabilities:CMBCreditCard:2035     5902.7 CNY
     Assets:AliPay:Balance             -5902.7 CNY
+
+2024-12-08 * "顺丰速运" "散单运费-顺丰速运"
+    time: "14:20:49"
+    uuid: "4200002385202412085198710625"
+    status: "WeChat - 支付成功"
+    Expenses:Home:Delivery              13.00 CNY
+    Assets:WeChat                      -13.00 CNY
 
 2024-12-08 * "海南祥盛坤网络科技有限公司" "2024120812122169351812770"
     time: "12:37:40"
