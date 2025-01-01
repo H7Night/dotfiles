@@ -181,19 +181,19 @@
     Expenses:Food:Lunch                 18.90 CNY
     Assets:WeChat                      -18.90 CNY
 
-2024-12-18 * "富丽图快印-三水万达店" "直接付款，6079432，150-三水万达店，富丽图快印"
-    time: "09:18:03"
-    uuid: "4200002378202412188195670641"
-    status: "WeChat - 支付成功"
-    Expenses:Invest:Dev                  1.00 CNY
-    Assets:WeChat                       -1.00 CNY
-
 2024-12-18 * "广东联合电子服务股份有限公司" "通行费_ES010032110106034886241218102720"
     time: "10:27:21"
     uuid: "2024121823001453521415321447"
     status: "ALiPay - 交易成功"
     Expenses:Transport:Car:Tolls        16.00 CNY
     Liabilities:CMBCreditCard:2035     -16.00 CNY
+
+2024-12-18 * "富丽图快印-三水万达店" "直接付款，6079432，150-三水万达店，富丽图快印"
+    time: "09:18:03"
+    uuid: "4200002378202412188195670641"
+    status: "WeChat - 支付成功"
+    Expenses:Invest:Dev                  1.00 CNY
+    Assets:WeChat                       -1.00 CNY
 
 2024-12-16 * "杭州闲鱼信息技术有限公司" "分账-基础软件服务费(2407775737429435798)扣款"
     time: "18:25:27"
@@ -363,7 +363,7 @@
     Income:RedEnvelope                -140.00 CNY
     Assets:AliPay:Balance              140.00 CNY
 
-2024-12-21 * "西瓜卡" "充值" #travel/jp
+2024-12-06 * "西瓜卡" "充值" #travel/jp
     Expenses:Invest:Dev                 48.41 CNY
     Assets:CGB:41508                   -48.41 CNY
 
@@ -380,10 +380,6 @@
     status: "ALiPay - 等待确认收货"
     Expenses:Shopping:Digital           14.51 CNY
     Assets:CGB:41508                   -14.51 CNY
-
-2024-12-04 * "西瓜卡" "充值" #travel/jp
-    Expenses:Invest:Dev                 49.02 CNY
-    Assets:CGB:41508                   -49.02 CNY
 
 2024-12-05 * "ラムタラ秋~原店" "chikawa公仔-卢伟涛" #travel/jp
     time: "17:00:46"
@@ -412,6 +408,10 @@
     status: "ALiPay - 交易成功"
     Expenses:Shopping:Invite           160.19 CNY
     Liabilities:CMBCreditCard:2035    -160.19 CNY
+
+2024-12-04 * "西瓜卡" "充值" #travel/jp
+    Expenses:Invest:Dev                 49.02 CNY
+    Assets:CGB:41508                   -49.02 CNY
 
 2024-12-04 * "西瓜卡" "充值" #travel/jp
     Expenses:Invest:Dev                145.04 CNY

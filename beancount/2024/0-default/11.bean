@@ -595,7 +595,7 @@
     Liabilities:CMBCreditCard:2035      -2.50 CNY
 
 2024-11-01 * "雨东烘焙" "收钱码收款"
-    time: "12:27:28"
+    time: "20:27:28"
     uuid: "2024110122001453521403995875"
     status: "ALiPay - 交易成功"
     Expenses:Food:Lunch                  8.00 CNY
