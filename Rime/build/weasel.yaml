@@ -1,8 +1,8 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    weasel: 1729216170
-    weasel.custom: 1730085532
+    weasel: 1735816364
+    weasel.custom: 1735816364
 app_options:
   cmd.exe:
     ascii_mode: true
