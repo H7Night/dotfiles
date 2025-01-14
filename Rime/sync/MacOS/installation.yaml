@@ -20,5 +20,7 @@ rime_version: 1.11.2
 installation_id: MacOS
 sync_dir: "/Users/jhonhe/Public/dotfiles/Rime/sync"
 
+
+# Linux
 # installation_id: "Linux"
 # sync_dir:
