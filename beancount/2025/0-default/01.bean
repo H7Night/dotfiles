@@ -1,196 +1,320 @@
+2025-01-31 * "红包" "外婆，大堂姐，二堂姐，堂兄"
+    time: "23:59:59"
+    Income:RedEnvelope                       -530.0 CNY
+    Assets:Cash:CNY                           530.0 CNY
+
 2025-01-30 * "日日升超市(新里程店)" "三水日日升1536511013113010156467103836"
     time: "10:38:37"
     uuid: "2025013023001453521448223658"
     status: "ALiPay - 交易成功"
-    Expenses:Shopping:Home               1.30 CNY
-    Liabilities:CMBCreditCard:2035      -1.30 CNY
+    Expenses:Shopping:Home                   1.30 CNY
+    Liabilities:CMBCreditCard:2035          -1.30 CNY
 
 2025-01-29 * "小米**店" "小米手环9智能运动健康运动血氧心率防水智能手环"
     time: "19:27:18"
     uuid: "2025012922001153521446428006"
     status: "ALiPay - 交易成功"
-    Expenses:Shopping:Invite           254.15 CNY
-    Liabilities:CMBCreditCard:2035    -254.15 CNY
+    Expenses:Shopping:Invite               254.15 CNY
+    Liabilities:CMBCreditCard:2035        -254.15 CNY
 
 2025-01-29 * "**杰" "无备注转账"
     time: "11:26:21"
     uuid: "20250129200040011100520037038380"
     status: "ALiPay - 交易成功"
-    Expenses:Invest:Other                2.00 CNY
-    Assets:AliPay:Balance               -2.00 CNY
+    Expenses:Invest:Other                    2.00 CNY
+    Assets:AliPay:Balance                   -2.00 CNY
 
 2025-01-29 * "mikefooo" "转账"
     time: "11:24:14"
     uuid: "20250129200040011100770082668699"
     status: "ALiPay - 交易成功"
-    Income:RedEnvelope                 -70.00 CNY
-    Assets:AliPay:Balance               70.00 CNY
+    Income:RedEnvelope                     -70.00 CNY
+    Assets:AliPay:Balance                   70.00 CNY
+
+2025-01-29 * "妈" "转账备注:新年快乐 万事如意"
+    time: "10:57:33"
+    uuid: "1000050001202501282320581521580"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope                    -800.00 CNY
+    Assets:WeChat                          800.00 CNY
+
+2025-01-29 * "姨妈" "/"
+    time: "10:57:22"
+    uuid: "1000039901000501297000472194044"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope                    -200.00 CNY
+    Assets:WeChat                          200.00 CNY
+
+2025-01-29 * "妈" "/"
+    time: "10:17:07"
+    uuid: "1000039901000501286311630656828"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope                    -200.00 CNY
+    Assets:WeChat                          200.00 CNY
+
+2025-01-29 * "余海明舅" "/"
+    time: "00:01:04"
+    uuid: "1000039901000501296261408830646"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope                    -200.00 CNY
+    Assets:WeChat                          200.00 CNY
 
 2025-01-25 * "甜果甜品店（人民路店）" "总共消费:34.0"
     time: "20:49:24"
     uuid: "2025012522001453521433445277"
     status: "ALiPay - 交易成功"
-    Expenses:Food:Snack                 34.00 CNY
-    Liabilities:CMBCreditCard:2035     -34.00 CNY
+    Expenses:Food:Snack                     34.00 CNY
+    Liabilities:CMBCreditCard:2035         -34.00 CNY
 
 2025-01-25 * "杭州闲鱼信息技术有限公司" "分账-基础软件服务费(4214220229536504345)扣款"
     time: "19:31:28"
     uuid: "2025012510032004760235230508"
     status: "ALiPay - 交易成功"
-    Expenses:Invest:Cost                 0.33 CNY
-    Assets:AliPay:Balance               -0.33 CNY
+    Expenses:Invest:Cost                     0.33 CNY
+    Assets:AliPay:Balance                   -0.33 CNY
 
 2025-01-25 * "当我**哪" "【自动发货】steam俄罗斯卢布直充 俄区余额钱包充值卡交易账户冲"
     time: "09:30:30"
     uuid: "2025012522001153521433106648"
     status: "ALiPay - 交易成功"
-    Expenses:Shopping:Digital           62.00 CNY
-    Liabilities:Huabei                 -62.00 CNY
+    Expenses:Shopping:Digital               62.00 CNY
+    Liabilities:Huabei                     -62.00 CNY
+
+2025-01-24 * "顺丰速运" "散单运费-顺丰速运"
+    time: "16:05:00"
+    uuid: "4200002503202501240706273086"
+    status: "WeChat - 支付成功"
+    Expenses:Home:Delivery                  15.00 CNY
+    Assets:WeChat                          -15.00 CNY
 
 2025-01-23 * "a***9" "文石BOOX Note Air，10.3英寸安卓墨水屏阅读器"
     time: "16:56:03"
     uuid: "2025012322001153521426383081"
     status: "ALiPay - 交易成功"
-    Expenses:Shopping:Digital          920.00 CNY
-    Assets:AliPay:Balance             -920.00 CNY
+    Expenses:Shopping:Digital              920.00 CNY
+    Assets:AliPay:Balance                 -920.00 CNY
 
 2025-01-23 * "****n" "技嘉GAB85主板D3V-A，2条DDR3内存槽，带挡板。接"
     time: "16:36:35"
     uuid: "2025012323001125761428207292"
     status: "ALiPay - 交易成功"
-    Income:Sales                       -55.00 CNY
-    Assets:AliPay:Balance               55.00 CNY
+    Income:Sales                           -55.00 CNY
+    Assets:AliPay:Balance                   55.00 CNY
 
 2025-01-22 * "俊哥" "转账"
     time: "20:02:49"
     uuid: "20250122200040011100340040179244"
     status: "ALiPay - 交易成功"
-    Income:RedEnvelope                -100.00 CNY
-    Assets:AliPay:Balance              100.00 CNY
+    Income:RedEnvelope                    -100.00 CNY
+    Assets:AliPay:Balance                  100.00 CNY
 
 2025-01-22 * "**俊" "无备注转账"
     time: "19:06:01"
     uuid: "20250122200040011100520033607554"
     status: "ALiPay - 交易成功"
-    Expenses:Invest:Other              100.00 CNY
-    Assets:AliPay:Balance             -100.00 CNY
+    Expenses:Invest:Other                  100.00 CNY
+    Assets:AliPay:Balance                 -100.00 CNY
 
 2025-01-21 * "好想来品牌零食" "佛山三水区西南商业街店"
     time: "15:42:57"
     uuid: "2025012123001453521418825331"
     status: "ALiPay - 交易成功"
-    Expenses:Food:Snack                  6.40 CNY
-    Liabilities:CMBCreditCard:2035      -6.40 CNY
+    Expenses:Food:Snack                      6.40 CNY
+    Liabilities:CMBCreditCard:2035          -6.40 CNY
 
 2025-01-20 * "蜜雪冰城929852店" "蜜雪冰城929852店"
     time: "17:22:04"
     uuid: "2025012022001453521413278456"
     status: "ALiPay - 交易成功"
-    Expenses:Food:Snack                 13.00 CNY
-    Liabilities:CMBCreditCard:2035     -13.00 CNY
+    Expenses:Food:Snack                     13.00 CNY
+    Liabilities:CMBCreditCard:2035         -13.00 CNY
 
 2025-01-20 * "运营商合约分期服务( PhoneWin）" "广东移动套餐-合约36期/第26期扣款"
     time: "13:49:20"
     uuid: "2025012022001453521414469282"
     status: "ALiPay - 交易成功"
-    Expenses:Home:Phone                 51.00 CNY
-    Assets:AliPay:Balance              -51.00 CNY
+    Expenses:Home:Phone                     51.00 CNY
+    Assets:AliPay:Balance                  -51.00 CNY
+
+2025-01-19 * "肥佬" "/"
+    time: "00:22:22"
+    uuid: "1000039901000501196345232287731"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope                     -20.00 CNY
+    Assets:WeChat                           20.00 CNY
 
 2025-01-17 * "法斯玛云服务" "2025011719501879182"
     time: "19:50:25"
     uuid: "2025011722001453521404056753"
     status: "ALiPay - 交易成功"
-    Expenses:Entertainment:VPN          17.00 CNY
-    Liabilities:CMBCreditCard:2035     -17.00 CNY
+    Expenses:Entertainment:VPN              17.00 CNY
+    Liabilities:CMBCreditCard:2035         -17.00 CNY
+
+2025-01-17 * "广东好易点科技有限公司" "Ϸ528϶237Ϲ4B1ϵ305ϵ145ϵ03C϶52FϴED8"
+    time: "15:26:25"
+    uuid: "4200002543202501171613531544"
+    status: "WeChat - 支付成功"
+    Expenses:Transport:Car:Electricity      10.00 CNY
+    Assets:WeChat                          -10.00 CNY
+
+2025-01-16 * "广州骑安" "单车"
+    time: "20:59:35"
+    uuid: "4200002548202501168634178167"
+    status: "WeChat - 支付成功"
+    Expenses:Transport:Transport             1.50 CNY
+    Assets:WeChat                           -1.50 CNY
+
+2025-01-16 * "广州骑安" "单车"
+    time: "19:08:20"
+    uuid: "4200002535202501161026925428"
+    status: "WeChat - 支付成功"
+    Expenses:Transport:Transport             1.50 CNY
+    Assets:WeChat                           -1.50 CNY
+
+2025-01-16 * "广州骑安" "单车"
+    time: "19:01:32"
+    uuid: "4200002523202501162604106639"
+    status: "WeChat - 支付成功"
+    Expenses:Transport:Transport             2.50 CNY
+    Assets:WeChat                           -2.50 CNY
+
+2025-01-16 * "沪上阿姨" "【堂食】_佛山三水万达广场店_268270_44060725101_无_无"
+    time: "16:00:16"
+    uuid: "4200002561202501166948852098"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Snack                     31.00 CNY
+    Assets:WeChat                          -31.00 CNY
 
 2025-01-14 * "杭州闲鱼信息技术有限公司" "分账-基础软件服务费(2439540048117793263)扣款"
     time: "18:57:35"
     uuid: "2025011410032004770238326798"
     status: "ALiPay - 交易成功"
-    Expenses:Invest:Cost                 0.60 CNY
-    Assets:AliPay:Balance               -0.60 CNY
+    Expenses:Invest:Cost                     0.60 CNY
+    Assets:AliPay:Balance                   -0.60 CNY
+
+2025-01-14 * "蛋" "转账备注:微信转账"
+    time: "11:36:31"
+    uuid: "1000050001202501140525357519418"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope                     -68.00 CNY
+    Assets:WeChat                           68.00 CNY
 
 2025-01-14 * "**熙" "收钱码收款"
     time: "11:28:06"
     uuid: "2025011422001452071440490839"
     status: "ALiPay - 交易成功"
-    Income:RedEnvelope                 -68.00 CNY
-    Assets:AliPay:Balance               68.00 CNY
+    Income:RedEnvelope                     -68.00 CNY
+    Assets:AliPay:Balance                   68.00 CNY
 
 2025-01-14 * "法斯玛云服务" "2025011411145894590"
     time: "11:15:07"
     uuid: "2025011422001453521452347219"
     status: "ALiPay - 交易成功"
-    Expenses:Entertainment:VPN         340.00 CNY
-    Liabilities:CMBCreditCard:2035    -340.00 CNY
+    Expenses:Entertainment:VPN             340.00 CNY
+    Liabilities:CMBCreditCard:2035        -340.00 CNY
 
 2025-01-13 * "发缘地" "经营码交易"
     time: "16:10:35"
     uuid: "2025011322001453521451541684"
     status: "ALiPay - 交易成功"
-    Expenses:Home:Haircut               25.00 CNY
-    Liabilities:CMBCreditCard:2035     -25.00 CNY
+    Expenses:Home:Haircut                   25.00 CNY
+    Liabilities:CMBCreditCard:2035         -25.00 CNY
+
+2025-01-13 * "顺丰速运" "散单运费-顺丰速运"
+    time: "13:27:39"
+    uuid: "4200002503202501139024291121"
+    status: "WeChat - 支付成功"
+    Expenses:Home:Delivery                  20.00 CNY
+    Assets:WeChat                          -20.00 CNY
 
 2025-01-12 * "****s" "万代 DX 限定，假面骑士 ZI-O ，平成20周年主题，时"
     time: "16:38:03"
     uuid: "2025011222001132771455972544"
     status: "ALiPay - 交易成功"
-    Income:Sales                      -100.00 CNY
-    Assets:AliPay:Balance              100.00 CNY
+    Income:Sales                          -100.00 CNY
+    Assets:AliPay:Balance                  100.00 CNY
 
 2025-01-11 * "杭州闲鱼信息技术有限公司" "分账-基础软件服务费(2432837712314760179)扣款"
     time: "09:22:19"
     uuid: "2025011110032004670258905309"
     status: "ALiPay - 交易成功"
-    Expenses:Invest:Cost                 0.27 CNY
-    Assets:AliPay:Balance               -0.27 CNY
+    Expenses:Invest:Cost                     0.27 CNY
+    Assets:AliPay:Balance                   -0.27 CNY
 
 2025-01-10 * "花呗" "花呗自动还款-2025年01月账单"
     time: "08:34:27"
     uuid: "2025011029020999520162789040"
     status: "ALiPay - 还款成功"
-    Assets:AliPay:Balance              -76.55 CNY
-    Liabilities:Huabei                  76.55 CNY
+    Assets:AliPay:Balance                  -76.55 CNY
+    Liabilities:Huabei                      76.55 CNY
 
 2025-01-09 * "蓝柠檬之恋" "经营码交易"
     time: "16:50:54"
     uuid: "2025010922001453521435030209"
     status: "ALiPay - 交易成功"
-    Expenses:Food:Snack                 21.00 CNY
-    Liabilities:CMBCreditCard:2035     -21.00 CNY
+    Expenses:Food:Snack                     21.00 CNY
+    Liabilities:CMBCreditCard:2035         -21.00 CNY
+
+2025-01-09 * "手机充值-中国移动" "50元手机话费-13809249151"
+    time: "08:30:38"
+    uuid: "4200002566202501093370176892"
+    status: "WeChat - 支付成功"
+    Expenses:Home:Phone                     50.00 CNY
+    Assets:WeChat                          -50.00 CNY
+
 
 2025-01-09 * "招商银行" "信用卡还款手续"
     time: "08:28:29"
     uuid: "2025010900003001520030468203"
     status: "ALiPay - 还款成功"
-    Expenses:Invest:Cost                 7.88 CNY
-    Assets:AliPay:Balance               -7.88 CNY
+    Expenses:Invest:Cost                     7.88 CNY
+    Assets:AliPay:Balance                   -7.88 CNY
 
 2025-01-09 * "招商银行" "信用卡还款"
     time: "08:28:29"
     uuid: "2025010900003001520030468203"
     status: "ALiPay - 还款成功"
-    Liabilities:CMBCreditCard:2035   10323.11 CNY
-    Assets:AliPay:Balance           -10323.11 CNY
+    Liabilities:CMBCreditCard:2035       10323.11 CNY
+    Assets:AliPay:Balance               -10323.11 CNY
+
+2025-01-07 * "顺丰速运" "散单运费-顺丰速运"
+    time: "13:38:10"
+    uuid: "4200002370202501072527556073"
+    status: "WeChat - 支付成功"
+    Expenses:Home:Delivery                  17.00 CNY
+    Assets:WeChat                          -17.00 CNY
 
 2025-01-07 * "小***8" "闲鱼转账"
     time: "13:44:21"
     uuid: "2025010722001353521427309254"
     status: "ALiPay - 交易成功"
-    Expenses:Home:Delivery              10.00 CNY
-    Assets:AliPay:Balance              -10.00 CNY
+    Expenses:Home:Delivery                  10.00 CNY
+    Assets:AliPay:Balance                  -10.00 CNY
 
 2025-01-07 * "****8" "星宇泉ATX电源，额定功率400W峰值550w，6P显卡供电"
     time: "03:25:49"
     uuid: "2025010723001123671432462493"
     status: "ALiPay - 交易成功"
-    Income:Sales                       -45.00 CNY
-    Assets:AliPay:Balance               45.00 CNY
+    Income:Sales                           -45.00 CNY
+    Assets:AliPay:Balance                   45.00 CNY
+
+2025-01-04 * "李氏螺蛳粉" "三水李氏珍味螺蛳粉-门店消费"
+    time: "12:52:45"
+    uuid: "4200002443202501044781290373"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Launch                    60.00 CNY
+    Assets:WeChat                          -60.00 CNY
 
 2025-01-03 * "my**店" "2.2磅乳清 Myprotein己能熊猫蛋白粉增健肌粉乳清蛋白质粉营养粉"
     time: "15:26:10"
     uuid: "2025010322001153521414873008"
     status: "ALiPay - 交易成功"
-    Expenses:Shopping:Makeup           175.10 CNY
-    Liabilities:Huabei                -175.10 CNY
+    Expenses:Shopping:Makeup               175.10 CNY
+    Liabilities:Huabei                    -175.10 CNY
 
+2025-01-01 * "妈" "/"
+    time: "19:37:25"
+    uuid: "1000039801000501016418671706885"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope                     -25.11 CNY
+    Assets:WeChat                           25.11 CNY
