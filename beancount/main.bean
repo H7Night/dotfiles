@@ -21,3 +21,4 @@ include "accounts/equity.bean"          ;权益账户设置
 
 ;[交易记录]
 include "2024/2024.bean"
+include "2025/2025.bean"

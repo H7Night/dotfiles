@@ -1,3 +1,11 @@
+2024-12-31 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     67.72 CNY
+    Assets:AliPay:Funds     -67.72 CNY
+
+2024-12-30 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     73.08 CNY
+    Assets:AliPay:Funds     -73.08 CNY
+
 2024-12-27 * "基金" "纳斯达克"
     Expenses:Invest:Fund      4.86 CNY
     Assets:AliPay:Funds      -4.86 CNY
@@ -78,6 +86,15 @@
     Income:Fund             -41.00 CNY
     Assets:AliPay:Funds      41.00 CNY
 
+;; ------------------------------------------------------------
+
+2024-12-31 * "基金" "余额宝"
+    Income:Fund              -0.78 CNY
+    Assets:AliPay:Balance     0.78 CNY
+
+2024-12-30 * "基金" "余额宝"
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
 
 2024-12-29 * "基金" "余额宝"
     Income:Fund              -0.74 CNY

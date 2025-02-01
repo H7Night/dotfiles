@@ -5,3 +5,6 @@
 [user]
 	name = hezhongxian 
 	email = jhonhe7night@outlook.com
+[core]
+	packedGitLimit = 512m
+	packedGitWindowSize = 512m

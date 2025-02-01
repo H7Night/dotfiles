@@ -1,0 +1,200 @@
+2025-01-27 * "基金" "补差价"
+    Income:Fund              -0.01 CNY
+    Assets:AliPay:Funds       0.01 CNY
+
+2025-01-27 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     31.43 CNY
+    Assets:AliPay:Funds     -31.43 CNY
+
+2025-01-24 * "基金" "纳斯达克"
+    Income:Fund             -11.73 CNY
+    Assets:AliPay:Funds      11.73 CNY
+
+2025-01-23 * "基金" "纳斯达克"
+    Income:Fund             -68.81 CNY
+    Assets:AliPay:Funds      68.81 CNY
+
+2025-01-22 * "基金" "纳斯达克"
+    Income:Fund             -17.85 CNY
+    Assets:AliPay:Funds      17.85 CNY
+
+2025-01-21 * "基金" "纳斯达克"
+    Expenses:Invest:Fund      1.17 CNY
+    Assets:AliPay:Funds      -1.17 CNY
+
+2025-01-20 * "基金" "纳斯达克"
+    Income:Fund             -87.41 CNY
+    Assets:AliPay:Funds      87.41 CNY
+
+2025-01-17 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     36.79 CNY
+    Assets:AliPay:Funds     -36.79 CNY
+
+2025-01-16 * "基金" "纳斯达克"
+    Income:Fund            -121.77 CNY
+    Assets:AliPay:Funds     121.77 CNY
+
+2025-01-15 * "基金" "纳斯达克"
+    Expenses:Invest:Fund      8.55 CNY
+    Assets:AliPay:Funds      -8.55 CNY
+
+2025-01-14 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     17.68 CNY
+    Assets:AliPay:Funds     -17.68 CNY
+
+2025-01-13 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     85.32 CNY
+    Assets:AliPay:Funds     -85.32 CNY
+
+2025-01-10 * "基金" "纳斯达克"
+    Expenses:Invest:Fund      1.51 CNY
+    Assets:AliPay:Funds      -1.51 CNY
+
+2025-01-09 * "基金" "纳斯达克"
+    Income:Fund              -1.51 CNY
+    Assets:AliPay:Funds       1.51 CNY
+
+2025-01-08 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     95.46 CNY
+    Assets:AliPay:Funds     -95.46 CNY
+
+2025-01-07 * "基金" "纳斯达克"
+    Income:Fund             -58.25 CNY
+    Assets:AliPay:Funds      58.25 CNY
+
+2025-01-06 * "基金" "纳斯达克"
+    Income:Fund             -84.14 CNY
+    Assets:AliPay:Funds      84.14 CNY
+
+2025-01-03 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     12.24 CNY
+    Assets:AliPay:Funds     -12.24 CNY
+
+2025-01-02 * "基金" "纳斯达克"
+    Expenses:Invest:Fund     46.51 CNY
+    Assets:AliPay:Funds     -46.51 CNY
+
+;; ------------------------------------------------------------
+2025-01-31 * "基金" "余额宝"
+    Income:Fund              -0.36 CNY
+    Assets:AliPay:Balance     0.36 CNY
+
+2025-01-30 * "基金" "余额宝"
+    Income:Fund              -0.36 CNY
+    Assets:AliPay:Balance     0.36 CNY
+
+2025-01-29 * "基金" "余额宝"
+    Income:Fund              -0.36 CNY
+    Assets:AliPay:Balance     0.36 CNY
+
+2025-01-28 * "基金" "余额宝"
+    Income:Fund              -0.36 CNY
+    Assets:AliPay:Balance     0.36 CNY
+
+2025-01-27 * "基金" "余额宝"
+    Income:Fund              -0.36 CNY
+    Assets:AliPay:Balance     0.36 CNY
+
+2025-01-26 * "基金" "余额宝"
+    Income:Fund              -0.36 CNY
+    Assets:AliPay:Balance     0.36 CNY
+
+2025-01-25 * "基金" "余额宝"
+    Income:Fund              -0.36 CNY
+    Assets:AliPay:Balance     0.36 CNY
+
+2025-01-24 * "基金" "余额宝"
+    Income:Fund              -0.37 CNY
+    Assets:AliPay:Balance     0.37 CNY
+
+2025-01-23 * "基金" "余额宝"
+    Income:Fund              -0.41 CNY
+    Assets:AliPay:Balance     0.41 CNY
+
+2025-01-22 * "基金" "余额宝"
+    Income:Fund              -0.40 CNY
+    Assets:AliPay:Balance     0.40 CNY
+
+2025-01-21 * "基金" "余额宝"
+    Income:Fund              -0.39 CNY
+    Assets:AliPay:Balance     0.39 CNY
+
+2025-01-20 * "基金" "余额宝"
+    Income:Fund              -0.37 CNY
+    Assets:AliPay:Balance     0.37 CNY
+
+2025-01-19 * "基金" "余额宝"
+    Income:Fund              -0.37 CNY
+    Assets:AliPay:Balance     0.37 CNY
+
+2025-01-18 * "基金" "余额宝"
+    Income:Fund              -0.38 CNY
+    Assets:AliPay:Balance     0.38 CNY
+
+2025-01-17 * "基金" "余额宝"
+    Income:Fund              -0.33 CNY
+    Assets:AliPay:Balance     0.33 CNY
+
+2025-01-16 * "基金" "余额宝"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-01-15 * "基金" "余额宝"
+    Income:Fund              -0.34 CNY
+    Assets:AliPay:Balance     0.34 CNY
+
+2025-01-14 * "基金" "余额宝"
+    Income:Fund              -0.34 CNY
+    Assets:AliPay:Balance     0.34 CNY
+
+2025-01-13 * "基金" "余额宝"
+    Income:Fund              -0.33 CNY
+    Assets:AliPay:Balance     0.33 CNY
+
+2025-01-12 * "基金" "余额宝"
+    Income:Fund              -0.33 CNY
+    Assets:AliPay:Balance     0.33 CNY
+
+2025-01-11 * "基金" "余额宝"
+    Income:Fund              -0.33 CNY
+    Assets:AliPay:Balance     0.33 CNY
+
+2025-01-10 * "基金" "余额宝"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-01-09 * "基金" "余额宝"
+    Income:Fund              -0.77 CNY
+    Assets:AliPay:Balance     0.77 CNY
+
+2025-01-08 * "基金" "余额宝"
+    Income:Fund              -0.81 CNY
+    Assets:AliPay:Balance     0.81 CNY
+
+2025-01-07 * "基金" "余额宝"
+    Income:Fund              -0.74 CNY
+    Assets:AliPay:Balance     0.74 CNY
+
+2025-01-06 * "基金" "余额宝"
+    Income:Fund              -0.75 CNY
+    Assets:AliPay:Balance     0.75 CNY
+
+2025-01-05 * "基金" "余额宝"
+    Income:Fund              -0.75 CNY
+    Assets:AliPay:Balance     0.75 CNY
+
+2025-01-04 * "基金" "余额宝"
+    Income:Fund              -0.78 CNY
+    Assets:AliPay:Balance     0.78 CNY
+
+2025-01-03 * "基金" "余额宝"
+    Income:Fund              -0.81 CNY
+    Assets:AliPay:Balance     0.81 CNY
+
+2025-01-02 * "基金" "余额宝"
+    Income:Fund              -0.76 CNY
+    Assets:AliPay:Balance     0.76 CNY
+
+2025-01-01 * "基金" "余额宝"
+    Income:Fund              -0.78 CNY
+    Assets:AliPay:Balance     0.78 CNY
