@@ -6,7 +6,7 @@
 # installation_id: Win
 # rime_version: 1.11.2
 # sync_dir: "D:\\Public\\dotfiles\\Rime\\sync"
-# update_time: "Mon Jan 13 17:01:02 2025"
+# update_time: "Mon Feb 3 17:01:02 2025"
 
 
 # MacOS
@@ -16,7 +16,6 @@ distribution_version: 0.18
 install_time: "Fri Jun  7 23:33:16 2024"
 update_time: "Fri Nov  1 23:10:47 2024"
 rime_version: 1.11.2
-
 installation_id: MacOS
 sync_dir: "/Users/jhonhe/Public/dotfiles/Rime/sync"
 
