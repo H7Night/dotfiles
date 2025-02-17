@@ -51,10 +51,8 @@
 2000-01-01 open Expenses:Entertainment:Other            ;其他
 
 ;交通
+2000-01-01 open Expenses:Transport                      ;公交地铁
 2000-01-01 open Expenses:Transport:Airline              ;飞机
-2000-01-01 open Expenses:Transport:Railway              ;火车
-2000-01-01 open Expenses:Transport:TAXI                 ;打车
-2000-01-01 open Expenses:Transport:Transport            ;公交地铁
 2000-01-01 open Expenses:Transport:Car:Oil              ;加油
 2000-01-01 open Expenses:Transport:Car:Electricity      ;电
 2000-01-01 open Expenses:Transport:Car:Tolls            ;过路过桥

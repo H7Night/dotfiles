@@ -311,7 +311,7 @@
 
 2024-11-12 * "bus" "大阪到富士山公交车票车票"           #travel/jp
     time:"20:10:39"
-    Expenses:Transport:Transport       732.26 CNY
+    Expenses:Transport       732.26 CNY
     Liabilities:CMBCreditCard:7046    -732.26 CNY
 
 2024-11-12 * "丰巢科技" "到付件订单收费"

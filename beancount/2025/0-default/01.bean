@@ -161,21 +161,21 @@
     time: "20:59:35"
     uuid: "4200002548202501168634178167"
     status: "WeChat - 支付成功"
-    Expenses:Transport:Transport             1.50 CNY
+    Expenses:Transport             1.50 CNY
     Assets:WeChat                           -1.50 CNY
 
 2025-01-16 * "广州骑安" "单车"
     time: "19:08:20"
     uuid: "4200002535202501161026925428"
     status: "WeChat - 支付成功"
-    Expenses:Transport:Transport             1.50 CNY
+    Expenses:Transport             1.50 CNY
     Assets:WeChat                           -1.50 CNY
 
 2025-01-16 * "广州骑安" "单车"
     time: "19:01:32"
     uuid: "4200002523202501162604106639"
     status: "WeChat - 支付成功"
-    Expenses:Transport:Transport             2.50 CNY
+    Expenses:Transport             2.50 CNY
     Assets:WeChat                           -2.50 CNY
 
 2025-01-16 * "沪上阿姨" "【堂食】_佛山三水万达广场店_268270_44060725101_无_无"

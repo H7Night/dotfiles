@@ -5,7 +5,7 @@
 
 2024-12-31 * "单车" "青桔"
     time: "21:12:37"
-    Expenses:Transport:Transport              1.8 CNY
+    Expenses:Transport                        1.8 CNY
     Assets:WeChat                            -1.8 CNY
 
 2024-12-31 * "麦当劳" "麦当劳"
@@ -296,8 +296,10 @@
     time: "19:12:05"
     uuid: "2024120800003001520026969633"
     status: "ALiPay - 还款成功"
-    Liabilities:CMBCreditCard:2035        5902.70 CNY
-    Assets:AliPay:Balance                -5902.70 CNY
+    Liabilities:CMBCreditCard:2035        5375.39 CNY
+    Liabilities:CMBCreditCard:7046         527.39 CNY
+    Assets:AliPay:Balance                -5375.39 CNY
+    Assets:AliPay:Balance                 -527.39 CNY
 
 2024-12-08 * "顺丰速运" "散单运费-顺丰速运"
     time: "14:20:49"

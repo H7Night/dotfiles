@@ -99,14 +99,14 @@
     time: "19:07:38"
     uuid: "2024102522001453521413720616"
     status: "ALiPay - 交易成功"
-    Expenses:Transport:Transport         9.00 CNY
+    Expenses:Transport         9.00 CNY
     Liabilities:CMBCreditCard:2035      -9.00 CNY
 
 2024-10-25 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2024-10-25 18:21:44"
     time: "18:21:48"
     uuid: "2024102522001453521413928346"
     status: "ALiPay - 交易成功"
-    Expenses:Transport:Transport         2.00 CNY
+    Expenses:Transport         2.00 CNY
     Liabilities:CMBCreditCard:2035      -2.00 CNY
 
 2024-10-25 * "小五快餐（村尾店）" "收钱码收款"
@@ -403,28 +403,28 @@
     time: "20:55:03"
     uuid: "2024101322001453521445671920"
     status: "ALiPay - 交易成功"
-    Expenses:Transport:Transport         2.00 CNY
+    Expenses:Transport         2.00 CNY
     Liabilities:CMBCreditCard:2035      -2.00 CNY
 
 2024-10-13 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2024-10-13 19:40:17"
     time: "19:40:22"
     uuid: "2024101322001453521445098860"
     status: "ALiPay - 交易成功"
-    Expenses:Transport:Transport         7.00 CNY
+    Expenses:Transport         7.00 CNY
     Liabilities:CMBCreditCard:2035      -7.00 CNY
 
 2024-10-13 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2024-10-13 18:34:17"
     time: "18:34:07"
     uuid: "2024101322001453521443704912"
     status: "ALiPay - 交易成功"
-    Expenses:Transport:Transport         2.00 CNY
+    Expenses:Transport         2.00 CNY
     Liabilities:CMBCreditCard:2035      -2.00 CNY
 
 2024-10-13 * "高德" "高德地图打车订单"
     time: "17:39:15"
     uuid: "2024101323001453521443761727"
     status: "ALiPay - 交易成功"
-    Expenses:Transport:TAXI             16.34 CNY
+    Expenses:Transport             16.34 CNY
     Liabilities:CMBCreditCard:2035     -16.34 CNY
 
 2024-10-13 * "富丽图快印" "" #travel/jp
