@@ -1,0 +1,13 @@
+2025-03-01 * "中通" "中通快递-快递运费-运单号:73545817047176"
+    time: "13:54:38"
+    uuid: "4200002610202503015830998254"
+    status: "WeChat - 支付成功"
+    Expenses:Other                         10.00 CNY
+    Assets:WeChat                         -10.00 CNY
+
+2025-03-01 * "****d" "闲置复古键帽，上面印的是vim的键位。"
+    time: "00:49:08"
+    uuid: "2025030122001175411437242480"
+    status: "ALiPay - 等待对方确认收货"
+    Income:Sales                          -30.00 CNY
+    Assets:AliPay:Balance                  30.00 CNY
