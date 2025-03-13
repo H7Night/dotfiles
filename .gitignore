@@ -2,6 +2,9 @@
 .DS_Store
 */.DS_Store
 
+zsh\.zsh_sessions
+zsh/.zsh_sessions
+
 Rime\rime_ice.userdb
 Rime/rime_ice.userdb
 
