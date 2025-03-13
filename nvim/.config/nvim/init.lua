@@ -14,5 +14,6 @@ if not pcall(require, "lazy") then
     vim.cmd.quit()
 end
 
+-- 引用配置与插件
 require("vim-options")
 require("lazy").setup("plugins")
