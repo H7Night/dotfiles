@@ -94,37 +94,8 @@ alias nvi='neovide'
 alias c='clear'
 alias fet='fastfetch'
 
+export LC_ALL=en_US.UTF-8
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS="@im=fcitx"
 
-# ----------------------MacOS Config----------------------
-if [[ -f "/opt/homebrew/bin/brew" ]] then
-  eval "$(/opt/homebrew/bin/brew shellenv)"
-  # Shell integrations
-  eval "$(fzf --zsh)"
-fi
-# auto update homebrew 24 hour / 1
-export HOMEBREW_AUTO_UPDATE_SECS=86400
-
-# tj/n 的路径
-export N_PREFIX="$HOME/.n"
-# 当切换 Node.js 版本时保留 npm
-export N_PRESERVE_NPM=1
-# 将 tj/n 添加到 PATH
-export PATH="$N_PREFIX/bin:$PATH"
-
-# Load Angular CLI autocompletion.
-# source <(ng completion script)
-
-#flutter
-export FLUTTERPATH="$PATH:$HOME/Public/Tools/flutter/bin"
-
-# go
-export GOPATH="${HOME}/Public/Tools/go/bin"
-
-# python
-export PYPATH="/opt/homebrew/bin/python3/bin:$PATH"
-
-# mysql
-export PATH=$PATH:/usr/local/mysql/bin
-
-#jetbra
-___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi

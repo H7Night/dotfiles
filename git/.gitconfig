@@ -8,3 +8,5 @@
 [core]
 	packedGitLimit = 512m
 	packedGitWindowSize = 512m
+[pull]
+	rebase = true
