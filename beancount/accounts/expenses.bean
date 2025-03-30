@@ -25,6 +25,8 @@
 2000-01-01 open Expenses:Home:Delivery                  ;快递费
 2000-01-01 open Expenses:Home:Haircut                   ;理发费
 2000-01-01 open Expenses:Home:Rent                      ;房租
+2000-01-01 open Expenses:Home:WaEl                        ;水电
+2000-01-01 open Expenses:Home:Internet                  ;网费
 
 ;购物
 2000-01-01 open Expenses:Shopping:Clothing              ;服饰鞋包
