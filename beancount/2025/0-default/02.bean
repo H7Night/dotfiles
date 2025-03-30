@@ -145,12 +145,13 @@
     Assets:AliPay:Balance                -100.00 CNY
     Assets:AliPay:Funds                   100.00 CNY
 
+
 2025-02-20 * "余额宝" "余额宝-单次转入"
     time: "17:45:46"
     uuid: "20250220019130100010520096644926"
     status: "ALiPay - 交易成功"
-    Assets:CITIC:9425                    -600.14 CNY
-    Assets:AliPay:Balance                 600.14 CNY
+    Assets:CITIC:9425                    -600.00 CNY
+    Assets:AliPay:Balance                  600.0 CNY
 
 2025-02-20 * "中信银行" "存现金"
     Assets:Cash:CNY                      -600.00 CNY
