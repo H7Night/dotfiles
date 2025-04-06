@@ -99,3 +99,10 @@ export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS="@im=fcitx"
 
+# ----------------------Mac Config----------------------
+# go
+export PATH="$PATH:/opt/homebrew/opt/go/bin"
+export GOPATH="$HOME/Public/Libs/go"  # 将 $HOME/go 替换为你希望的路径
+export PATH="$PATH:$GOPATH/bin"
+export GOPROXY=https://goproxy.cn,direct
+
