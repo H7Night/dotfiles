@@ -1,7 +1,7 @@
 # Rime user dictionary
 #@/db_name	rime_ice_private
 #@/db_type	userdb
-#@/rime_version	1.11.2
+#@/rime_version	1.13.1
 #@/tick	10425
 #@/user_id	Win
 C 	C	c=1 d=7.26766e-11 t=10425
@@ -39,7 +39,7 @@ ba 	拔	c=1 d=0.0106734 t=10425
 ba 	爸	c=1 d=4.37477e-10 t=10425
 ba ba 	爸爸	c=1 d=0.0332068 t=10425
 ba da 	吧嗒	c=1 d=0.729789 t=10425
-ba jiu 	把酒	c=1 d=0.980199 t=10151
+ba jiu 	把酒	c=1 d=0.980199 t=10425
 ba kong 	把控	c=1 d=0.0246002 t=10425
 ba ku 	巴库	c=1 d=3.9272e-05 t=10425
 ba qian 	把钱	c=1 d=0.167797 t=10425
@@ -260,7 +260,7 @@ bu gai jin 	不改进	c=1 d=0.00470091 t=10425
 bu gan 	不敢	c=2 d=0.13479 t=10425
 bu guan 	不管	c=1 d=0.436049 t=10425
 bu guo 	不过	c=2 d=0.946485 t=10425
-bu guo qu 	不过去	c=0 d=0.1 t=52
+bu guo qu 	不过去	c=0 d=2.98756e-24 t=10425
 bu guo shi 	不过是	c=1 d=0.00357068 t=10425
 bu han chen 	不寒碜	c=1 d=0.562705 t=10425
 bu hao 	不好	c=5 d=0.749432 t=10425
@@ -402,7 +402,7 @@ cha bu duo le 	差不多了	c=1 d=0.00900478 t=10425
 cha jian 	插件	c=4 d=1.20249 t=10425
 cha kan 	查看	c=15 d=2.79213 t=10425
 cha qu 	插曲	c=4 d=0.432119 t=10425
-cha ru 	插入	c=2 d=1.98511 t=16
+cha ru 	插入	c=2 d=4.95368e-23 t=10425
 cha xun 	查询	c=5 d=0.0228147 t=10425
 cha ye 	茶叶	c=1 d=5.0959e-11 t=10425
 cha yi 	差异	c=1 d=0.00124951 t=10425
@@ -511,13 +511,13 @@ chong gui 	重归	c=1 d=0.00366107 t=10425
 chong lian 	重连	c=1 d=7.10535e-10 t=10425
 chong ming ming 	重命名	c=2 d=0.344885 t=10425
 chong qi 	重启	c=4 d=0.390741 t=10425
-chong qi le 	重启了	c=1 d=1 t=31
+chong qi le 	重启了	c=1 d=2.68977e-23 t=10425
 chong qian 	充钱	c=0 d=1.85988e-07 t=10425
 chong rou 	虫肉	c=1 d=2.96246e-12 t=10425
 chong shang 	冲上	c=1 d=0.054204 t=10425
 chong shang 	崇尚	c=1 d=0.0153752 t=10425
 chong shi 	重拾	c=1 d=0.0337087 t=10425
-chong shi 	重试	c=1 d=1 t=71
+chong shi 	重试	c=1 d=3.2853e-23 t=10425
 chong tu 	冲突	c=2 d=2.76296e-10 t=10425
 chong xin 	重新	c=9 d=0.977656 t=10425
 chong yun 	冲云	c=1 d=9.38025e-13 t=10425
@@ -857,7 +857,7 @@ dian xin 	点心	c=1 d=0.00802655 t=10425
 dian xing 	典型	c=1 d=0.162838 t=10425
 dian ying 	电影	c=2 d=0.250324 t=10425
 dian yuan 	电源	c=1 d=0.0104099 t=10425
-dian zha 	电诈	c=4 d=3.3836 t=85
+dian zha 	电诈	c=4 d=1.19221e-22 t=10425
 dian zhong dian 	典中典	c=1 d=0.0459593 t=10425
 diao 	吊	c=1 d=1.17148e-09 t=10425
 diao 	掉	c=3 d=0.66365 t=10425
@@ -956,7 +956,7 @@ duan 	短	c=1 d=0.120633 t=10425
 duan 	端	c=2 d=0.759572 t=10425
 duan dui duan 	端对端	c=1 d=3.83219e-11 t=10425
 duan fa 	短发	c=2 d=0.0141931 t=10425
-duan kai 	断开	c=2 d=1.98511 t=11
+duan kai 	断开	c=2 d=4.83138e-23 t=10425
 duan kao 	段考	c=0 d=0.0726149 t=10425
 duan kou 	端口	c=11 d=0.993379 t=10425
 duan ku 	短裤	c=1 d=6.47924e-13 t=10425
@@ -1442,7 +1442,7 @@ guo bao te gong 	果宝特攻	c=2 d=1.2204e-09 t=10425
 guo chan 	国产	c=4 d=1.73435 t=10425
 guo dong 	过冬	c=1 d=1.57371e-11 t=10425
 guo duo 	过多	c=3 d=0.970446 t=10425
-guo fang 	国防	c=1 d=1 t=77
+guo fang 	国防	c=1 d=3.38535e-23 t=10425
 guo jia 	国家	c=5 d=0.178889 t=10425
 guo jiu 	果酒	c=1 d=4.72769e-11 t=10425
 guo lai 	过来	c=3 d=0.212385 t=10425
@@ -1645,7 +1645,7 @@ hua ji 	画集	c=2 d=3.76539e-05 t=10425
 hua ji ke xiao 	滑稽可笑	c=1 d=0.00218749 t=10425
 hua kuai 	滑块	c=1 d=1.56129e-06 t=10425
 hua pen 	花盆	c=1 d=2.28935e-09 t=10425
-hua qian 	花前	c=1 d=0.985112 t=10151
+hua qian 	花前	c=1 d=0.985112 t=10425
 hua ru yi 	花如意	c=1 d=1.47442e-09 t=10425
 hua shi 	化石	c=1 d=1.89352e-11 t=10425
 hua shui 	划水	c=0 d=0.00149208 t=10425
@@ -1812,7 +1812,7 @@ ji zhang jiu shi 	记账就是	c=1 d=0.00419023 t=10425
 ji zu 	几组	c=1 d=1.35428e-09 t=10425
 jia 	假	c=4 d=0.708111 t=10425
 jia 	加	c=3 d=0.272108 t=10425
-jia 	夹	c=1 d=1 t=60
+jia 	夹	c=1 d=3.10949e-23 t=10425
 jia 	家	c=1 d=0.489192 t=10425
 jia ban 	加班	c=2 d=0.856415 t=10425
 jia de 	假的	c=1 d=2.77556e-10 t=10425
@@ -1921,7 +1921,7 @@ jiao zi 	饺子	c=1 d=0.0464212 t=10425
 jiao zuo 	叫作	c=2 d=0.0258615 t=10425
 jie 	借	c=1 d=0.00556662 t=10425
 jie 	接	c=1 d=2.85173e-05 t=10425
-jie 	皆	c=1 d=0.970446 t=10151
+jie 	皆	c=1 d=0.970446 t=10425
 jie 	节	c=1 d=2.62024e-09 t=10425
 jie 	解	c=1 d=0.108067 t=10425
 jie bu jie hun 	结不结婚	c=1 d=1.57752e-10 t=10425
@@ -2106,7 +2106,7 @@ jue ding xing 	决定性	c=1 d=0.00232276 t=10425
 jue duan 	决断	c=1 d=1.92678e-10 t=10425
 jue dui 	绝对	c=2 d=0.00997298 t=10425
 jue wu 	觉悟	c=1 d=0.00755912 t=10425
-jun 	君	c=1 d=1 t=10151
+jun 	君	c=1 d=1 t=10425
 jun 	均	c=1 d=1.56586e-11 t=10425
 jun ge 	俊哥	c=6 d=0.621891 t=10425
 jun ge 	军歌	c=1 d=3.78297e-06 t=10425
@@ -2725,7 +2725,7 @@ na ge 	哪个	c=3 d=0.330753 t=10425
 na ge 	那个	c=11 d=1.31692 t=10425
 na ge ren 	那个人	c=1 d=0.444858 t=10425
 na hai 	那还	c=1 d=0.0273237 t=10425
-na ji tiao 	那几条	c=1 d=1 t=51
+na ji tiao 	那几条	c=1 d=2.97266e-23 t=10425
 na jiu 	那就	c=5 d=0.895834 t=10425
 na ke neng 	那可能	c=1 d=0.000652304 t=10425
 na ken ding 	那肯定	c=5 d=0.320132 t=10425
@@ -3220,7 +3220,7 @@ ru 	如	c=4 d=0.204962 t=10425
 ru chu 	如出	c=1 d=0.106459 t=10425
 ru ci 	如此	c=5 d=0.178145 t=10425
 ru guo 	如果	c=17 d=0.995171 t=10425
-ru he 	如何	c=68 d=6.27942 t=10425
+ru he 	如何	c=68 d=7.10458 t=10425
 ru he jie jue 	如何解决	c=1 d=8.38145e-12 t=10425
 ru he pei zhi 	如何配置	c=1 d=0.904837 t=10425
 ru he ru he 	如何如何	c=1 d=3.09829e-10 t=10425
@@ -3292,7 +3292,7 @@ shan yao 	闪耀	c=1 d=3.51812e-05 t=10425
 shan yong 	善用	c=1 d=0.000858778 t=10425
 shang 	上	c=29 d=2.92333 t=10425
 shang ban 	上班	c=2 d=0.812006 t=10425
-shang bao 	上报	c=3 d=2.49316 t=86
+shang bao 	上报	c=3 d=8.8287e-23 t=10425
 shang bu 	上不	c=1 d=0.189191 t=10425
 shang chao 	上朝	c=1 d=8.33823e-10 t=10425
 shang chuan 	上传	c=2 d=0.0899371 t=10425
@@ -3463,7 +3463,7 @@ shi tou 	石头	c=1 d=0.00436124 t=10425
 shi tou men 	石头门	c=1 d=3.40765e-12 t=10425
 shi tu 	试图	c=4 d=0.343039 t=10425
 shi wai 	室外	c=1 d=3.16142e-12 t=10425
-shi wan 	十万	c=1 d=1 t=78
+shi wan 	十万	c=1 d=3.40232e-23 t=10425
 shi wang 	失望	c=1 d=0.527292 t=10425
 shi wei 	视为	c=1 d=0.173774 t=10425
 shi wo 	使我	c=1 d=3.15326e-11 t=10425
@@ -3674,7 +3674,7 @@ suo tou 	锁头	c=1 d=4.02661e-05 t=10425
 suo xiao 	缩小	c=1 d=2.43637e-06 t=10425
 suo xing 	所幸	c=1 d=0.0071546 t=10425
 suo yi 	所以	c=10 d=0.384597 t=10425
-suo yin 	索引	c=4 d=3.83967 t=48
+suo yin 	索引	c=4 d=1.12441e-22 t=10425
 suo you 	所有	c=10 d=1.43572 t=10425
 suo zuo suo wei 	所作所为	c=1 d=3.61774e-10 t=10425
 ta 	他	c=16 d=2.22234 t=10425
@@ -3774,7 +3774,7 @@ ti gong bang zhu 	提供帮助	c=1 d=0.0263839 t=10425
 ti gong le 	提供了	c=1 d=0.0702988 t=10425
 ti huan 	替换	c=1 d=1.01108e-12 t=10425
 ti ji 	体积	c=1 d=0.0106202 t=10425
-ti jiao 	提交	c=2 d=1.97531 t=73
+ti jiao 	提交	c=2 d=6.5547e-23 t=10425
 ti le 	提了	c=1 d=0.267135 t=10425
 ti qian 	提前	c=2 d=0.0361312 t=10425
 ti sheng 	提升	c=1 d=0.00554422 t=10425
@@ -3895,7 +3895,7 @@ tu zi dong 	兔子洞	c=1 d=0.831104 t=10425
 tuan dui 	团队	c=1 d=0.551563 t=10425
 tui 	推	c=1 d=0.083527 t=10425
 tui 	腿	c=7 d=0.158873 t=10425
-tui bu guo qu 	推不过去	c=1 d=1 t=53
+tui bu guo qu 	推不过去	c=1 d=3.00254e-23 t=10425
 tui chi 	推迟	c=1 d=0.00474815 t=10425
 tui chu 	推出	c=1 d=0.000850233 t=10425
 tui chu 	退出	c=3 d=7.1011e-10 t=10425
@@ -3903,7 +3903,7 @@ tui fang 	退房	c=2 d=0.00016056 t=10425
 tui guang 	推广	c=1 d=0.0173355 t=10425
 tui jian 	推荐	c=1 d=8.44528e-13 t=10425
 tui kuan 	退款	c=1 d=7.5227e-05 t=10425
-tui le 	推了	c=1 d=1 t=52
+tui le 	推了	c=1 d=2.98756e-23 t=10425
 tui song 	推送	c=1 d=2.45451e-05 t=10425
 tui xia 	退下	c=1 d=6.89654e-12 t=10425
 tui xiong 	推胸	c=1 d=3.73694e-09 t=10425
@@ -3974,7 +3974,7 @@ wei 	喂	c=1 d=0.209088 t=10425
 wei 	未	c=1 d=2.44226e-05 t=10425
 wei 	蔚	c=1 d=0.0958472 t=10425
 wei bei 	违背	c=1 d=0.00250366 t=10425
-wei cheng 	未成	c=1 d=0.951229 t=10151
+wei cheng 	未成	c=1 d=0.951229 t=10425
 wei da 	伟大	c=3 d=0.0331211 t=10425
 wei gui 	违规	c=1 d=0.839457 t=10425
 wei hu 	维护	c=4 d=0.766208 t=10425
@@ -4001,7 +4001,7 @@ wen hua 	文化	c=3 d=0.0927172 t=10425
 wen hua shu chu 	文化输出	c=1 d=0.0893673 t=10425
 wen jian 	文件	c=46 d=3.38553 t=10425
 wen jian ci pan 	文件磁盘	c=1 d=0.0199405 t=10425
-wen jian jia 	文件夹	c=10 d=1.61396 t=10425
+wen jian jia 	文件夹	c=10 d=2.56912 t=10425
 wen jian jia xia 	文件夹下	c=1 d=0.327915 t=10425
 wen jian kan 	文件看	c=1 d=0.263158 t=10425
 wen jian zhong 	文件中	c=1 d=0.203926 t=10425
@@ -4592,7 +4592,7 @@ ye neng 	也能	c=2 d=0.0605068 t=10425
 ye sheng de 	也省的	c=1 d=0.394554 t=10425
 ye shi 	也是	c=9 d=0.540199 t=10425
 ye shi 	夜市	c=1 d=2.74084e-09 t=10425
-ye xiao 	叶小	c=1 d=0.946485 t=10151
+ye xiao 	叶小	c=1 d=0.946485 t=10425
 ye yan 	夜燕	c=1 d=1.3408e-09 t=10425
 ye yao 	也要	c=1 d=9.23588e-07 t=10425
 ye yi jing 	也已经	c=0 d=0.000141589 t=10425
@@ -4624,7 +4624,7 @@ yi ci 	一次	c=5 d=0.744532 t=10425
 yi ci 	以此	c=2 d=0.712608 t=10425
 yi da 	一大	c=1 d=0.0107807 t=10425
 yi da zhang 	一大张	c=1 d=0.079659 t=10425
-yi dan 	一旦	c=1 d=1 t=14
+yi dan 	一旦	c=1 d=2.47059e-23 t=10425
 yi dao 	已到	c=1 d=1.75157e-06 t=10425
 yi di 	异地	c=1 d=0.666977 t=10425
 yi dian 	一点	c=11 d=0.801177 t=10425
@@ -4745,7 +4745,7 @@ yi zhi zai 	一直在	c=1 d=2.96196e-10 t=10425
 yi zhong 	一种	c=3 d=1.80117e-09 t=10425
 yi zu 	一组	c=1 d=0.0720785 t=10425
 yin 	因	c=2 d=0.835287 t=10425
-yin 	荫	c=1 d=0.955997 t=10151
+yin 	荫	c=1 d=0.955997 t=10425
 yin chang 	吟唱	c=1 d=2.31157e-05 t=10425
 yin dao 	引导	c=1 d=7.77453e-10 t=10425
 yin fa 	引发	c=1 d=0.128093 t=10425
@@ -4790,7 +4790,7 @@ yong bu 	永不	c=0 d=6.75998e-13 t=10425
 yong bu kong jun 	永不空军	c=1 d=6.79389e-12 t=10425
 yong de 	用的	c=1 d=0.0934807 t=10425
 yong fa 	用法	c=1 d=0.0211736 t=10425
-yong hu 	用户	c=5 d=0.786563 t=10425
+yong hu 	用户	c=5 d=0.99005 t=10425
 yong hu he 	用户和	c=1 d=0.0401553 t=10425
 yong jin 	用尽	c=1 d=0.588605 t=10425
 yong lai 	用来	c=4 d=0.0051953 t=10425
@@ -4886,7 +4886,7 @@ you yu 	鱿鱼	c=2 d=2.60803e-09 t=10425
 you zhe 	有着	c=2 d=0.436049 t=10425
 yu 	与	c=34 d=2.8956 t=10425
 yu 	于	c=2 d=0.0424827 t=10425
-yu 	欲	c=1 d=0.99005 t=10151
+yu 	欲	c=1 d=0.99005 t=10425
 yu 	羽	c=0 d=2.28973e-12 t=10425
 yu 	鱼	c=21 d=0.180866 t=10425
 yu bei fen 	与备份	c=1 d=0.377192 t=10425
@@ -4969,7 +4969,7 @@ zai jia 	在家	c=1 d=0.353455 t=10425
 zai jian 	再见	c=1 d=0.955997 t=10425
 zai jian le 	再见了	c=1 d=2.67226e-05 t=10425
 zai kan 	再看	c=1 d=5.18366e-06 t=10425
-zai na 	在哪	c=2 d=0.97531 t=10425
+zai na 	在哪	c=3 d=1.43171 t=10425
 zai ni 	在你	c=1 d=1.46353e-10 t=10425
 zai nu li 	在努力	c=1 d=2.91033e-09 t=10425
 zai qing 	再请	c=0 d=0.0474734 t=10425
@@ -4988,8 +4988,8 @@ zai yu ta 	在与他	c=1 d=0.313486 t=10425
 zai zai zai 	再再再	c=1 d=0.0338776 t=10425
 zai zhe 	在这	c=1 d=0.00802655 t=10425
 zai zuo 	再做	c=1 d=6.05479e-10 t=10425
-zan cun 	暂存	c=0 d=0.1 t=69
-zan cun hou 	暂存后	c=1 d=1 t=70
+zan cun 	暂存	c=0 d=3.25261e-24 t=10425
+zan cun hou 	暂存后	c=1 d=3.26891e-23 t=10425
 zan shi 	暂时	c=1 d=0.392586 t=10425
 zan yang 	赞扬	c=1 d=0.0212797 t=10425
 zang shu ju 	脏数据	c=1 d=0.687289 t=10425
@@ -5216,7 +5216,7 @@ zhi dao 	直到	c=1 d=1.44897e-10 t=10425
 zhi dao 	知道	c=2 d=1.65353 t=10425
 zhi dao le 	知道了	c=1 d=2.76886e-11 t=10425
 zhi di 	之地	c=1 d=1.63794e-11 t=10425
-zhi ding 	指定	c=8 d=1.81024 t=10425
+zhi ding 	指定	c=8 d=2.75066 t=10425
 zhi dui 	支队	c=0 d=0.000794669 t=10425
 zhi fan hui le yi ci 	只返回了一次	c=1 d=1.80927e-05 t=10425
 zhi fu 	支付	c=2 d=0.393736 t=10425
