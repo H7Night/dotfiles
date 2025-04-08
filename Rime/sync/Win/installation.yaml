@@ -5,9 +5,9 @@ install_time: "Fri Jun  7 23:33:16 2024"
 installation_id: Win
 rime_version: 1.13.1
 # Z490
-sync_dir: "C:\\Users\\H7Night\\AppData\\Roaming\\Rime\\sync"
+# sync_dir: "C:\\Users\\H7Night\\AppData\\Roaming\\Rime\\sync"
 #ThinkPad
-# sync_dir: "C:\\Users\\Hiyashiki\\Abandon\\Tools\\dotfiles\\Rime\\sync"
+sync_dir: "C:\\Users\\Hiyashiki\\Abandon\\Tools\\dotfiles\\Rime\\sync"
 update_time: "Mon Feb 3 17:01:02 2025"
 
 # MacOS
