@@ -8,5 +8,6 @@
 [core]
 	packedGitLimit = 512m
 	packedGitWindowSize = 512m
+	autocrlf = input
 [pull]
 	rebase = true

@@ -106,3 +106,4 @@ export GOPATH="$HOME/Public/Libs/go"  # 将 $HOME/go 替换为你希望的路径
 export PATH="$PATH:$GOPATH/bin"
 export GOPROXY=https://goproxy.cn,direct
 
+___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
