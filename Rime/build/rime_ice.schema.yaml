@@ -1,11 +1,11 @@
 __build_info:
-  rime_version: 1.13.1
+  rime_version: 1.11.2
   timestamps:
-    default: 1735816364
-    default.custom: 1744420934
-    rime_ice.custom: 1735816364
-    rime_ice.schema: 1735816364
-    symbols_v: 1735816364
+    default: 1717774656
+    default.custom: 1739411346
+    rime_ice.custom: 1717774379
+    rime_ice.schema: 1724210909
+    symbols_v: 1717774339
     symbols_v.custom: 0
 cn_en:
   comment_format:
