@@ -101,9 +101,13 @@ export XMODIFIERS="@im=fcitx"
 
 # ----------------------Mac Config----------------------
 # go
-export PATH="$PATH:/opt/homebrew/opt/go/bin"
+export GO_HOME=$(brew --prefix go)
 export GOPATH="$HOME/Public/Libs/go"  # 将 $HOME/go 替换为你希望的路径
 export PATH="$PATH:$GOPATH/bin"
 export GOPROXY=https://goproxy.cn,direct
+
+# java
+export JAVA_HOME=$(brew --prefix openjdk)
+export PATH="$JAVA_HOME/bin:$PATH"
 
 ___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
