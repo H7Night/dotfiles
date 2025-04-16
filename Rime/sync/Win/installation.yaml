@@ -1,6 +1,8 @@
 distribution_code_name: Weasel
 distribution_name: Weasel
 distribution_version: 0.16.3
+distribution_name: Weasel
+distribution_version: 0.16.3
 install_time: "Fri Jun  7 23:33:16 2024"
 installation_id: Win
 rime_version: 1.13.1
