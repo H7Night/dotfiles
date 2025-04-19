@@ -1,0 +1,106 @@
+{
+  "display": {
+    "separator": "->  ",
+    "color": {
+      "separator": "yellow"
+    },
+    "constants": [
+      "\u001b[31m───────────────────────────────────────────────────────────────────────────\u001b[0m",
+      "\u001b[31m│\u001b[75C│\u001b[75D\u001b[0m",
+      "\u001b[31m│\u001b[75C│\u001b[75D\u001b[0m"
+    ]
+  },
+  "modules": [
+    {
+      "format": "{#31}╭{$1}{#31}╮\u001b[76D {user-name-colored}{at-symbol-colored}{host-name-colored} ",
+      "type": "title"
+    },
+    {
+      "type": "custom",
+      "format": "{$2}{#34}RX-93-V2 hi-ν Gundam"
+    },
+    {
+      "key": "{$2}{#31} kernel   ",
+      "type": "kernel"
+    },
+    {
+      "key": "{$2}{#32}󰅐 uptime   ",
+      "type": "uptime"
+    },
+    {
+      "key": "{$2}{#33}{icon} distro   ",
+      "type": "os"
+    },
+    {
+      "key": "{$2}{#35}󰇄 desktop  ",
+      "type": "de"
+    },
+    {
+      "key": "{$2}{#36} term     ",
+      "type": "terminal"
+    },
+    {
+      "key": "{$2}{#31} shell    ",
+      "type": "shell"
+    },
+    {
+      "key": "{$2}{#32}󰍛 cpu      ",
+      "type": "cpu",
+      "showPeCoreCount": true,
+      "temp": true
+    },
+    {
+      "key": "{$2}{#33}󰍛 gpu      ",
+      "type": "gpu"
+    },
+    {
+      "key": "{$2}{#34}󰉉 disk     ",
+      "type": "disk",
+      "folders": "/"
+    },
+    {
+      "key": "{$2}{#35} memory   ",
+      "type": "memory"
+    },
+    {
+      "key": "{$2}{#36}󰩟 network  ",
+      "type": "localip",
+      "format": "{ipv4} ({ifname})"
+    },
+    {
+      "format": "{#1}{#31}├{$1}{#31}┤",
+      "type": "custom"
+    },
+    {
+      "key": "{$2} {#31}c{#32}o{#33}l{#34}o{#35}r{#36}s   ",
+      "type": "colors",
+      "symbol": "circle"
+    },
+    {
+      "format": "{#1}{#31}╰{$1}{#31}╯",
+      "type": "custom"
+    }
+  ],
+  "logo": {
+    "type": "file", // Logo type: auto, builtin, small, file, etc.
+    "source": "/Users/jhonhe/Public/dotfiles/fastfetch/.config/fastfetch/logo.txt",
+    //"source": "mac", // Built-in logo name or file path
+    "width": 20,
+    "height": 5,
+    "padding": {
+      "top": 0, // Top padding
+      "left": 0, // Left padding
+      "right": 1 // Right padding
+    },
+    "color": {
+      // Override logo colors
+      "1": "red",
+      "2": "green",
+      "3": "blue",
+      "4": "cyan",
+      "5": "magenta",
+      "6": "yellow",
+      "7": "4;92"
+    }
+  }
+}
