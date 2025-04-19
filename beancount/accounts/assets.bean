@@ -9,7 +9,7 @@
 2000-01-01 open Assets:CITIC:9425           CNY       ;中信银行 debit卡
 2000-01-01 open Assets:CGB:41508            CNY       ;广发AE  debit卡
 2025-03-22 open Assets:CMB:3229             CNY       ;招商银行 debit卡
-2025-03-27 open Assets:CEB:1027             CNY       ;广大银行 debit卡
+2025-03-27 open Assets:CEB:1027             CNY       ;光大银行 debit卡
 2000-01-01 open Assets:Stock                CNY       ;股票
 
 ;[初始化账户：2024-10-11]
