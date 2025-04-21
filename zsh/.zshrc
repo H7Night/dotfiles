@@ -102,9 +102,12 @@ export XMODIFIERS="@im=fcitx"
 # ----------------------Mac Config----------------------
 # go
 export GO_HOME=$(brew --prefix go)
-export GOPATH="$HOME/Public/Libs/go"  # 将 $HOME/go 替换为你希望的路径
+export GOPATH="$HOME/Public/Libs/go"
 export PATH="$PATH:$GOPATH/bin"
 export GOPROXY=https://goproxy.cn,direct
+
+# fnm
+eval "$(fnm env --use-on-cd)"
 
 # java
 export JAVA_HOME=$(brew --prefix openjdk)
