@@ -1,16 +1,11 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    default: 1735816364
-    default.custom: 1744420934
-    rime_ice.custom: 1735816364
-    rime_ice.schema: 1735816364
-    symbols_v: 1735816364
-    default: 1735816364
-    default.custom: 1744420934
-    rime_ice.custom: 1735816364
-    rime_ice.schema: 1735816364
-    symbols_v: 1735816364
+    default: 1745068068
+    default.custom: 1739411346
+    rime_ice.custom: 1717774379
+    rime_ice.schema: 1724210909
+    symbols_v: 1717774339
     symbols_v.custom: 0
 cn_en:
   comment_format:
@@ -89,9 +84,9 @@ key_binder:
     - {accept: "Alt+Right", send: "Shift+Right", when: composing}
     - {accept: minus, send: Page_Up, when: has_menu}
     - {accept: equal, send: Page_Down, when: has_menu}
-    - {accept: "Control+Shift+3", toggle: ascii_punct, when: always}
+    - {accept: "Control+Shift+1", toggle: ascii_punct, when: always}
     - {accept: "Control+Shift+numbersign", toggle: ascii_punct, when: always}
-    - {accept: "Control+Shift+4", toggle: traditionalization, when: always}
+    - {accept: "Control+Shift+2", toggle: traditionalization, when: always}
     - {accept: "Control+Shift+dollar", toggle: traditionalization, when: always}
     - {accept: "Control+k", send: "Shift+Delete", when: composing}
     - {accept: KP_0, send: 0, when: composing}

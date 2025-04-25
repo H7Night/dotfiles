@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    default: 1717774656
+    default: 1745068068
     default.custom: 1739411346
     melt_eng.custom: 1729260238
     melt_eng.schema: 1729260238
@@ -600,9 +600,9 @@ key_binder:
     - {accept: "Alt+Right", send: "Shift+Right", when: composing}
     - {accept: minus, send: Page_Up, when: has_menu}
     - {accept: equal, send: Page_Down, when: has_menu}
-    - {accept: "Control+Shift+3", toggle: ascii_punct, when: always}
+    - {accept: "Control+Shift+1", toggle: ascii_punct, when: always}
     - {accept: "Control+Shift+numbersign", toggle: ascii_punct, when: always}
-    - {accept: "Control+Shift+4", toggle: traditionalization, when: always}
+    - {accept: "Control+Shift+2", toggle: traditionalization, when: always}
     - {accept: "Control+Shift+dollar", toggle: traditionalization, when: always}
     - {accept: "Control+k", send: "Shift+Delete", when: composing}
     - {accept: KP_0, send: 0, when: composing}
