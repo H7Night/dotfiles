@@ -106,6 +106,13 @@ export GOPATH="$HOME/Public/Libs/go"
 export PATH="$PATH:$GOPATH/bin"
 export GOPROXY=https://goproxy.cn,direct
 
+# python
+# 优先使用 Homebrew 的 Python
+export PATH="/opt/homebrew/bin:$PATH"
+# 明确别名（可选）
+alias python3="/opt/homebrew/bin/python3"
+alias pip3="/opt/homebrew/bin/pip3"
+
 # fnm
 eval "$(fnm env --use-on-cd)"
 
