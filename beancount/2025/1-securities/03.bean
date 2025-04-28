@@ -1,84 +1,91 @@
 2025-03-28 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    34.77 CNY
-    Assets:AliPay:Funds    -34.77 CNY
+    Expenses:Invest:Fund     34.77 CNY
+    Assets:AliPay:Funds     -34.77 CNY
 
 2025-03-27 * "基金" "纳斯达克"
-    Expenses:Invest:Fund   114.40 CNY
-    Assets:AliPay:Funds   -114.40 CNY
+    Expenses:Invest:Fund    114.40 CNY
+    Assets:AliPay:Funds    -114.40 CNY
 
 2025-03-26 * "基金" "纳斯达克"
-    Income:Fund            -33.04 CNY
-    Assets:AliPay:Funds     33.04 CNY
+    Income:Fund             -33.04 CNY
+    Assets:AliPay:Funds      33.04 CNY
 
 2025-03-25 * "基金" "纳斯达克"
-    Income:Fund           -127.53 CNY
-    Assets:AliPay:Funds    127.53 CNY
+    Income:Fund            -127.53 CNY
+    Assets:AliPay:Funds     127.53 CNY
 
 2025-03-24 * "基金" "纳斯达克"
-    Income:Fund            -22.61 CNY
-    Assets:AliPay:Funds     22.61 CNY
+    Income:Fund             -22.61 CNY
+    Assets:AliPay:Funds      22.61 CNY
 
 2025-03-21 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    12.49 CNY
-    Assets:AliPay:Funds    -12.49 CNY
+    Expenses:Invest:Fund     12.49 CNY
+    Assets:AliPay:Funds     -12.49 CNY
 
 2025-03-20 * "基金" "纳斯达克"
-    Income:Fund            -66.47 CNY
-    Assets:AliPay:Funds     66.47 CNY
+    Income:Fund             -66.47 CNY
+    Assets:AliPay:Funds      66.47 CNY
 
 2025-03-19 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    87.68 CNY
-    Assets:AliPay:Funds    -87.68 CNY
+    Expenses:Invest:Fund     87.68 CNY
+    Assets:AliPay:Funds     -87.68 CNY
 
 2025-03-18 * "基金" "纳斯达克"
-    Income:Fund            -25.57 CNY
-    Assets:AliPay:Funds     25.57 CNY
+    Income:Fund             -25.57 CNY
+    Assets:AliPay:Funds      25.57 CNY
 
 2025-03-17 * "基金" "纳斯达克"
-    Income:Fund           -129.05 CNY
-    Assets:AliPay:Funds    129.05 CNY
+    Income:Fund            -129.05 CNY
+    Assets:AliPay:Funds     129.05 CNY
 
 2025-03-14 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    97.60 CNY
-    Assets:AliPay:Funds    -97.60 CNY
+    Expenses:Invest:Fund     97.60 CNY
+    Assets:AliPay:Funds     -97.60 CNY
 
 2025-03-13 * "基金" "纳斯达克"
-    Income:Fund            -56.14 CNY
-    Assets:AliPay:Funds     56.14 CNY
+    Income:Fund             -56.14 CNY
+    Assets:AliPay:Funds      56.14 CNY
 
 2025-03-12 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    14.15 CNY
-    Assets:AliPay:Funds    -14.15 CNY
+    Expenses:Invest:Fund     14.15 CNY
+    Assets:AliPay:Funds     -14.15 CNY
 
 2025-03-11 * "基金" "纳斯达克"
-    Expenses:Invest:Fund   202.01 CNY
-    Assets:AliPay:Funds   -202.01 CNY
+    Expenses:Invest:Fund    202.01 CNY
+    Assets:AliPay:Funds    -202.01 CNY
 
 2025-03-10 * "基金" "纳斯达克"
-    Income:Fund            -38.66 CNY
-    Assets:AliPay:Funds     38.66 CNY
+    Income:Fund             -38.66 CNY
+    Assets:AliPay:Funds      38.66 CNY
 
 2025-03-07 * "基金" "纳斯达克"
-    Expenses:Invest:Fund   149.33 CNY
-    Assets:AliPay:Funds   -149.33 CNY
+    Expenses:Invest:Fund    149.33 CNY
+    Assets:AliPay:Funds    -149.33 CNY
 
 2025-03-06 * "基金" "纳斯达克"
-    Income:Fund            -69.62 CNY
-    Assets:AliPay:Funds     69.62 CNY
+    Income:Fund             -69.62 CNY
+    Assets:AliPay:Funds      69.62 CNY
 
 2025-03-05 * "基金" "纳斯达克"
-    Expenses:Invest:Fund    19.11 CNY
-    Assets:AliPay:Funds    -19.11 CNY
+    Expenses:Invest:Fund     19.11 CNY
+    Assets:AliPay:Funds     -19.11 CNY
 
 2025-03-04 * "基金" "纳斯达克"
-    Expenses:Invest:Fund   119.54 CNY
-    Assets:AliPay:Funds   -119.54 CNY
+    Expenses:Invest:Fund    119.54 CNY
+    Assets:AliPay:Funds    -119.54 CNY
 
 2025-03-03 * "基金" "纳斯达克"
-    Income:Fund            -84.96 CNY
-    Assets:AliPay:Funds     84.96 CNY
+    Income:Fund             -84.96 CNY
+    Assets:AliPay:Funds      84.96 CNY
 
 ; ------------------------------------------------------------
+
+2025-03-31 * "兴全基金管理有限公司" "余额宝-2025.03.30-收益发放"
+    time: "04:07:22"
+    uuid: "20250331333984891521"
+    status: "交易成功"
+    Income:Fund              -0.38 CNY
+    Assets:AliPay:Balance     0.38 CNY
 
 2025-03-30 * "基金" "余额宝"
     Income:Fund              -0.38 CNY

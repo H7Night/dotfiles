@@ -6,14 +6,14 @@
 ;[初始化欠款：2024-10-11]
 
 ; 招商银行信用卡欠款
-2024-10-10 pad Liabilities:CMBCreditCard:2035 Equity:OpenBalance
+2024-10-10 pad Liabilities:CMBCreditCard:2035 Equity:Opening-Balances
 2024-10-11 balance Liabilities:CMBCreditCard:2035  -2207.43 CNY
 
 ; 招商银行信用卡欠款
-2024-10-10 pad Liabilities:CMBCreditCard:7046 Equity:OpenBalance
+2024-10-10 pad Liabilities:CMBCreditCard:7046 Equity:Opening-Balances
 2024-10-11 balance Liabilities:CMBCreditCard:7046      -7.9 CNY
 
 ; 花呗欠款
-2024-10-10 pad Liabilities:Huabei Equity:OpenBalance
+2024-10-10 pad Liabilities:Huabei Equity:Opening-Balances
 2024-10-11 balance Liabilities:Huabei                -203.4 CNY
 

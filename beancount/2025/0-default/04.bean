@@ -1,0 +1,643 @@
+2025-04-25 * "广州地铁集团有限公司" "2025-04-25 07:40:54搭乘广州地铁"
+    time: "07:59:57"
+    uuid: "2025042522001453521451485866"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-04-24 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
+    time: "22:20:08"
+    uuid: "2025042422001453521448413716"
+    status: "交易成功"
+    Expenses:Food:Vegetables            9.30 CNY
+    Liabilities:CMBCreditCard:2035     -9.30 CNY
+
+2025-04-24 * "拾味糕点" "会员充值100.00元"
+    time: "22:17:13"
+    uuid: "2025042422001453521450095629"
+    status: "交易成功"
+    Expenses:Food:Dinner              100.00 CNY
+    Liabilities:CMBCreditCard:2035   -100.00 CNY
+
+2025-04-24 * "广州地铁集团有限公司" "2025-04-24 21:36:51搭乘广州地铁"
+    time: "21:55:47"
+    uuid: "2025042422001453521449687918"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-04-24 * "芬记美食" "芬记小厨"
+    time: "12:18:34"
+    uuid: "2025042422001453521444180285"
+    status: "交易成功"
+    Expenses:Food:Lunch                15.00 CNY
+    Liabilities:CMBCreditCard:2035    -15.00 CNY
+
+2025-04-24 * "广州地铁集团有限公司" "2025-04-24 07:50:37搭乘广州地铁"
+    time: "08:12:34"
+    uuid: "2025042422001453521442441418"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-04-23 * "拾味糕点" "购买商品吐司切片等"
+    time: "20:03:58"
+    uuid: "2025042322001453521443061942"
+    status: "交易成功"
+    Expenses:Food:Snack                 9.00 CNY
+    Liabilities:CMBCreditCard:2035     -9.00 CNY
+
+2025-04-23 * "广州地铁集团有限公司" "2025-04-23 19:28:03搭乘广州地铁"
+    time: "19:59:05"
+    uuid: "2025042322001453521440758281"
+    status: "交易成功"
+    Expenses:Transport                  3.20 CNY
+    Liabilities:CMBCreditCard:2035     -3.20 CNY
+
+2025-04-23 * "汉堡王(中国大酒店)" "BK24245门店_新支付宝小程序点餐"
+    time: "18:23:46"
+    uuid: "2025042322001453521442566132"
+    status: "交易成功"
+    Expenses:Food:Dinner               69.00 CNY
+    Liabilities:CMBCreditCard:2035    -69.00 CNY
+
+2025-04-23 * "广州地铁集团有限公司" "2025-04-23 18:00:06搭乘广州地铁"
+    time: "18:13:55"
+    uuid: "2025042322001453521441691956"
+    status: "交易成功"
+    Expenses:Transport                  1.60 CNY
+    Liabilities:CMBCreditCard:2035     -1.60 CNY
+
+2025-04-23 * "芬记美食" "芬记小厨"
+    time: "12:25:49"
+    uuid: "2025042322001453521438020978"
+    status: "交易成功"
+    Expenses:Food:Lunch                15.00 CNY
+    Liabilities:CMBCreditCard:2035    -15.00 CNY
+
+2025-04-23 * "广州地铁集团有限公司" "2025-04-23 07:50:22搭乘广州地铁"
+    time: "08:08:11"
+    uuid: "2025042322001453521438654513"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-04-22 * "普宁炒饭广州陶庄店" "普宁炒饭广州陶庄店-消费"
+    time: "21:47:09"
+    uuid: "2025042222001453521435720539"
+    status: "交易成功"
+    Expenses:Food:Dinner               12.00 CNY
+    Liabilities:CMBCreditCard:2035    -12.00 CNY
+
+2025-04-22 * "广州地铁集团有限公司" "2025-04-22 21:18:53搭乘广州地铁"
+    time: "21:38:14"
+    uuid: "2025042222001453521437256909"
+    status: "交易成功"
+    Expenses:Transport                  2.80 CNY
+    Liabilities:CMBCreditCard:2035     -2.80 CNY
+
+2025-04-22 * "广州地铁集团有限公司" "2025-04-22 07:43:39搭乘广州地铁"
+    time: "08:01:59"
+    uuid: "2025042222001453521431583182"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-21 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
+    time: "18:50:58"
+    uuid: "2025042122001453521433608889"
+    status: "交易成功"
+    Expenses:Food:Vegetables            4.10 CNY
+    Liabilities:CMBCreditCard:2035     -4.10 CNY
+
+2025-04-21 * "拾味糕点" "购买商品椰蓉餐包等"
+    time: "18:44:47"
+    uuid: "2025042122001453521432251200"
+    status: "交易成功"
+    Expenses:Food:Dinner               10.00 CNY
+    Liabilities:CMBCreditCard:2035    -10.00 CNY
+
+2025-04-21 * "广州地铁集团有限公司" "2025-04-21 18:17:21搭乘广州地铁"
+    time: "18:39:09"
+    uuid: "2025042122001453521430934975"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-21 * "广州市咏春葱油饼" "广州市咏春葱油饼"
+    time: "11:31:13"
+    uuid: "2025042122001453521427247505"
+    status: "交易成功"
+    Expenses:Food:Lunch                 7.00 CNY
+    Liabilities:CMBCreditCard:2035     -7.00 CNY
+
+2025-04-21 * "广州地铁集团有限公司" "2025-04-21 11:07:28搭乘广州地铁"
+    time: "11:24:31"
+    uuid: "2025042122001453521430962719"
+    status: "交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:CMBCreditCard:2035     -2.00 CNY
+
+2025-04-21 * "sa**店" "三梦电脑椅子家用舒适久坐人体工学椅卧室宿舍电竞椅书房办公座椅"
+    time: "09:47:26"
+    uuid: "2025042122001153521428064871"
+    status: "等待确认收货"
+    Expenses:Shopping:Home            195.00 CNY
+    Liabilities:CMBCreditCard:2035   -195.00 CNY
+
+2025-04-20 * "运营商合约分期服务( PhoneWin）" "广东移动套餐-合约36期/第29期扣款"
+    time: "11:46:26"
+    uuid: "2025042022001453521422966567"
+    status: "交易成功"
+    Expenses:Home:Phone                51.00 CNY
+    Assets:AliPay:Balance             -51.00 CNY
+
+2025-04-19 * "x***2" "【MX】80只/微沙老樱桃轴/94.96年代轴体/老黑轴"
+    time: "23:04:08"
+    uuid: "2025041922001153521418272278"
+    status: "交易成功"
+    Expenses:Shopping:Digital         185.00 CNY
+    Liabilities:Huabei               -185.00 CNY
+
+2025-04-19 * "中运交通" "TK2025041953880,2025-04-21 09:43万达华府公交站→越秀公园地铁站C出口"
+    time: "19:32:19"
+    uuid: "4200002715202504191556423965"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:Wechat                     -15.00 CNY
+
+2025-04-18 * "包虤虤(佛山三水西南店)" "包虤虤(佛山三水西南店)"
+    time: "21:04:08"
+    uuid: "2025041822001453521412929239"
+    status: "交易成功"
+    Expenses:Food:Snack                10.00 CNY
+    Liabilities:CMBCreditCard:2035    -10.00 CNY
+
+2025-04-18 * "优衣库佛山三水万达广场店" "优衣库(佛山三水万达广场店)"
+    time: "20:43:46"
+    uuid: "2025041822001453521411495404"
+    status: "交易成功"
+    Expenses:Shopping:Clothing        198.00 CNY
+    Liabilities:CMBCreditCard:2035   -198.00 CNY
+
+2025-04-18 * "广州地铁集团有限公司" "2025-04-18 18:38:45搭乘广州地铁"
+    time: "18:50:26"
+    uuid: "2025041822001453521408978144"
+    status: "交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:CMBCreditCard:2035     -2.00 CNY
+
+2025-04-18 * "木***学" "command65 r2 三模 客制化键盘"
+    time: "16:19:52"
+    uuid: "2025041822001153521412892608"
+    status: "交易成功"
+    Expenses:Shopping:Digital         705.00 CNY
+    Liabilities:Huabei               -705.00 CNY
+
+2025-04-18 * "广州地铁集团有限公司" "2025-04-18 07:51:04搭乘广州地铁"
+    time: "08:14:51"
+    uuid: "2025041822001453521404716557"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-17 * "拾味糕点" "购买商品吐司切片等"
+    time: "18:44:35"
+    uuid: "2025041722001453521458691012"
+    status: "交易成功"
+    Expenses:Food:Dinner                9.00 CNY
+    Liabilities:CMBCreditCard:2035     -9.00 CNY
+
+2025-04-17 * "波记港式饮品广州天平架店" "波记港式饮品广州天平架店"
+    time: "18:26:50"
+    uuid: "2025041722001453521402234694"
+    status: "交易成功"
+    Expenses:Food:Dinner               13.00 CNY
+    Liabilities:CMBCreditCard:2035    -13.00 CNY
+
+2025-04-17 * "广州地铁集团有限公司" "2025-04-17 18:01:22搭乘广州地铁"
+    time: "18:20:50"
+    uuid: "2025041722001453521405147135"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-17 * "广州地铁集团有限公司" "2025-04-17 07:50:18搭乘广州地铁"
+    time: "08:08:15"
+    uuid: "2025041722001453521459280401"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-16 * "俊哥" "请你大辣螺蛳粉"
+    time: "20:49:12"
+    uuid: "20250416200040011100340082559658"
+    status: "交易成功"
+    Income:RedEnvelope               -200.00 CNY
+    Assets:AliPay:Balance             200.00 CNY
+
+2025-04-16 * "广州地铁集团有限公司" "2025-04-16 18:32:57搭乘广州地铁"
+    time: "18:56:46"
+    uuid: "2025041622001453521459402242"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-16 * "房东-天平架" "转账备注:微信转账"
+    time: "18:56:08"
+    uuid: "53010001282113202504161893861124"
+    status: "对方已收钱"
+    Expenses:Home:Rent               1016.00 CNY
+    Assets:Wechat                   -1016.00 CNY
+
+2025-04-16 * "肥佬" "转账备注:微信转账"
+    time: "18:17:22"
+    uuid: "1000050001202504161028883690108"
+    status: "已存入零钱"
+    Income:RedEnvelope               -300.00 CNY
+    Assets:Wechat                     300.00 CNY
+
+2025-04-16 * "哈曼**店" "【焕新价】哈曼卡顿水晶4代桌面无线蓝牙音箱电脑电视礼物礼品家用音响低音"
+    time: "13:19:27"
+    uuid: "2025041622001153521400024539"
+    status: "等待确认收货"
+    Expenses:Shopping:Invite         1797.78 CNY
+    Liabilities:CMBCreditCard:2035  -1797.78 CNY
+
+2025-04-16 * "中运交通" "TK2025041624270,2025-04-18 19:30越秀公园地铁站C出口招呼站→珠江村镇"
+    time: "12:38:02"
+    uuid: "4200002621202504161121983140"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:Wechat                     -15.00 CNY
+
+2025-04-16 * "广州地铁集团有限公司" "2025-04-16 07:53:05搭乘广州地铁"
+    time: "08:10:22"
+    uuid: "2025041622001453521452809208"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-15 * "广州地铁集团有限公司" "2025-04-15 17:50:39搭乘广州地铁"
+    time: "18:11:25"
+    uuid: "2025041522001453521454302992"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-15 * "广州地铁集团有限公司" "2025-04-15 07:54:23搭乘广州地铁"
+    time: "08:14:28"
+    uuid: "2025041522001453521450091229"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-14 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
+    time: "18:27:07"
+    uuid: "2025041422001453521447934216"
+    status: "交易成功"
+    Expenses:Food:Vegetables           21.80 CNY
+    Liabilities:CMBCreditCard:2035    -21.80 CNY
+
+2025-04-14 * "广州地铁集团有限公司" "2025-04-14 17:56:56搭乘广州地铁"
+    time: "18:15:34"
+    uuid: "2025041422001453521450958002"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-14 * "芬记美食" "芬记小厨"
+    time: "12:23:43"
+    uuid: "2025041422001453521448345839"
+    status: "交易成功"
+    Expenses:Food:Lunch                15.00 CNY
+    Liabilities:CMBCreditCard:2035    -15.00 CNY
+
+2025-04-14 * "广州地铁集团有限公司" "2025-04-14 07:48:35搭乘广州地铁"
+    time: "08:04:57"
+    uuid: "2025041422001453521447205369"
+    status: "交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:CMBCreditCard:2035     -2.00 CNY
+
+2025-04-13 * "余额宝" "余额宝-单次转入"
+    time: "09:19:54"
+    uuid: "20250413019130100010520047736492"
+    status: "交易成功"
+    Assets:AliPay:Balance            2965.08 CNY
+    Assets:CEB:1027                 -2965.08 CNY
+
+2025-04-13 * "工资" "海鑫科金"
+    Income:Salary                   -2965.08 CNY
+    Assets:CEB:1027                  2965.08 CNY
+
+2025-04-13 * "壹亩**店" "紫薯新鲜板栗红薯番薯地瓜蜜薯糖心10斤山芋烟薯香薯蔬菜农家自种"
+    time: "08:31:29"
+    uuid: "2025041322001153521441867525"
+    status: "交易成功"
+    Expenses:Shopping:Home             19.80 CNY
+    Liabilities:CMBCreditCard:2035    -19.80 CNY
+
+2025-04-12 * "**梅" "收钱码收款"
+    time: "21:56:48"
+    uuid: "2025041222001453521442551969"
+    status: "交易成功"
+    Expenses:Food:Dinner              276.00 CNY
+    Assets:AliPay:Balance            -276.00 CNY
+
+2025-04-12 * "中国移动" "为13809259150话费充值"
+    time: "09:53:47"
+    uuid: "2025041222001453521438340515"
+    status: "交易成功"
+    Expenses:Home:Phone                50.00 CNY
+    Liabilities:CMBCreditCard:2035    -50.00 CNY
+
+2025-04-11 * "雨东烘焙" "收钱码收款"
+    time: "21:01:06"
+    uuid: "2025041122001453521438794043"
+    status: "交易成功"
+    Expenses:Food:Dinner               12.00 CNY
+    Liabilities:Huabei                -12.00 CNY
+
+2025-04-11 * "中运交通" "TK2025041152792,2025-04-14 06:36万达华府公交站→越秀公园地铁站C出口"
+    time: "19:05:53"
+    uuid: "4200002631202504115847398812"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:Wechat                     -15.00 CNY
+
+2025-04-11 * "广州地铁集团有限公司" "2025-04-11 18:48:17搭乘广州地铁"
+    time: "19:03:14"
+    uuid: "2025041122001453521438998469"
+    status: "交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:CMBCreditCard:2035     -2.00 CNY
+
+2025-04-11 * "芬记美食" "芬记小厨"
+    time: "12:21:00"
+    uuid: "2025041122001453521434273034"
+    status: "交易成功"
+    Expenses:Food:Lunch                18.00 CNY
+    Liabilities:CMBCreditCard:2035    -18.00 CNY
+
+2025-04-11 * "广州地铁集团有限公司" "2025-04-11 07:50:42搭乘广州地铁"
+    time: "08:06:43"
+    uuid: "2025041122001453521432613420"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-10 * "广州地铁集团有限公司" "2025-04-10 19:41:10搭乘广州地铁"
+    time: "19:59:26"
+    uuid: "2025041022001453521434575052"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-10 * "花呗" "花呗自动还款-2025年04月账单"
+    time: "09:04:47"
+    uuid: "2025041029020999520102857134"
+    status: "还款成功"
+    Liabilities:Huabei                163.24 CNY
+    Assets:AliPay:Balance            -163.24 CNY
+
+2025-04-10 * "广州地铁集团有限公司" "2025-04-10 07:50:01搭乘广州地铁"
+    time: "08:10:34"
+    uuid: "2025041022001453521430588214"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-09 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
+    time: "19:37:41"
+    uuid: "2025040922001453521427953299"
+    status: "交易成功"
+    Expenses:Food:Vegetables            3.30 CNY
+    Liabilities:CMBCreditCard:2035     -3.30 CNY
+
+2025-04-09 * "广州地铁集团有限公司" "2025-04-09 19:05:51搭乘广州地铁"
+    time: "19:23:44"
+    uuid: "2025040922001453521424686601"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-09 * "中运交通" "TK2025040942842,2025-04-11 20:00越秀公园地铁站C出口招呼站→珠江村镇"
+    time: "19:28:31"
+    uuid: "4200002623202504092829990727"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:Wechat                     -15.00 CNY
+
+2025-04-09 * "招商银行" "信用卡还款"
+    time: "18:17:15"
+    uuid: "2025040900003001520040105773"
+    status: "还款成功"
+    Liabilities:CMBCreditCard:2035   2914.45 CNY
+    Assets:AliPay:Balance           -2914.45 CNY
+
+2025-04-09 * "广州地铁集团有限公司" "2025-04-09 07:48:56搭乘广州地铁"
+    time: "08:06:58"
+    uuid: "2025040922001453521425719614"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-08 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
+    time: "18:51:46"
+    uuid: "2025040822001453521423783046"
+    status: "交易成功"
+    Expenses:Food:Vegetables           14.00 CNY
+    Liabilities:CMBCreditCard:2035    -14.00 CNY
+
+2025-04-08 * "广州地铁集团有限公司" "2025-04-08 18:16:32搭乘广州地铁"
+    time: "18:35:52"
+    uuid: "2025040822001453521423287510"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-08 * "广州地铁集团有限公司" "2025-04-08 07:49:22搭乘广州地铁"
+    time: "08:10:40"
+    uuid: "2025040822001453521422651765"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-07 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
+    time: "18:59:40"
+    uuid: "2025040722001453521419815364"
+    status: "交易成功"
+    Expenses:Food:Vegetables           25.50 CNY
+    Liabilities:CMBCreditCard:2035    -25.50 CNY
+
+2025-04-07 * "广州地铁集团有限公司" "2025-04-07 18:21:25搭乘广州地铁"
+    time: "18:41:52"
+    uuid: "2025040722001453521416527120"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-07 * "西华美食品广州中环广场店" "西华美食品广州中环广场店"
+    time: "12:16:44"
+    uuid: "2025040722001453521415863263"
+    status: "交易成功"
+    Expenses:Food:Lunch                16.00 CNY
+    Liabilities:CMBCreditCard:2035    -16.00 CNY
+
+2025-04-07 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "09:04:52"
+    uuid: "20250407001080012204520024028009"
+    status: "交易成功"
+    Assets:AliPay:Funds               100.00 CNY
+    Assets:AliPay:Balance            -100.00 CNY
+
+2025-04-07 * "广州地铁集团有限公司" "2025-04-07 07:59:27搭乘广州地铁"
+    time: "08:13:59"
+    uuid: "2025040722001453521417784481"
+    status: "交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:CMBCreditCard:2035     -2.00 CNY
+
+2025-04-06 * "日日升超市(新里程店)" "三水日日升1536511013113020379287115943"
+    time: "11:59:42"
+    uuid: "2025040622001453521411873224"
+    status: "交易成功"
+    Expenses:Shopping:Home             31.02 CNY
+    Liabilities:CMBCreditCard:2035    -31.02 CNY
+
+2025-04-06 * "俊哥(**俊)" "Transfer"
+    time: "09:54:42"
+    uuid: "20250406200040011100520070675765"
+    status: "交易成功"
+    Expenses:Food:Invite               51.00 CNY
+    Assets:AliPay:Balance             -51.00 CNY
+
+2025-04-05 * "中运交通" "TK2025040570409,2025-04-07 06:36万达华府公交站→越秀公园地铁站C出口"
+    time: "18:48:21"
+    uuid: "4200002709202504053274778980"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:Wechat                     -15.00 CNY
+
+2025-04-04 * "辣辣寿司赤岗店" "辣辣寿司赤岗店"
+    time: "19:06:42"
+    uuid: "2025040422001453521403905397"
+    status: "交易成功"
+    Expenses:Food:Dinner              134.00 CNY
+    Liabilities:CMBCreditCard:2035   -134.00 CNY
+
+2025-04-04 * "特惠团购" "中影米米国际影城（三水钧明汇广场）"
+    time: "16:37:26"
+    uuid: "2025040422001453521403780341"
+    status: "交易成功"
+    Expenses:Entertainment:Movie      142.11 CNY
+    Liabilities:CMBCreditCard:2035   -142.11 CNY
+
+2025-04-04 * "龙先生" "收钱码收款"
+    time: "15:36:53"
+    uuid: "2025040422001453521406453126"
+    status: "交易成功"
+    Expenses:Home:Haircut              25.00 CNY
+    Liabilities:Huabei                -25.00 CNY
+
+2025-04-03 * "麦当劳" "麦当劳"
+    time: "18:55:51"
+    uuid: "4200002712202504035623501340"
+    status: "支付成功"
+    Expenses:Food:Dinner               27.90 CNY
+    Assets:Wechat                     -27.90 CNY
+
+2025-04-03 * "雨东烘焙" "收钱码收款"
+    time: "22:10:05"
+    uuid: "2025040322001453521401598385"
+    status: "交易成功"
+    Expenses:Food:Dinner                5.50 CNY
+    Liabilities:Huabei                 -5.50 CNY
+
+2025-04-03 * "广州地铁集团有限公司" "2025-04-03 18:38:16搭乘广州地铁"
+    time: "18:51:02"
+    uuid: "2025040322001453521402572533"
+    status: "交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:CMBCreditCard:2035     -2.00 CNY
+
+2025-04-03 * "广州地铁集团有限公司" "2025-04-03 07:51:05搭乘广州地铁"
+    time: "08:10:18"
+    uuid: "2025040322001453521401633309"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-02 * "西华美食品广州中环广场店" "西华美食品广州中环广场店"
+    time: "12:22:27"
+    uuid: "2025040222001453521458377463"
+    status: "交易成功"
+    Expenses:Food:Lunch                16.00 CNY
+    Liabilities:CMBCreditCard:2035    -16.00 CNY
+
+2025-04-02 * "广州地铁集团有限公司" "2025-04-02 07:46:31搭乘广州地铁"
+    time: "08:04:18"
+    uuid: "2025040222001453521454334260"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-01 * "惠嘉便利店" "收钱码收款"
+    time: "20:29:38"
+    uuid: "2025040122001453521452413516"
+    status: "交易成功"
+    Expenses:Other                      3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2025-04-01 * "林记隆江猪脚饭" "收钱码收款"
+    time: "19:08:01"
+    uuid: "2025040122001453521452670189"
+    status: "交易成功"
+    Expenses:Food:Dinner               15.00 CNY
+    Liabilities:Huabei                -15.00 CNY
+
+2025-04-01 * "拾味糕点" "购买商品吐司切片等"
+    time: "19:06:40"
+    uuid: "2025040122001453521451719208"
+    status: "交易成功"
+    Expenses:Food:Snack                 9.00 CNY
+    Liabilities:CMBCreditCard:2035     -9.00 CNY
+
+2025-04-01 * "广州地铁集团有限公司" "2025-04-01 18:41:47搭乘广州地铁"
+    time: "18:59:37"
+    uuid: "2025040122001453521454031800"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-04-01 * "中运交通" "TK2025040163476,2025-04-03 20:45越秀公园地铁站C出口招呼站→珠江村镇"
+    time: "18:38:23"
+    uuid: "4200002701202504017757230828"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:Wechat                     -15.00 CNY
+
+2025-04-01 * "***牙" "收钱码收款"
+    time: "12:44:08"
+    uuid: "2025040122001453521452008167"
+    status: "交易成功"
+    Expenses:Food:Lunch                15.00 CNY
+    Liabilities:Huabei                -15.00 CNY
+
+2025-04-01 * "广州地铁集团有限公司" "2025-04-01 07:45:31搭乘广州地铁"
+    time: "08:04:39"
+    uuid: "2025040122001453521449173362"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+
+
+2025-04-01 * "肥佬" "转账备注:最喜欢的一集"
+    time: "07:32:45"
+    uuid: "1000050001202504011122796800426"
+    status: "已存入零钱"
+    Income:RedEnvelope               -922.25 CNY
+    Assets:Wechat                     922.25 CNY
+

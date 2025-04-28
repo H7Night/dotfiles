@@ -6,8 +6,9 @@
 2000-01-01 open Assets:WeChat               CNY       ;微信余额
 2000-01-01 open Assets:AliPay:Balance       CNY       ;支付宝余额
 2000-01-01 open Assets:AliPay:Funds         CNY       ;支付宝基金
+; 2000-01-01 open Assets:CB:0000              CNY        ;中国银行 debit卡
 2000-01-01 open Assets:CITIC:9425           CNY       ;中信银行 debit卡
-2000-01-01 open Assets:CGB:41508            CNY       ;广发AE  debit卡
+2000-01-01 open Assets:CGB:41508            CNY       ;广发AE   debit卡
 2025-03-22 open Assets:CMB:3229             CNY       ;招商银行 debit卡
 2025-03-27 open Assets:CEB:1027             CNY       ;光大银行 debit卡
 2000-01-01 open Assets:Stock                CNY       ;股票
@@ -18,29 +19,32 @@
 2024-10-11 balance Assets:WeChat              0.00 CNY
 
 ; 支付宝余额
-2024-10-10 pad Assets:AliPay:Balance Equity:OpenBalance
+2024-10-10 pad Assets:AliPay:Balance Equity:Opening-Balances
 2024-10-11 balance Assets:AliPay:Balance   3168.25 CNY
 
 ; 基金余额
-2024-10-10 pad Assets:AliPay:Funds Equity:OpenBalance
+2024-10-10 pad Assets:AliPay:Funds Equity:Opening-Balances
 2024-10-11 balance Assets:AliPay:Funds     3808.26 CNY
 
 ; 现金余额
-2024-10-10 pad Assets:Cash:CNY Equity:OpenBalance
-2024-10-10 pad Assets:Cash:JPY Equity:OpenBalance
-2024-10-10 pad Assets:Cash:HKD Equity:OpenBalance
+2024-10-10 pad Assets:Cash:CNY Equity:Opening-Balances
+2024-10-10 pad Assets:Cash:JPY Equity:Opening-Balances
+2024-10-10 pad Assets:Cash:HKD Equity:Opening-Balances
 2024-10-11 balance Assets:Cash:CNY           50.00 CNY
 2024-10-11 balance Assets:Cash:JPY        30000.00 JPY
 2024-10-11 balance Assets:Cash:HKD         5040.00 HKD
 
+; 中国银行
+;2024-10-10 pad Assets:CB:0000 Equity:Opening-Balances
+;2024-10-11 balance Assets:CB:0000             100 CNY
 ; 中信 debit 卡余额
-2024-10-10 pad Assets:CITIC:9425 Equity:OpenBalance
+2024-10-10 pad Assets:CITIC:9425 Equity:Opening-Balances
 2024-10-11 balance Assets:CITIC:9425        101.86 CNY
 
 ; AE debit 卡余额
-2024-10-10 pad Assets:CGB:41508  Equity:OpenBalance
+2024-10-10 pad Assets:CGB:41508  Equity:Opening-Balances
 2024-10-11 balance Assets:CGB:41508         286.78 CNY
 
 ; 股票
-2024-10-10 pad Assets:Stock  Equity:OpenBalance
+2024-10-10 pad Assets:Stock  Equity:Opening-Balances
 2024-10-11 balance Assets:Stock             546.62 CNY

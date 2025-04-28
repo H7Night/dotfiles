@@ -1,4 +1,65 @@
+2025-03-31 * "凤" "收钱码收款"
+    time: "19:12:02"
+    uuid: "2025033122001453521447697691"
+    status: "交易成功"
+    Expenses:Food:Dinner                   15.00 CNY
+    Liabilities:Huabei                    -15.00 CNY
 
+2025-03-31 * "广州地铁集团有限公司" "2025-03-31 18:33:12搭乘广州地铁"
+    time: "18:53:56"
+    uuid: "2025033122001453521450189695"
+    status: "交易成功"
+    Expenses:Transport                      2.40 CNY
+    Liabilities:CMBCreditCard:2035         -2.40 CNY
+
+2025-03-31 * "亿家**店" "电脑桌台式家用办公桌简约双人卧室桌子电竞桌学生书桌学习写字桌"
+    time: "12:56:01"
+    uuid: "2025033122001153521449883055"
+    status: "交易成功"
+    Expenses:Shopping:Home                191.80 CNY
+    Liabilities:CMBCreditCard:2035       -191.80 CNY
+
+2025-03-31 * "西华美食品广州中环广场店" "西华美食品广州中环广场店"
+    time: "12:19:23"
+    uuid: "4200002657202503311911869706"
+    status: "支付成功"
+    Expenses:Food:Launch                   17.00 CNY
+    Assets:Wechat                         -17.00 CNY
+
+2025-03-31 * "广州地铁集团有限公司" "2025-03-31 07:48:43搭乘广州地铁"
+    time: "08:01:45"
+    uuid: "2025033122001453521448427468"
+    status: "交易成功"
+    Expenses:Transport                      1.60 CNY
+    Liabilities:CMBCreditCard:2035         -1.60 CNY
+
+; 2025-03-30 * "余额宝" "余额宝-单次转入"
+;     time: "13:46:51"
+;     uuid: "20250330019130100010520034277935"
+;     status: "交易成功"
+;     Assets:AliPay:Balance                   0.21 CNY
+; Assets:CB:0000                         -0.21 CNY
+
+2025-03-30 * "熹鳥碳火烧居酒屋" "熹鳥-自助服务"
+    time: "19:28:34"
+    uuid: "4200002677202503302687434086"
+    status: "支付成功"
+    Expenses:Food:Dinner                   12.00 CNY
+    Assets:Wechat                         -12.00 CNY
+
+2025-03-30 * "熹鳥碳火烧居酒屋" "熹鳥-自助服务"
+    time: "18:54:05"
+    uuid: "4200002678202503305548518720"
+    status: "支付成功"
+    Expenses:Food:Dinner                  378.00 CNY
+    Assets:Wechat                        -378.00 CNY
+
+2025-03-30 * "余额宝" "余额宝-单次转入"
+    time: "13:23:43"
+    uuid: "20250330019130100010520033952497"
+    status: "交易成功"
+    Assets:AliPay:Balance                 471.95 CNY
+    Assets:CGB:41508                     -471.95 CNY
 
 2025-03-29 * "广州地铁集团有限公司" "2025-03-29 19:50:59搭乘广州地铁"
     time: "20:06:53"
