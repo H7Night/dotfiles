@@ -5,10 +5,17 @@
 zsh\.zsh_sessions
 zsh/.zsh_sessions
 
-Rime\rime_ice.userdb
-Rime/rime_ice.userdb
 
-Rime\rime_ice_private.userdb
+Rime/rime_ice.userdb
 Rime/rime_ice_private.userdb
+Rime/build/double_pinyin_flypy.prism.bin
+Rime/build/double_pinyin.prism.bin
+Rime/build/melt_eng_private.prism.bin
+
+Rime\rime_ice.userdb
+Rime\rime_ice_private.userdb
+Rime\build\double_pinyin_flypy.prism.bin
+Rime\build\double_pinyin.prism.bin
+Rime\build\melt_eng_private.prism.bin
 
 beancount/fava-env
