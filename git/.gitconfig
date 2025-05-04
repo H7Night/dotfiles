@@ -1,9 +1,11 @@
 [http]
 	proxy = 127.0.0.1:7890
+	postBuffer = 1048576000
 [https]
-  proxy = 127.0.0.1:7890
+	proxy = 127.0.0.1:7890
+	postBuffer = 1048576000
 [user]
-	name = hezhongxian 
+	name = hezhongxian
 	email = jhonhe7night@outlook.com
 [core]
 	packedGitLimit = 512m
