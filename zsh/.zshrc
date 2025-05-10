@@ -121,3 +121,5 @@ export JAVA_HOME=$(brew --prefix openjdk)
 export PATH="$JAVA_HOME/bin:$PATH"
 
 ___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
+
+export PATH=$PATH:/Users/jhonhe/.spicetify
