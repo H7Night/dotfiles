@@ -1,0 +1,157 @@
+2025-05-16 * "基金" "纳斯达克"
+    Income:Fund              -5.90 CNY
+    Assets:AliPay:Funds       5.90 CNY
+
+2025-05-15 * "基金" "纳斯达克"
+    Income:Fund             -36.47 CNY
+    Assets:AliPay:Funds      36.47 CNY
+
+2025-05-14 * "基金" "纳斯达克"
+    Income:Fund             -99.64 CNY
+    Assets:AliPay:Funds      99.64 CNY
+
+2025-05-13 * "基金" "纳斯达克"
+    Income:Fund            -254.94 CNY
+    Assets:AliPay:Funds     254.94 CNY
+
+2025-05-12 * "基金" "纳斯达克"
+    Income:Fund              -0.21 CNY
+    Assets:AliPay:Funds       0.21 CNY
+
+2025-05-09 * "基金" "纳斯达克"
+    Income:Fund             -67.05 CNY
+    Assets:AliPay:Funds      67.05 CNY
+
+2025-05-08 * "基金" "纳斯达克"
+    Income:Fund             -24.29 CNY
+    Assets:AliPay:Funds      24.29 CNY
+
+2025-05-07 * "基金" "纳斯达克"
+    Income:Fund             -65.78 CNY
+    Assets:AliPay:Funds      65.78 CNY
+
+2025-05-06 * "基金" "纳斯达克"
+    Income:Fund              -6.02 CNY
+    Assets:AliPay:Funds       6.02 CNY
+
+; ------------------------------------------------------------
+
+2025-05-17 * "兴全基金管理有限公司" "余额宝-2025.05.16-收益发放"
+    time: "04:52:26"
+    uuid: "20250517317234289521"
+    status: "交易成功"
+    Income:Fund              -0.49 CNY
+    Assets:AliPay:Balance     0.49 CNY
+
+2025-05-16 * "兴全基金管理有限公司" "余额宝-2025.05.15-收益发放"
+    time: "04:41:38"
+    uuid: "20250516310450634521"
+    status: "交易成功"
+    Income:Fund              -0.54 CNY
+    Assets:AliPay:Balance     0.54 CNY
+
+2025-05-15 * "兴全基金管理有限公司" "余额宝-2025.05.14-收益发放"
+    time: "03:59:38"
+    uuid: "20250515304029924521"
+    status: "交易成功"
+    Income:Fund              -0.52 CNY
+    Assets:AliPay:Balance     0.52 CNY
+
+2025-05-14 * "兴全基金管理有限公司" "余额宝-2025.05.13-收益发放"
+    time: "05:30:37"
+    uuid: "20250514398247388521"
+    status: "交易成功"
+    Income:Fund              -0.50 CNY
+    Assets:AliPay:Balance     0.50 CNY
+
+2025-05-13 * "兴全基金管理有限公司" "余额宝-2025.05.12-收益发放"
+    time: "04:34:12"
+    uuid: "20250513391002292521"
+    status: "交易成功"
+    Income:Fund              -0.36 CNY
+    Assets:AliPay:Balance     0.36 CNY
+
+2025-05-12 * "兴全基金管理有限公司" "余额宝-2025.05.11-收益发放"
+    time: "04:46:44"
+    uuid: "20250512384915975521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-05-11 * "兴全基金管理有限公司" "余额宝-2025.05.10-收益发放"
+    time: "04:48:44"
+    uuid: "20250511379114927521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-05-10 * "兴全基金管理有限公司" "余额宝-2025.05.09-收益发放"
+    time: "03:24:43"
+    uuid: "20250510372248330521"
+    status: "交易成功"
+    Income:Fund              -0.29 CNY
+    Assets:AliPay:Balance     0.29 CNY
+
+2025-05-09 * "兴全基金管理有限公司" "余额宝-2025.05.08-收益发放"
+    time: "04:29:32"
+    uuid: "20250509366174997521"
+    status: "交易成功"
+    Income:Fund              -0.39 CNY
+    Assets:AliPay:Balance     0.39 CNY
+
+2025-05-08 * "兴全基金管理有限公司" "余额宝-2025.05.07-收益发放"
+    time: "04:36:14"
+    uuid: "20250508359374645521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-05-07 * "兴全基金管理有限公司" "余额宝-2025.05.06-收益发放"
+    time: "05:10:38"
+    uuid: "20250507353584299521"
+    status: "交易成功"
+    Income:Fund              -0.37 CNY
+    Assets:AliPay:Balance     0.37 CNY
+
+2025-05-06 * "兴全基金管理有限公司" "余额宝-2025.05.05-收益发放"
+    time: "05:29:22"
+    uuid: "20250506347677297521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-05-05 * "兴全基金管理有限公司" "余额宝-2025.05.04-收益发放"
+    time: "05:20:40"
+    uuid: "20250505341987784521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-05-04 * "兴全基金管理有限公司" "余额宝-2025.05.03-收益发放"
+    time: "05:59:45"
+    uuid: "20250504335944354521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-05-03 * "兴全基金管理有限公司" "余额宝-2025.05.02-收益发放"
+    time: "04:48:36"
+    uuid: "20250503329010641521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-05-02 * "兴全基金管理有限公司" "余额宝-2025.05.01-收益发放"
+    time: "04:41:39"
+    uuid: "20250502322241113521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+
+2025-05-01 * "兴全基金管理有限公司" "余额宝-2025.04.30-收益发放"
+    time: "04:06:29"
+    uuid: "20250501315828256521"
+    status: "交易成功"
+    Income:Fund              -0.35 CNY
+    Assets:AliPay:Balance     0.35 CNY
+

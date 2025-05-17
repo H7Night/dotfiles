@@ -33,12 +33,12 @@
     Expenses:Transport                      1.60 CNY
     Liabilities:CMBCreditCard:2035         -1.60 CNY
 
-; 2025-03-30 * "余额宝" "余额宝-单次转入"
-;     time: "13:46:51"
-;     uuid: "20250330019130100010520034277935"
-;     status: "交易成功"
-;     Assets:AliPay:Balance                   0.21 CNY
-; Assets:CB:0000                         -0.21 CNY
+2025-03-30 * "余额宝" "余额宝-单次转入"
+    time: "13:46:51"
+    uuid: "20250330019130100010520034277935"
+    status: "交易成功"
+    Assets:AliPay:Balance                   0.21 CNY
+    Income:Other                     -0.21 CNY
 
 2025-03-30 * "熹鳥碳火烧居酒屋" "熹鳥-自助服务"
     time: "19:28:34"

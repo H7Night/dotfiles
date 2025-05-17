@@ -20,11 +20,11 @@
 
 ; 支付宝余额
 2024-10-10 pad Assets:AliPay:Balance Equity:Opening-Balances
-2024-10-11 balance Assets:AliPay:Balance   3168.25 CNY
+2024-10-11 balance Assets:AliPay:Balance   3168.39 CNY
 
 ; 基金余额
 2024-10-10 pad Assets:AliPay:Funds Equity:Opening-Balances
-2024-10-11 balance Assets:AliPay:Funds     3808.26 CNY
+2024-10-11 balance Assets:AliPay:Funds     3808.25 CNY
 
 ; 现金余额
 2024-10-10 pad Assets:Cash:CNY Equity:Opening-Balances
