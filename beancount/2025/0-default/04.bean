@@ -110,6 +110,13 @@
     Expenses:Transport                  2.40 CNY
     Liabilities:CMBCreditCard:2035     -2.40 CNY
 
+2025-04-27 * "中运交通" "TK202504277715,2025-04-30 19:30越秀公园地铁站C出口招呼站→珠江村镇银"
+    time: "07:48:53"
+    uuid: "4200002683202504275523407628"
+    status: "支付成功"
+    Expenses:Transport    15.00 CNY
+    Assets:WeChat   -15.00 CNY
+
 2025-04-26 * "北岳**店" "卡式炉气罐液化煤气小瓶便携式丁烷卡磁正品瓦斯气瓶户外燃气气体"
     time: "16:43:41"
     uuid: "2025042622001153521400252262"
@@ -117,12 +124,26 @@
     Expenses:Shopping:Home             27.49 CNY
     Liabilities:CMBCreditCard:2035    -27.49 CNY
 
+2025-04-26 * "龟哥" "转账备注:微信转账"
+    time: "16:17:09"
+    uuid: "53010001600023202504261048003756"
+    status: "对方已收钱"
+    Expenses:Home:Delivery    15.00 CNY
+    Assets:WeChat   -15.00 CNY
+
 2025-04-26 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
     time: "14:40:10"
     uuid: "2025042622001453521457554099"
     status: "交易成功"
     Expenses:Food:Vegetables           13.20 CNY
     Liabilities:CMBCreditCard:2035    -13.20 CNY
+
+2025-04-26 * "luckin coffee" "订单付款"
+    time: "14:34:23"
+    uuid: "4200002658202504264546061749"
+    status: "支付成功"
+    Expenses:Food:Snack    9.90 CNY
+    Assets:WeChat   -9.90 CNY
 
 2025-04-25 * "广州地铁集团有限公司" "2025-04-25 18:13:21搭乘广州地铁"
     time: "18:33:37"
@@ -298,7 +319,7 @@
     uuid: "4200002715202504191556423965"
     status: "支付成功"
     Expenses:Transport                 15.00 CNY
-    Assets:Wechat                     -15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-04-18 * "包虤虤(佛山三水西南店)" "包虤虤(佛山三水西南店)"
     time: "21:04:08"
@@ -382,14 +403,14 @@
     uuid: "53010001282113202504161893861124"
     status: "对方已收钱"
     Expenses:Home:Rent               1016.00 CNY
-    Assets:Wechat                   -1016.00 CNY
+    Assets:WeChat                   -1016.00 CNY
 
 2025-04-16 * "肥佬" "转账备注:微信转账"
     time: "18:17:22"
     uuid: "1000050001202504161028883690108"
     status: "已存入零钱"
     Income:RedEnvelope               -300.00 CNY
-    Assets:Wechat                     300.00 CNY
+    Assets:WeChat                     300.00 CNY
 
 2025-04-16 * "哈曼**店" "【焕新价】哈曼卡顿水晶4代桌面无线蓝牙音箱电脑电视礼物礼品家用音响低音"
     time: "13:19:27"
@@ -403,7 +424,7 @@
     uuid: "4200002621202504161121983140"
     status: "支付成功"
     Expenses:Transport                 15.00 CNY
-    Assets:Wechat                     -15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-04-16 * "广州地铁集团有限公司" "2025-04-16 07:53:05搭乘广州地铁"
     time: "08:10:22"
@@ -498,7 +519,7 @@
     uuid: "4200002631202504115847398812"
     status: "支付成功"
     Expenses:Transport                 15.00 CNY
-    Assets:Wechat                     -15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-04-11 * "广州地铁集团有限公司" "2025-04-11 18:48:17搭乘广州地铁"
     time: "19:03:14"
@@ -561,7 +582,7 @@
     uuid: "4200002623202504092829990727"
     status: "支付成功"
     Expenses:Transport                 15.00 CNY
-    Assets:Wechat                     -15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-04-09 * "招商银行" "信用卡还款"
     time: "18:17:15"
@@ -652,7 +673,7 @@
     uuid: "4200002709202504053274778980"
     status: "支付成功"
     Expenses:Transport                 15.00 CNY
-    Assets:Wechat                     -15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-04-04 * "辣辣寿司赤岗店" "辣辣寿司赤岗店"
     time: "19:06:42"
@@ -680,7 +701,7 @@
     uuid: "4200002712202504035623501340"
     status: "支付成功"
     Expenses:Food:Dinner               27.90 CNY
-    Assets:Wechat                     -27.90 CNY
+    Assets:WeChat                     -27.90 CNY
 
 2025-04-03 * "雨东烘焙" "收钱码收款"
     time: "22:10:05"
@@ -750,7 +771,7 @@
     uuid: "4200002701202504017757230828"
     status: "支付成功"
     Expenses:Transport                 15.00 CNY
-    Assets:Wechat                     -15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-04-01 * "***牙" "收钱码收款"
     time: "12:44:08"
@@ -771,4 +792,4 @@
     uuid: "1000050001202504011122796800426"
     status: "已存入零钱"
     Income:RedEnvelope               -922.25 CNY
-    Assets:Wechat                     922.25 CNY
+    Assets:WeChat                     922.25 CNY

@@ -24,7 +24,7 @@
     uuid: "4200002657202503311911869706"
     status: "支付成功"
     Expenses:Food:Launch                   17.00 CNY
-    Assets:Wechat                         -17.00 CNY
+    Assets:WeChat                         -17.00 CNY
 
 2025-03-31 * "广州地铁集团有限公司" "2025-03-31 07:48:43搭乘广州地铁"
     time: "08:01:45"
@@ -45,14 +45,14 @@
     uuid: "4200002677202503302687434086"
     status: "支付成功"
     Expenses:Food:Dinner                   12.00 CNY
-    Assets:Wechat                         -12.00 CNY
+    Assets:WeChat                         -12.00 CNY
 
 2025-03-30 * "熹鳥碳火烧居酒屋" "熹鳥-自助服务"
     time: "18:54:05"
     uuid: "4200002678202503305548518720"
     status: "支付成功"
     Expenses:Food:Dinner                  378.00 CNY
-    Assets:Wechat                        -378.00 CNY
+    Assets:WeChat                        -378.00 CNY
 
 2025-03-30 * "余额宝" "余额宝-单次转入"
     time: "13:23:43"

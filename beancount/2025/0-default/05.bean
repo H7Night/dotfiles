@@ -75,6 +75,13 @@
     Expenses:Shopping:Makeup           50.00 CNY
     Liabilities:CMBCreditCard:2035    -50.00 CNY
 
+2025-05-15 * "中运交通" "TK2025051556250,2025-05-18 21:00三水广场公交站必胜客餐厅→越秀公"
+    time: "21:32:47"
+    uuid: "4200002706202505159506204754"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:WeChat                     -15.00 CNY
+
 2025-05-15 * "广州地铁集团有限公司" "2025-05-15 18:13:46搭乘广州地铁"
     time: "18:32:41"
     uuid: "2025051522001453521400785350"
@@ -95,6 +102,14 @@
     status: "交易成功"
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+
+2025-05-14 * "中运交通" "TK2025051438575,2025-05-16 19:00越秀公园地铁站C出口招呼站→珠江村镇"
+    time: "18:13:30"
+    uuid: "4200002675202505145161557709"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-05-14 * "广州地铁集团有限公司" "2025-05-14 17:48:02搭乘广州地铁"
     time: "18:08:36"
@@ -180,6 +195,24 @@
     Expenses:Transport                  2.00 CNY
     Liabilities:CMBCreditCard:2035     -2.00 CNY
 
+2025-05-10 * "房东-天平架" "转账备注:微信转账"
+    time: "17:29:07"
+    uuid: "53010001561077202505101055211496"
+    status: "对方已收钱"
+    Expenses:Home:Rent               1016.00 CNY
+    Assets:WeChat                   -1016.00 CNY
+
+2025-05-10 * "妈" "转账备注:微信转账"
+    time: "11:22:21"
+    uuid: "1000050001202505101120100586041"
+    status: "已存入零钱"
+    Income:RedEnvelope               -500.00 CNY
+    Assets:WeChat                     500.00 CNY
+
+2025-05-10 * "妈" "现金"
+    Expenses:Other                    350.00 CNY
+    Assets:Cash:CNY                  -350.00 CNY
+
 2025-05-10 * "余额宝" "余额宝-单次转入"
     time: "11:11:45"
     uuid: "20250510019130100010520073116843"
@@ -191,12 +224,26 @@
     Income:Salary                   -5120.08 CNY
     Assets:CEB:1027                  5120.08 CNY
 
+2025-05-10 * "妈" "转账备注:微信转账"
+    time: "11:08:38"
+    uuid: "53010001607035202505103199551000"
+    status: "对方已收钱"
+    Expenses:Other                   2000.00 CNY
+    Assets:WeChat                   -2000.00 CNY
+
 2025-05-10 * "mom" "转账"
     time: "11:08:32"
     uuid: "20250510200040011100110014742071"
     status: "交易成功"
     Income:RedEnvelope              -2000.00 CNY
     Assets:AliPay:Balance            2000.00 CNY
+
+2025-05-10 * "手机充值-中国移动" "50元手机话费-13809249151"
+    time: "10:00:51"
+    uuid: "4200002711202505103466332845"
+    status: "支付成功"
+    Expenses:Home:Phone                50.00 CNY
+    Assets:WeChat                     -50.00 CNY
 
 2025-05-10 * "花呗" "花呗自动还款-2025年05月账单"
     time: "09:20:50"
@@ -261,6 +308,13 @@
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
 
+2025-05-09 * "中运交通" "TK202505096340,2025-05-11 20:51西青大道公交站→越秀公园地铁站C出口招"
+    time: "07:28:21"
+    uuid: "4200002675202505097319676760"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:WeChat                     -15.00 CNY
+
 2025-05-08 * "拾味糕点" "会员充值100.00元"
     time: "22:06:28"
     uuid: "2025050822001453521417333689"
@@ -274,6 +328,13 @@
     status: "交易成功"
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-05-08 * "中运交通" "TK2025050836447,2025-05-09 19:30越秀公园地铁站C出口招呼站→西青大道"
+    time: "17:03:31"
+    uuid: "4200002691202505088149240131"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-05-08 * "广州地铁集团有限公司" "2025-05-08 07:54:04搭乘广州地铁"
     time: "08:12:30"
@@ -345,6 +406,13 @@
     Expenses:Food:Snack                10.00 CNY
     Liabilities:CMBCreditCard:2035    -10.00 CNY
 
+2025-05-05 * "luckin coffee" "订单付款"
+    time: "15:50:06"
+    uuid: "4200002613202505050426940194"
+    status: "支付成功"
+    Expenses:Food:Snack                 9.90 CNY
+    Assets:WeChat                      -9.90 CNY
+
 2025-05-05 * "别***7" "小熊电热饭盒免注水自热保温加热饭盒便当盒插电上班族热饭神器，"
     time: "09:40:33"
     uuid: "2025050522001153521449492013"
@@ -373,12 +441,33 @@
     Expenses:Food:Snack                 9.00 CNY
     Liabilities:CMBCreditCard:2035     -9.00 CNY
 
+2025-05-04 * "佛山王府井紫薇港购物中心" "【粤EDK3619】在【王府井紫薇港】付停车费支付12元"
+    time: "19:17:03"
+    uuid: "4200002677202505040373293546"
+    status: "支付成功"
+    Expenses:Transport:Car:Parking     12.00 CNY
+    Assets:WeChat                     -12.00 CNY
+
 2025-05-04 * "AEON永旺（佛山王府井紫薇港店）" "云POS订单"
     time: "19:04:19"
     uuid: "2025050422001453521451299803"
     status: "交易成功"
     Expenses:Shopping:Home              7.80 CNY
     Liabilities:CMBCreditCard:2035     -7.80 CNY
+
+2025-05-03 * "包虤虤(佛山三水西南店)" "包虤虤(佛山三水西南店)"
+    time: "21:09:22"
+    uuid: "4200059303202505035560989007"
+    status: "支付成功"
+    Expenses:Food:Snack                16.00 CNY
+    Assets:WeChat                     -16.00 CNY
+
+2025-05-02 * "中运交通" "TK2025050225081,2025-05-05 21:00三水广场公交站必胜客餐厅→越秀公"
+    time: "11:55:04"
+    uuid: "4200002679202505024109704524"
+    status: "支付成功"
+    Expenses:Transport                 15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-05-01 * "tb**8" "KH饰键屋像素06键帽evo80 Crush80 雨75 65键帽原厂PBT热升华键帽"
     time: "10:19:18"
