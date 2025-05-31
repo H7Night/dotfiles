@@ -50,6 +50,8 @@ zinit cdreplay -q
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 
+# zoxide
+eval "$(zoxide init zsh)"
 # History
 HISTSIZE=5000
 HISTFILE=~/.zsh_history
