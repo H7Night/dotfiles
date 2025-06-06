@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.11.2
   timestamps:
     weasel: 1742035616
-    weasel.custom: 1742035616
+    weasel.custom: 1748917675
 app_options:
   cmd.exe:
     ascii_mode: true
@@ -87,7 +87,7 @@ preset_color_schemes:
 show_notifications: true
 show_notifications_time: 1200
 style:
-  color_scheme: ayaya
+  color_scheme: macos12_light
   comment_font_face: "Microsoft YaHei"
   comment_font_point: 14
   font_face: "Segoe UI Emoji:30:39, Noto Color Emoji, Microsoft YaHei"
