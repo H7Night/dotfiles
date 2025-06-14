@@ -1,7 +1,7 @@
 # Rime user dictionary
 #@/db_name	rime_ice
 #@/db_type	userdb
-#@/rime_version	1.13.1
+#@/rime_version	1.11.2
 #@/tick	28724
 #@/user_id	Win
 P 	P	c=2 d=2.48559e-06 t=28724
