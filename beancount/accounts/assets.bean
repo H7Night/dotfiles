@@ -8,6 +8,8 @@
 2000-01-01 open Assets:WeChat               CNY       ;微信余额
 2000-01-01 open Assets:AliPay:Balance       CNY       ;支付宝余额
 2000-01-01 open Assets:AliPay:Funds         CNY       ;支付宝基金
+
+; 银行卡
 2000-01-01 open Assets:CITIC:9425           CNY       ;中信银行 debit卡
 2025-05-17 close Assets:CITIC:9425
 2000-01-01 open Assets:CGB:41508            CNY       ;广发AE   debit卡
@@ -29,7 +31,7 @@
 
 ; 支付宝余额
 2024-10-10 pad Assets:AliPay:Balance Equity:Opening-Balances
-2024-10-11 balance Assets:AliPay:Balance            3168.39 CNY
+2024-10-11 balance Assets:AliPay:Balance            3168.88 CNY
 
 ; 基金余额
 2024-10-10 pad Assets:AliPay:Funds Equity:Opening-Balances
