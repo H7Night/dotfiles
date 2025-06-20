@@ -1,23 +1,23 @@
-# distribution_code_name: Weasel
-# distribution_name: "小狼毫"
-# distribution_version: 0.17.4
-# install_time: "Fri Jun  7 23:33:16 2024"
-# installation_id: Win
-# rime_version: 1.13.1
-# update_time: "Fri Jun  6 10:59:27 2025"
+distribution_code_name: Weasel
+distribution_name: "小狼毫"
+distribution_version: 0.17.4
+install_time: "Fri Jun  7 23:33:16 2024"
+installation_id: Win
+rime_version: 1.13.1
+update_time: "Fri Jun  6 10:59:27 2025"
 # sync_dir: "C:\\Users\\H7Night\\Public\\Lib\\dotfiles\\Rime\\sync" # Z490
-# sync_dir: "C:\\Users\\Hiyashiki\\Abandon\\Tools\\dotfiles\\Rime\\sync" #ThinkPad
+sync_dir: "C:\\Users\\Hiyashiki\\Abandon\\Tools\\dotfiles\\Rime\\sync" #ThinkPad
 
 
 # MacOS
-distribution_code_name: Squirrel
-distribution_name: "鼠鬚管"
-distribution_version: 0.18
-install_time: "Fri Jun  7 23:33:16 2024"
-update_time: "Fri Apr  4 00:51:24 2025"
-rime_version: 1.11.2
-installation_id: MacOS
-sync_dir: "/Users/jhonhe/Public/dotfiles/Rime/sync"
+# distribution_code_name: Squirrel
+# distribution_name: "鼠鬚管"
+# distribution_version: 0.18
+# install_time: "Fri Jun  7 23:33:16 2024"
+# update_time: "Fri Apr  4 00:51:24 2025"
+# rime_version: 1.11.2
+# installation_id: MacOS
+# sync_dir: "/Users/jhonhe/Public/dotfiles/Rime/sync"
 
 
 # Linux
