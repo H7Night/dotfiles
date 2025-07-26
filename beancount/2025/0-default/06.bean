@@ -1,3 +1,80 @@
+2025-06-30 * "上海樊为信息科技有限公司" "转单 DCS Intro 奶白色 黑二色 ABS 二色键帽"
+    time: "21:30:28"
+    uuid: "20250630020070011580520071348339"
+    status: "交易成功"
+    Income:Sales                         -594.00 CNY
+    Assets:AliPay:Balance                 594.00 CNY
+
+2025-06-30 * "广州地铁集团有限公司" "2025-06-30 20:03:18搭乘广州地铁"
+    time: "20:19:54"
+    uuid: "2025063022001453521425869482"
+    status: "交易成功"
+    Expenses:Transport                      2.40 CNY
+    Liabilities:CMBCreditCard:2035         -2.40 CNY
+
+2025-06-30 * "广州地铁集团有限公司" "2025-06-30 07:57:42搭乘广州地铁"
+    time: "08:14:27"
+    uuid: "2025063022001453521420893566"
+    status: "交易成功"
+    Expenses:Transport                      2.40 CNY
+    Liabilities:CMBCreditCard:2035         -2.40 CNY
+
+2025-06-29 * "t***0" "希捷4T CMR垂直盘 3.5寸机械硬盘，型号为ST4000"
+    time: "21:20:57"
+    uuid: "2025062922001153521421819255"
+    status: "交易成功"
+    Expenses:Shopping:Digital             320.00 CNY
+    Liabilities:Huabei                   -320.00 CNY
+
+2025-06-29 * "华莱士" "广州天平架陶庄27AS7小程序订单"
+    time: "18:10:37"
+    uuid: "4200002676202506290997655234"
+    status: "支付成功"
+    Expenses:Food:Dinner                   12.00 CNY
+    Assets:WeChat                         -12.00 CNY
+
+2025-06-29 * "广州地铁集团有限公司" "2025-06-29 17:40:48搭乘广州地铁"
+    time: "18:01:02"
+    uuid: "2025062922001453521420794432"
+    status: "交易成功"
+    Expenses:Transport                      2.40 CNY
+    Liabilities:CMBCreditCard:2035         -2.40 CNY
+
+2025-06-29 * "广州地铁集团有限公司" "2025-06-29 08:00:17搭乘广州地铁"
+    time: "08:18:29"
+    uuid: "2025062922001453521418289124"
+    status: "交易成功"
+    Expenses:Transport                      2.40 CNY
+    Liabilities:CMBCreditCard:2035         -2.40 CNY
+
+2025-06-28 * "波记港式饮品广州天平架店" "波记港式饮品广州天平架店"
+    time: "14:05:10"
+    uuid: "2025062822001453521413209793"
+    status: "交易成功"
+    Expenses:Food:Lunch                    22.00 CNY
+    Liabilities:CMBCreditCard:2035        -22.00 CNY
+
+2025-06-28 * "广州地铁集团有限公司" "2025-06-28 13:34:05搭乘广州地铁"
+    time: "13:59:04"
+    uuid: "2025062822001453521414375602"
+    status: "交易成功"
+    Expenses:Transport                      2.40 CNY
+    Liabilities:CMBCreditCard:2035         -2.40 CNY
+
+2025-06-28 * "万代南梦宫（上海）娱乐有限公司广州分公司" "万代南梦宫（上海）娱乐有限公司广州分公司"
+    time: "11:42:28"
+    uuid: "2025062822001453521409552767"
+    status: "交易成功"
+    Expenses:Shopping:Toy                 328.00 CNY
+    Liabilities:CMBCreditCard:2035       -328.00 CNY
+
+2025-06-28 * "广州地铁集团有限公司" "2025-06-28 09:17:21搭乘广州地铁"
+    time: "09:34:40"
+    uuid: "2025062822001453521414659623"
+    status: "交易成功"
+    Expenses:Transport                      1.60 CNY
+    Liabilities:CMBCreditCard:2035         -1.60 CNY
+
 2025-06-27 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
     time: "19:05:55"
     uuid: "2025062722001453521409585962"
@@ -148,8 +225,8 @@
     time: "18:26:14"
     uuid: "4200002694202506204621865865"
     status: "支付成功"
-    Expenses:Transport    16.00 CNY
-    Assets:WeChat   -16.00 CNY
+    Expenses:Transport                     16.00 CNY
+    Assets:WeChat                         -16.00 CNY
 
 2025-06-20 * "广州地铁集团有限公司" "2025-06-20 18:06:21搭乘广州地铁"
     time: "18:21:41"
