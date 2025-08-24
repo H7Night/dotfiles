@@ -1,3 +1,107 @@
+2025-07-31 * "五险一金" "养老"
+    Income:Government                   -448 CNY
+    Assets:Government:Pension            448 CNY
+2025-07-31 * "五险一金" "失业"
+    Income:Government                  -11.2 CNY
+    Assets:Government:Unemployment      11.2 CNY
+2025-07-31 * "五险一金" "医疗"
+    Income:Government                -124.72 CNY
+    Assets:Government:Medical         124.72 CNY
+2025-07-31 * "五险一金" "公积金"
+    Income:Government                -336.00 CNY
+    Assets:Government:House           336.00 CNY
+
+2025-07-31 * "波记港式饮品广州天平架店" "波记港式饮品广州天平架店"
+    time: "19:13:28"
+    uuid: "2025073122001453521435179192"
+    status: "交易成功"
+    Expenses:Food:Dinner               13.00 CNY
+    Liabilities:CMBCreditCard:2035    -13.00 CNY
+
+2025-07-31 * "广州地铁集团有限公司" "2025-07-31 18:50:15搭乘广州地铁"
+    time: "19:08:16"
+    uuid: "2025073122001453521437924539"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-07-31 * "广州地铁集团有限公司" "2025-07-31 08:01:01搭乘广州地铁"
+    time: "08:21:11"
+    uuid: "2025073122001453521431653158"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-07-30 * "广州地铁集团有限公司" "2025-07-30 19:33:57搭乘广州地铁"
+    time: "19:53:58"
+    uuid: "2025073022001453521430736729"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-07-30 * "中华包点广州大塘大街店" "早三鲜物资大厦店"
+    time: "19:28:09"
+    uuid: "2025073022001453521431001595"
+    status: "交易成功"
+    Expenses:Food:Breakfast             4.00 CNY
+    Liabilities:CMBCreditCard:2035     -4.00 CNY
+
+2025-07-30 * "广州地铁集团有限公司" "2025-07-30 07:58:03搭乘广州地铁"
+    time: "08:16:48"
+    uuid: "2025073022001453521428848548"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-07-29 * "广州地铁集团有限公司" "2025-07-29 21:02:12搭乘广州地铁"
+    time: "21:25:11"
+    uuid: "2025072922001453521428868492"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-07-29 * "广州地铁集团有限公司" "2025-07-29 08:00:03搭乘广州地铁"
+    time: "08:18:15"
+    uuid: "2025072922001453521423245958"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-07-28 * "广州地铁集团有限公司" "2025-07-28 19:34:08搭乘广州地铁"
+    time: "19:55:38"
+    uuid: "2025072822001453521422707428"
+    status: "交易成功"
+    Expenses:Transport                  2.40 CNY
+    Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-07-28 * "淘宝闪购" "盒马鲜生(合一国际店)"
+    time: "19:40:15"
+    uuid: "2025072822001153521422281509"
+    status: "交易成功"
+    Expenses:Food:Vegetables           31.87 CNY
+    Liabilities:CMBCreditCard:2035    -31.87 CNY
+
+2025-07-28 * "芬记美食" "芬记小厨"
+    time: "12:16:56"
+    uuid: "2025072822001453521419098575"
+    status: "交易成功"
+    Expenses:Food:Lunch                18.00 CNY
+    Liabilities:CMBCreditCard:2035    -18.00 CNY
+
+2025-07-28 * "广州地铁集团有限公司" "2025-07-28 07:44:29搭乘广州地铁"
+    time: "07:58:44"
+    uuid: "2025072822001453521419255035"
+    status: "交易成功"
+    Expenses:Transport                  1.60 CNY
+    Liabilities:CMBCreditCard:2035     -1.60 CNY
+
+2025-07-28 * "佛山市华美食品有限公司" "新喜点(雅湖店)-W125072806221268669915631389"
+    time: "06:22:14"
+    uuid: "2025072822001453521418076723"
+    status: "交易成功"
+    Expenses:Food:Breakfast            20.50 CNY
+    Liabilities:CMBCreditCard:2035    -20.50 CNY
+
 2025-07-25 * "全天靓粥万景豪园店" "全天靓粥万景豪园店"
     time: "21:47:35"
     uuid: "2025072522001453521408012986"
@@ -403,6 +507,8 @@
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
 
+2025-07-11 *
+
 2025-07-11 * "余额宝" "余额宝-单次转入"
     time: "19:09:39"
     uuid: "20250711019130100010520028531986"
@@ -470,7 +576,7 @@
     time: "08:25:10"
     uuid: "4200002767202507107015743678"
     status: "支付成功"
-    Expenses:Other                      5.00 CNY
+    Expenses:Food:Breakfast             5.00 CNY
     Assets:WeChat                      -5.00 CNY
 
 2025-07-10 * "广州地铁集团有限公司" "2025-07-10 07:59:11搭乘广州地铁"

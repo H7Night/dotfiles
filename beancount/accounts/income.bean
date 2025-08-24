@@ -18,4 +18,6 @@
 ;股票
 2000-01-01 open Income:Stock            CNY
 
+2000-01-01 open Income:Government       CNY
+
 2000-01-01 open Income:Other            CNY

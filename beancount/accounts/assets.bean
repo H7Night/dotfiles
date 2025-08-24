@@ -61,18 +61,19 @@
 2024-10-11 balance Assets:Stock                      546.62 CNY
 
 ; 五险一金
+; 养老
 2025-05-01 pad Assets:Government:Pension  Equity:Opening-Balances
 2025-05-02 balance Assets:Government:Pension        6391.36 CNY
 
+; 失业
 2025-05-01 pad Assets:Government:Unemployment  Equity:Opening-Balances
 2025-05-02 balance Assets:Government:Unemployment      82.2 CNY
 
+; 医疗
 2025-05-01 pad Assets:Government:Medical  Equity:Opening-Balances
 2025-05-02 balance Assets:Government:Medical        1658.09 CNY
 
-2025-05-01 pad Assets:Government:Injury  Equity:Opening-Balances
-2025-05-02 balance Assets:Government:Injury            82.2 CNY
-
+; 住房公积金
 2025-05-01 pad Assets:Government:House  Equity:Opening-Balances
 2025-05-02 balance Assets:Government:House          7363.29 CNY
 

@@ -1,3 +1,16 @@
+2025-06-30 * "五险一金" "养老"
+    Income:Government                       -448 CNY
+    Assets:Government:Pension                448 CNY
+2025-06-30 * "五险一金" "失业"
+    Income:Government                      -11.2 CNY
+    Assets:Government:Unemployment          11.2 CNY
+2025-06-30 * "五险一金" "医疗"
+    Income:Government                    -124.72 CNY
+    Assets:Government:Medical             124.72 CNY
+2025-06-30 * "五险一金" "公积金"
+    Income:Government                    -336.00 CNY
+    Assets:Government:House               336.00 CNY
+
 2025-06-30 * "上海樊为信息科技有限公司" "转单 DCS Intro 奶白色 黑二色 ABS 二色键帽"
     time: "21:30:28"
     uuid: "20250630020070011580520071348339"
