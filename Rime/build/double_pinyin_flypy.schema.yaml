@@ -1,10 +1,10 @@
 __build_info:
   rime_version: 1.13.1
   timestamps:
-    default: 1745228783
+    default: 1758073810
     default.custom: 1742035616
     double_pinyin_flypy.custom: 1742035616
-    double_pinyin_flypy.schema: 1742035616
+    double_pinyin_flypy.schema: 1758074100
     symbols_caps_v: 1742035616
     symbols_caps_v.custom: 0
 cn_en:
@@ -16,7 +16,6 @@ cn_en:
   enable_sentence: false
   initial_quality: 0.5
   user_dict: "en_dicts/cn_en_flypy"
-corrector: "{comment}"
 custom_phrase:
   db_class: stabledb
   dictionary: ""
@@ -30,23 +29,34 @@ date_translator:
   time: time
   timestamp: timestamp
   week: week
+editor:
+  bindings:
+    BackSpace: revert
+    "Control+BackSpace": back_syllable
+    "Control+Delete": delete_candidate
+    "Control+Return": commit_script_text
+    "Control+Shift+Return": commit_comment
+    Delete: delete
+    Escape: cancel
+    Return: commit_raw_input
+    space: confirm
 emoji:
   inherit_comment: false
   opencc_config: emoji.json
   option_name: emoji
 engine:
   filters:
-    - "lua_filter@corrector"
+    - "lua_filter@*corrector"
     - "reverse_lookup_filter@radical_reverse_lookup"
-    - "lua_filter@autocap_filter"
-    - "lua_filter@pin_cand_filter"
-    - "lua_filter@reduce_english_filter"
+    - "lua_filter@*autocap_filter"
+    - "lua_filter@*pin_cand_filter"
+    - "lua_filter@*reduce_english_filter"
     - "simplifier@emoji"
     - "simplifier@traditionalize"
-    - "lua_filter@search@radical_pinyin"
+    - "lua_filter@*search@radical_pinyin"
     - uniquifier
   processors:
-    - "lua_processor@select_character"
+    - "lua_processor@*select_character"
     - ascii_composer
     - recognizer
     - key_binder
@@ -65,15 +75,16 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - "lua_translator@date_translator"
-    - "lua_translator@lunar"
+    - "lua_translator@*date_translator"
+    - "lua_translator@*lunar"
     - "table_translator@custom_phrase"
     - "table_translator@melt_eng"
     - "table_translator@cn_en"
     - "table_translator@radical_lookup"
-    - "lua_translator@unicode"
-    - "lua_translator@number_translator"
-    - "lua_translator@force_gc"
+    - "lua_translator@*unicode"
+    - "lua_translator@*number_translator"
+    - "lua_translator@*calc_translator"
+    - "lua_translator@*force_gc"
 key_binder:
   bindings:
     - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
@@ -82,11 +93,10 @@ key_binder:
     - {accept: "Alt+Right", send: "Shift+Right", when: composing}
     - {accept: minus, send: Page_Up, when: has_menu}
     - {accept: equal, send: Page_Down, when: has_menu}
-    - {accept: "Control+Shift+1", toggle: ascii_punct, when: always}
+    - {accept: "Control+Shift+3", toggle: ascii_punct, when: always}
     - {accept: "Control+Shift+numbersign", toggle: ascii_punct, when: always}
-    - {accept: "Control+Shift+2", toggle: traditionalization, when: always}
+    - {accept: "Control+Shift+4", toggle: traditionalization, when: always}
     - {accept: "Control+Shift+dollar", toggle: traditionalization, when: always}
-    - {accept: "Control+k", send: "Shift+Delete", when: composing}
     - {accept: KP_0, send: 0, when: composing}
     - {accept: KP_1, send: 1, when: composing}
     - {accept: KP_2, send: 2, when: composing}
@@ -98,6 +108,10 @@ key_binder:
     - {accept: KP_8, send: 8, when: composing}
     - {accept: KP_9, send: 9, when: composing}
     - {accept: KP_Decimal, send: period, when: composing}
+    - {accept: KP_Multiply, send: asterisk, when: composing}
+    - {accept: KP_Add, send: plus, when: composing}
+    - {accept: KP_Subtract, send: minus, when: composing}
+    - {accept: KP_Divide, send: slash, when: composing}
   import_preset: default
   search: "`"
   select_first_character: bracketleft
@@ -115,6 +129,7 @@ menu:
 pin_cand_filter:
   - "d\t的"
 punctuator:
+  digit_separators: ",.:"
   full_shape:
     " ": {commit: "　"}
     "!": {commit: "！"}
@@ -404,6 +419,7 @@ radical_reverse_lookup:
 recognizer:
   import_preset: default
   patterns:
+    calculator: "^cC.+"
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
     gregorian_to_lunar: "^N[0-9]{1,8}"
     number: "^R[0-9]+[.]?[0-9]*"
@@ -446,7 +462,6 @@ reduce_english_filter:
     - cam
     - cans
     - cap
-    - cas
     - cef
     - chad
     - chan
@@ -763,6 +778,9 @@ translator:
   enable_word_completion: true
   initial_quality: 1.2
   preedit_format:
+    - "xform/(^|[ '])aa/$1a/"
+    - "xform/(^|[ '])ee/$1e/"
+    - "xform/(^|[ '])oo/$1o/"
     - "xform/([bpmfdtnljqx])n/$1iao/"
     - "xform/(\\w)g/$1eng/"
     - "xform/(\\w)q/$1iu/"
@@ -796,5 +814,6 @@ translator:
     - "xform/([jqxy])v/$1u/"
     - "xform/([nl])v/$1ü/"
     - "xform/ü/v/"
+    - "xform/(?<=[A-Z])\\s(?=[A-Z])//"
   prism: double_pinyin_flypy
   spelling_hints: 8

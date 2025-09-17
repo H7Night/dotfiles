@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.13.1
   timestamps:
-    default: 1745228783
+    default: 1758073810
     default.custom: 1742035616
     melt_eng.custom: 1742035616
     melt_eng.schema: 1742035616
@@ -600,11 +600,10 @@ key_binder:
     - {accept: "Alt+Right", send: "Shift+Right", when: composing}
     - {accept: minus, send: Page_Up, when: has_menu}
     - {accept: equal, send: Page_Down, when: has_menu}
-    - {accept: "Control+Shift+1", toggle: ascii_punct, when: always}
+    - {accept: "Control+Shift+3", toggle: ascii_punct, when: always}
     - {accept: "Control+Shift+numbersign", toggle: ascii_punct, when: always}
-    - {accept: "Control+Shift+2", toggle: traditionalization, when: always}
+    - {accept: "Control+Shift+4", toggle: traditionalization, when: always}
     - {accept: "Control+Shift+dollar", toggle: traditionalization, when: always}
-    - {accept: "Control+k", send: "Shift+Delete", when: composing}
     - {accept: KP_0, send: 0, when: composing}
     - {accept: KP_1, send: 1, when: composing}
     - {accept: KP_2, send: 2, when: composing}
@@ -616,12 +615,17 @@ key_binder:
     - {accept: KP_8, send: 8, when: composing}
     - {accept: KP_9, send: 9, when: composing}
     - {accept: KP_Decimal, send: period, when: composing}
+    - {accept: KP_Multiply, send: asterisk, when: composing}
+    - {accept: KP_Add, send: plus, when: composing}
+    - {accept: KP_Subtract, send: minus, when: composing}
+    - {accept: KP_Divide, send: slash, when: composing}
   import_preset: default
   select_first_character: bracketleft
   select_last_character: bracketright
 menu:
   page_size: 6
 punctuator:
+  digit_separators: ",.:"
   full_shape:
     " ": {commit: "　"}
     "!": {commit: "！"}
