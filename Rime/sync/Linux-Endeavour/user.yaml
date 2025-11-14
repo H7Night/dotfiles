@@ -1,8 +1,8 @@
 var:
-  last_build_time: 1762761662
+  last_build_time: 1763082519
   option:
     emoji: true
   previously_selected_schema: double_pinyin_flypy
   schema_access_time:
-    double_pinyin_flypy: 1762765615
+    double_pinyin_flypy: 1763107394
     rime_ice: 1734337009
