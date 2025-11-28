@@ -108,24 +108,24 @@ export GLFW_IM_MODULE=fcitx
 # ----------------------Mac Config----------------------
 # go
 # export GO_HOME=$(brew --prefix go)
- export GOPATH="$HOME/Public/libs/go"
-# export PATH="$PATH:$GOPATH/bin"
-# export GOPROXY=https://goproxy.cn,direct
-# 
-# # python
-# # 优先使用 Homebrew 的 Python
+export GOPATH="$HOME/Public/libs/go"
+export PATH="$PATH:$GOPATH/bin"
+export GOPROXY=https://goproxy.cn,direct
+ 
+# python
+# 优先使用 Homebrew 的 Python
 # export PATH="/opt/homebrew/bin:$PATH"
-# # 明确别名（可选）
+# 明确别名（可选）
 # alias python3="/opt/homebrew/bin/python3"
 # alias pip3="/opt/homebrew/bin/pip3"
-# 
-# # fnm
+ 
+# fnm
 # eval "$(fnm env --use-on-cd)"
-# 
-# # java
+ 
+# java
 # export JAVA_HOME=$(brew --prefix openjdk)
 # export PATH="$JAVA_HOME/bin:$PATH"
-# 
+ 
 # ___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
 # 
 # export PATH=$PATH:/Users/jhonhe/.spicetify
