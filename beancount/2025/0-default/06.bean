@@ -1,15 +1,4 @@
-2025-06-30 * "五险一金" "养老"
-    Income:Government                       -448 CNY
-    Assets:Government:Pension                448 CNY
-2025-06-30 * "五险一金" "失业"
-    Income:Government                      -11.2 CNY
-    Assets:Government:Unemployment          11.2 CNY
-2025-06-30 * "五险一金" "医疗"
-    Income:Government                    -124.72 CNY
-    Assets:Government:Medical             124.72 CNY
-2025-06-30 * "五险一金" "公积金"
-    Income:Government                    -336.00 CNY
-    Assets:Government:House               336.00 CNY
+
 
 2025-06-30 * "上海樊为信息科技有限公司" "转单 DCS Intro 奶白色 黑二色 ABS 二色键帽"
     time: "21:30:28"
@@ -513,13 +502,6 @@
     status: "交易成功"
     Expenses:Transport                      3.00 CNY
     Liabilities:CMBCreditCard:2035         -3.00 CNY
-
-2025-06-11 * "余额宝" "余额宝-单次转入"
-    time: "06:53:41"
-    uuid: "20250611019130100010520003546162"
-    status: "交易成功"
-    Assets:AliPay:Balance                5051.32 CNY
-    Income:Salary                       -5051.32 CNY
 
 2025-06-10 * "房东-天平架" "转账备注:微信转账"
     time: "19:22:52"

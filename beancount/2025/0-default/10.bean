@@ -695,8 +695,8 @@
     time: "10:39:08"
     uuid: "20251012019130100010520004937674"
     status: "交易成功"
-    Income:Salary                    -4650.20 CNY
-    Assets:AliPay:Balance             4650.20 CNY
+    Income:Salary                     -4650.20 CNY
+    Assets:AliPay:Balance              4650.20 CNY
 
 2025-10-11 * "清新强力凉茶" "收钱码收款"
     time: "20:28:41"

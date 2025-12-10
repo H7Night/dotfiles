@@ -17,13 +17,6 @@
 2025-03-27 open Assets:CEB:1027             CNY       ;光大银行 debit卡
 2000-01-01 open Assets:Stock                CNY       ;股票
 
-;五险一金
-2000-01-01 open Assets:Government:Pension             ;养老保险
-2000-01-01 open Assets:Government:Unemployment        ;失业保险
-2000-01-01 open Assets:Government:Medical             ;医疗保险
-2000-01-01 open Assets:Government:Injury              ;工伤保险
-2000-01-01 open Assets:Government:House               ;住房公积金
-
 ;[初始化账户：2024-10-11]
 
 ; 微信余额
