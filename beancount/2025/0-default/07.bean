@@ -495,6 +495,13 @@
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
 
+2025-07-11 * "余额宝" "余额宝-单次转入"
+    time: "19:09:39"
+    uuid: "20250711019130100010520028531986"
+    status: "交易成功"
+    Income:Salary                     -4878.08 CNY
+    Assets:AliPay:Balance              4878.08 CNY
+
 2025-07-11 * "房东-天平架" "转账备注:微信转账"
     time: "19:01:16"
     uuid: "53010001605089202507111369743649"
