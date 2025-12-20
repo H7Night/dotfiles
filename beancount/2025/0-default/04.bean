@@ -482,9 +482,6 @@
     Assets:AliPay:Balance            2965.08 CNY
     Assets:CEB:1027                 -2965.08 CNY
 
-2025-04-13 * "工资" "海鑫科金"
-    Income:Salary                   -2965.08 CNY
-    Assets:CEB:1027                  2965.08 CNY
 
 2025-04-13 * "壹亩**店" "紫薯新鲜板栗红薯番薯地瓜蜜薯糖心10斤山芋烟薯香薯蔬菜农家自种"
     time: "08:31:29"

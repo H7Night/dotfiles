@@ -591,8 +591,8 @@
     time: "08:25:13"
     uuid: "20250912019130100010520079850541"
     status: "交易成功"
-    Income:Salary                   -6303.22 CNY
-    Assets:AliPay:Balance            6303.22 CNY
+    Income:Salary                     -6303.22 CNY
+    Assets:AliPay:Balance              6303.22 CNY
 
 2025-09-11 * "发给俊哥" "/"
     time: "19:04:08"

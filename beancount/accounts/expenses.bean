@@ -9,7 +9,12 @@
 2000-01-01 open Expenses:Food:Invite                    ;请客吃饭
 2000-01-01 open Expenses:Food:Other                     ;其他
 
-;个人税
+;五险一金
+2000-01-01 open Expenses:Government:Pension             ;养老保险
+2000-01-01 open Expenses:Government:Unemployment        ;失业保险
+2000-01-01 open Expenses:Government:Medical             ;医疗保险
+2000-01-01 open Expenses:Government:Injury              ;工伤保险
+2000-01-01 open Expenses:Government:House               ;住房公积金
 2000-01-01 open Expenses:Government:IncomeTax           ;工资税
 2000-01-01 open Expenses:Government:Customs             ;关税
 

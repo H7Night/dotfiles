@@ -1,8 +1,11 @@
 ;[收入类型：2024-10-11]
 
 ;工资
-2000-01-01 open Income:Salary           CNY
-
+2000-01-01 open Income:Salary           CNY  ;工资薪金
+2000-01-01 open Income:Phone            CNY  ;通讯补助
+2000-01-01 open Income:Meal             CNY  ;餐补
+2000-01-01 open Income:OT               CNY  ;加班费  
+2000-01-01 open Income:Performance      CNY  ;绩效  
 ;退款返款
 2000-01-01 open Income:Rebate           CNY
 
@@ -17,7 +20,5 @@
 
 ;股票
 2000-01-01 open Income:Stock            CNY
-
-2000-01-01 open Income:Government       CNY
 
 2000-01-01 open Income:Other            CNY

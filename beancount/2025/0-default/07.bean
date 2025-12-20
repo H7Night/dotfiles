@@ -1,15 +1,3 @@
-2025-07-31 * "五险一金" "养老"
-    Income:Government                   -448 CNY
-    Assets:Government:Pension            448 CNY
-2025-07-31 * "五险一金" "失业"
-    Income:Government                  -11.2 CNY
-    Assets:Government:Unemployment      11.2 CNY
-2025-07-31 * "五险一金" "医疗"
-    Income:Government                -124.72 CNY
-    Assets:Government:Medical         124.72 CNY
-2025-07-31 * "五险一金" "公积金"
-    Income:Government                -336.00 CNY
-    Assets:Government:House           336.00 CNY
 
 2025-07-31 * "波记港式饮品广州天平架店" "波记港式饮品广州天平架店"
     time: "19:13:28"
@@ -507,14 +495,12 @@
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
 
-2025-07-11 *
-
 2025-07-11 * "余额宝" "余额宝-单次转入"
     time: "19:09:39"
     uuid: "20250711019130100010520028531986"
     status: "交易成功"
-    Income:Salary                   -4878.08 CNY
-    Assets:AliPay:Balance            4878.08 CNY
+    Income:Salary                     -4878.08 CNY
+    Assets:AliPay:Balance              4878.08 CNY
 
 2025-07-11 * "房东-天平架" "转账备注:微信转账"
     time: "19:01:16"

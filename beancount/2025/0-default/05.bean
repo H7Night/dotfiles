@@ -601,10 +601,6 @@
     Assets:AliPay:Balance                  5120.08 CNY
     Assets:CEB:1027                       -5120.08 CNY
 
-2025-05-10 * "工资" "工资"
-    Income:Salary                         -5120.08 CNY
-    Assets:CEB:1027                        5120.08 CNY
-
 2025-05-10 * "妈" "转账备注:微信转账"
     time: "11:08:38"
     uuid: "53010001607035202505103199551000"
