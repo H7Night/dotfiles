@@ -1,10 +1,10 @@
 var:
-  last_build_time: 1766363297
+  last_build_time: 1766645728
   option:
     ascii_punct: false
     emoji: true
     full_shape: false
-  previously_selected_schema: double_pinyin_flypy
+  previously_selected_schema: rime_ice
   schema_access_time:
-    double_pinyin_flypy: 1766374549
-    rime_ice: 1734337009
+    double_pinyin_flypy: 1766712566
+    rime_ice: 1766733915
