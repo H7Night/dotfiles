@@ -33,10 +33,9 @@ if (Test-Path $backupFile) {
     # 自动切换到备份文件所在目录执行，避免路径解析错误
     Push-Location (Split-Path $backupFile)
     
-    # 安装加速插件（可选但强烈建议）
     scoop install aria2
-    
-    # 核心导入命令
+    scoop config proxy 127.0.0.1:7890
+
     scoop import (Split-Path $backupFile -Leaf)
     
     Pop-Location
