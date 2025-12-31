@@ -1,0 +1,1 @@
+scoop export > scoop_backup.json
