@@ -91,6 +91,7 @@ uproxy () {
 
 # Aliases
 alias ls='ls --color'
+alias brew='proxy && brew'
 alias vim='nvim'
 alias nvi='neovide'
 alias c='clear'
