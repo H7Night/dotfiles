@@ -40,6 +40,7 @@ if (Test-Path $backupFile) {
     
     scoop update -a
     scoop cleanup -a
+    
     Pop-Location
     Write-Host "恢复任务已完成！" -ForegroundColor Green
 }
