@@ -4,5 +4,26 @@ distribution_version: 0.16.1
 install_time: "Fri Jun  7 23:33:16 2024"
 installation_id: Win
 rime_version: 1.11.2
-sync_dir: "C:\\Users\\user\\AppData\\Roaming\\Rime\\sync"
 update_time: "Thu Dec 25 14:48:25 2025"
+# sync_dir: "C:\\Users\\H7Night\\Public\\Lib\\dotfiles\\Rime\\sync" # Z490
+sync_dir: "C:\\Users\\user\\AppData\\Roaming\\Rime\\sync" # Work
+
+# MacOS
+# distribution_code_name: Squirrel
+# distribution_name: "鼠鬚管"
+# distribution_version: 0.18
+# install_time: "Fri Jun  7 23:33:16 2024"
+# update_time: "Fri Apr  4 00:51:24 2025"
+# rime_version: 1.11.2
+# installation_id: MacOS
+# sync_dir: "/Users/jhonhe/Public/dotfiles/Rime/sync"
+
+
+# Linux
+# distribution_code_name: "fcitx-rime"
+# distribution_name: Rime
+# distribution_version: 5.1.12
+# installation_id: "Linux"
+# rime_version: 1.14.0
+# sync_dir: "/home/jhon/.local/share/fcitx5/rime/sync"
+# update_time: "Mon Nov 10 16:01:01 2025"
