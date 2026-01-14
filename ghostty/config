@@ -1,0 +1,49 @@
+# Ghostty config generated from kitty/.config/kitty
+
+# Font
+font-family = "FiraCode Nerd Font Mono"
+bold-font-family = "FiraCode Nerd Font Mono Bold"
+italic-font-family = "FiraCode Nerd Font Mono Regular Italic"
+bold-italic-font-family = "FiraCode Nerd Font Mono Bold Italic"
+font-size = 13
+
+# Window
+window-padding-x = 5
+window-padding-y = 5
+window-decoration = "auto"
+
+# Cursor
+cursor-style = "block"
+cursor-style-blink = false
+
+# macOS behavior
+macos-option-as-alt = true
+macos-quit-when-last-window-closed = false
+
+# Colors
+background = "#262427"
+foreground = "#fcfcfa"
+selection-background = "#fcfcfa"
+selection-foreground = "#262427"
+cursor-color = "#fcfcfa"
+cursor-text = "#000000"
+
+# 16-color palette
+palette = [
+  "#262427",
+  "#ff7272",
+  "#bcdf59",
+  "#ffca58",
+  "#49cae4",
+  "#a093e2",
+  "#aee8f4",
+  "#fcfcfa",
+  "#545452",
+  "#ff8787",
+  "#c6e472",
+  "#ffd271",
+  "#64d2e8",
+  "#aea3e6",
+  "#baebf6",
+  "#fcfcfa",
+]
