@@ -50,7 +50,7 @@
     Income:Salary:OT                   -966.00 CNY
     Assets:CEB:1027                     966.00 CNY
 2025-11-10 * "海鑫科金" "绩效奖惩"
-    Income:Salary:                     -630.00 CNY
+    Income:Salary:Performance          -630.00 CNY
     Assets:CEB:1027                     630.00 CNY
 2025-11-10 * "10月工资" "海鑫科金"
     Income:Salary                     -7000.00 CNY
@@ -145,7 +145,7 @@
     Income:Salary:Meal                 -400.00 CNY
     Assets:CEB:1027                     400.00 CNY
 2025-07-10 * "海鑫科金" "出勤扣款"
-    Income:Salary:                      490.00 CNY
+    Expenses:Salary:Other               490.00 CNY
     Assets:CEB:1027                    -490.00 CNY
 2025-07-10 * "6月工资" "海鑫科金"
     Income:Salary                     -7000.00 CNY
@@ -208,8 +208,8 @@
     Income:Salary:Meal                 -280.00 CNY
     Assets:CEB:1027                     280.00 CNY
 2025-07-10 * "海鑫科金" "出勤扣款"
-    Income:Salary:                     1995.00 CNY
-    Assets:CEB:1027                   -1995.00 CNY
+    Expenses:Salary:Other             -1995.00 CNY
+    Assets:CEB:1027                    1995.00 CNY
 2025-06-10 * "4月工资" "海鑫科金"
     Income:Salary                     -5600.00 CNY
     Assets:CEB:1027                    5600.00 CNY

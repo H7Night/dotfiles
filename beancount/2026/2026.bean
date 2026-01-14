@@ -1,0 +1,3 @@
+﻿include "0-default/00.bean"         ; 日常消费
+include "1-securities/00.bean"      ; 投资消费
+include "2-salary/00.bean"          ; 工资收入

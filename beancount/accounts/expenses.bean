@@ -72,4 +72,5 @@
 2000-01-01 open Expenses:Invest:Other                   ;其他
 
 ;其他
+2000-01-01 open Expenses:Salary:Other                  ;工资相关支出
 2000-01-01 open Expenses:Others
