@@ -26,7 +26,8 @@ else
 fi
 
 # 2. 查找 Brewfile
-BREWFILE_PATH="./Brewfile"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+BREWFILE_PATH="${SCRIPT_DIR}/Brewfile"
 
 if [ -f "$BREWFILE_PATH" ]; then
     echo -e "${BLUE}发现 Brewfile，正在恢复软件清单...${NC}"
