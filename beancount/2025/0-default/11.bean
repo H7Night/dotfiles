@@ -509,6 +509,11 @@
     Assets:AliPay:Balance            8082.32 CNY
     Assets:CEB:1027                 -8082.32 CNY
 
+2025-11-15 * "海鑫（广州）技术服务有限公司" "财务报销-财务报销"
+    time: "00:00:00"
+    Income:Reinbursement            -1450.00 CNY
+    Assets:CEB:1027                  1450.00 CNY
+
 2025-11-14 * "三水雪之乡餐饮店" "其他中餐"
     time: "20:48:28"
     uuid: "2025111422001453521458986359"
@@ -688,8 +693,8 @@
     time: "09:23:20"
     uuid: "207251110109994331714362689273"
     status: "提现已到账"
-    Assets:WeChat                      -7.60 CNY
-    Assets:CEB:1027                     7.60 CNY
+    Assets:WeChat                      -7.59 CNY
+    Assets:CEB:1027                     7.59 CNY
 
 2025-11-10 * "中运交通" "TK202511107587,2025-11-10 18:30三元里地铁A1出口招呼站→三水广场公交"
     time: "07:38:45"
@@ -704,6 +709,11 @@
     status: "支付成功"
     Expenses:Transport                 12.80 CNY
     Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2025-11-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
+    time: "00:00:00"
+    Income:Salary                   -8093.43 CNY
+    Assets:CEB:1027                  8093.43 CNY
 
 2025-11-09 * "广州地铁集团有限公司" "2025-11-09 17:55:42搭乘广州地铁"
     time: "18:07:41"

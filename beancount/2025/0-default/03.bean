@@ -206,6 +206,16 @@
     Expenses:Transport                      1.60 CNY
     Liabilities:CMBCreditCard:2035         -1.60 CNY
 
+2025-03-27 * "何仲贤 10370851273" "网上支付-银联无卡 财付通 微信支付"
+    time: "00:00:00"
+    Assets:CEB:1027                          -1.00 CNY
+    Assets:WeChat                             1.00 CNY
+
+2025-03-27 * "何仲贤 10370851273" "微信零钱提现"
+    time: "00:00:00"
+    Assets:WeChat                            -1.00 CNY
+    Assets:CEB:1027                           1.00 CNY
+
 2025-03-26 * "麦当劳" "麦当劳"
     time: "19:42:44"
     uuid: "4200002630202503265098200446"

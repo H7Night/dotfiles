@@ -278,6 +278,11 @@
     Expenses:Food:Vegetables           15.77 CNY
     Liabilities:CMBCreditCard:2035    -15.77 CNY
 
+2025-09-21 * "应付活期储蓄存款利息" "储蓄结息"
+    time: "00:00:00"
+    Income:Interest                    -0.12 CNY
+    Assets:CEB:1027                     0.12 CNY
+
 2025-09-20 * "包虤虤(佛山三水西南店)" "包虤虤(佛山三水西南店)"
     time: "22:16:08"
     uuid: "2025092022001453521445002662"
@@ -649,6 +654,11 @@
     Expenses:Transport                  2.00 CNY
     Liabilities:CMBCreditCard:2035     -2.00 CNY
 
+2025-09-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
+    time: "00:00:00"
+    Income:Salary                   -6650.08 CNY
+    Assets:CEB:1027                  6650.08 CNY
+
 2025-09-09 * "喜洋洋佛山时代二期店" "喜洋洋佛山时代二期店"
     time: "20:38:05"
     uuid: "2025090922001453521431356273"
@@ -844,6 +854,11 @@
     status: "付款成功，基金份额确认中"
     Assets:AliPay:Funds               100.00 CNY
     Assets:AliPay:Balance            -100.00 CNY
+
+2025-09-05 * "海鑫（广州）技术服务有限公司" "财务报销-财务报销"
+    time: "00:00:00"
+    Income:Reinbursement            -1077.06 CNY
+    Assets:CEB:1027                  1077.06 CNY
 
 2025-09-04 * "广州骑安" "单车"
     time: "21:09:54"

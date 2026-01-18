@@ -269,6 +269,16 @@
     Expenses:Transport                 12.80 CNY
     Liabilities:CMBCreditCard:2035    -12.80 CNY
 
+2025-12-23 * "海鑫（广州）技术服务有限公司" "财务报销-财务报销"
+    time: "00:00:00"
+    Income:Reinbursement             -400.00 CNY
+    Assets:CEB:1027                   400.00 CNY
+
+2025-12-23 * "海鑫（广州）技术服务有限公司" "财务报销-财务报销"
+    time: "00:00:00"
+    Income:Reinbursement             -340.00 CNY
+    Assets:CEB:1027                   340.00 CNY
+
 2025-12-22 * "广州地铁集团有限公司" "2025-12-22 17:47:30搭乘广州地铁"
     time: "17:58:10"
     uuid: "2025122222001453521428982595"
@@ -303,6 +313,11 @@
     status: "交易成功"
     Expenses:Transport                  2.00 CNY
     Liabilities:Huabei                 -2.00 CNY
+
+2025-12-21 * "应付活期储蓄存款利息" "储蓄结息"
+    time: "00:00:00"
+    Income:Interest                    -0.69 CNY
+    Assets:CEB:1027                     0.69 CNY
 
 2025-12-19 * "广州地铁集团有限公司" "2025-12-19 18:08:38搭乘广州地铁"
     time: "18:19:35"
@@ -420,8 +435,8 @@
     time: "19:32:37"
     uuid: "4200002922202512152599324861"
     status: "WeChat - 已退款(￥11.78)"
-    Expenses:Transport                       12.80 CNY
-    Liabilities:CMBCreditCard:2035          -12.80 CNY
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
 
 2025-12-15 * "购票支付" "小程序微信支付"
     time: "19:31:23"
@@ -611,6 +626,11 @@
     status: "还款成功"
     Liabilities:Huabei                632.53 CNY
     Assets:AliPay:Balance            -632.53 CNY
+
+2025-12-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
+    time: "00:00:00"
+    Income:Salary                   -6581.18 CNY
+    Assets:CEB:1027                  6581.18 CNY
 
 2025-12-09 * "购票支付" "小程序微信支付"
     time: "21:01:10"

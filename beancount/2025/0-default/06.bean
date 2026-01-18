@@ -207,6 +207,11 @@
     Expenses:Food:Lunch                    67.96 CNY
     Liabilities:CMBCreditCard:2035        -67.96 CNY
 
+2025-06-21 * "应付活期储蓄存款利息" "储蓄结息"
+    time: "00:00:00"
+    Income:Interest                          -0.03 CNY
+    Assets:CEB:1027                           0.03 CNY
+
 2025-06-20 * "佛山市三水区西南街蠔德喜餐厅" "佛山市三水区西南街蠔德喜餐厅"
     time: "22:24:10"
     uuid: "2025062022001453521430805990"
@@ -515,6 +520,11 @@
     Assets:AliPay:Balance                5051.32 CNY
     Assets:CEB:1027                     -5051.32 CNY
 
+2025-06-11 * "京东支付***210401293" "网上支付 京东支付 帐户转通小金库网银平台"
+    time: "00:00:00"
+    Assets:CEB:1027                          -8.76 CNY
+    Expenses:Shopping:Other                   8.76 CNY
+
 2025-06-10 * "房东-天平架" "转账备注:微信转账"
     time: "19:22:52"
     uuid: "53010001561123202506102379030418"
@@ -556,6 +566,11 @@
     status: "交易成功"
     Expenses:Other                          6.90 CNY
     Liabilities:CMBCreditCard:2035         -6.90 CNY
+
+2025-06-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
+    time: "00:00:00"
+    Income:Salary                         -5060.08 CNY
+    Assets:CEB:1027                        5060.08 CNY
 
 2025-06-09 * "广州地铁集团有限公司" "2025-06-09 18:28:14搭乘广州地铁"
     time: "18:47:13"

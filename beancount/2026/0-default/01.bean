@@ -1,0 +1,639 @@
+2026-01-17 * "what coffee 什么咖啡" "what coffee 德兴路店-门店消费"
+    time: "22:12:57"
+    uuid: "4200002921202601171472931867"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Snack                76.00 CNY
+    Liabilities:CMBCreditCard:2035    -76.00 CNY
+
+2026-01-17 * "mikefooo(**杰)" "Transfer"
+    time: "21:00:32"
+    uuid: "20260117200040011100520023089643"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner               96.50 CNY
+    Assets:AliPay:Balance             -96.50 CNY
+
+2026-01-16 * "全天靓粥万景豪园店" "全天靓粥万景豪园店"
+    time: "20:15:16"
+    uuid: "2026011623001453521425548843"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner               16.00 CNY
+    Liabilities:Huabei                -16.00 CNY
+
+2026-01-16 * "广州地铁集团有限公司" "2026-01-16 18:38:59搭乘广州地铁"
+    time: "18:57:33"
+    uuid: "2026011622001453521424021250"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-16 * "购票支付" "小程序微信支付"
+    time: "18:19:15"
+    uuid: "4200002931202601161769758479"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-16 * "中运交通" "中运交通"
+    time: "18:17:43"
+    uuid: "50102105942026011609351018138"
+    status: "WeChat - 已退款￥6.40"
+    Income:Rebate                      -6.40 CNY
+    Liabilities:CMBCreditCard:2035      6.40 CNY
+
+2026-01-16 * "中运交通" "中运交通"
+    time: "17:28:04"
+    uuid: "50101105972026011608623722552"
+    status: "WeChat - 已退款￥11.78"
+    Income:Rebate                     -11.78 CNY
+    Assets:WeChat                      11.78 CNY
+
+2026-01-16 * "中运交通" "TK2026011662404,2026-01-16 20:00白云公园B口停靠点→百旺城顺德农商"
+    time: "17:28:00"
+    uuid: "4200002940202601167469616367"
+    status: "WeChat - 已退款(￥6.40)"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-16 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "09:22:56"
+    uuid: "20260116001080012204520094758158"
+    status: "付款成功，基金份额确认中"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-16 * "广州地铁集团有限公司" "2026-01-16 07:59:00搭乘广州地铁"
+    time: "08:17:13"
+    uuid: "2026011622001453521423025237"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-15 * "购票支付" "小程序微信支付"
+    time: "21:58:28"
+    uuid: "4200003002202601158467453707"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-15 * "购票支付" "小程序微信支付"
+    time: "21:40:01"
+    uuid: "4200002963202601150246610233"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-15 * "广州地铁集团有限公司" "2026-01-15 17:58:53搭乘广州地铁"
+    time: "18:13:32"
+    uuid: "2026011522001453521423247620"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-15 * "中运交通" "TK2026011548526,2026-01-15 18:30白云公园B口停靠点→三水广场公交站"
+    time: "16:40:13"
+    uuid: "4200002931202601152703500539"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-15 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "10:24:56"
+    uuid: "20260115001080012204520091962098"
+    status: "付款成功，基金份额确认中"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-15 * "广州地铁集团有限公司" "2026-01-15 07:56:49搭乘广州地铁"
+    time: "08:15:17"
+    uuid: "2026011522001453521419325589"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-14 * "广州地铁集团有限公司" "2026-01-14 17:54:56搭乘广州地铁"
+    time: "18:10:53"
+    uuid: "2026011422001453521419256646"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-14 * "中运交通" "TK2026011443357,2026-01-16 18:30白云公园B口停靠点→三水广场公交站"
+    time: "16:38:08"
+    uuid: "4200002956202601147884933086"
+    status: "WeChat - 已退款(￥11.78)"
+    Expenses:Transport                 12.80 CNY
+    Assets:WeChat                     -12.80 CNY
+
+2026-01-14 * "中运交通" "TK2026011442834,2026-01-15 07:00西青大道公交站→白云公园B口停靠点,"
+    time: "16:30:55"
+    uuid: "4200002952202601146779666310"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Assets:WeChat                     -12.80 CNY
+
+2026-01-14 * "中运交通" "TK2026011442716,2026-01-14 18:30白云公园B口停靠点→三水广场公交站"
+    time: "16:29:28"
+    uuid: "4200002934202601142449126792"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Assets:WeChat                     -12.80 CNY
+
+2026-01-14 * "龙俊熙" "转账备注:微信转账"
+    time: "12:55:46"
+    uuid: "1000050001202601142036873143426"
+    status: "WeChat - 已存入零钱"
+    Income:RedEnvelope               -114.00 CNY
+    Assets:WeChat                     114.00 CNY
+
+2026-01-14 * "余额宝" "转账收款到余额宝"
+    time: "12:23:00"
+    uuid: "20260114019130125000520086965437"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance            -113.40 CNY
+    Assets:AliPay:Balance             113.40 CNY
+
+2026-01-14 * "mikefooo" "有多不用找了，留给你买袋给嫂子用"
+    time: "12:22:54"
+    uuid: "20260114200040011100770035495634"
+    status: "ALiPay - 交易成功"
+    Income:RedEnvelope               -113.40 CNY
+    Assets:AliPay:Balance             113.40 CNY
+
+2026-01-14 * "中华包点广州大塘大街店" "早三鲜物资大厦店"
+    time: "12:09:02"
+    uuid: "2026011422001453521414170876"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                13.00 CNY
+    Liabilities:Huabei                -13.00 CNY
+
+2026-01-14 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "10:22:58"
+    uuid: "20260114001080012204520089013004"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-14 * "余额宝" "余额宝-单次转入"
+    time: "08:39:16"
+    uuid: "20260114019130100010520086395590"
+    status: "ALiPay - 交易成功"
+    Assets:CEB:1027                 -6616.98 CNY
+    Assets:AliPay:Balance            6616.98 CNY
+
+2026-01-14 * "余额宝" "余额宝-单次转入"
+    time: "08:39:16"
+    uuid: "20260114019130100010520086395590"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds              6616.98 CNY
+    Assets:AliPay:Balance           -6616.98 CNY
+
+2026-01-14 * "蚂蚁（杭州）基金销售有限公司" "网上支付 支付宝 蚂蚁（杭州）基金销售有限公司"
+    time: "00:00:00"
+    Assets:CEB:1027                 -6616.98 CNY
+    Assets:AliPay:Funds              6616.98 CNY
+
+2026-01-13 * "芬记美食" "芬记小厨"
+    time: "17:48:19"
+    uuid: "2026011322001453521412788917"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                18.00 CNY
+    Liabilities:Huabei                -18.00 CNY
+
+2026-01-13 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "10:23:12"
+    uuid: "20260113001080012204520085970328"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-13 * "广州地铁集团有限公司" "2026-01-13 07:56:25搭乘广州地铁"
+    time: "08:15:02"
+    uuid: "2026011322001453521411039172"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-12 * "广州地铁集团有限公司" "2026-01-12 17:54:10搭乘广州地铁"
+    time: "18:10:43"
+    uuid: "2026011222001453521411737050"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-12 * "睿浩诺信息" "2026011217010658684"
+    time: "17:01:27"
+    uuid: "2026011223001453521409517276"
+    status: "ALiPay - 交易成功"
+    Expenses:Entertainment:VPN        340.00 CNY
+    Liabilities:Huabei               -340.00 CNY
+
+2026-01-12 * "购票支付" "小程序微信支付"
+    time: "16:12:46"
+    uuid: "4200002930202601128135855329"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-12 * "购票支付" "小程序微信支付"
+    time: "16:12:12"
+    uuid: "4200002927202601126538821806"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-12 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "10:32:31"
+    uuid: "20260112001080012204520082949538"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-12 * "广州地铁集团有限公司" "2026-01-12 07:48:43搭乘广州地铁"
+    time: "08:06:03"
+    uuid: "2026011222001453521406610552"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-11 * "钱大妈" "鲜划算鲜鸡大胸等3件商品"
+    time: "18:16:21"
+    uuid: "2026011123001453521401281287"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Vegetables           38.44 CNY
+    Liabilities:Huabei                -38.44 CNY
+
+2026-01-10 * "麦当劳" "麦当劳"
+    time: "21:43:52"
+    uuid: "4200002948202601108150912091"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Dinner               40.00 CNY
+    Liabilities:CMBCreditCard:2035    -40.00 CNY
+
+2026-01-10 * "麦当劳" "麦当劳"
+    time: "21:32:06"
+    uuid: "4200002939202601101993541789"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Dinner               27.90 CNY
+    Liabilities:CMBCreditCard:2035    -27.90 CNY
+
+2026-01-10 * "勇慧" "收款方备注:二维码收款"
+    time: "20:48:58"
+    uuid: "53110000988227202601100198677402"
+    status: "WeChat - 已转账"
+    Expenses:Food:Snack                 3.00 CNY
+    Assets:CEB:1027                    -3.00 CNY
+
+2026-01-10 * "广州地铁集团有限公司" "2026-01-10 17:53:35搭乘广州地铁"
+    time: "18:11:16"
+    uuid: "2026011022001453521458817471"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-10 * "恋思**店" "【优惠价】适用谷歌pixel7手机壳pixel6Pro新款googlepixel6a保护7a套pixe17液态硅胶p"
+    time: "17:00:00"
+    uuid: "2026011022001153521456497696"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Digital           9.59 CNY
+    Liabilities:Huabei                 -9.59 CNY
+
+2026-01-10 * "天**" "天虹牌500g混合坚果仁纯坚果每日坚果综合果仁干果孕妇坚果年货"
+    time: "17:00:00"
+    uuid: "2026011022001153521458091658"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Home             61.16 CNY
+    Liabilities:Huabei                -61.16 CNY
+
+2026-01-10 * "狮王**店" "LION狮王齿力佳酵素美白牙膏氨基酸去黄清新口气含氟防蛀官方正品"
+    time: "17:00:00"
+    uuid: "2026011022001153521458870491"
+    status: "ALiPay - 等待确认收货"
+    Expenses:Shopping:Home             31.00 CNY
+    Liabilities:Huabei                -31.00 CNY
+
+2026-01-10 * "花呗" "花呗自动还款-2026年01月账单"
+    time: "13:18:10"
+    uuid: "2026011029020999520146772147"
+    status: "ALiPay - 还款成功"
+    Assets:AliPay:Balance           -1090.27 CNY
+    Liabilities:Huabei               1090.27 CNY
+
+2026-01-10 * "广州地铁集团有限公司" "2026-01-10 07:56:40搭乘广州地铁"
+    time: "08:13:13"
+    uuid: "2026011022001453521455989513"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-09 * "钱大妈" "黑椒鸡腿扒220g等2件商品"
+    time: "21:31:14"
+    uuid: "2026010922001453521454393022"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Vegetables           12.24 CNY
+    Liabilities:Huabei                -12.24 CNY
+
+2026-01-09 * "广州地铁集团有限公司" "2026-01-09 17:54:12搭乘广州地铁"
+    time: "18:12:01"
+    uuid: "2026010922001453521453256177"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-09 * "购票支付" "小程序微信支付"
+    time: "17:37:07"
+    uuid: "4200002963202601095397215145"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-09 * "购票支付" "小程序微信支付"
+    time: "17:25:21"
+    uuid: "4200002944202601094198108033"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-09 * "tan" "收钱码收款"
+    time: "16:32:14"
+    uuid: "2026010922001453521453823156"
+    status: "ALiPay - 交易成功"
+    Expenses:Invest:Dev                10.00 CNY
+    Liabilities:Huabei                -10.00 CNY
+
+2026-01-09 * "中国移动" "为13809249151话费充值"
+    time: "10:38:03"
+    uuid: "2026010922001453521450621432"
+    status: "ALiPay - 交易成功"
+    Expenses:Home:Phone                50.00 CNY
+    Liabilities:Huabei                -50.00 CNY
+
+2026-01-09 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "09:22:32"
+    uuid: "20260109001080012204520075723056"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-09 * "广州地铁集团有限公司" "2026-01-09 07:37:29搭乘广州地铁"
+    time: "07:53:29"
+    uuid: "2026010922001453521451791061"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-09 * "招商银行" "信用卡还款"
+    time: "07:44:46"
+    uuid: "2026010900003001520071076708"
+    status: "ALiPay - 还款成功"
+    Assets:AliPay:Balance           -2444.51 CNY
+    Liabilities:CMBCreditCard:2035   2444.51 CNY
+
+2026-01-09 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
+    time: "00:00:00"
+    Income:Salary                   -6619.98 CNY
+    Assets:CEB:1027                  6619.98 CNY
+
+2026-01-08 * "广州地铁集团有限公司" "2026-01-08 18:02:09搭乘广州地铁"
+    time: "18:18:42"
+    uuid: "2026010822001453521448492987"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-08 * "购票支付" "小程序微信支付"
+    time: "15:12:43"
+    uuid: "4200002923202601086711530905"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-08 * "购票支付" "小程序微信支付"
+    time: "15:12:11"
+    uuid: "4200002958202601080759204677"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-08 * "购票支付" "购票支付"
+    time: "15:10:58"
+    uuid: "50301305932026010835897077909"
+    status: "WeChat - 已退款￥12.16"
+    Income:Rebate                     -12.16 CNY
+    Liabilities:CMBCreditCard:2035     12.16 CNY
+
+2026-01-08 * "购票支付" "小程序微信支付"
+    time: "15:10:38"
+    uuid: "4200002997202601080052308517"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-08 * "购票支付" "小程序微信支付"
+    time: "13:10:49"
+    uuid: "4200002931202601085570434536"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-08 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "10:31:27"
+    uuid: "20260108001080012204520073038054"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-08 * "购票支付" "小程序微信支付"
+    time: "08:29:56"
+    uuid: "4200002935202601083607946413"
+    status: "WeChat - 已退款(￥12.16)"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-08 * "广州地铁集团有限公司" "2026-01-08 08:11:35搭乘广州地铁"
+    time: "08:25:33"
+    uuid: "2026010822001453521445930109"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:Huabei                 -3.00 CNY
+
+2026-01-07 * "购票支付" "小程序微信支付"
+    time: "21:27:34"
+    uuid: "4200003002202601077290467594"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-07 * "购票支付" "购票支付"
+    time: "21:26:02"
+    uuid: "50303505792026010755960634446"
+    status: "WeChat - 已退款￥12.16"
+    Income:Rebate                     -12.16 CNY
+    Liabilities:CMBCreditCard:2035     12.16 CNY
+
+2026-01-07 * "购票支付" "小程序微信支付"
+    time: "19:57:49"
+    uuid: "4200002946202601075262779875"
+    status: "WeChat - 已退款(￥12.16)"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-07 * "广州地铁集团有限公司" "2026-01-07 17:54:26搭乘广州地铁"
+    time: "18:01:20"
+    uuid: "2026010722001453521446294296"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:Huabei                 -2.00 CNY
+
+2026-01-07 * "购票支付" "小程序微信支付"
+    time: "15:59:09"
+    uuid: "4200003010202601076772292210"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-07 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "10:29:34"
+    uuid: "20260107001080012204520069999379"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-07 * "广州地铁集团有限公司" "2026-01-07 08:04:39搭乘广州地铁"
+    time: "08:13:03"
+    uuid: "2026010722001453521440083664"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:Huabei                 -2.00 CNY
+
+2026-01-06 * "广州地铁集团有限公司" "2026-01-06 17:43:07搭乘广州地铁"
+    time: "17:52:56"
+    uuid: "2026010622001453521440668978"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:Huabei                 -2.00 CNY
+
+2026-01-06 * "购票支付" "小程序微信支付"
+    time: "16:30:30"
+    uuid: "4200002940202601069258419346"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-06 * "中华包点广州大塘大街店" "早三鲜物资大厦店"
+    time: "12:32:49"
+    uuid: "2026010622001453521439743624"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Other                 9.00 CNY
+    Liabilities:Huabei                 -9.00 CNY
+
+2026-01-05 * "命运" "收钱码收款"
+    time: "17:49:53"
+    uuid: "2026010522001453521435333695"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Dinner               25.20 CNY
+    Liabilities:Huabei                -25.20 CNY
+
+2026-01-05 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "09:35:38"
+    uuid: "20260105001080012204520063800481"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                10.00 CNY
+    Assets:AliPay:Balance             -10.00 CNY
+
+2026-01-05 * "余额宝" "余额宝-单次转入"
+    time: "08:15:41"
+    uuid: "20260105019130100010520078763751"
+    status: "ALiPay - 交易成功"
+    Assets:CEB:1027                 -6675.87 CNY
+    Assets:AliPay:Balance            6675.87 CNY
+
+2026-01-05 * "余额宝" "余额宝-单次转入"
+    time: "08:15:41"
+    uuid: "20260105019130100010520078763751"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds              6675.87 CNY
+    Assets:AliPay:Balance           -6675.87 CNY
+
+2026-01-05 * "广州地铁集团有限公司" "2026-01-05 07:50:46搭乘广州地铁"
+    time: "08:03:06"
+    uuid: "2026010522001453521431256018"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:Huabei                 -2.00 CNY
+
+2026-01-04 * "广州地铁集团有限公司" "2026-01-04 17:44:17搭乘广州地铁"
+    time: "17:55:43"
+    uuid: "2026010422001453521430360898"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:Huabei                 -2.00 CNY
+
+2026-01-04 * "购票支付" "小程序微信支付"
+    time: "15:50:39"
+    uuid: "4200003006202601043245617380"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-04 * "购票支付" "小程序微信支付"
+    time: "15:49:58"
+    uuid: "4200002934202601047096094901"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-04 * "购票支付" "小程序微信支付"
+    time: "15:49:03"
+    uuid: "4200002943202601041298614283"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                 12.80 CNY
+    Liabilities:CMBCreditCard:2035    -12.80 CNY
+
+2026-01-04 * "命运" "收钱码收款"
+    time: "12:44:12"
+    uuid: "2026010422001453521428605932"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Snack                 3.80 CNY
+    Liabilities:Huabei                 -3.80 CNY
+
+2026-01-04 * "芬记美食" "芬记小厨"
+    time: "12:19:05"
+    uuid: "2026010422001453521428612326"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Lunch                18.00 CNY
+    Liabilities:Huabei                -18.00 CNY
+
+2026-01-04 * "广州地铁集团有限公司" "2026-01-04 07:48:44搭乘广州地铁"
+    time: "08:00:34"
+    uuid: "2026010422001453521427824374"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  2.00 CNY
+    Liabilities:Huabei                 -2.00 CNY
+
+2026-01-02 * "滴滴出行" "滴滴青桔"
+    time: "16:31:44"
+    uuid: "4200002999202601029980287842"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                  2.50 CNY
+    Liabilities:CMBCreditCard:2035     -2.50 CNY
+
+2026-01-02 * "滴滴出行" "单车"
+    time: "14:43:18"
+    uuid: "4200002928202601020274674641"
+    status: "WeChat - 支付成功"
+    Expenses:Transport                  1.80 CNY
+    Liabilities:CMBCreditCard:2035     -1.80 CNY
+
+2026-01-01 * "P云停车平台" "【粤EDK3619】在【奥宝时代广场-停车场】支付停车费24.00元"
+    time: "21:54:01"
+    uuid: "4200002888202601018553467176"
+    status: "WeChat - 支付成功"
+    Expenses:Transport:Car:Parking     24.00 CNY
+    Liabilities:CMBCreditCard:2035    -24.00 CNY
+
+2026-01-01 * "广州市天河区无尽夏甜品屋" "無尽夏 - 门店消费"
+    time: "19:34:37"
+    uuid: "4200002907202601013118549572"
+    status: "WeChat - 支付成功"
+    Expenses:Food:Dinner               56.80 CNY
+    Liabilities:CMBCreditCard:2035    -56.80 CNY

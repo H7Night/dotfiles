@@ -578,6 +578,11 @@
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
 
+2025-07-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
+    time: "00:00:00"
+    Income:Salary                   -6140.08 CNY
+    Assets:CEB:1027                  6140.08 CNY
+
 2025-07-09 * "广州地铁集团有限公司" "2025-07-09 21:02:32搭乘广州地铁"
     time: "21:29:07"
     uuid: "2025070922001453521404637537"
@@ -855,7 +860,7 @@
     time: "15:22:05"
     uuid: "20250702019130100010520020997768"
     status: "交易成功"
-    Assets:Government:House         -7363.32 CNY
+    Assets:CEB:1027                 -7363.32 CNY
     Assets:AliPay:Balance            7363.32 CNY
 
 2025-07-02 * "余额宝" "余额宝-单次转入"
@@ -878,6 +883,11 @@
     status: "交易成功"
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
+
+2025-07-02 * "住房公积金统一结算平台批量专户1" "公积金"
+    time: "00:00:00"
+    Income:Government:House         -7363.29 CNY
+    Assets:CEB:1027                  7363.29 CNY
 
 2025-07-01 * "广州地铁集团有限公司" "2025-07-01 20:12:54搭乘广州地铁"
     time: "20:32:42"

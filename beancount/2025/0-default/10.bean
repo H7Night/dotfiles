@@ -376,6 +376,11 @@
     Expenses:Transport                   2.00 CNY
     Liabilities:CMBCreditCard:2035      -2.00 CNY
 
+2025-10-21 * "京东肯特瑞基金销售有限公司" "网上支付-银联无卡 网银在线 京东金融"
+    time: "00:00:00"
+    Assets:CEB:1027                    -18.70 CNY
+    Expenses:Shopping:Other             18.70 CNY
+
 2025-10-20 * "jo**店" "Jordan官方耐克乔丹COURTSIDE 23男运动鞋冬季缓震轻便支撑AT0057"
     time: "21:35:17"
     uuid: "20251020300000118753521218093109"
@@ -781,6 +786,11 @@
     status: "交易成功"
     Expenses:Transport                   2.00 CNY
     Liabilities:CMBCreditCard:2035      -2.00 CNY
+
+2025-10-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
+    time: "00:00:00"
+    Income:Salary                    -6650.08 CNY
+    Assets:CEB:1027                   6650.08 CNY
 
 2025-10-09 * "钱大妈" "鲜黄牛牛肉等2件商品"
     time: "20:43:24"

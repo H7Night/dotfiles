@@ -4,8 +4,9 @@
 2000-01-01 open Income:Salary           CNY  ;工资薪金
 2000-01-01 open Income:Phone            CNY  ;通讯补助
 2000-01-01 open Income:Meal             CNY  ;餐补
-2000-01-01 open Income:OT               CNY  ;加班费  
-2000-01-01 open Income:Performance      CNY  ;绩效  
+2000-01-01 open Income:OT               CNY  ;加班费
+2000-01-01 open Income:Performance      CNY  ;绩效
+2000-01-01 open Income:Reinbursement     CNY  ;报销收入
 ;退款返款
 2000-01-01 open Income:Rebate           CNY
 
@@ -20,5 +21,11 @@
 
 ;股票
 2000-01-01 open Income:Stock            CNY
+
+;利息
+2000-01-01 open Income:Interest         CNY
+
+;公积金
+2000-01-01 open Income:Government:House CNY
 
 2000-01-01 open Income:Other            CNY
