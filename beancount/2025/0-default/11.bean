@@ -61,6 +61,13 @@
     Expenses:Shopping:Home            143.50 CNY
     Liabilities:CMBCreditCard:2035   -143.50 CNY
 
+2025-11-28 * "三水E骑" "支付骑行订单"
+    time: "21:37:57"
+    uuid: "4200002918202511286625929438"
+    status: "WeChat - 支付成功"
+    Expenses:Others                     2.50 CNY
+    Assets:WeChat                      -2.50 CNY
+
 2025-11-28 * "广州地铁集团有限公司" "2025-11-28 17:39:52搭乘广州地铁"
     time: "17:50:19"
     uuid: "2025112822001453521426669354"
@@ -200,7 +207,6 @@
     status: "交易成功"
     Expenses:Shopping:Makeup          409.60 CNY
     Liabilities:CMBCreditCard:2035   -409.60 CNY
-
 
 2025-11-23 * "中运交通" "TK2025112393009,2025-11-28 18:00三元里地铁A1出口招呼站→三水广场公"
     time: "23:59:08"
@@ -349,7 +355,6 @@
     Expenses:Transport                  2.00 CNY
     Liabilities:CMBCreditCard:2035     -2.00 CNY
 
-
 2025-11-19 * "中运交通" "TK2025111938371,2025-11-20 18:00三元里地铁A1出口招呼站→三水广场公"
     time: "15:48:12"
     uuid: "4200002956202511196869472782"
@@ -391,7 +396,6 @@
     status: "交易成功"
     Expenses:Transport                  2.00 CNY
     Liabilities:CMBCreditCard:2035     -2.00 CNY
-
 
 2025-11-18 * "中运交通" "TK2025111840972,2025-11-21 18:00三元里地铁A1出口招呼站→三水广场公"
     time: "16:46:57"
@@ -498,6 +502,13 @@
     Assets:CEB:1027                 -8082.32 CNY
     Assets:AliPay:Balance            8082.32 CNY
 
+2025-11-15 * "余额宝" "余额宝-单次转入"
+    time: "09:54:43"
+    uuid: "20251115019130100010520035008421"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance            8082.32 CNY
+    Assets:CEB:1027                 -8082.32 CNY
+
 2025-11-14 * "三水雪之乡餐饮店" "其他中餐"
     time: "20:48:28"
     uuid: "2025111422001453521458986359"
@@ -585,7 +596,7 @@
 2025-11-12 * "中运交通" "TK2025111244202,2025-11-12 19:00三元里地铁A1出口招呼站→三水广场公"
     time: "16:36:51"
     uuid: "4200002874202511127397502218"
-    status: "已退款(￥11.78)"
+    status: "WeChat - 已退款(￥11.78)"
     Expenses:Transport                 12.80 CNY
     Liabilities:CMBCreditCard:2035    -12.80 CNY
 
@@ -1015,4 +1026,3 @@
     status: "交易成功"
     Expenses:Entertainment:Movie       71.38 CNY
     Liabilities:CMBCreditCard:2035    -71.38 CNY
-

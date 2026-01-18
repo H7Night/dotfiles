@@ -114,8 +114,8 @@
     time: "07:48:53"
     uuid: "4200002683202504275523407628"
     status: "支付成功"
-    Expenses:Transport    15.00 CNY
-    Assets:WeChat   -15.00 CNY
+    Expenses:Transport                 15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-04-26 * "北岳**店" "卡式炉气罐液化煤气小瓶便携式丁烷卡磁正品瓦斯气瓶户外燃气气体"
     time: "16:43:41"
@@ -128,8 +128,8 @@
     time: "16:17:09"
     uuid: "53010001600023202504261048003756"
     status: "对方已收钱"
-    Expenses:Home:Delivery    15.00 CNY
-    Assets:WeChat   -15.00 CNY
+    Expenses:Home:Delivery             15.00 CNY
+    Assets:WeChat                     -15.00 CNY
 
 2025-04-26 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
     time: "14:40:10"
@@ -142,8 +142,8 @@
     time: "14:34:23"
     uuid: "4200002658202504264546061749"
     status: "支付成功"
-    Expenses:Food:Snack    9.90 CNY
-    Assets:WeChat   -9.90 CNY
+    Expenses:Food:Snack                 9.90 CNY
+    Assets:WeChat                      -9.90 CNY
 
 2025-04-25 * "广州地铁集团有限公司" "2025-04-25 18:13:21搭乘广州地铁"
     time: "18:33:37"
@@ -151,7 +151,6 @@
     status: "交易成功"
     Expenses:Transport                  2.40 CNY
     Liabilities:CMBCreditCard:2035     -2.40 CNY
-
 
 2025-04-25 * "广州地铁集团有限公司" "2025-04-25 07:40:54搭乘广州地铁"
     time: "07:59:57"
@@ -482,6 +481,12 @@
     Assets:AliPay:Balance            2965.08 CNY
     Assets:CEB:1027                 -2965.08 CNY
 
+2025-04-13 * "余额宝" "余额宝-单次转入"
+    time: "09:19:54"
+    uuid: "20250413019130100010520047736492"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance            2965.08 CNY
+    Assets:CEB:1027                 -2965.08 CNY
 
 2025-04-13 * "壹亩**店" "紫薯新鲜板栗红薯番薯地瓜蜜薯糖心10斤山芋烟薯香薯蔬菜农家自种"
     time: "08:31:29"
@@ -567,19 +572,19 @@
     Expenses:Food:Vegetables            3.30 CNY
     Liabilities:CMBCreditCard:2035     -3.30 CNY
 
-2025-04-09 * "广州地铁集团有限公司" "2025-04-09 19:05:51搭乘广州地铁"
-    time: "19:23:44"
-    uuid: "2025040922001453521424686601"
-    status: "交易成功"
-    Expenses:Transport                  3.00 CNY
-    Liabilities:CMBCreditCard:2035     -3.00 CNY
-
 2025-04-09 * "中运交通" "TK2025040942842,2025-04-11 20:00越秀公园地铁站C出口招呼站→珠江村镇"
     time: "19:28:31"
     uuid: "4200002623202504092829990727"
     status: "支付成功"
     Expenses:Transport                 15.00 CNY
     Assets:WeChat                     -15.00 CNY
+
+2025-04-09 * "广州地铁集团有限公司" "2025-04-09 19:05:51搭乘广州地铁"
+    time: "19:23:44"
+    uuid: "2025040922001453521424686601"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Liabilities:CMBCreditCard:2035     -3.00 CNY
 
 2025-04-09 * "招商银行" "信用卡还款"
     time: "18:17:15"
@@ -693,19 +698,19 @@
     Expenses:Home:Haircut              25.00 CNY
     Liabilities:Huabei                -25.00 CNY
 
-2025-04-03 * "麦当劳" "麦当劳"
-    time: "18:55:51"
-    uuid: "4200002712202504035623501340"
-    status: "支付成功"
-    Expenses:Food:Dinner               27.90 CNY
-    Assets:WeChat                     -27.90 CNY
-
 2025-04-03 * "雨东烘焙" "收钱码收款"
     time: "22:10:05"
     uuid: "2025040322001453521401598385"
     status: "交易成功"
     Expenses:Food:Dinner                5.50 CNY
     Liabilities:Huabei                 -5.50 CNY
+
+2025-04-03 * "麦当劳" "麦当劳"
+    time: "18:55:51"
+    uuid: "4200002712202504035623501340"
+    status: "支付成功"
+    Expenses:Food:Dinner               27.90 CNY
+    Assets:WeChat                     -27.90 CNY
 
 2025-04-03 * "广州地铁集团有限公司" "2025-04-03 18:38:16搭乘广州地铁"
     time: "18:51:02"

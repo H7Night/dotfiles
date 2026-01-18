@@ -33,13 +33,6 @@
     Expenses:Transport                      1.60 CNY
     Liabilities:CMBCreditCard:2035         -1.60 CNY
 
-2025-03-30 * "余额宝" "余额宝-单次转入"
-    time: "13:46:51"
-    uuid: "20250330019130100010520034277935"
-    status: "交易成功"
-    Assets:AliPay:Balance                   0.21 CNY
-    Income:Other                     -0.21 CNY
-
 2025-03-30 * "熹鳥碳火烧居酒屋" "熹鳥-自助服务"
     time: "19:28:34"
     uuid: "4200002677202503302687434086"
@@ -55,11 +48,32 @@
     Assets:WeChat                        -378.00 CNY
 
 2025-03-30 * "余额宝" "余额宝-单次转入"
+    time: "13:46:51"
+    uuid: "20250330019130100010520034277935"
+    status: "交易成功"
+    Assets:AliPay:Balance                   0.21 CNY
+    Income:Other                     -0.21 CNY
+
+2025-03-30 * "余额宝" "余额宝-单次转入"
+    time: "13:46:51"
+    uuid: "20250330019130100010520034277935"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                       0.21 CNY
+    Assets:AliPay:Balance                    -0.21 CNY
+
+2025-03-30 * "余额宝" "余额宝-单次转入"
     time: "13:23:43"
     uuid: "20250330019130100010520033952497"
     status: "交易成功"
     Assets:AliPay:Balance                 471.95 CNY
     Assets:CGB:41508                     -471.95 CNY
+
+2025-03-30 * "余额宝" "余额宝-单次转入"
+    time: "13:23:43"
+    uuid: "20250330019130100010520033952497"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                     471.95 CNY
+    Assets:AliPay:Balance                  -471.95 CNY
 
 2025-03-29 * "广州地铁集团有限公司" "2025-03-29 19:50:59搭乘广州地铁"
     time: "20:06:53"
@@ -424,13 +438,6 @@
     Expenses:Transport                      3.00 CNY
     Liabilities:CMBCreditCard:2035         -3.00 CNY
 
-2025-03-21 * "余额宝" "余额宝-自动转入"
-    time: "07:03:04"
-    uuid: "20250321019130101000520026408539"
-    status: "ALiPay - 交易成功"
-    Expenses:Others                        -0.01 CNY
-    Assets:AliPay:Balance                   0.01 CNY
-
 2025-03-20 * "广州地铁集团有限公司" "2025-03-20 22:06:41搭乘广州地铁"
     time: "22:43:09"
     uuid: "2025032022001453521459689356"
@@ -774,7 +781,6 @@
     Expenses:Transport                     15.00 CNY
     Assets:WeChat                         -15.00 CNY
 
-
 2025-03-12 * "波记港式饮品广州天平架店" "波记港式饮品广州天平架店"
     time: "18:35:52"
     uuid: "2025031222001453521427959456"
@@ -887,6 +893,13 @@
     Expenses:Invest:Study                   9.00 CNY
     Assets:WeChat                          -9.00 CNY
 
+2025-03-11 * "招商银行" "信用卡还款"
+    time: "09:54:39"
+    uuid: "2025031100003001520037182392"
+    status: "ALiPay - 还款成功"
+    Liabilities:CMBCreditCard:2035        807.68 CNY
+    Assets:AliPay:Balance                -807.68 CNY
+
 2025-03-10 * "佛山停车科技有限公司" "佛山停车科技有限公司-消费"
     time: "12:12:44"
     uuid: "4200002569202503108946666485"
@@ -900,13 +913,6 @@
     status: "WeChat - 支付成功"
     Expenses:Health:Outpatient            152.61 CNY
     Assets:WeChat                        -152.61 CNY
-
-2025-03-11 * "招商银行" "信用卡还款"
-    time: "09:54:39"
-    uuid: "2025031100003001520037182392"
-    status: "ALiPay - 还款成功"
-    Liabilities:CMBCreditCard:2035        807.68 CNY
-    Assets:AliPay:Balance                -807.68 CNY
 
 2025-03-10 * "花呗" "花呗自动还款-2025年03月账单"
     time: "09:22:25"
@@ -1041,10 +1047,6 @@
     Expenses:Transport                     42.60 CNY
     Liabilities:CMBCreditCard:2035        -42.60 CNY
 
-2025-03-03 * "消费" "香港"
-    Expenses:Shopping:Toy                     30 HKD
-    Assets:Cash:HKD                          -30 HKD
-
 2025-03-03 * "MTR Corporation Limited" "travel ticket"
     time: "16:23:57"
     uuid: "2025030322001453521446768649"
@@ -1058,6 +1060,10 @@
     status: "ALiPay - 交易成功"
     Expenses:Home:Phone                     7.89 CNY
     Liabilities:Huabei                     -7.89 CNY
+
+2025-03-03 * "消费" "香港"
+    Expenses:Shopping:Toy                     30 HKD
+    Assets:Cash:HKD                          -30 HKD
 
 2025-03-02 * "公子哥" "转账备注:微信转账"
     time: "17:32:23"

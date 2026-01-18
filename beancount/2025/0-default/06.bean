@@ -1,5 +1,3 @@
-
-
 2025-06-30 * "上海樊为信息科技有限公司" "转单 DCS Intro 奶白色 黑二色 ABS 二色键帽"
     time: "21:30:28"
     uuid: "20250630020070011580520071348339"
@@ -507,8 +505,15 @@
     time: "06:53:41"
     uuid: "20250611019130100010520003546162"
     status: "交易成功"
-    Assets:AliPay:Balance              5051.32 CNY
-    Income:Salary                     -5051.32 CNY
+    Assets:AliPay:Balance                5051.32 CNY
+    Income:Salary                       -5051.32 CNY
+
+2025-06-11 * "余额宝" "余额宝-单次转入"
+    time: "06:53:41"
+    uuid: "20250611019130100010520003546162"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance                5051.32 CNY
+    Assets:CEB:1027                     -5051.32 CNY
 
 2025-06-10 * "房东-天平架" "转账备注:微信转账"
     time: "19:22:52"
@@ -732,4 +737,4 @@
     uuid: "53010001544017202506012468108129"
     status: "对方已收钱"
     Expenses:Invest:Dev                   109.34 CNY
-    Assets:WeChat                       -109.34 CNY
+    Assets:WeChat                        -109.34 CNY

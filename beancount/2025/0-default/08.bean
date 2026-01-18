@@ -271,7 +271,6 @@
     Expenses:Transport                 12.80 CNY
     Assets:WeChat                     -12.80 CNY
 
-
 2025-08-21 * "广州地铁集团有限公司" "2025-08-21 08:01:28搭乘广州地铁"
     time: "08:19:21"
     uuid: "2025082122001453521458326619"
@@ -563,8 +562,15 @@
     time: "11:01:11"
     uuid: "20250812019130100010520054337476"
     status: "交易成功"
-    Income:Salary                     -5000.00 CNY
-    Assets:AliPay:Balance              5000.00 CNY
+    Income:Salary                   -5000.00 CNY
+    Assets:AliPay:Balance            5000.00 CNY
+
+2025-08-12 * "余额宝" "余额宝-单次转入"
+    time: "11:01:11"
+    uuid: "20250812019130100010520054337476"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance            5000.00 CNY
+    Assets:CEB:1027                 -5000.00 CNY
 
 2025-08-12 * "广州地铁集团有限公司" "2025-08-12 07:58:25搭乘广州地铁"
     time: "08:16:54"
@@ -838,4 +844,3 @@
     status: "交易成功"
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
-

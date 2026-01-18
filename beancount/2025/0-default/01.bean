@@ -262,7 +262,6 @@
     Expenses:Home:Phone                     50.00 CNY
     Assets:WeChat                          -50.00 CNY
 
-
 2025-01-09 * "招商银行" "信用卡还款手续"
     time: "08:28:29"
     uuid: "2025010900003001520030468203"
@@ -277,19 +276,19 @@
     Liabilities:CMBCreditCard:2035       10323.11 CNY
     Assets:AliPay:Balance               -10323.11 CNY
 
-2025-01-07 * "顺丰速运" "散单运费-顺丰速运"
-    time: "13:38:10"
-    uuid: "4200002370202501072527556073"
-    status: "WeChat - 支付成功"
-    Expenses:Home:Delivery                  17.00 CNY
-    Assets:WeChat                          -17.00 CNY
-
 2025-01-07 * "小***8" "闲鱼转账"
     time: "13:44:21"
     uuid: "2025010722001353521427309254"
     status: "ALiPay - 交易成功"
     Expenses:Home:Delivery                  10.00 CNY
     Assets:AliPay:Balance                  -10.00 CNY
+
+2025-01-07 * "顺丰速运" "散单运费-顺丰速运"
+    time: "13:38:10"
+    uuid: "4200002370202501072527556073"
+    status: "WeChat - 支付成功"
+    Expenses:Home:Delivery                  17.00 CNY
+    Assets:WeChat                          -17.00 CNY
 
 2025-01-07 * "****8" "星宇泉ATX电源，额定功率400W峰值550w，6P显卡供电"
     time: "03:25:49"

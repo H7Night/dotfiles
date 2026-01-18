@@ -19,6 +19,13 @@
     Expenses:Transport                  10.00 CNY
     Assets:AliPay:Balance              -10.00 CNY
 
+2025-10-31 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "09:22:50"
+    uuid: "20251031001080012204520095299955"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                 10.00 CNY
+    Assets:AliPay:Balance              -10.00 CNY
+
 2025-10-31 * "广州地铁集团有限公司" "2025-10-31 07:42:04搭乘广州地铁"
     time: "07:53:24"
     uuid: "2025103122001453521418904817"
@@ -30,7 +37,7 @@
     time: "22:13:05"
     uuid: "53010002152203202510302465721092"
     status: "对方已收钱"
-    Expenses:Entertainment:Movie                       0.10 CNY
+    Expenses:Entertainment:Movie         0.10 CNY
     Assets:WeChat                       -0.10 CNY
 
 2025-10-30 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2025-10-30 20:23:56"
@@ -205,7 +212,7 @@
     time: "16:39:47"
     uuid: "2025102522001453521436974680"
     status: "交易成功"
-    Expenses:Food:Snack                       9.90 CNY
+    Expenses:Food:Snack                  9.90 CNY
     Liabilities:CMBCreditCard:2035      -9.90 CNY
 
 2025-10-25 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2025-10-25 14:28:03"
@@ -373,7 +380,7 @@
     time: "21:35:17"
     uuid: "20251020300000118753521218093109"
     status: "支付成功"
-    Expenses:Shopping:Clothing                     439.00 CNY
+    Expenses:Shopping:Clothing         439.00 CNY
     Liabilities:CMBCreditCard:2035    -439.00 CNY
 
 2025-10-20 * "my**店" "【预售】5.5磅乳清 Myprotein熊猫蛋白粉运动健身增肌蛋白质粉 等多件"
@@ -516,6 +523,13 @@
     Expenses:Transport                 100.00 CNY
     Assets:AliPay:Balance             -100.00 CNY
 
+2025-10-17 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
+    time: "09:23:07"
+    uuid: "20251017001080012204520059795820"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Funds                100.00 CNY
+    Assets:AliPay:Balance             -100.00 CNY
+
 2025-10-17 * "中运交通" "TK202510179244,2025-10-17 18:30三元里地铁A1出口招呼站→西青大道公交"
     time: "08:01:44"
     uuid: "4200002838202510176544468872"
@@ -582,7 +596,7 @@
 2025-10-15 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-卖出至余额宝"
     time: "15:33:06"
     uuid: "20251012001080012404520047758570"
-    status: "交易成功"
+    status: "ALiPay - 交易成功"
     Assets:AliPay:Balance            10197.41 CNY
     Assets:AliPay:Funds             -10197.41 CNY
 
@@ -694,9 +708,9 @@
 2025-10-12 * "余额宝" "余额宝-单次转入"
     time: "10:39:08"
     uuid: "20251012019130100010520004937674"
-    status: "交易成功"
-    Income:Salary                     -4650.20 CNY
-    Assets:AliPay:Balance              4650.20 CNY
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance             4650.20 CNY
+    Assets:CEB:1027                  -4650.20 CNY
 
 2025-10-11 * "清新强力凉茶" "收钱码收款"
     time: "20:28:41"
@@ -758,7 +772,7 @@
     time: "09:23:32"
     uuid: "20251010001080012204520041983451"
     status: "交易成功"
-    Assets:AliPay:Funds                     100.00 CNY
+    Assets:AliPay:Funds                100.00 CNY
     Assets:AliPay:Balance             -100.00 CNY
 
 2025-10-10 * "广州地铁集团有限公司" "2025-10-10 07:44:23搭乘广州地铁"
@@ -782,6 +796,13 @@
     Expenses:Transport                   2.00 CNY
     Liabilities:CMBCreditCard:2035      -2.00 CNY
 
+2025-10-09 * "中运交通" "TK2025100940499,2025-10-09 18:00三元里地铁A1出口招呼站→三水广场公"
+    time: "15:41:37"
+    uuid: "4200002873202510098595025079"
+    status: "支付成功"
+    Expenses:Transport                  17.00 CNY
+    Assets:WeChat                      -17.00 CNY
+
 2025-10-09 * "蚂蚁财富-蚂蚁（杭州）基金销售有限公司" "蚂蚁财富-广发纳斯达克100ETF联接(QDII)A-买入"
     time: "09:42:43"
     uuid: "20251009001080012204520039383492"
@@ -802,13 +823,6 @@
     status: "交易成功"
     Expenses:Transport                   2.00 CNY
     Liabilities:CMBCreditCard:2035      -2.00 CNY
-
-2025-10-09 * "中运交通" "TK2025100940499,2025-10-09 18:00三元里地铁A1出口招呼站→三水广场公"
-    time: "15:41:37"
-    uuid: "4200002873202510098595025079"
-    status: "支付成功"
-    Expenses:Transport                  17.00 CNY
-    Assets:WeChat                      -17.00 CNY
 
 2025-10-09 * "中运交通" "TK202510094599,2025-10-10 06:46西青大道公交站→三元里地铁A1出口招呼"
     time: "06:32:55"
@@ -842,8 +856,8 @@
     time: "12:50:47"
     uuid: "2025100829020999520178961325"
     status: "还款成功"
-    Liabilities:Huabei                     618.54 CNY
-    Assets:AliPay:Balance                -618.54 CNY
+    Liabilities:Huabei                 618.54 CNY
+    Assets:AliPay:Balance             -618.54 CNY
 
 2025-10-08 * "广州地铁集团有限公司" "2025-10-08 07:31:49搭乘广州地铁"
     time: "07:46:43"
@@ -866,19 +880,19 @@
     Expenses:Food:Snack                 21.00 CNY
     Assets:AliPay:Balance              -21.00 CNY
 
-2025-10-07 * "中国移动" "为13809259150话费充值"
-    time: "18:16:20"
-    uuid: "2025100722001453521441184382"
-    status: "交易成功"
-    Expenses:Home:Phone                 50.00 CNY
-    Liabilities:CMBCreditCard:2035     -50.00 CNY
-
 2025-10-07 * "蕃薯耀" "/"
     time: "18:20:42"
     uuid: "100004950125100700094332374197385273"
     status: "支付成功"
     Expenses:Food:Lunch                 96.00 CNY
     Assets:WeChat                      -96.00 CNY
+
+2025-10-07 * "中国移动" "为13809259150话费充值"
+    time: "18:16:20"
+    uuid: "2025100722001453521441184382"
+    status: "交易成功"
+    Expenses:Home:Phone                 50.00 CNY
+    Liabilities:CMBCreditCard:2035     -50.00 CNY
 
 2025-10-07 * "茉莉奶白" "【堂食】_佛山三水广场店_316719_JM075725010153_无_无"
     time: "14:35:33"

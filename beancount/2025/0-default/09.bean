@@ -89,7 +89,6 @@
     Expenses:Transport                 12.80 CNY
     Assets:WeChat                     -12.80 CNY
 
-
 2025-09-28 * "cu**店" "【充电宝3C认证】CUKTECH酷态科10号mini超级电能棒10000毫安时快充移动电源迷你小巧便携适用于iPho"
     time: "08:02:08"
     uuid: "2025092822001153521433011882"
@@ -542,7 +541,7 @@
     time: "17:08:47"
     uuid: "53010001962139202509123726287214"
     status: "对方已收钱"
-    Expenses:Food:Invite                    158.00 CNY
+    Expenses:Food:Invite              158.00 CNY
     Assets:WeChat                    -158.00 CNY
 
 2025-09-12 * "中运交通" "TK2025091248563,2025-09-15 18:30三元里A2出口停靠点→三水广场公交站"
@@ -591,8 +590,15 @@
     time: "08:25:13"
     uuid: "20250912019130100010520079850541"
     status: "交易成功"
-    Income:Salary                     -6303.22 CNY
-    Assets:AliPay:Balance              6303.22 CNY
+    Income:Salary                   -6303.22 CNY
+    Assets:AliPay:Balance            6303.22 CNY
+
+2025-09-12 * "余额宝" "余额宝-单次转入"
+    time: "08:25:13"
+    uuid: "20250912019130100010520079850541"
+    status: "ALiPay - 交易成功"
+    Assets:AliPay:Balance            6303.22 CNY
+    Assets:CEB:1027                 -6303.22 CNY
 
 2025-09-11 * "发给俊哥" "/"
     time: "19:04:08"
@@ -707,10 +713,32 @@
     Assets:WeChat                     -12.80 CNY
 
 2025-09-08 * "招商银行" "信用卡还款"
-    time: "23:32:32"
-    status: "还款成功"
-    Liabilities:CMBCreditCard:2035    437.62 CNY
-    Assets:AliPay:Balance            -437.62 CNY
+    time: "23:32:33"
+    uuid: "2025090800003001520057396179"
+    status: "ALiPay - 还款成功"
+    Assets:AliPay:Balance            -378.19 CNY
+    Assets:AliPay:Balance             378.19 CNY
+
+2025-09-08 * "钱大妈" "鲜切牛匙柄片等2件商品"
+    time: "20:52:11"
+    uuid: "2025090822001453521425433898"
+    status: "ALiPay - 交易成功"
+    Expenses:Food:Other                13.60 CNY
+    Assets:AliPay:Balance             -13.60 CNY
+
+2025-09-08 * "佛山市广佛通电子收费营运有限公司" "佛山公交-乘车时间:2025-09-08 20:36:44"
+    time: "20:36:29"
+    uuid: "2025090822001453521423711186"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  2.00 CNY
+    Assets:AliPay:Balance              -2.00 CNY
+
+2025-09-08 * "广州地铁集团有限公司" "2025-09-08 17:49:59搭乘广州地铁"
+    time: "18:01:41"
+    uuid: "2025090822001453521421647005"
+    status: "ALiPay - 交易成功"
+    Expenses:Transport                  2.00 CNY
+    Assets:AliPay:Balance              -2.00 CNY
 
 2025-09-08 * "中运交通" "TK2025090835928,2025-09-09 06:36西青大道公交站→三元里地铁A1出口招"
     time: "17:09:29"
@@ -718,6 +746,13 @@
     status: "支付成功"
     Expenses:Transport                 12.80 CNY
     Assets:WeChat                     -12.80 CNY
+
+2025-09-08 * "中国移动" "为13809249151话费充值"
+    time: "14:54:04"
+    uuid: "2025090822001453521423138736"
+    status: "ALiPay - 交易成功"
+    Expenses:Home:Phone                50.00 CNY
+    Assets:AliPay:Balance             -50.00 CNY
 
 2025-09-08 * "麦当劳" "麦当劳"
     time: "12:16:06"
@@ -775,14 +810,12 @@
     Expenses:Transport:Car:Parking     15.00 CNY
     Assets:WeChat                     -15.00 CNY
 
-
 2025-09-05 * "万代南梦宫（上海）娱乐有限公司广州分公司" "万代南梦宫（上海）娱乐有限公司广州分公司"
     time: "15:14:41"
     uuid: "2025090522001453521400911197"
     status: "交易成功"
     Expenses:Shopping:Toy             129.00 CNY
     Assets:AliPay:Balance            -129.00 CNY
-
 
 2025-09-05 * "甜蜜蜂业" "收款方备注:二维码收款"
     time: "13:56:38"
@@ -819,7 +852,6 @@
     Expenses:Transport                  1.50 CNY
     Assets:WeChat                      -1.50 CNY
 
-
 2025-09-04 * "t***1" "希捷 酷狼4T 少用 最多的时候存了400G数据"
     time: "20:54:12"
     uuid: "2025090422001153521453651504"
@@ -834,6 +866,13 @@
     Expenses:Transport                  2.00 CNY
     Assets:AliPay:Balance              -2.00 CNY
 
+2025-09-04 * "广州地铁集团有限公司" "2025-09-04 07:59:49搭乘广州地铁"
+    time: "08:17:12"
+    uuid: "2025090422001453521456421677"
+    status: "交易成功"
+    Expenses:Transport                  3.00 CNY
+    Assets:AliPay:Balance              -3.00 CNY
+
 2025-09-03 * "中运交通" "TK2025090366647,2025-09-08 06:36万达华府公交站→三元里地铁A1出口招"
     time: "23:49:54"
     uuid: "4200002830202509036323233544"
@@ -847,14 +886,6 @@
     status: "支付成功"
     Expenses:Transport                 12.80 CNY
     Assets:WeChat                     -12.80 CNY
-
-
-2025-09-04 * "广州地铁集团有限公司" "2025-09-04 07:59:49搭乘广州地铁"
-    time: "08:17:12"
-    uuid: "2025090422001453521456421677"
-    status: "交易成功"
-    Expenses:Transport                  3.00 CNY
-    Assets:AliPay:Balance              -3.00 CNY
 
 2025-09-03 * "无糖可口可乐" "收钱码收款"
     time: "20:23:06"
@@ -960,4 +991,3 @@
     status: "交易成功"
     Expenses:Transport                  2.00 CNY
     Assets:AliPay:Balance              -2.00 CNY
-
