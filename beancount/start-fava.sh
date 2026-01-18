@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VENV_DIR="fava-env"
+VENV_DIR=".fava"
 BEANCOUNT_FILE="main.bean"
 
 # 检查当前是否在虚拟环境中（避免嵌套激活）
@@ -15,7 +15,8 @@ if [ ! -d "$VENV_DIR" ]; then
     python3 -m venv "$VENV_DIR"
     source "$VENV_DIR/bin/activate"
     echo "Installing fava..."
-    pip install fava
+    python -m pip install --upgrade pip
+    python -m pip install fava
 else
     echo "Virtual environment found. Activating..."
     source "$VENV_DIR/bin/activate"
