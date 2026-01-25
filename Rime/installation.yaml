@@ -1,10 +1,10 @@
 distribution_code_name: Weasel
-distribution_name: "小狼毫"
-distribution_version: 0.16.1
+distribution_name: Weasel
+distribution_version: 0.17.4
 install_time: "Fri Jun  7 23:33:16 2024"
 installation_id: Win
-rime_version: 1.11.2
-update_time: "Thu Dec 25 14:48:25 2025"
+rime_version: 1.13.1
+update_time: "Sun Jan 11 10:40:03 2026"
 # sync_dir: "C:\\Users\\H7Night\\Public\\Lib\\dotfiles\\Rime\\sync" # Z490
 sync_dir: "C:\\Users\\user\\AppData\\Roaming\\Rime\\sync" # Work
 
