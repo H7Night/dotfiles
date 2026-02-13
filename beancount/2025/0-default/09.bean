@@ -594,13 +594,6 @@
 2025-09-12 * "余额宝" "余额宝-单次转入"
     time: "08:25:13"
     uuid: "20250912019130100010520079850541"
-    status: "交易成功"
-    Income:Salary                   -6303.22 CNY
-    Assets:AliPay:Balance            6303.22 CNY
-
-2025-09-12 * "余额宝" "余额宝-单次转入"
-    time: "08:25:13"
-    uuid: "20250912019130100010520079850541"
     status: "ALiPay - 交易成功"
     Assets:AliPay:Balance            6303.22 CNY
     Assets:CEB:1027                 -6303.22 CNY
@@ -653,11 +646,6 @@
     status: "交易成功"
     Expenses:Transport                  2.00 CNY
     Liabilities:CMBCreditCard:2035     -2.00 CNY
-
-2025-09-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
-    time: "00:00:00"
-    Income:Salary                   -6650.08 CNY
-    Assets:CEB:1027                  6650.08 CNY
 
 2025-09-09 * "喜洋洋佛山时代二期店" "喜洋洋佛山时代二期店"
     time: "20:38:05"

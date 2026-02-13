@@ -30,7 +30,7 @@
 - Yu‘E Bao	Assets:AliPay:Balance
 - 地铁	Expenses:Transport
 - 中运交通	Expenses:Transport
-- 基金管理	Income:Fund
+- 基金管理	Income:Funds
 - 光大银行	Assets:CEB:1027
 - 招商银行(3229)	Assets:CMB:3229
 - 零钱	Assets:WeChat

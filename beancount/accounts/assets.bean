@@ -16,58 +16,44 @@
 2025-03-22 open Assets:CMB:3229             CNY       ;招商银行 debit卡
 2025-03-27 open Assets:CEB:1027             CNY       ;光大银行 debit卡
 2000-01-01 open Assets:Stock                CNY       ;股票
+2000-01-01 open Assets:Crypto               CNY       ;加密货币
 
 ;[初始化账户：2024-10-11]
 
 ; 微信余额
-2024-10-11 balance Assets:WeChat                       0.00 CNY
+2024-10-11 balance Assets:WeChat              0.00 CNY
 
 ; 支付宝余额
 2024-10-10 pad Assets:AliPay:Balance Equity:Opening-Balances
-2024-10-11 balance Assets:AliPay:Balance            3168.88 CNY
+2024-10-11 balance Assets:AliPay:Balance   3168.88 CNY
 
 ; 基金余额
 2024-10-10 pad Assets:AliPay:Funds Equity:Opening-Balances
-2024-10-11 balance Assets:AliPay:Funds              3800.75 CNY
+2024-10-11 balance Assets:AliPay:Funds     3800.75 CNY
 
 ; 现金余额
 2024-10-10 pad Assets:Cash:CNY Equity:Opening-Balances
 2024-10-10 pad Assets:Cash:JPY Equity:Opening-Balances
 2024-10-10 pad Assets:Cash:HKD Equity:Opening-Balances
-2024-10-11 balance Assets:Cash:CNY                    50.00 CNY
-2024-10-11 balance Assets:Cash:JPY                 30000.00 JPY
-2024-10-11 balance Assets:Cash:HKD                  5040.00 HKD
+2024-10-11 balance Assets:Cash:CNY           50.00 CNY
+2024-10-11 balance Assets:Cash:JPY        30000.00 JPY
+2024-10-11 balance Assets:Cash:HKD         5040.00 HKD
 
 ; 中国银行
 ;2024-10-10 pad Assets:CB:0000 Equity:Opening-Balances
 ;2024-10-11 balance Assets:CB:0000             100 CNY
 ; 中信 debit 卡余额
 2024-10-10 pad Assets:CITIC:9425 Equity:Opening-Balances
-2024-10-11 balance Assets:CITIC:9425                 101.86 CNY
+2024-10-11 balance Assets:CITIC:9425        101.86 CNY
 
 ; AE debit 卡余额
 2024-10-10 pad Assets:CGB:41508  Equity:Opening-Balances
-2024-10-11 balance Assets:CGB:41508                  286.78 CNY
+2024-10-11 balance Assets:CGB:41508         286.78 CNY
 
 ; 股票
 2024-10-10 pad Assets:Stock  Equity:Opening-Balances
-2024-10-11 balance Assets:Stock                      546.62 CNY
+2024-10-11 balance Assets:Stock             546.62 CNY
 
-; 五险一金
-; 养老
-2025-05-01 pad Assets:Government:Pension  Equity:Opening-Balances
-2025-05-02 balance Assets:Government:Pension        6391.36 CNY
-
-; 失业
-2025-05-01 pad Assets:Government:Unemployment  Equity:Opening-Balances
-2025-05-02 balance Assets:Government:Unemployment      82.2 CNY
-
-; 医疗
-2025-05-01 pad Assets:Government:Medical  Equity:Opening-Balances
-2025-05-02 balance Assets:Government:Medical        1658.09 CNY
-
-; 住房公积金
-2025-05-01 pad Assets:Government:House  Equity:Opening-Balances
-2025-05-02 balance Assets:Government:House          7363.29 CNY
-
-
+; 股票
+2024-10-10 pad Assets:Crypto  Equity:Opening-Balances
+2024-10-11 balance Assets:Crypto              1.00 CNY

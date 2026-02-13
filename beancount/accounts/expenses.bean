@@ -52,11 +52,14 @@
 2000-01-01 open Expenses:Entertainment:Other            ;其他
 
 ;交通
-2000-01-01 open Expenses:Transport                      ;公交地铁
-2000-01-01 open Expenses:Transport:Airline              ;飞机
+2000-01-01 open Expenses:Transport:Taxi                 ;打车
+2000-01-01 open Expenses:Transport:Bike                 ;共享单车
+2000-01-01 open Expenses:Transport:Bus                  ;公交
+2000-01-01 open Expenses:Transport:Metro                ;地铁
+2000-01-01 open Expenses:Transport:Flight               ;飞机
 2000-01-01 open Expenses:Transport:Car:Oil              ;加油
 2000-01-01 open Expenses:Transport:Car:Electricity      ;电
-2000-01-01 open Expenses:Transport:Car:Tolls            ;过路过桥
+2000-01-01 open Expenses:Transport:Car:Highway          ;高速 
 2000-01-01 open Expenses:Transport:Car:Maintenance      ;保养维修
 ; 2000-01-01 open Expenses:Transport:Car:Insurance        ;车险
 2000-01-01 open Expenses:Transport:Car:Parking          ;停车费
@@ -64,7 +67,7 @@
 2000-01-01 open Expenses:Transport:Other                ;其他
 
 ;投资
-2000-01-01 open Expenses:Invest:Fund                    ;基金亏损
+2000-01-01 open Expenses:Invest:Funds                    ;基金亏损
 2000-01-01 open Expenses:Invest:Dev                     ;技术基础设施费用
 2000-01-01 open Expenses:Invest:Study                   ;学习费用
 2000-01-01 open Expenses:Invest:Interest                ;利息支出

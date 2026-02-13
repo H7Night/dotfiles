@@ -627,11 +627,6 @@
     Liabilities:Huabei                632.53 CNY
     Assets:AliPay:Balance            -632.53 CNY
 
-2025-12-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
-    time: "00:00:00"
-    Income:Salary                   -6581.18 CNY
-    Assets:CEB:1027                  6581.18 CNY
-
 2025-12-09 * "购票支付" "小程序微信支付"
     time: "21:01:10"
     uuid: "4200002929202512096269203689"
