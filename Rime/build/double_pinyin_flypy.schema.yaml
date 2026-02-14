@@ -1,11 +1,11 @@
 __build_info:
-  rime_version: 1.13.1
+  rime_version: 1.11.2
   timestamps:
-    default: 1759418419
-    default.custom: 1759418419
-    double_pinyin_flypy.custom: 1759418419
-    double_pinyin_flypy.schema: 1759418419
-    symbols_caps_v: 1759418419
+    default: 1766634704
+    default.custom: 1766634704
+    double_pinyin_flypy.custom: 1766634704
+    double_pinyin_flypy.schema: 1766634704
+    symbols_caps_v: 1766634704
     symbols_caps_v.custom: 0
 cn_en:
   comment_format:

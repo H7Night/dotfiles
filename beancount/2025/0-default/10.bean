@@ -787,11 +787,6 @@
     Expenses:Transport                   2.00 CNY
     Liabilities:CMBCreditCard:2035      -2.00 CNY
 
-2025-10-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
-    time: "00:00:00"
-    Income:Salary                    -6650.08 CNY
-    Assets:CEB:1027                   6650.08 CNY
-
 2025-10-09 * "钱大妈" "鲜黄牛牛肉等2件商品"
     time: "20:43:24"
     uuid: "2025100922001453521400325366"

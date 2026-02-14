@@ -481,13 +481,6 @@
     Assets:AliPay:Balance            2965.08 CNY
     Assets:CEB:1027                 -2965.08 CNY
 
-2025-04-13 * "余额宝" "余额宝-单次转入"
-    time: "09:19:54"
-    uuid: "20250413019130100010520047736492"
-    status: "ALiPay - 交易成功"
-    Assets:AliPay:Balance            2965.08 CNY
-    Assets:CEB:1027                 -2965.08 CNY
-
 2025-04-13 * "壹亩**店" "紫薯新鲜板栗红薯番薯地瓜蜜薯糖心10斤山芋烟薯香薯蔬菜农家自种"
     time: "08:31:29"
     uuid: "2025041322001153521441867525"
@@ -564,11 +557,6 @@
     status: "交易成功"
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
-
-2025-04-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
-    time: "00:00:00"
-    Income:Salary                         -2965.08 CNY
-    Assets:CEB:1027                        2965.08 CNY
 
 2025-04-09 * "广州天河区沙东街家优鲜生鲜超市店(个体工商" "二维码支付"
     time: "19:37:41"

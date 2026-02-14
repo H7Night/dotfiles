@@ -497,13 +497,6 @@
 2025-07-11 * "余额宝" "余额宝-单次转入"
     time: "19:09:39"
     uuid: "20250711019130100010520028531986"
-    status: "交易成功"
-    Income:Salary                   -4878.08 CNY
-    Assets:AliPay:Balance            4878.08 CNY
-
-2025-07-11 * "余额宝" "余额宝-单次转入"
-    time: "19:09:39"
-    uuid: "20250711019130100010520028531986"
     status: "ALiPay - 交易成功"
     Assets:AliPay:Balance            4878.08 CNY
     Assets:CEB:1027                 -4878.08 CNY
@@ -577,11 +570,6 @@
     status: "交易成功"
     Expenses:Transport                  3.00 CNY
     Liabilities:CMBCreditCard:2035     -3.00 CNY
-
-2025-07-10 * "海鑫（广州）技术服务有限公司" "薪资类-备注:001 工资"
-    time: "00:00:00"
-    Income:Salary                   -6140.08 CNY
-    Assets:CEB:1027                  6140.08 CNY
 
 2025-07-09 * "广州地铁集团有限公司" "2025-07-09 21:02:32搭乘广州地铁"
     time: "21:29:07"
@@ -862,13 +850,6 @@
     status: "交易成功"
     Assets:CEB:1027                 -7363.32 CNY
     Assets:AliPay:Balance            7363.32 CNY
-
-2025-07-02 * "余额宝" "余额宝-单次转入"
-    time: "15:22:05"
-    uuid: "20250702019130100010520020997768"
-    status: "ALiPay - 交易成功"
-    Assets:AliPay:Balance            7363.32 CNY
-    Assets:CEB:1027                 -7363.32 CNY
 
 2025-07-02 * "中运交通" "TK2025070210129,2025-07-04 18:30越秀公园地铁站C出口招呼站→珠江村镇"
     time: "08:52:13"
