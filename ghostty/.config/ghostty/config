@@ -1,0 +1,50 @@
+# Ghostty Config (Converted from Kitty)
+
+# --- Font ---
+font-family = "FiraCode Nerd Font Mono"
+# Ghostty 会自动识别同一家族的 Bold/Italic，通常只需指定 family 即可
+# 若需强制指定：
+font-family-bold = "FiraCode Nerd Font Mono Bold"
+font-family-italic = "FiraCode Nerd Font Mono Regular Italic"
+font-family-bold-italic = "FiraCode Nerd Font Mono Bold Italic"
+font-size = 13
+
+# --- Window ---
+window-padding-x = 5
+window-padding-y = 5
+window-decoration = true
+
+# --- Cursor ---
+cursor-style = block
+cursor-style-blink = false
+
+# --- macOS behavior ---
+macos-option-as-alt = true
+# Ghostty 默认在最后一个窗口关闭时退出，若要保持后台运行：
+# macos-icon = true (取决于具体版本偏好)
+
+# --- Colors ---
+background = #262427
+foreground = #fcfcfa
+selection-background = #fcfcfa
+selection-foreground = #262427
+cursor-color = #fcfcfa
+cursor-text = #000000
+
+# --- 16-color palette ---
+palette = 0=#262427
+palette = 1=#ff7272
+palette = 2=#bcdf59
+palette = 3=#ffca58
+palette = 4=#49cae4
+palette = 5=#a093e2
+palette = 6=#aee8f4
+palette = 7=#fcfcfa
+palette = 8=#545452
+palette = 9=#ff8787
+palette = 10=#c6e472
+palette = 11=#ffd271
+palette = 12=#64d2e8
+palette = 13=#aea3e6
+palette = 14=#baebf6
+palette = 15=#fcfcfa
