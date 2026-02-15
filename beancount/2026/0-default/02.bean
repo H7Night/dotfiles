@@ -384,7 +384,7 @@
     uuid: "20260205110070001506670073082438"
     status: "交易成功"
     Income:RedEnvelope               -300.00 CNY
-    Assets:WeChat                     300.00 CNY
+    Assets:AliPay:Balance             300.00 CNY
 
 2026-02-05 * "高德打车" "高德打车订单" #travel/beijing
     time: "08:06:40"

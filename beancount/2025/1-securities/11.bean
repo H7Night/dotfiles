@@ -12,13 +12,6 @@
     Income:Funds                       -1.29 CNY
     Assets:AliPay:Balance              1.29 CNY
 
-2025-11-28 * "三水E骑" "支付骑行订单"
-    time: "21:37:57"
-    uuid: "4200002918202511286625929438"
-    status: "支付成功"
-    Expenses:Transport                 2.50 CNY
-    Assets:WeChat                     -2.50 CNY
-
 2025-11-28 * "兴全基金管理有限公司" "余额宝-2025.11.27-收益发放"
     time: "03:52:37"
     uuid: "20251128326004605521"

@@ -138,6 +138,12 @@
     Expenses:Transport                      2.40 CNY
     Liabilities:CMBCreditCard:2035         -2.40 CNY
 
+2025-06-24 * "Jhon" "转账备注:微信转账"
+    time: "21:10:52"
+    status: "对方已收钱"
+    Expenses:Entertainment:Movie        5.00 CNY
+    Assets:WeChat                      -5.00 CNY
+
 2025-06-24 * "广州地铁集团有限公司" "2025-06-24 20:08:21搭乘广州地铁"
     time: "20:26:40"
     uuid: "2025062422001453521457394097"

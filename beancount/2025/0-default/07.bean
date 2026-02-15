@@ -16,8 +16,15 @@
     time: "08:21:11"
     uuid: "2025073122001453521431653158"
     status: "交易成功"
-    Expenses:Transport                  2.40 CNY
+    Expenses:Transport                 2.40 CNY
     Liabilities:CMBCreditCard:2035     -2.40 CNY
+
+2025-07-30 * "中运交通" "TK2025073059343,2025-08-01 18:30三元里A2出口停靠点→三水广场公交站"
+    time: "22:56:44"
+    uuid: "4200002820202507308621718140"
+    status: "支付成功"
+    Expenses:Transport    16.00 CNY
+    Assets:WeChat   -16.00 CNY
 
 2025-07-30 * "广州地铁集团有限公司" "2025-07-30 19:33:57搭乘广州地铁"
     time: "19:53:58"
@@ -88,6 +95,13 @@
     status: "交易成功"
     Expenses:Food:Breakfast            20.50 CNY
     Liabilities:CMBCreditCard:2035    -20.50 CNY
+
+2025-07-26 * "中运交通" "TK2025072625724,2025-07-28 06:36万达华府公交站→三元里地铁A1出口招"
+    time: "12:37:33"
+    uuid: "4200002820202507267658086570"
+    status: "支付成功"
+    Expenses:Transport    16.00 CNY
+    Assets:WeChat   -16.00 CNY
 
 2025-07-25 * "全天靓粥万景豪园店" "全天靓粥万景豪园店"
     time: "21:47:35"
