@@ -130,3 +130,6 @@ export FNM_NODE_DIST_MIRROR="https://mirrors.ustc.edu.cn/node/"
 # ___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
 # 
 # export PATH=$PATH:/Users/jhonhe/.spicetify
+
+# OpenClaw Completion
+source "/Users/jhonhe/.openclaw/completions/openclaw.zsh"
