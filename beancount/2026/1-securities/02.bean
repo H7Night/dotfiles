@@ -1,8 +1,134 @@
+2026-02-28 * "兴全基金管理有限公司" "余额宝-2026.02.27-收益发放"
+    time: "04:16:23"
+    uuid: "20260228302279754521"
+    status: "交易成功"
+    Income:Funds           -1.50 CNY
+    Assets:AliPay:Balance   1.50 CNY
+
+
+2026-02-27 * "兴全基金管理有限公司" "余额宝-2026.02.26-收益发放"
+    time: "04:27:31"
+    uuid: "20260227395932052521"
+    status: "交易成功"
+    Income:Funds           -1.50 CNY
+    Assets:AliPay:Balance   1.50 CNY
+
+
+2026-02-26 * "兴全基金管理有限公司" "余额宝-2026.02.25-收益发放"
+    time: "04:28:14"
+    uuid: "20260226390201547521"
+    status: "交易成功"
+    Income:Funds           -1.50 CNY
+    Assets:AliPay:Balance   1.50 CNY
+
+
+2026-02-25 * "兴全基金管理有限公司" "余额宝-2026.02.24-收益发放"
+    time: "05:17:12"
+    uuid: "20260225384366846521"
+    status: "交易成功"
+    Income:Funds           -1.42 CNY
+    Assets:AliPay:Balance   1.42 CNY
+
+
+2026-02-24 * "兴全基金管理有限公司" "余额宝-2026.02.23-收益发放"
+    time: "03:51:37"
+    uuid: "20260224373271580521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-23 * "兴全基金管理有限公司" "余额宝-2026.02.22-收益发放"
+    time: "03:58:32"
+    uuid: "20260223371585588521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-22 * "兴全基金管理有限公司" "余额宝-2026.02.21-收益发放"
+    time: "03:52:22"
+    uuid: "20260222366744670521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-21 * "兴全基金管理有限公司" "余额宝-2026.02.20-收益发放"
+    time: "03:31:47"
+    uuid: "20260221361216843521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-20 * "兴全基金管理有限公司" "余额宝-2026.02.19-收益发放"
+    time: "03:37:34"
+    uuid: "20260220355963146521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-19 * "兴全基金管理有限公司" "余额宝-2026.02.18-收益发放"
+    time: "04:07:22"
+    uuid: "20260219350891224521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-18 * "兴全基金管理有限公司" "余额宝-2026.02.17-收益发放"
+    time: "04:03:29"
+    uuid: "20260218344792479521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-17 * "兴全基金管理有限公司" "余额宝-2026.02.16-收益发放"
+    time: "04:01:24"
+    uuid: "20260217339422521521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-16 * "兴全基金管理有限公司" "余额宝-2026.02.15-收益发放"
+    time: "04:50:20"
+    uuid: "20260216333339847521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-15 * "兴全基金管理有限公司" "余额宝-2026.02.14-收益发放"
+    time: "03:38:29"
+    uuid: "20260215324844652521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+
+2026-02-14 * "兴全基金管理有限公司" "余额宝-2026.02.13-收益发放"
+    time: "04:19:33"
+    uuid: "20260214322797922521"
+    status: "交易成功"
+    Income:Funds           -1.40 CNY
+    Assets:AliPay:Balance   1.40 CNY
+
+2026-02-13 * "兴全基金管理有限公司" "余额宝-2026.02.12-收益发放"
+    time: "04:19:42"
+    uuid: "20260213315437170521"
+    status: "交易成功"
+    Income:Funds           -1.42 CNY
+    Assets:AliPay:Balance   1.42 CNY
+
 2026-02-12 * "兴全基金管理有限公司" "余额宝-2026.02.11-收益发放"
     time: "04:25:22"
     uuid: "20260212310335766521"
     status: "交易成功"
-    Income:Funds            -1.79 CNY
+    Income:Funds           -1.79 CNY
     Assets:AliPay:Balance   1.79 CNY
 
 
@@ -10,7 +136,7 @@
     time: "03:19:22"
     uuid: "20260211302899915521"
     status: "交易成功"
-    Income:Funds            -1.49 CNY
+    Income:Funds           -1.49 CNY
     Assets:AliPay:Balance   1.49 CNY
 
 
@@ -18,7 +144,7 @@
     time: "04:15:23"
     uuid: "20260210396334657521"
     status: "交易成功"
-    Income:Funds            -1.55 CNY
+    Income:Funds           -1.55 CNY
     Assets:AliPay:Balance   1.55 CNY
 
 
@@ -26,7 +152,7 @@
     time: "04:24:17"
     uuid: "20260209390181452521"
     status: "交易成功"
-    Income:Funds            -1.52 CNY
+    Income:Funds           -1.52 CNY
     Assets:AliPay:Balance   1.52 CNY
 
 
@@ -34,7 +160,7 @@
     time: "03:30:48"
     uuid: "20260208384100167521"
     status: "交易成功"
-    Income:Funds            -1.52 CNY
+    Income:Funds           -1.52 CNY
     Assets:AliPay:Balance   1.52 CNY
 
 
@@ -42,7 +168,7 @@
     time: "04:02:15"
     uuid: "20260207378319320521"
     status: "交易成功"
-    Income:Funds            -1.53 CNY
+    Income:Funds           -1.53 CNY
     Assets:AliPay:Balance   1.53 CNY
 
 
@@ -50,7 +176,7 @@
     time: "04:23:23"
     uuid: "20260206372514155521"
     status: "交易成功"
-    Income:Funds            -1.52 CNY
+    Income:Funds           -1.52 CNY
     Assets:AliPay:Balance   1.52 CNY
 
 
@@ -58,7 +184,7 @@
     time: "04:21:28"
     uuid: "20260205365548095521"
     status: "交易成功"
-    Income:Funds            -1.52 CNY
+    Income:Funds           -1.52 CNY
     Assets:AliPay:Balance   1.52 CNY
 
 
@@ -66,7 +192,7 @@
     time: "04:26:17"
     uuid: "20260204357062828521"
     status: "交易成功"
-    Income:Funds            -1.52 CNY
+    Income:Funds           -1.52 CNY
     Assets:AliPay:Balance   1.52 CNY
 
 
@@ -74,7 +200,7 @@
     time: "04:31:37"
     uuid: "20260203352130795521"
     status: "交易成功"
-    Income:Funds            -1.51 CNY
+    Income:Funds           -1.51 CNY
     Assets:AliPay:Balance   1.51 CNY
 
 
@@ -82,7 +208,7 @@
     time: "05:22:17"
     uuid: "20260202345619712521"
     status: "交易成功"
-    Income:Funds            -1.50 CNY
+    Income:Funds           -1.50 CNY
     Assets:AliPay:Balance   1.50 CNY
 
 
@@ -90,7 +216,7 @@
     time: "03:33:28"
     uuid: "20260201338302805521"
     status: "交易成功"
-    Income:Funds            -1.50 CNY
+    Income:Funds           -1.50 CNY
     Assets:AliPay:Balance   1.50 CNY
 
 
