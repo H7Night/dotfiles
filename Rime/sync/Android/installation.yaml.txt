@@ -1,0 +1,6 @@
+distribution_code_name: "fcitx-rime"
+distribution_name: Rime
+distribution_version: 5.1.12
+install_time: "Sat Dec 27 17:35:55 2025"
+installation_id: "Android"
+rime_version: 1.13.1
